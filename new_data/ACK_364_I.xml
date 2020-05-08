@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">ACK_364_I</title></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><sourceDesc><bibl><publisher>TRP document creator: katerina.zenklova@nacr.cz</publisher></bibl></sourceDesc></fileDesc></teiHeader><facsimile xml:id="facs_1"><surface lrx="9135" lry="5298" ulx="0" uly="0"><graphic height="5298px" url="NA-ACK_13510525_00364_r.jpg" width="9135px"/><zone points="6689,3003 885,3003 885,384 6689,384" rendition="TextRegion" xml:id="facs_1_region_1562576698616_113">
+                <zone points="6602,699 928,699 928,424 6602,424" rendition="Line" xml:id="facs_1_line_1562576924462_164"/>
+                <zone points="936,692 6610,692 6610,815 936,815" rendition="Line" xml:id="facs_1_line_1562576961764_167"/>
+                <zone points="6626,904 937,904 937,810 6626,810" rendition="Line" xml:id="facs_1_line_1562576988986_173"/>
+                <zone points="937,904 6612,904 6612,1008 937,1008" rendition="Line" xml:id="facs_1_line_1562576994576_176"/>
+                <zone points="937,1013 6646,1013 6646,1102 937,1102" rendition="Line" xml:id="facs_1_line_1562576998967_179"/>
+                <zone points="1121,1102 6641,1102 6641,1211 1121,1211" rendition="Line" xml:id="facs_1_line_1562577007533_182"/>
+                <zone points="1126,1206 6617,1206 6617,1320 1126,1320" rendition="Line" xml:id="facs_1_line_1562577011882_185"/>
+                <zone points="1140,1325 6626,1325 6626,1419 1140,1419" rendition="Line" xml:id="facs_1_line_1562577016604_188"/>
+                <zone points="1135,1424 6621,1424 6621,1533 1135,1533" rendition="Line" xml:id="facs_1_line_1562577022344_191"/>
+                <zone points="1140,1528 6626,1528 6626,1632 1140,1632" rendition="Line" xml:id="facs_1_line_1562577029607_194"/>
+                <zone points="1145,1637 6612,1637 6612,1741 1145,1741" rendition="Line" xml:id="facs_1_line_1562577035385_197"/>
+                <zone points="1140,1751 6617,1751 6617,1855 1140,1855" rendition="Line" xml:id="facs_1_line_1562577059083_204"/>
+                <zone points="1140,1870 6617,1870 6617,1969 1140,1969" rendition="Line" xml:id="facs_1_line_1562577063980_207"/>
+                <zone points="1135,1979 6621,1979 6621,2068 1135,2068" rendition="Line" xml:id="facs_1_line_1562577069312_210"/>
+                <zone points="1140,2078 6612,2078 6612,2197 1140,2197" rendition="Line" xml:id="facs_1_line_1562577075977_213"/>
+                <zone points="1135,2202 6612,2202 6612,2311 1135,2311" rendition="Line" xml:id="facs_1_line_1562577081723_216"/>
+                <zone points="1145,2321 6617,2321 6617,2440 1145,2440" rendition="Line" xml:id="facs_1_line_1562577086435_219"/>
+                <zone points="1145,2455 6636,2455 6636,2564 1145,2564" rendition="Line" xml:id="facs_1_line_1562577091822_222"/>
+                <zone points="1155,2574 6592,2574 6592,2678 1155,2678" rendition="Line" xml:id="facs_1_line_1562577096527_225"/>
+                <zone points="1160,2688 6572,2688 6572,2807 1160,2807" rendition="Line" xml:id="facs_1_line_1562577101256_228"/>
+                <zone points="1155,2807 4813,2807 4813,3000 1155,3000" rendition="Line" xml:id="facs_1_line_1562577109530_231"/>
+            </zone></surface></facsimile><text><body><pb facs="#facs_1" n="1"/><p facs="#facs_1_region_1562576698616_113">
+            <lb facs="#facs_1_line_1562576924462_164" n="N001"/>Wir <persName>Eberhart</persName> und <persName>Ulrich gebrüder, graven von <placeName>Wirtenberg</placeName></persName>, verjehen offenlich an disem brief, das die ersamen herren, her <persName>Johan von <placeName>Liehtenberg</placeName> tümprobest zu <placeName>Strazburg</placeName></persName>, her
+            <lb facs="#facs_1_line_1562576961764_167" n="N002"/><persName>Jesco probest zu Allen heyligen uf der pürg ze <placeName>Prage</placeName></persName>, her <persName>Jöhel Jacob burger ze <placeName>Prage</placeName></persName> und <persName>Paul camerschreiber</persName>, von wegen des aller durchlühtigen unsers gnedigen
+            <lb facs="#facs_1_line_1562576988986_173" n="N003"/> herren, herren <persName>Karls romischen künigs und künigs ze <placeName>Beheim</placeName></persName>, uf ein seit, <persName>Eglolf von <placeName>Friberg</placeName></persName>, unser diener, und <persName>Ulrich, unser schreiber</persName>, von unsern wegen uf die andern
+            <lb facs="#facs_1_line_1562576994576_176" n="N004"/> seit bis uf disen hiutigen tage, als dirre brief geben ist, gerechent haben, und mit rechter rechenung erfunden und uzgetragen haben, das die zwelf tusent mark
+            <lb facs="#facs_1_line_1562576998967_179" n="N005"/> silbers, da wir des vorgenanten unsers herren, des romischen künigs brief über haben, von den ersten tedingen, die er mit uns hette, und die sechs tusent guldin
+            <lb facs="#facs_1_line_1562577007533_182" n="N006"/> von der stiuwer der stette in <placeName>Swaben</placeName>, die er uns bescheiden het und dar nach die stet ledig liez und über sich nam, von dem selben unserm herren dem römischen
+            <lb facs="#facs_1_line_1562577011882_185" n="N007"/> künig uns gar und genczlich bezalt und verrihtet sint bis uf fünfzehen tusent driu hundert fünf und niuntzig güter guldin, die ze <placeName>Nürenberg</placeName> genge und
+            <lb facs="#facs_1_line_1562577016604_188" n="N008"/> gebe sint, die der vorgenant unser herre der römisch künig uns noch sehuldig beleibt. Und dar umbe haben wir den selben unsern heren den künig aller der vorge
+            <lb facs="#facs_1_line_1562577022344_191" n="N009"/>schribenn summen geltes bis uf fünfzehen tusent driu hundert und fünf und niuntzig guldein quit, ledig und lose gesagt und sagenn ouch ledig und los
+            <lb facs="#facs_1_line_1562577029607_194" n="N010"/>mit disem brief. Wan ouch der vorgenant unser herre der künig der selben fünfzehen tusent driu hundert und fünf und niuntzig guldin uns versichern und
+            <lb facs="#facs_1_line_1562577035385_197" n="N011"/>gewiz machen wil, als das sinen küniclichen gnaden wol an zimpt, so hat er uns die selben summen geltes bewiset und bescheiden uf siner urbor und münsze
+            <lb facs="#facs_1_line_1562577059083_204" n="N012"/> zu den <placeName>Chutten</placeName> also bescheidenlich, das wir oder unser botten von unsern wegen, an dem nehsten montag nach dem obrosten tage, der nu schierst kumpt, an ze heben,
+            <lb facs="#facs_1_line_1562577063980_207" n="N013"/>alle wochen drizzig pergmark, für ie die mark sechs und fünftzig grosse ze rechenn, ufheben und innemen süllen ane alle hindernüzze, gebrechen und fürzog ab
+            <lb facs="#facs_1_line_1562577069312_210" n="N014"/> ze slahen als lange, das uns die vorgenanten fünfzehen tusent driu hundert and fünf und niuntzig guldein und dar zu ze ie der wochen ein pergmark zu
+            <lb facs="#facs_1_line_1562577075977_213" n="N015"/> kostgelt gar und genczlich verriht und bezalt werdent. Were ouch, das uns an der selben bewisunge und bescheidung der egenanten drizzig mark wochenlichen dehein 
+            <lb facs="#facs_1_line_1562577081723_216" n="N016"/>hindernüzze oder bruch geschehe, von welhen sachen das were, so mügen wir den obgenanten unsern herren mit unsern alten briefen manen umb den selben bruch,
+            <lb facs="#facs_1_line_1562577086435_219" n="N017"/>der uns denn geschehe, und sol er uns nach der manung dar umbe leisten nach der selben unserre alten brief sage als lange, bis er uns den selben bruch umb alle
+            <lb facs="#facs_1_line_1562577091822_222" n="N018"/>wochen, die uns ze hindernüzze versumet weren, mit sampt dem wider angendem gelt genczlich erfüllet und ufgerihtet. Und des ze urkünde ist dirre brief besigelt
+            <lb facs="#facs_1_line_1562577096527_225" n="N019"/>mit unserm <persName>grave Ulrichs</persName> insigel, under dem wir <persName>grave Eberhart</persName> der vorgenant uns bekennen der vorgeschribenn dinge, und mit <persName>Eglolf von <placeName>Friberg</placeName></persName> und <persName>Ulrichs unsers</persName>
+            <lb facs="#facs_1_line_1562577101256_228" n="N020"/><persName> schreibers</persName>, der vorgenanten, insigeln, die si ze einer geziugnüzze der vorgeschribenn dinge gehenket hant an disen brief, der geben ist ze <placeName>Prage <date month="0" day="0" year="0" continued="true"/></placeName><date month="0" day="0" year="0" continued="true">an dem Uffart abent</date>,
+            <lb facs="#facs_1_line_1562577109530_231" n="N021"/><date month="0" day="0" year="0" continued="true">do man zalt von gotes geburt driuzehen hundert jare und in dem ein und fünftzigesten jare</date>.</p></body></text></TEI>

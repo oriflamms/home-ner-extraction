@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-04T11:05:02.820+02:00</Created>
+        <LastChange>2019-12-02T20:28:48.627+01:00</LastChange>
+        <TranskribusMetadata docId="205706" pageId="8847427" pageNr="1" tsid="20181096" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=ZVHOPJUHJFOEHVVZMTHQXKCG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DEROZSBAYDPAIMFXPPJPPBVR" imageId="5716115"/>
+    </Metadata>
+    <Page imageFilename="NA-AZK-Chotesov_14270724_2159_r.jpg" imageWidth="3000" imageHeight="1855">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618269079" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="318,596 452,1004 2030,1004 2030,656"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:16;}">
+                <Coords points="453,852 462,683 609,687 688,688 767,690 846,691 925,693 1004,695 1083,697 1162,700 1241,702 1319,705 1398,707 1477,710 1556,712 1635,715 1714,717 1793,719 1872,721 1951,723 2030,725 2030,695 1953,687 1874,685 1793,689 1724,676 1645,674 1560,659 1481,657 1404,663 1328,670 1244,661 1166,663 1087,660 1004,665 925,663 850,641 771,640 689,648 610,647 467,604 332,605"/>
+                <Baseline points="452,676 530,676 609,677 688,678 767,680 846,681 925,683 1004,685 1083,687 1162,690 1241,692 1319,695 1398,697 1477,700 1556,702 1635,705 1714,707 1793,709 1872,711 1951,713 2030,715"/>
+                <TextEquiv>
+                    <Unicode>Ja Purkart z Ugezda wyznawam tiemto listem obecznie przed kazdym czlowiekem, ktoz gey uzrzii anebo cztucze slysseti bude,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:31; length:41;} place {offset:59; length:13;} person {offset:77; length:21;} place {offset:94; length:4;}">
+                <Coords points="464,719 541,719 618,719 695,719 772,720 849,721 926,722 1003,723 1080,725 1157,727 1235,730 1312,732 1389,735 1466,737 1543,740 1620,742 1697,745 1774,747 1851,750 1928,752 2021,755 2021,725 1928,722 1851,720 1774,717 1697,715 1620,712 1543,710 1466,707 1389,705 1312,702 1235,700 1157,697 1080,695 1003,693 926,692 849,691 772,690 695,689 618,689 541,689 464,689"/>
+                <Baseline points="464,709 541,709 618,709 695,709 772,710 849,711 926,712 1003,713 1080,715 1157,717 1235,720 1312,722 1389,725 1466,727 1543,730 1620,732 1697,735 1774,737 1851,740 1928,742 2006,744"/>
+                <TextEquiv>
+                    <Unicode>jakoz gsem z duostoynym v Boze kniezem Hinkem probosstem z Chotiessowicz a s Jankem Mlazsim z Ulic byl zassel o ssaczunk,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="451,749 537,748 615,747 693,747 771,747 849,748 927,749 1005,750 1083,752 1161,754 1239,756 1316,758 1394,761 1472,763 1550,766 1628,768 1706,771 1784,773 1862,776 1940,778 2018,780 2018,750 1940,748 1862,746 1784,743 1706,741 1628,738 1550,736 1472,733 1394,731 1316,728 1239,726 1161,724 1083,722 1005,720 927,719 849,718 771,717 693,717 615,717 537,718 451,719"/>
+                <Baseline points="460,739 537,738 615,737 693,737 771,737 849,738 927,739 1005,740 1083,742 1161,744 1239,746 1316,748 1394,751 1472,753 1550,756 1628,758 1706,761 1784,763 1862,766 1940,768 2018,770"/>
+                <TextEquiv>
+                    <Unicode>iakoz gest przimierzie ssaczowan, gessto gsem w tom dyel miel a k tomu o dwa konye a panczierz, kteryz gsem u nych ztratyl, y ta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:66; length:15;} person {offset:87; length:12;}">
+                <Coords points="449,777 531,776 608,774 685,774 762,774 839,774 916,775 993,776 1070,778 1147,779 1224,781 1301,783 1378,786 1455,788 1532,791 1609,793 1686,796 1763,799 1840,801 1917,804 2007,805 2007,775 1917,774 1840,771 1763,769 1686,766 1609,763 1532,761 1455,758 1378,756 1301,753 1224,751 1147,749 1070,748 993,746 916,745 839,744 762,744 685,744 608,744 531,746 449,747"/>
+                <Baseline points="454,767 531,766 608,764 685,764 762,764 839,764 916,765 993,766 1070,768 1147,769 1224,771 1301,773 1378,776 1455,778 1532,781 1609,783 1686,786 1763,789 1840,791 1917,794 1994,796"/>
+                <TextEquiv>
+                    <Unicode>ke onie wiecznie, iakoz gsem w tom zagitie od przedpsaneho knieze Hinka probossta a od Jana Uliczky, bratra geho, byl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:111; length:5; continued:true;}">
+                <Coords points="450,803 539,802 616,802 694,802 771,802 849,802 926,803 1003,804 1081,805 1158,807 1236,809 1313,810 1390,813 1468,815 1545,817 1623,820 1700,822 1777,825 1855,827 1932,830 2010,833 2010,803 1932,800 1855,797 1777,795 1700,792 1623,790 1545,787 1468,785 1390,783 1313,780 1236,779 1158,777 1081,775 1003,774 926,773 849,772 771,772 694,772 616,772 539,772 450,773"/>
+                <Baseline points="462,793 539,792 616,792 694,792 771,792 849,792 926,793 1003,794 1081,795 1158,797 1236,799 1313,800 1390,803 1468,805 1545,807 1623,810 1700,812 1777,815 1855,817 1932,820 2010,823"/>
+                <TextEquiv>
+                    <Unicode>yat, tu oty o wsseczky wieczi predepsane, konecznie nicz posobie nepoostawugie, urozenymi a statecnznymi panem Wyle¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} person {offset:0; length:36; continued:true;} place {offset:6; length:7;} place {offset:27; length:9;} person {offset:39; length:36;} place {offset:48; length:6;} place {offset:67; length:8;} person {offset:97; length:19; continued:true;}">
+                <Coords points="460,828 537,828 615,828 693,828 771,829 849,829 927,830 1005,831 1083,833 1161,834 1239,836 1316,838 1394,840 1472,842 1550,844 1628,846 1706,849 1784,852 1862,855 1940,857 2018,860 2018,830 1940,827 1862,825 1784,822 1706,819 1628,816 1550,814 1472,812 1394,810 1316,808 1239,806 1161,804 1083,803 1005,801 927,800 849,799 771,799 693,798 615,798 537,798 460,798"/>
+                <Baseline points="460,818 537,818 615,818 693,818 771,819 849,819 927,820 1005,821 1083,823 1161,824 1239,826 1316,828 1394,830 1472,832 1550,834 1628,836 1706,839 1784,842 1862,845 1940,847 2018,850"/>
+                <TextEquiv>
+                    <Unicode>mem z Necztyn, sedyenym na Combercze a Duczem z Warzyn, sedienym w Uliczich, gsem s czastopsanym kniezem Hinkem pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:0; length:7; continued:true;} person {offset:10; length:13;}">
+                <Coords points="456,855 533,855 610,855 687,855 765,856 842,856 919,857 997,858 1074,859 1151,861 1229,862 1306,864 1383,866 1460,868 1538,870 1615,872 1692,874 1770,876 1847,879 1924,881 2020,882 2020,852 1924,851 1847,849 1770,846 1692,844 1615,842 1538,840 1460,838 1383,836 1306,834 1229,832 1151,831 1074,829 997,828 919,827 842,826 765,826 687,825 610,825 533,825 456,825"/>
+                <Baseline points="456,845 533,845 610,845 687,845 765,846 842,846 919,847 997,848 1074,849 1151,851 1229,852 1306,854 1383,856 1460,858 1538,860 1615,862 1692,864 1770,866 1847,869 1924,871 2002,874"/>
+                <TextEquiv>
+                    <Unicode>bosstem a Janem Uliczku, bratrem geho, umluwen, ze ty wsseczky wieczy wiecznie mezi namy magi mynuty. A ya gim toho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="462,881 539,882 617,883 694,884 772,884 850,885 927,886 1005,887 1082,887 1160,888 1238,890 1315,891 1393,892 1470,894 1548,895 1626,898 1703,900 1781,902 1858,905 1936,909 2014,912 2014,882 1936,879 1858,875 1781,872 1703,870 1626,868 1548,865 1470,864 1393,862 1315,861 1238,860 1160,858 1082,857 1005,857 927,856 850,855 772,854 694,854 617,853 539,852 462,851"/>
+                <Baseline points="462,871 539,872 617,873 694,874 772,874 850,875 927,876 1005,877 1082,877 1160,878 1238,880 1315,881 1393,882 1470,884 1548,885 1626,888 1703,890 1781,892 1858,895 1936,899 2014,902"/>
+                <TextEquiv>
+                    <Unicode>nyczymz zlym, any gich sluzebnykom, y ktoz gsu wedle nich zassli, y gich wssem lidem nawieky slibugi nezapomynaty a to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="459,909 548,911 625,911 702,912 778,913 855,913 932,914 1008,914 1085,915 1162,916 1239,917 1315,918 1392,919 1469,920 1545,922 1622,924 1699,926 1775,929 1852,932 1929,935 2006,939 2006,909 1929,905 1852,902 1775,899 1699,896 1622,894 1545,892 1469,890 1392,889 1315,888 1239,887 1162,886 1085,885 1008,884 932,884 855,883 778,883 702,882 625,881 548,881 459,879"/>
+                <Baseline points="472,900 548,901 625,901 702,902 778,903 855,903 932,904 1008,904 1085,905 1162,906 1239,907 1315,908 1392,909 1469,910 1545,912 1622,914 1699,916 1775,919 1852,922 1929,925 2006,929"/>
+                <TextEquiv>
+                    <Unicode>slibugi swu dobru wieru y czty cztnie wiernie krzesstyansky zdrzeti bezewssie lsti. Toho nalepssie potwrzenie peczet gsem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} person {offset:82; length:16;} place {offset:91; length:7;} person {offset:100; length:14;} place {offset:108; length:6;}">
+                <Coords points="457,938 548,938 624,939 701,939 777,940 854,940 930,941 1006,941 1083,942 1159,942 1236,943 1312,944 1388,945 1465,947 1541,948 1618,950 1694,952 1770,955 1847,957 1923,960 2000,964 2000,934 1923,930 1847,927 1770,925 1694,922 1618,920 1541,918 1465,917 1388,915 1312,914 1236,913 1159,912 1083,912 1006,911 930,911 854,910 777,910 701,909 624,909 548,908 457,908"/>
+                <Baseline points="472,928 548,928 624,929 701,929 777,930 854,930 930,931 1006,931 1083,932 1159,932 1236,933 1312,934 1388,935 1465,937 1541,938 1618,940 1694,942 1770,945 1847,947 1923,950 2000,954"/>
+                <TextEquiv>
+                    <Unicode>swu wlasstny k tomuto listu prziwiesil a prosil gsem przedpsanych umluwczii, pana Wylema z Necztin, Ducze z Warzyn a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} person {offset:0; length:35;} place {offset:8; length:7;} place {offset:29; length:6;} date {offset:107; length:13; continued:true;year:0; day:0; month:0;}">
+                <Coords points="464,968 542,968 620,968 698,968 777,968 855,968 933,968 1012,969 1090,969 1168,970 1247,971 1325,972 1403,973 1481,975 1560,977 1638,978 1716,981 1795,983 1873,986 1951,990 2030,993 2030,963 1951,960 1873,956 1795,953 1716,951 1638,948 1560,947 1481,945 1403,943 1325,942 1247,941 1168,940 1090,939 1012,939 933,938 855,938 777,938 698,938 620,938 542,938 464,938"/>
+                <Baseline points="464,958 542,958 620,958 698,958 777,958 855,958 933,958 1012,959 1090,959 1168,960 1247,961 1325,962 1403,963 1481,965 1560,967 1638,968 1716,971 1795,973 1873,976 1951,980 2030,983"/>
+                <TextEquiv>
+                    <Unicode>Gwana z Necztyn, sedyenym na Bubnie, ze gsu peczeti swe na sweidomie k tomuto listu prziwiesili, genz gest dan po Boziem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} date {offset:0; length:93; continued:true;year:0; day:0; month:0;}">
+                <Coords points="456,1000 520,998 585,996 650,995 714,994 779,994 844,994 908,995 973,995 1038,996 1103,997 1167,999 1232,1000 1297,1001 1361,1002 1426,1003 1491,1003 1555,1004 1620,1004 1685,1003 1750,1002 1750,972 1685,973 1620,974 1555,974 1491,973 1426,973 1361,972 1297,971 1232,970 1167,969 1103,967 1038,966 973,965 908,965 844,964 779,964 714,964 650,965 585,966 520,968 456,970"/>
+                <Baseline points="456,990 520,988 585,986 650,985 714,984 779,984 844,984 908,985 973,985 1038,986 1103,987 1167,989 1232,990 1297,991 1361,992 1426,993 1491,993 1555,994 1620,994 1685,993 1750,992"/>
+                <TextEquiv>
+                    <Unicode>Narozenii leta tisiczieho cztyzsteho a sedmmezczitmeho, ten cztwrtek v wigilii swateho Jakuba.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Purkart z Ugezda wyznawam tiemto listem obecznie przed kazdym czlowiekem, ktoz gey uzrzii anebo cztucze slysseti bude,&#xD;
+jakoz gsem z duostoynym v Boze kniezem Hinkem probosstem z Chotiessowicz a s Jankem Mlazsim z Ulic byl zassel o ssaczunk,&#xD;
+iakoz gest przimierzie ssaczowan, gessto gsem w tom dyel miel a k tomu o dwa konye a panczierz, kteryz gsem u nych ztratyl, y ta¬&#xD;
+ke onie wiecznie, iakoz gsem w tom zagitie od przedpsaneho knieze Hinka probossta a od Jana Uliczky, bratra geho, byl&#xD;
+yat, tu oty o wsseczky wieczi predepsane, konecznie nicz posobie nepoostawugie, urozenymi a statecnznymi panem Wyle¬&#xD;
+mem z Necztyn, sedyenym na Combercze a Duczem z Warzyn, sedienym w Uliczich, gsem s czastopsanym kniezem Hinkem pro¬&#xD;
+bosstem a Janem Uliczku, bratrem geho, umluwen, ze ty wsseczky wieczy wiecznie mezi namy magi mynuty. A ya gim toho&#xD;
+nyczymz zlym, any gich sluzebnykom, y ktoz gsu wedle nich zassli, y gich wssem lidem nawieky slibugi nezapomynaty a to&#xD;
+slibugi swu dobru wieru y czty cztnie wiernie krzesstyansky zdrzeti bezewssie lsti. Toho nalepssie potwrzenie peczet gsem &#xD;
+swu wlasstny k tomuto listu prziwiesil a prosil gsem przedpsanych umluwczii, pana Wylema z Necztin, Ducze z Warzyn a&#xD;
+Gwana z Necztyn, sedyenym na Bubnie, ze gsu peczeti swe na sweidomie k tomuto listu prziwiesili, genz gest dan po Boziem&#xD;
+Narozenii leta tisiczieho cztyzsteho a sedmmezczitmeho, ten cztwrtek v wigilii swateho Jakuba.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

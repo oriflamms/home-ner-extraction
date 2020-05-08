@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-10T14:58:26.851+02:00</Created>
+        <LastChange>2020-02-27T15:01:50.749+00:00</LastChange>
+        <TranskribusMetadata docId="194061" pageId="7649388" pageNr="1" tsid="21011901" status="IN_PROGRESS" userId="38723" imgUrl="https://files.transkribus.eu/Get?id=TEMRHGUMOGFZQWEYERJXPOXH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NITKXBDTJXGROBGLWDRQJYFP" imageId="4632562"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13601123_00753_r.jpg" imageWidth="7608" imageHeight="6546">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618346080" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1094,1187 1150,3329 5357,3330 5355,1136"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:4; length:21;}">
+                <Coords points="1113,1891 1270,1888 1288,1544 1873,1549 2065,1550 2258,1551 2450,1552 2643,1552 2835,1553 3028,1554 3220,1555 3412,1555 3605,1556 3797,1557 3990,1557 4182,1557 4375,1557 4567,1557 4760,1557 4952,1557 5145,1556 5144,1445 4967,1443 4790,1436 4580,1436 4388,1439 4189,1443 3994,1446 3802,1444 3611,1438 3419,1437 3227,1435 3036,1437 2849,1435 2657,1433 2459,1433 2268,1431 2068,1423 1877,1420 1419,1413 1414,1260 1106,1260"/>
+                <Baseline points="1296,1525 1488,1525 1680,1526 1873,1526 2065,1527 2258,1528 2450,1529 2643,1529 2835,1530 3028,1531 3220,1532 3412,1532 3605,1533 3797,1534 3990,1534 4182,1534 4375,1534 4567,1534 4760,1534 4952,1534 5145,1533"/>
+                <TextEquiv>
+                    <Unicode>potrzebant ingesigeltrattrzech trzetieho cz durch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1289,1646 1483,1644 1678,1644 1873,1643 2068,1644 2262,1645 2457,1647 2652,1649 2847,1651 3041,1653 3236,1655 3431,1657 3626,1659 3820,1661 4015,1662 4210,1663 4405,1663 4599,1662 4794,1660 4989,1657 5184,1654 5184,1585 4989,1588 4794,1591 4599,1593 4405,1594 4210,1594 4015,1593 3820,1592 3626,1590 3431,1588 3236,1586 3041,1584 2847,1582 2652,1580 2457,1578 2262,1576 2068,1575 1873,1574 1678,1575 1483,1575 1289,1577"/>
+                <Baseline points="1289,1623 1483,1621 1678,1621 1873,1620 2068,1621 2262,1622 2457,1624 2652,1626 2847,1628 3041,1630 3236,1632 3431,1634 3626,1636 3820,1638 4015,1639 4210,1640 4405,1640 4599,1639 4794,1637 4989,1634 5184,1631"/>
+                <TextEquiv>
+                    <Unicode>alle meyn erben und nachkomen mit fryen willen und umb redeliche sache, dem allerdurchluchtigistem fursten und meinem gnedigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:12; length:76;} place {offset:82; length:6;} place {offset:128; length:6;}">
+                <Coords points="1295,1747 1489,1743 1684,1740 1878,1739 2073,1739 2267,1739 2462,1740 2656,1742 2851,1745 3045,1748 3240,1751 3435,1754 3629,1757 3824,1760 4018,1762 4213,1764 4407,1765 4602,1766 4796,1765 4991,1764 5186,1761 5186,1692 4991,1695 4796,1696 4602,1697 4407,1696 4213,1695 4018,1693 3824,1691 3629,1688 3435,1685 3240,1682 3045,1679 2851,1676 2656,1673 2462,1671 2267,1670 2073,1670 1878,1670 1684,1671 1489,1674 1295,1678"/>
+                <Baseline points="1295,1724 1489,1720 1684,1717 1878,1716 2073,1716 2267,1716 2462,1717 2656,1719 2851,1722 3045,1725 3240,1728 3435,1731 3629,1734 3824,1737 4018,1739 4213,1741 4407,1742 4602,1743 4796,1742 4991,1741 5186,1738"/>
+                <TextEquiv>
+                    <Unicode>herren, hern Karl, romischem keiser, zu allen cziten merer des reichs und kunig zu Beheim, seinen erben und nachkomen kungen zu Beheim,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1289,1857 1483,1851 1677,1846 1871,1842 2065,1840 2259,1839 2453,1839 2647,1839 2841,1840 3035,1842 3230,1844 3424,1847 3618,1850 3812,1852 4006,1855 4200,1858 4394,1861 4588,1864 4782,1866 4976,1867 5171,1868 5171,1799 4976,1798 4782,1797 4588,1795 4394,1792 4200,1789 4006,1786 3812,1783 3618,1781 3424,1778 3230,1775 3035,1773 2841,1771 2647,1770 2453,1770 2259,1770 2065,1771 1871,1773 1677,1777 1483,1782 1289,1788"/>
+                <Baseline points="1289,1834 1483,1828 1677,1823 1871,1819 2065,1817 2259,1816 2453,1816 2647,1816 2841,1817 3035,1819 3230,1821 3424,1824 3618,1827 3812,1829 4006,1832 4200,1835 4394,1838 4588,1841 4782,1843 4976,1844 5171,1845"/>
+                <TextEquiv>
+                    <Unicode>und der crone desselben kunigrichs und yn gegeniocekeit desselben meius herren als eyns romischen keisers, und auder, dieser nachge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1319,1972 1513,1964 1708,1957 1903,1952 2098,1949 2293,1946 2487,1945 2682,1945 2877,1946 3072,1947 3267,1949 3461,1951 3656,1954 3851,1956 4046,1958 4241,1960 4435,1962 4630,1963 4825,1963 5020,1962 5215,1960 5215,1882 5020,1884 4825,1885 4630,1885 4435,1884 4241,1882 4046,1880 3851,1878 3656,1876 3461,1873 3267,1871 3072,1869 2877,1868 2682,1867 2487,1867 2293,1868 2098,1871 1903,1874 1708,1879 1513,1886 1319,1894"/>
+                <Baseline points="1319,1946 1513,1938 1708,1931 1903,1926 2098,1923 2293,1920 2487,1919 2682,1919 2877,1920 3072,1921 3267,1923 3461,1925 3656,1928 3851,1930 4046,1932 4241,1934 4435,1936 4630,1937 4825,1937 5020,1936 5215,1934"/>
+                <TextEquiv>
+                    <Unicode>chreben fursten, grafen, freyen, herren, rittern und knechten, aufgitragen und auf gegeben habe, mit rechter und gewonlicher czerlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} place {offset:49; length:7;}">
+                <Coords points="1318,2081 1515,2073 1712,2066 1909,2061 2107,2056 2304,2053 2501,2050 2699,2048 2896,2047 3093,2047 3291,2047 3488,2048 3685,2049 3882,2050 4080,2052 4277,2054 4474,2056 4672,2058 4869,2060 5066,2062 5264,2063 5264,1993 5066,1992 4869,1990 4672,1988 4474,1986 4277,1984 4080,1982 3882,1980 3685,1979 3488,1978 3291,1977 3093,1977 2896,1977 2699,1978 2501,1980 2304,1983 2107,1986 1909,1991 1712,1996 1515,2003 1318,2011"/>
+                <Baseline points="1318,2058 1515,2050 1712,2043 1909,2038 2107,2033 2304,2030 2501,2027 2699,2025 2896,2024 3093,2024 3291,2024 3488,2025 3685,2026 3882,2027 4080,2029 4277,2031 4474,2033 4672,2035 4869,2037 5066,2039 5264,2040"/>
+                <TextEquiv>
+                    <Unicode>keit den eigetm myner vestene und herschaft von Haydeck und alle ir zugehorunge, und daz derselbe meyn herren als eyn kunig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} place {offset:3; length:6;} place {offset:55; length:6;}">
+                <Coords points="1309,2177 1503,2175 1698,2172 1893,2168 2088,2166 2282,2163 2477,2160 2672,2157 2867,2155 3061,2153 3256,2151 3451,2150 3646,2149 3840,2148 4035,2148 4230,2148 4425,2149 4619,2151 4814,2153 5009,2156 5204,2159 5204,2089 5009,2086 4814,2083 4619,2081 4425,2079 4230,2078 4035,2078 3840,2078 3646,2079 3451,2080 3256,2081 3061,2083 2867,2085 2672,2087 2477,2090 2282,2093 2088,2096 1893,2098 1698,2102 1503,2105 1309,2107"/>
+                <Baseline points="1309,2154 1503,2152 1698,2149 1893,2145 2088,2143 2282,2140 2477,2137 2672,2134 2867,2132 3061,2130 3256,2128 3451,2127 3646,2126 3840,2125 4035,2125 4230,2125 4425,2126 4619,2128 4814,2130 5009,2133 5204,2136"/>
+                <TextEquiv>
+                    <Unicode>zu Beheim, vor sich, sein erben und nochkomen kunige zu Beheim und von wege der crone desselben kunigrichs, mir und myne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} place {offset:47; length:7;}">
+                <Coords points="1319,2282 1514,2281 1709,2280 1904,2279 2100,2277 2295,2274 2490,2272 2685,2270 2881,2267 3076,2265 3271,2263 3466,2260 3662,2258 3857,2257 4052,2255 4247,2254 4443,2254 4638,2254 4833,2255 5028,2257 5224,2259 5224,2183 5028,2181 4833,2179 4638,2178 4443,2178 4247,2178 4052,2179 3857,2181 3662,2182 3466,2184 3271,2187 3076,2189 2881,2191 2685,2194 2490,2196 2295,2198 2100,2201 1904,2203 1709,2204 1514,2205 1319,2206"/>
+                <Baseline points="1319,2257 1514,2256 1709,2255 1904,2254 2100,2252 2295,2249 2490,2247 2685,2245 2881,2242 3076,2240 3271,2238 3466,2235 3662,2233 3857,2232 4052,2230 4247,2229 4443,2229 4638,2229 4833,2230 5028,2232 5224,2234"/>
+                <TextEquiv>
+                    <Unicode>erben die vorgenanten vestene und herschaft zu Haydeck mit alle ir zugehorunge zu rechter edilen, lehenschaft und zu aufgebegem haus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1303,2398 1495,2395 1688,2392 1881,2388 2074,2385 2266,2383 2459,2380 2652,2378 2845,2377 3037,2375 3230,2373 3423,2372 3616,2371 3808,2371 4001,2370 4194,2370 4387,2369 4579,2369 4772,2369 4965,2370 5158,2370 5158,2292 4965,2292 4772,2291 4579,2291 4387,2291 4194,2292 4001,2292 3808,2293 3616,2293 3423,2294 3230,2295 3037,2297 2845,2299 2652,2300 2459,2302 2266,2305 2074,2307 1881,2310 1688,2314 1495,2317 1303,2320"/>
+                <Baseline points="1303,2372 1495,2369 1688,2366 1881,2362 2074,2359 2266,2357 2459,2354 2652,2352 2845,2351 3037,2349 3230,2347 3423,2346 3616,2345 3808,2345 4001,2344 4194,2344 4387,2343 4579,2343 4772,2343 4965,2344 5158,2344"/>
+                <TextEquiv>
+                    <Unicode>und vesteve zu all irem willen und notdorft, geluhen hat zu edil lehene, und daz ich und meynen erbu yn dorumb und mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1290,2517 1533,2505 1728,2501 1923,2498 2118,2494 2314,2491 2509,2489 2704,2487 2899,2485 3094,2483 3290,2481 3485,2480 3680,2479 3875,2477 4070,2476 4266,2475 4461,2473 4656,2471 4851,2470 5046,2468 5242,2466 5242,2388 5046,2390 4851,2392 4656,2393 4461,2395 4266,2397 4070,2398 3875,2399 3680,2401 3485,2402 3290,2403 3094,2405 2899,2407 2704,2409 2509,2411 2314,2413 2118,2416 1923,2420 1728,2423 1533,2427 1286,2426"/>
+                <Baseline points="1307,2488 1533,2479 1728,2475 1923,2472 2118,2468 2314,2465 2509,2463 2704,2461 2899,2459 3094,2457 3290,2455 3485,2454 3680,2453 3875,2451 4070,2450 4266,2449 4461,2447 4656,2445 4851,2444 5046,2442 5242,2440"/>
+                <TextEquiv>
+                    <Unicode>selben warten sal und gehorsam sein als meius hern des keisirs und myne brieve, die dorubir zu beideniteil geben sein volkomlich¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} person {offset:85; length:26;} place {offset:105; length:6;}">
+                <Coords points="1305,2623 1532,2616 1723,2611 1914,2607 2105,2603 2296,2600 2487,2596 2679,2593 2870,2590 3061,2588 3252,2585 3443,2583 3634,2580 3825,2578 4017,2576 4208,2574 4399,2572 4590,2571 4781,2569 4972,2567 5164,2565 5164,2487 4972,2489 4781,2491 4590,2493 4399,2494 4208,2496 4017,2498 3825,2500 3634,2502 3443,2505 3252,2507 3061,2510 2870,2512 2679,2515 2487,2518 2296,2522 2105,2525 1914,2529 1723,2533 1532,2538 1305,2536"/>
+                <Baseline points="1316,2597 1532,2590 1723,2585 1914,2581 2105,2577 2296,2574 2487,2570 2679,2567 2870,2564 3061,2562 3252,2559 3443,2557 3634,2554 3825,2552 4017,2550 4208,2548 4399,2546 4590,2545 4781,2543 4972,2541 5164,2539"/>
+                <TextEquiv>
+                    <Unicode>halden und begriffen und seint, liebei gewesen, die hochgeborn fursten und herren her Rudolf hertzoge zu Sassen, des heiligen reichs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} person {offset:22; length:30;} place {offset:44; length:8;} person {offset:62; length:29;} place {offset:83; length:8;}">
+                <Coords points="1343,2737 1534,2729 1726,2722 1918,2716 2110,2711 2302,2706 2494,2703 2685,2699 2877,2697 3069,2695 3261,2693 3453,2691 3645,2689 3837,2687 4028,2685 4220,2683 4412,2680 4604,2677 4796,2672 4988,2668 5180,2662 5180,2584 4988,2590 4796,2594 4604,2599 4412,2602 4220,2605 4028,2607 3837,2609 3645,2611 3453,2613 3261,2615 3069,2617 2877,2619 2685,2621 2494,2625 2302,2628 2110,2633 1918,2638 1726,2644 1534,2651 1343,2659"/>
+                <Baseline points="1343,2711 1534,2703 1726,2696 1918,2690 2110,2685 2302,2680 2494,2677 2685,2673 2877,2671 3069,2669 3261,2667 3453,2665 3645,2663 3837,2661 4028,2659 4220,2657 4412,2654 4604,2651 4796,2646 4988,2642 5180,2636"/>
+                <TextEquiv>
+                    <Unicode>brift, marschalk, her Bolke, herczog zu der Swidnicz und her redacher herczog zu Brunswig, die erwirdigen in quod vater und herren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} person {offset:4; length:28;} place {offset:26; length:6;} person {offset:42; length:28;} place {offset:64; length:6;} person {offset:92; length:44; continued:true;} place {offset:113; length:10;}">
+                <Coords points="1332,2853 1528,2842 1724,2833 1920,2825 2116,2818 2313,2813 2509,2808 2705,2804 2901,2801 3097,2798 3294,2796 3490,2794 3686,2793 3882,2791 4078,2790 4275,2788 4471,2786 4667,2784 4863,2781 5059,2777 5256,2773 5256,2695 5059,2699 4863,2703 4667,2706 4471,2708 4275,2710 4078,2712 3882,2713 3686,2715 3490,2716 3294,2718 3097,2720 2901,2723 2705,2726 2509,2730 2313,2735 2116,2740 1920,2747 1724,2755 1528,2764 1332,2775"/>
+                <Baseline points="1332,2827 1528,2816 1724,2807 1920,2799 2116,2792 2313,2787 2509,2782 2705,2778 2901,2775 3097,2772 3294,2770 3490,2768 3686,2767 3882,2765 4078,2764 4275,2762 4471,2760 4667,2758 4863,2755 5059,2751 5256,2747"/>
+                <TextEquiv>
+                    <Unicode>der dyderich, ryschoff zu Mynden, und her Albrecht ryschoff zu Swerin, die edilen hern her Burghart burgraf zu Mygdeburg hoffmeister¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} person {offset:0; length:21; continued:true;} person {offset:27; length:29;} place {offset:46; length:10;} person {offset:62; length:38;} place {offset:89; length:11;} person {offset:106; length:17;} place {offset:116; length:7;} person {offset:129; length:6; continued:true;}">
+                <Coords points="1333,2960 1527,2951 1721,2943 1915,2936 2109,2929 2303,2923 2497,2918 2691,2913 2885,2909 3079,2906 3273,2903 3467,2900 3661,2898 3855,2896 4049,2895 4243,2894 4437,2893 4631,2893 4825,2893 5019,2893 5214,2893 5214,2818 5019,2818 4825,2818 4631,2818 4437,2818 4243,2819 4049,2820 3855,2821 3661,2823 3467,2825 3273,2828 3079,2831 2885,2834 2691,2838 2497,2843 2303,2848 2109,2854 1915,2861 1721,2868 1527,2876 1333,2885"/>
+                <Baseline points="1333,2935 1527,2926 1721,2918 1915,2911 2109,2904 2303,2898 2497,2893 2691,2888 2885,2884 3079,2881 3273,2878 3467,2875 3661,2873 3855,2871 4049,2870 4243,2869 4437,2868 4631,2868 4825,2868 5019,2868 5214,2868"/>
+                <TextEquiv>
+                    <Unicode>des keiserlichen, hofs, her Eberhart graff zu wirtemberg, hern Ulrich der elter draff zu Helfeustrium her chome von Koldicz, her Johan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} person {offset:0; length:13; continued:true;} place {offset:4; length:9;} person {offset:19; length:20;} place {offset:30; length:9;} person {offset:45; length:20;} place {offset:56; length:9;} person {offset:71; length:19;} place {offset:83; length:7;} person {offset:96; length:23;} place {offset:107; length:12;}">
+                <Coords points="1332,3060 1525,3054 1719,3048 1913,3043 2107,3038 2301,3034 2495,3030 2689,3025 2883,3021 3077,3018 3271,3015 3464,3011 3658,3008 3852,3006 4046,3003 4240,3001 4434,2999 4628,2997 4822,2995 5016,2993 5210,2992 5210,2920 5016,2921 4822,2923 4628,2925 4434,2927 4240,2929 4046,2931 3852,2934 3658,2936 3464,2939 3271,2943 3077,2946 2883,2949 2689,2953 2495,2958 2301,2962 2107,2966 1913,2971 1719,2976 1525,2982 1332,2988"/>
+                <Baseline points="1332,3036 1525,3030 1719,3024 1913,3019 2107,3014 2301,3010 2495,3006 2689,3001 2883,2997 3077,2994 3271,2991 3464,2987 3658,2984 3852,2982 4046,2979 4240,2977 4434,2975 4628,2973 4822,2971 5016,2969 5210,2968"/>
+                <TextEquiv>
+                    <Unicode>von Rosemberg, hern Ulrich von nuwenhaus her Borsse von Rosemberg, der schenke von ymburg, her Swilter von Gundersmgrii¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} place {offset:121; length:9;}">
+                <Coords points="1335,3155 1529,3150 1724,3145 1919,3140 2114,3137 2309,3133 2503,3130 2698,3126 2893,3124 3088,3121 3283,3118 3477,3116 3672,3114 3867,3111 4062,3109 4257,3106 4451,3103 4646,3099 4841,3096 5036,3092 5273,3090 5275,3017 5036,3022 4841,3026 4646,3029 4451,3033 4257,3036 4062,3039 3867,3041 3672,3044 3477,3046 3283,3048 3088,3051 2893,3054 2698,3056 2503,3060 2309,3063 2114,3067 1919,3070 1724,3075 1529,3080 1335,3085"/>
+                <Baseline points="1335,3132 1529,3127 1724,3122 1919,3117 2114,3114 2309,3110 2503,3107 2698,3103 2893,3101 3088,3098 3283,3095 3477,3093 3672,3091 3867,3088 4062,3086 4257,3083 4451,3080 4646,3076 4841,3073 5036,3069 5231,3065"/>
+                <TextEquiv>
+                    <Unicode>und ander vil edel und erber lute und des zu urkund han ich meinem ingesegel an diesen brieff gehangen, der geben ist zu Nuertenberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} date {offset:0; length:91;}">
+                <Coords points="1338,3264 1483,3257 1629,3249 1775,3243 1921,3238 2067,3233 2212,3230 2358,3227 2504,3225 2650,3223 2796,3222 2941,3221 3087,3220 3233,3219 3379,3218 3525,3217 3670,3216 3816,3215 3962,3214 4108,3211 4335,3206 4340,3133 4108,3141 3962,3144 3816,3145 3670,3146 3525,3147 3379,3148 3233,3149 3087,3150 2941,3151 2796,3152 2650,3153 2504,3155 2358,3157 2212,3160 2067,3163 1921,3168 1775,3173 1629,3179 1483,3187 1338,3194"/>
+                <Baseline points="1338,3241 1483,3234 1629,3226 1775,3220 1921,3215 2067,3210 2212,3207 2358,3204 2504,3202 2650,3200 2796,3199 2941,3198 3087,3197 3233,3196 3379,3195 3525,3194 3670,3193 3816,3192 3962,3191 4108,3188 4254,3186"/>
+                <TextEquiv>
+                    <Unicode>nach Crists geburt drutzenhundert jar, darnach in dem sechtzigisten jar an sant clementen tag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>potrzebant ingesigeltrattrzech trzetieho cz durch¬
+alle meyn erben und nachkomen mit fryen willen und umb redeliche sache, dem allerdurchluchtigistem fursten und meinem gnedigen
+herren, hern Karl, romischem keiser, zu allen cziten merer des reichs und kunig zu Beheim, seinen erben und nachkomen kungen zu Beheim,
+und der crone desselben kunigrichs und yn gegeniocekeit desselben meius herren als eyns romischen keisers, und auder, dieser nachge¬
+chreben fursten, grafen, freyen, herren, rittern und knechten, aufgitragen und auf gegeben habe, mit rechter und gewonlicher czerlich
+keit den eigetm myner vestene und herschaft von Haydeck und alle ir zugehorunge, und daz derselbe meyn herren als eyn kunig
+zu Beheim, vor sich, sein erben und nochkomen kunige zu Beheim und von wege der crone desselben kunigrichs, mir und myne¬
+erben die vorgenanten vestene und herschaft zu Haydeck mit alle ir zugehorunge zu rechter edilen, lehenschaft und zu aufgebegem haus
+und vesteve zu all irem willen und notdorft, geluhen hat zu edil lehene, und daz ich und meynen erbu yn dorumb und mit der
+selben warten sal und gehorsam sein als meius hern des keisirs und myne brieve, die dorubir zu beideniteil geben sein volkomlich¬
+halden und begriffen und seint, liebei gewesen, die hochgeborn fursten und herren her Rudolf hertzoge zu Sassen, des heiligen reichs
+brift, marschalk, her Bolke, herczog zu der Swidnicz und her redacher herczog zu Brunswig, die erwirdigen in quod vater und herren
+der dyderich, ryschoff zu Mynden, und her Albrecht ryschoff zu Swerin, die edilen hern her Burghart burgraf zu Mygdeburg hoffmeister¬
+des keiserlichen, hofs, her Eberhart graff zu wirtemberg, hern Ulrich der elter draff zu Helfeustrium her chome von Koldicz, her Johan¬
+von Rosemberg, hern Ulrich von nuwenhaus her Borsse von Rosemberg, der schenke von ymburg, her Swilter von Gundersmgrii¬
+und ander vil edel und erber lute und des zu urkund han ich meinem ingesegel an diesen brieff gehangen, der geben ist zu Nuertenberg
+nach Crists geburt drutzenhundert jar, darnach in dem sechtzigisten jar an sant clementen tag.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-05T14:35:33.255+02:00</Created>
+        <LastChange>2019-12-21T22:08:28.405+01:00</LastChange>
+        <TranskribusMetadata docId="169945" pageId="6426640" pageNr="1" tsid="21354178" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=LOZZFAPHLHHAGYIRWKIYDWRA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IGOHOPCKNSEIJCEIHMRSUBFF" imageId="3818726"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14160704_01461_r.jpg" imageWidth="6447" imageHeight="3857">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617968865" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="476,1034 576,2224 4204,2363 4111,1027"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:2; length:19;} place {offset:13; length:8;}">
+                <Coords points="584,1331 991,1342 1151,1340 1311,1338 1471,1337 1631,1336 1791,1335 1950,1335 2110,1335 2270,1335 2430,1336 2590,1337 2750,1338 2910,1339 3069,1340 3229,1341 3389,1342 3549,1344 3709,1345 3869,1346 4029,1346 4027,1215 3880,1192 3738,1223 3626,1200 3387,1192 3249,1211 3083,1192 2933,1200 2756,1215 2613,1208 2444,1219 2294,1235 2124,1208 1943,1185 1789,1196 1670,1177 1493,1115 1335,1169 1200,1181 985,1034 484,1034"/>
+                <Baseline points="832,1323 991,1320 1151,1318 1311,1316 1471,1315 1631,1314 1791,1313 1950,1313 2110,1313 2270,1313 2430,1314 2590,1315 2750,1316 2910,1317 3069,1318 3229,1319 3389,1320 3549,1322 3709,1323 3869,1324 4029,1324"/>
+                <TextEquiv>
+                    <Unicode>Ja Proczek z Habrowan wyznawam tiemto listem prziedewssiemi, ktoz giey czisti budu nebo cztucz slissieti, zie slibugi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:89; length:22; continued:true;}">
+                <Coords points="832,1437 993,1436 1155,1435 1316,1434 1478,1434 1640,1434 1801,1434 1963,1434 2124,1435 2286,1435 2448,1436 2609,1437 2771,1438 2932,1440 3094,1441 3256,1442 3417,1443 3579,1445 3740,1446 3902,1448 4064,1449 4064,1382 3902,1381 3740,1379 3579,1378 3417,1376 3256,1375 3094,1374 2932,1373 2771,1371 2609,1370 2448,1369 2286,1368 2124,1368 1963,1367 1801,1367 1640,1367 1478,1367 1316,1367 1155,1368 993,1369 832,1370"/>
+                <Baseline points="832,1415 993,1414 1155,1413 1316,1412 1478,1412 1640,1412 1801,1412 1963,1412 2124,1413 2286,1413 2448,1414 2609,1415 2771,1416 2932,1418 3094,1419 3256,1420 3417,1421 3579,1423 3740,1424 3902,1426 4064,1427"/>
+                <TextEquiv>
+                    <Unicode>tiemto listem swu dobru wieru beze wssie zle lsti najasnieissiemu kniezieti a panu, panu Waczlawowi, rziemskemu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:49; continued:true;}">
+                <Coords points="842,1532 1001,1531 1160,1529 1319,1528 1478,1527 1637,1526 1796,1526 1955,1525 2114,1525 2273,1525 2432,1525 2591,1525 2750,1526 2909,1527 3068,1528 3227,1529 3386,1530 3545,1532 3704,1534 3863,1536 4023,1539 4023,1476 3863,1473 3704,1471 3545,1469 3386,1467 3227,1466 3068,1465 2909,1464 2750,1463 2591,1462 2432,1462 2273,1462 2114,1462 1955,1462 1796,1463 1637,1463 1478,1464 1319,1465 1160,1466 1001,1468 842,1469"/>
+                <Baseline points="842,1511 1001,1510 1160,1508 1319,1507 1478,1506 1637,1505 1796,1505 1955,1504 2114,1504 2273,1504 2432,1504 2591,1504 2750,1505 2909,1506 3068,1507 3227,1508 3386,1509 3545,1511 3704,1513 3863,1515 4023,1518"/>
+                <TextEquiv>
+                    <Unicode>krali, wzdy rozmnoziteli rzissie a krali czeskemu, panu memu milostiwemu, wiernie sluziti a dworziti az do gieho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="846,1617 1008,1618 1171,1619 1333,1619 1496,1619 1659,1619 1821,1618 1984,1617 2146,1616 2309,1615 2472,1614 2634,1614 2797,1614 2959,1614 3122,1614 3285,1616 3447,1618 3610,1621 3772,1625 3935,1629 4098,1635 4098,1572 3935,1566 3772,1562 3610,1558 3447,1555 3285,1553 3122,1551 2959,1551 2797,1551 2634,1551 2472,1551 2309,1552 2146,1553 1984,1554 1821,1555 1659,1556 1496,1556 1333,1556 1171,1556 1008,1555 846,1554"/>
+                <Baseline points="846,1596 1008,1597 1171,1598 1333,1598 1496,1598 1659,1598 1821,1597 1984,1596 2146,1595 2309,1594 2472,1593 2634,1593 2797,1593 2959,1593 3122,1593 3285,1595 3447,1597 3610,1600 3772,1604 3935,1608 4098,1614"/>
+                <TextEquiv>
+                    <Unicode>milosti ziwota sam. Ssest a s ssesti konny s takuto umluwu, zie mi gieho milost s tu czeledy a s konmy ma dati plnu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="859,1710 1018,1710 1178,1710 1337,1710 1497,1709 1657,1709 1816,1709 1976,1708 2135,1708 2295,1707 2455,1707 2614,1707 2774,1706 2933,1706 3093,1706 3253,1707 3412,1707 3572,1708 3731,1709 3891,1710 4051,1711 4051,1645 3891,1644 3731,1643 3572,1642 3412,1641 3253,1641 3093,1640 2933,1640 2774,1640 2614,1641 2455,1641 2295,1641 2135,1642 1976,1642 1816,1643 1657,1643 1497,1643 1337,1644 1178,1644 1018,1644 859,1644"/>
+                <Baseline points="859,1688 1018,1688 1178,1688 1337,1688 1497,1687 1657,1687 1816,1687 1976,1686 2135,1686 2295,1685 2455,1685 2614,1685 2774,1684 2933,1684 3093,1684 3253,1685 3412,1685 3572,1686 3731,1687 3891,1688 4051,1689"/>
+                <TextEquiv>
+                    <Unicode>potrziebu podle komornikow swych, genz gsu w gieho komorzie uprziedni nynie anebo potom budu. A tomu na swie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="835,1805 997,1804 1160,1803 1323,1802 1486,1802 1648,1801 1811,1801 1974,1801 2137,1801 2299,1801 2462,1802 2625,1802 2788,1802 2950,1802 3113,1802 3276,1802 3439,1801 3601,1801 3764,1800 3927,1799 4090,1798 4090,1732 3927,1733 3764,1734 3601,1735 3439,1735 3276,1736 3113,1736 2950,1736 2788,1736 2625,1736 2462,1736 2299,1735 2137,1735 1974,1735 1811,1735 1648,1735 1486,1736 1323,1736 1160,1737 997,1738 835,1739"/>
+                <Baseline points="835,1783 997,1782 1160,1781 1323,1780 1486,1780 1648,1779 1811,1779 1974,1779 2137,1779 2299,1779 2462,1780 2625,1780 2788,1780 2950,1780 3113,1780 3276,1780 3439,1779 3601,1779 3764,1778 3927,1777 4090,1776"/>
+                <TextEquiv>
+                    <Unicode>domie ma pecziet s mu dobru woli a wiedomym prziwiessiena giest k tomuto listu a k me prosbie na swiedomie. Slo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:31; length:39;} person {offset:72; length:32; continued:true;}">
+                <Coords points="836,1896 996,1894 1157,1893 1318,1892 1479,1892 1640,1892 1800,1893 1961,1894 2122,1895 2283,1896 2444,1897 2604,1898 2765,1899 2926,1900 3087,1900 3248,1901 3408,1900 3569,1899 3730,1898 3891,1896 4052,1893 4052,1826 3891,1829 3730,1831 3569,1832 3408,1833 3248,1834 3087,1833 2926,1833 2765,1832 2604,1831 2444,1830 2283,1829 2122,1828 1961,1827 1800,1826 1640,1825 1479,1825 1318,1825 1157,1826 996,1827 836,1829"/>
+                <Baseline points="836,1874 996,1872 1157,1871 1318,1870 1479,1870 1640,1870 1800,1871 1961,1872 2122,1873 2283,1874 2444,1875 2604,1876 2765,1877 2926,1878 3087,1878 3248,1879 3408,1878 3569,1877 3730,1876 3891,1874 4052,1871"/>
+                <TextEquiv>
+                    <Unicode>wuttni a wzaczni muzowe a pani Petr z Sweissyna, munczmaistr na horach, Henrich z Lazan, hauptman wrati¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} person {offset:0; length:7; continued:true;} person {offset:10; length:39;} place {offset:18; length:8;} place {offset:40; length:9;} place {offset:106; length:6;} date {offset:113; length:4; continued:true;year:0; day:0; month:0;}">
+                <Coords points="777,1970 1023,1989 1183,1987 1343,1987 1503,1986 1663,1987 1823,1988 1983,1989 2143,1990 2303,1992 2463,1993 2623,1995 2783,1996 2943,1998 3103,1998 3263,1999 3423,1999 3583,1998 3743,1997 3903,1995 4064,1992 4064,1925 3903,1928 3743,1930 3583,1931 3423,1932 3263,1932 3103,1931 2943,1931 2783,1929 2623,1928 2463,1926 2303,1925 2143,1923 1983,1922 1823,1921 1663,1920 1503,1919 1343,1920 1183,1920 1023,1922 808,1893"/>
+                <Baseline points="815,1955 1023,1967 1183,1965 1343,1965 1503,1964 1663,1965 1823,1966 1983,1967 2143,1968 2303,1970 2463,1971 2623,1973 2783,1974 2943,1976 3103,1976 3263,1977 3423,1977 3583,1976 3743,1975 3903,1973 4064,1970"/>
+                <TextEquiv>
+                    <Unicode>slawsky a Janek z Smilkowa, sedienim na Kostelczi, swe peczeti prziwiessyli su k tomuto listu, genz dan v Prazie leta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} date {offset:0; length:93; continued:true;year:0; day:0; month:0;}">
+                <Coords points="847,2090 995,2086 1144,2083 1293,2081 1442,2080 1591,2079 1740,2080 1888,2081 2037,2083 2186,2084 2335,2087 2484,2089 2633,2091 2782,2093 2930,2095 3079,2096 3228,2097 3377,2097 3526,2097 3675,2095 3824,2093 3824,2026 3675,2028 3526,2030 3377,2030 3228,2030 3079,2029 2930,2028 2782,2026 2633,2024 2484,2022 2335,2020 2186,2017 2037,2016 1888,2014 1740,2013 1591,2012 1442,2013 1293,2014 1144,2016 995,2019 847,2023"/>
+                <Baseline points="847,2068 995,2064 1144,2061 1293,2059 1442,2058 1591,2057 1740,2058 1888,2059 2037,2061 2186,2062 2335,2065 2484,2067 2633,2069 2782,2071 2930,2073 3079,2074 3228,2075 3377,2075 3526,2075 3675,2073 3824,2071"/>
+                <TextEquiv>
+                    <Unicode>od narozeni syna Bozieho tisicz cztirzista w sestnadcztem letie tu sobotu den swateho Prokopa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Proczek z Habrowan wyznawam tiemto listem prziedewssiemi, ktoz giey czisti budu nebo cztucz slissieti, zie slibugi
+tiemto listem swu dobru wieru beze wssie zle lsti najasnieissiemu kniezieti a panu, panu Waczlawowi, rziemskemu
+krali, wzdy rozmnoziteli rzissie a krali czeskemu, panu memu milostiwemu, wiernie sluziti a dworziti az do gieho
+milosti ziwota sam. Ssest a s ssesti konny s takuto umluwu, zie mi gieho milost s tu czeledy a s konmy ma dati plnu
+potrziebu podle komornikow swych, genz gsu w gieho komorzie uprziedni nynie anebo potom budu. A tomu na swie¬
+domie ma pecziet s mu dobru woli a wiedomym prziwiessiena giest k tomuto listu a k me prosbie na swiedomie. Slo¬
+wuttni a wzaczni muzowe a pani Petr z Sweissyna, munczmaistr na horach, Henrich z Lazan, hauptman wrati¬
+slawsky a Janek z Smilkowa, sedienim na Kostelczi, swe peczeti prziwiessyli su k tomuto listu, genz dan v Prazie leta
+od narozeni syna Bozieho tisicz cztirzista w sestnadcztem letie tu sobotu den swateho Prokopa.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

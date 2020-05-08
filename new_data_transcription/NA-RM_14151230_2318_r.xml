@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-10-07T10:29:25.633+02:00</Created>
+        <LastChange>2020-02-27T15:01:37.947+00:00</LastChange>
+        <TranskribusMetadata docId="224007" pageId="9494740" pageNr="1" tsid="20176340" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=OIRRETEXMCRTYMMBRJROURNZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JBQCBSYQGIUWODMEYOYDDWZB" imageId="6184967"/>
+    </Metadata>
+    <Page imageFilename="NA-RM_14151230_2318_r.jpg" imageWidth="9279" imageHeight="6531">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618405947" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="380,342 380,1229 2259,1229 2259,342"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} person {offset:4; length:33;} place {offset:7; length:8;} place {offset:28; length:9;}">
+                <Coords points="422,372 511,376 601,379 690,382 780,384 869,387 959,389 1048,390 1138,392 1227,393 1317,394 1406,395 1496,396 1585,396 1675,397 1764,397 1854,397 1943,397 2033,397 2122,397 2212,397 2212,367 2122,367 2033,367 1943,367 1854,367 1764,367 1675,367 1585,366 1496,366 1406,365 1317,364 1227,363 1138,362 1048,360 959,359 869,357 780,354 690,352 601,349 511,346 422,342"/>
+                <Baseline points="422,362 511,366 601,369 690,372 780,374 869,377 959,379 1048,380 1138,382 1227,383 1317,384 1406,385 1496,386 1585,386 1675,387 1764,387 1854,387 1943,387 2033,387 2122,387 2212,387"/>
+                <TextEquiv>
+                    <Unicode>Ja Jan Tyeberka, odgynud zerweniczie, wyznawam tiemto listem obecznye wssyem, ktoz gey czisty nebo slissiety budu cztucz, ze sem kupil, a zakonnych lydy u¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} person {offset:5; length:17;} person {offset:33; length:17;} person {offset:54; length:21;} person {offset:86; length:36;}">
+                <Coords points="384,400 475,404 566,407 657,410 748,412 839,414 930,416 1022,418 1113,419 1204,420 1295,421 1386,422 1477,423 1568,423 1660,424 1751,425 1842,425 1933,426 2024,426 2115,427 2207,428 2207,398 2115,397 2024,396 1933,396 1842,395 1751,395 1660,394 1568,393 1477,393 1386,392 1295,391 1204,390 1113,389 1022,388 930,386 839,384 748,382 657,380 566,377 475,374 384,370"/>
+                <Baseline points="384,390 475,394 566,397 657,400 748,402 839,404 930,406 1022,408 1113,409 1204,410 1295,411 1386,412 1477,413 1568,413 1660,414 1751,415 1842,415 1933,416 2024,416 2115,417 2207,418"/>
+                <TextEquiv>
+                    <Unicode>pana Zdenka comendora v knyeze Jakuba, prziewora, uffrantisska, comornyka y knyeze Petra rzieczieneho, wchyna pitanskeho y ver wssieho conventa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} place {offset:35; length:22;}">
+                <Coords points="392,431 482,435 573,438 664,440 755,443 845,444 936,446 1027,448 1118,449 1208,450 1299,451 1390,452 1481,452 1571,453 1662,453 1753,453 1844,453 1934,453 2025,453 2116,454 2207,454 2207,424 2116,424 2025,423 1934,423 1844,423 1753,423 1662,423 1571,423 1481,422 1390,422 1299,421 1208,420 1118,419 1027,418 936,416 845,414 755,413 664,410 573,408 482,405 392,401"/>
+                <Baseline points="392,421 482,425 573,428 664,430 755,433 845,434 936,436 1027,438 1118,439 1208,440 1299,441 1390,442 1481,442 1571,443 1662,443 1753,443 1844,443 1934,443 2025,443 2116,444 2207,444"/>
+                <TextEquiv>
+                    <Unicode>domu krzizowniczkeho a satky Boze v Praze namalystranye wedle mostu, zakona swateho Jana Perusalemskeho, zbozie gich a gich dominum matkybozie swr¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;} place {offset:44; length:10;} place {offset:101; length:6;} place {offset:115; length:7;}">
+                <Coords points="400,461 490,464 581,467 671,470 762,472 853,474 943,476 1034,478 1125,479 1215,480 1306,481 1397,482 1487,483 1578,483 1669,483 1759,483 1850,483 1941,483 2031,483 2122,482 2213,482 2213,452 2122,452 2031,453 1941,453 1850,453 1759,453 1669,453 1578,453 1487,453 1397,452 1306,451 1215,450 1125,449 1034,448 943,446 853,444 762,442 671,440 581,437 490,434 400,431"/>
+                <Baseline points="400,451 490,454 581,457 671,460 762,462 853,464 943,466 1034,468 1125,469 1215,470 1306,471 1397,472 1487,473 1578,473 1669,473 1759,473 1850,473 1941,473 2031,473 2122,472 2213,472"/>
+                <TextEquiv>
+                    <Unicode>chupsaneho toczizto dwadczety kop platu w Robniczich a deset kop a cztirzidcziety grossiew platu w Sadowy wedle rybnicz, se dwory knietczymy, s dyedynamy,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="402,492 492,494 583,497 673,499 764,502 855,504 945,505 1036,507 1126,508 1217,510 1308,511 1398,511 1489,512 1579,513 1670,513 1761,513 1851,513 1942,512 2032,511 2123,511 2214,510 2214,480 2123,481 2032,481 1942,482 1851,483 1761,483 1670,483 1579,483 1489,482 1398,481 1308,481 1217,480 1126,478 1036,477 945,475 855,474 764,472 673,469 583,467 492,464 402,462"/>
+                <Baseline points="402,482 492,484 583,487 673,489 764,492 855,494 945,495 1036,497 1126,498 1217,500 1308,501 1398,501 1489,502 1579,503 1670,503 1761,503 1851,503 1942,502 2032,501 2123,501 2214,500"/>
+                <TextEquiv>
+                    <Unicode>lukamy, s pastwamy, s platy s tiemy sprawedlywymy swrchupsanymy y s gynu se wssy woli a prawy, czoz k tomu przislussie, za sto a zassedessat a za osm kop</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="398,521 489,524 581,527 673,530 764,532 856,534 948,536 1039,538 1131,540 1223,541 1315,542 1406,543 1498,543 1590,544 1681,544 1773,544 1865,544 1956,544 2048,543 2140,542 2232,541 2232,511 2140,512 2048,513 1956,514 1865,514 1773,514 1681,514 1590,514 1498,513 1406,513 1315,512 1223,511 1131,510 1039,508 948,506 856,504 764,502 673,500 581,497 489,494 398,491"/>
+                <Baseline points="398,511 489,514 581,517 673,520 764,522 856,524 948,526 1039,528 1131,530 1223,531 1315,532 1406,533 1498,533 1590,534 1681,534 1773,534 1865,534 1956,534 2048,533 2140,532 2232,531"/>
+                <TextEquiv>
+                    <Unicode>za cztirzidcziety grossiew gym uplnye zaplaczenich, do meho sameho, gedno zywota, a nicz, dale. A tho podymluwamy podepsanymy nayprwe ze kdyzbyko¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="392,553 483,556 574,559 665,561 757,563 848,565 939,567 1030,569 1122,570 1213,571 1304,573 1395,573 1487,574 1578,575 1669,575 1760,575 1852,575 1943,574 2034,574 2125,573 2217,572 2217,542 2125,543 2034,544 1943,544 1852,545 1760,545 1669,545 1578,545 1487,544 1395,543 1304,543 1213,541 1122,540 1030,539 939,537 848,535 757,533 665,531 574,529 483,526 392,523"/>
+                <Baseline points="392,543 483,546 574,549 665,551 757,553 848,555 939,557 1030,559 1122,560 1213,561 1304,563 1395,563 1487,564 1578,565 1669,565 1760,565 1852,565 1943,564 2034,564 2125,563 2217,562"/>
+                <TextEquiv>
+                    <Unicode>lywyek a kolikrat koliwyek za nieho zywota obecznye zemska, Bernye byla prowolana a brana, tu magy ony wssichni na tiech lidech, braty a wybitis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;} place {offset:64; length:10;} place {offset:80; length:6;}">
+                <Coords points="393,584 484,586 576,588 667,590 759,593 851,595 942,597 1034,599 1126,601 1217,602 1309,604 1401,605 1492,606 1584,606 1676,607 1767,607 1859,607 1951,606 2042,605 2134,604 2226,602 2226,572 2134,574 2042,575 1951,576 1859,577 1767,577 1676,577 1584,576 1492,576 1401,575 1309,574 1217,572 1126,571 1034,569 942,567 851,565 759,563 667,560 576,558 484,556 393,554"/>
+                <Baseline points="393,574 484,576 576,578 667,580 759,583 851,585 942,587 1034,589 1126,591 1217,592 1309,594 1401,595 1492,596 1584,596 1676,597 1767,597 1859,597 1951,596 2042,595 2134,594 2226,592"/>
+                <TextEquiv>
+                    <Unicode>wedle obycziege na tom na wssiem platu a zbozi swrchupsanem, y s rybniczich y w Sadowy. A ya gym nebo gich urziednikom na tom nemam prziekaz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="401,614 493,617 586,620 679,623 772,625 865,627 958,629 1050,631 1143,633 1236,634 1329,635 1422,636 1515,637 1608,638 1700,638 1793,638 1886,638 1979,637 2072,637 2165,636 2258,635 2258,605 2165,606 2072,607 1979,607 1886,608 1793,608 1700,608 1608,608 1515,607 1422,606 1329,605 1236,604 1143,603 1050,601 958,599 865,597 772,595 679,593 586,590 493,587 401,584"/>
+                <Baseline points="401,604 493,607 586,610 679,613 772,615 865,617 958,619 1050,621 1143,623 1236,624 1329,625 1422,626 1515,627 1608,628 1700,628 1793,628 1886,628 1979,627 2072,627 2165,626 2258,625"/>
+                <TextEquiv>
+                    <Unicode>zety, alle radyegi bezelsty pomoczien bity, aby ti lide k tomu prziprawyly wedle obycziege, aby gym gy widali uplnye. Take sudy wedle obycziege swym</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="393,644 486,647 579,650 672,652 765,655 858,657 951,659 1044,661 1137,663 1230,665 1324,666 1417,667 1510,668 1603,669 1696,670 1789,670 1882,670 1975,670 2068,669 2161,669 2255,668 2255,638 2161,639 2068,639 1975,640 1882,640 1789,640 1696,640 1603,639 1510,638 1417,637 1324,636 1230,635 1137,633 1044,631 951,629 858,627 765,625 672,622 579,620 486,617 393,614"/>
+                <Baseline points="393,634 486,637 579,640 672,642 765,645 858,647 951,649 1044,651 1137,653 1230,655 1324,656 1417,657 1510,658 1603,659 1696,660 1789,660 1882,660 1975,660 2068,659 2161,659 2255,658"/>
+                <TextEquiv>
+                    <Unicode>zassiem abichom kdyzby potrziebye bylo spolu myewaly a spolu sudili alle ya beznich nicz a ono bezenne take nebo bez toho komuzbich ya poruczil, ty lidy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;} place {offset:46; length:10;} place {offset:113; length:6;}">
+                <Coords points="386,673 478,677 570,681 663,684 755,687 847,689 940,691 1032,693 1124,695 1217,696 1309,698 1401,699 1494,699 1586,700 1678,700 1771,700 1863,700 1955,700 2048,700 2140,699 2233,699 2233,669 2140,669 2048,670 1955,670 1863,670 1771,670 1678,670 1586,670 1494,669 1401,669 1309,668 1217,666 1124,665 1032,663 940,661 847,659 755,657 663,654 570,651 478,647 386,643"/>
+                <Baseline points="386,663 478,667 570,671 663,674 755,677 847,679 940,681 1032,683 1124,685 1217,686 1309,688 1401,689 1494,689 1586,690 1678,690 1771,690 1863,690 1955,690 2048,690 2140,689 2233,689"/>
+                <TextEquiv>
+                    <Unicode>a czoz by bylo nebo spadlo wyn nebo Oturli, s rybniczich na tiech lidech, gesto ya, ten plat na nich mam a nebo w Sadowy, czoz by conssiele wedle spra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;} person {offset:35; length:6;} place {offset:99; length:10;}">
+                <Coords points="395,702 490,706 586,709 682,712 777,715 873,718 969,720 1065,723 1160,725 1256,727 1352,728 1448,730 1543,731 1639,731 1735,732 1831,732 1926,731 2022,730 2118,729 2214,727 2214,697 2118,699 2022,700 1926,701 1831,702 1735,702 1639,701 1543,701 1448,700 1352,698 1256,697 1160,695 1065,693 969,690 873,688 777,685 682,682 586,679 490,676 395,672"/>
+                <Baseline points="395,692 490,696 586,699 682,702 777,705 873,708 969,710 1065,713 1160,715 1256,717 1352,718 1448,720 1543,721 1639,721 1735,722 1831,722 1926,721 2022,720 2118,719 2214,717"/>
+                <TextEquiv>
+                    <Unicode>wedlnosty od sudili, to ma wssie me Janow bity, alle negich alle czoz bybiber wyn nebo otumrli, s rybniczich na tiech lidech, gyesto ony gsu na nych</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;} place {offset:106; length:10;} place {offset:121; length:6;}">
+                <Coords points="397,736 488,739 580,742 671,744 763,747 855,749 946,751 1038,754 1129,755 1221,757 1313,759 1404,760 1496,761 1587,762 1679,762 1771,763 1862,763 1954,762 2045,761 2137,760 2229,759 2229,729 2137,730 2045,731 1954,732 1862,733 1771,733 1679,732 1587,732 1496,731 1404,730 1313,729 1221,727 1129,725 1038,724 946,721 855,719 763,717 671,714 580,712 488,709 397,706"/>
+                <Baseline points="397,726 488,729 580,732 671,734 763,737 855,739 946,741 1038,744 1129,745 1221,747 1313,749 1404,750 1496,751 1587,752 1679,752 1771,753 1862,753 1954,752 2045,751 2137,750 2229,749"/>
+                <TextEquiv>
+                    <Unicode>bye plat poostawili to ma byty, gich a ya stiem nemam myety nicz czynyty, take gynak na tiech lidech w Robniczich y w Sadowy gynich poplatkuow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="389,764 480,768 572,771 664,774 756,777 848,780 939,783 1031,785 1123,787 1215,789 1307,791 1398,792 1490,793 1582,794 1674,794 1766,795 1857,794 1949,794 2041,793 2133,791 2225,789 2225,759 2133,761 2041,763 1949,764 1857,764 1766,765 1674,764 1582,764 1490,763 1398,762 1307,761 1215,759 1123,757 1031,755 939,753 848,750 756,747 664,744 572,741 480,738 389,734"/>
+                <Baseline points="389,754 480,758 572,761 664,764 756,767 848,770 939,773 1031,775 1123,777 1215,779 1307,781 1398,782 1490,783 1582,784 1674,784 1766,785 1857,784 1949,784 2041,783 2133,781 2225,779"/>
+                <TextEquiv>
+                    <Unicode>nemam braty, nez sprawedliwe uroky, tak yakoz swrchupsano gest, a yakoz gssu ony braly w swem drzieni a na tez roky yako ony odstara dawna¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;} place {offset:18; length:10;} place {offset:36; length:6;}">
+                <Coords points="387,796 480,799 574,802 667,806 761,809 855,812 948,814 1042,817 1135,819 1229,821 1323,823 1416,824 1510,825 1603,826 1697,826 1791,826 1884,826 1978,825 2071,823 2165,822 2259,820 2259,790 2165,792 2071,793 1978,795 1884,796 1791,796 1697,796 1603,796 1510,795 1416,794 1323,793 1229,791 1135,789 1042,787 948,784 855,782 761,779 667,776 574,772 480,769 387,766"/>
+                <Baseline points="387,786 480,789 574,792 667,796 761,799 855,802 948,804 1042,807 1135,809 1229,811 1323,813 1416,814 1510,815 1603,816 1697,816 1791,816 1884,816 1978,815 2071,813 2165,812 2259,810"/>
+                <TextEquiv>
+                    <Unicode>Take toho platu v Bobniczich a ny w Sadowy, any tiech lidy nemam prodaty, smyenyty, zastawily w tom czassu, any stupity, gynemu bez gich nebo gich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="388,829 481,832 574,834 667,837 761,840 854,843 947,845 1041,848 1134,850 1227,852 1321,854 1414,856 1507,857 1600,858 1694,859 1787,859 1880,859 1974,858 2067,857 2160,856 2254,854 2254,824 2160,826 2067,827 1974,828 1880,829 1787,829 1694,829 1600,828 1507,827 1414,826 1321,824 1227,822 1134,820 1041,818 947,815 854,813 761,810 667,807 574,804 481,802 388,799"/>
+                <Baseline points="388,819 481,822 574,824 667,827 761,830 854,833 947,835 1041,838 1134,840 1227,842 1321,844 1414,846 1507,847 1600,848 1694,849 1787,849 1880,849 1974,848 2067,847 2160,846 2254,844"/>
+                <TextEquiv>
+                    <Unicode>buduczich zwlastnyeho, a zgyewneho powolenye. Alle mam gye sam drziety, a oprawowaty, do swe smrty. A kdiz by kolywiek buoh neuchowal mne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;} person {offset:0; length:4;} place {offset:55; length:10;} place {offset:70; length:6;}">
+                <Coords points="382,859 473,862 565,866 657,870 749,873 841,876 932,879 1024,882 1116,884 1208,886 1300,888 1391,890 1483,891 1575,892 1667,892 1759,892 1850,891 1942,891 2034,889 2126,887 2218,884 2218,854 2126,857 2034,859 1942,861 1850,861 1759,862 1667,862 1575,862 1483,861 1391,860 1300,858 1208,856 1116,854 1024,852 932,849 841,846 749,843 657,840 565,836 473,832 382,829"/>
+                <Baseline points="382,849 473,852 565,856 657,860 749,863 841,866 932,869 1024,872 1116,874 1208,876 1300,878 1391,880 1483,881 1575,882 1667,882 1759,882 1850,881 1942,881 2034,879 2126,877 2218,874"/>
+                <TextEquiv>
+                    <Unicode>Jana swrchupsaneho, ze bich umrziel, tehdyten plath v Bobniczich y w Sadowy wesken s tiem se wssym czoz k nyemu przislussie, y s tiem se wssym</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="390,890 482,894 575,898 668,902 761,906 854,909 946,912 1039,915 1132,918 1225,920 1318,922 1410,923 1503,924 1596,925 1689,925 1782,925 1874,924 1967,923 2060,922 2153,919 2246,916 2246,886 2153,889 2060,892 1967,893 1874,894 1782,895 1689,895 1596,895 1503,894 1410,893 1318,892 1225,890 1132,888 1039,885 946,882 854,879 761,876 668,872 575,868 482,864 390,860"/>
+                <Baseline points="390,880 482,884 575,888 668,892 761,896 854,899 946,902 1039,905 1132,908 1225,910 1318,912 1410,913 1503,914 1596,915 1689,915 1782,915 1874,914 1967,913 2060,912 2153,909 2246,906"/>
+                <TextEquiv>
+                    <Unicode>zoz swrchupsano gest, ynhed ponie smrty ma sie manye a nebo na gich buduczie, a k gichlomu matky Bozie swrchupsanemu nawratity a spadnuty, splny¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="390,923 481,927 573,931 664,934 756,938 848,942 939,945 1031,948 1122,951 1214,953 1306,955 1397,957 1489,958 1580,959 1672,959 1764,958 1855,958 1947,956 2038,954 2130,951 2222,947 2222,917 2130,921 2038,924 1947,926 1855,928 1764,928 1672,929 1580,929 1489,928 1397,927 1306,925 1214,923 1122,921 1031,918 939,915 848,912 756,908 664,904 573,901 481,897 390,893"/>
+                <Baseline points="390,913 481,917 573,921 664,924 756,928 848,932 939,935 1031,938 1122,941 1214,943 1306,945 1397,947 1489,948 1580,949 1672,949 1764,948 1855,948 1947,946 2038,944 2130,941 2222,937"/>
+                <TextEquiv>
+                    <Unicode>my prawy a splnym panstwym w tichz mezech a hranicziech beze wssiech penyez danye, a bez prziekazy kazdeho czlowieka, a gym nebo gich budu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="390,954 483,959 576,964 670,968 763,972 857,976 950,979 1043,982 1137,985 1230,987 1324,989 1417,990 1510,991 1604,992 1697,992 1791,991 1884,990 1977,988 2071,985 2164,982 2258,978 2258,948 2164,952 2071,955 1977,958 1884,960 1791,961 1697,962 1604,962 1510,961 1417,960 1324,959 1230,957 1137,955 1043,952 950,949 857,946 763,942 670,938 576,934 483,929 390,924"/>
+                <Baseline points="390,944 483,949 576,954 670,958 763,962 857,966 950,969 1043,972 1137,975 1230,977 1324,979 1417,980 1510,981 1604,982 1697,982 1791,981 1884,980 1977,978 2071,975 2164,972 2258,968"/>
+                <TextEquiv>
+                    <Unicode>zym ma toho wssieho tak yakoz gsu ony mnye stupily uplnye ynhed potome smrty stupeno bity. A nebo budu moczi samy swu moczi w to we wssieczko¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="388,987 479,991 570,996 661,1000 753,1003 844,1007 935,1010 1026,1013 1118,1016 1209,1018 1300,1020 1391,1022 1483,1023 1574,1024 1665,1024 1756,1023 1848,1022 1939,1020 2030,1018 2121,1014 2213,1010 2213,980 2121,984 2030,988 1939,990 1848,992 1756,993 1665,994 1574,994 1483,993 1391,992 1300,990 1209,988 1118,986 1026,983 935,980 844,977 753,973 661,970 570,966 479,961 388,957"/>
+                <Baseline points="388,977 479,981 570,986 661,990 753,993 844,997 935,1000 1026,1003 1118,1006 1209,1008 1300,1010 1391,1012 1483,1013 1574,1014 1665,1014 1756,1013 1848,1012 1939,1010 2030,1008 2121,1004 2213,1000"/>
+                <TextEquiv>
+                    <Unicode>zoz swrchupsano gest, sye vrowazaty pome smrty. A na tom gym zadny nema prziekazely a nebo tu na tom platu, any na tiech lidech, any ya any¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="386,1020 477,1024 569,1028 661,1032 753,1036 845,1040 937,1044 1029,1047 1121,1050 1213,1053 1305,1055 1396,1057 1488,1058 1580,1059 1672,1059 1764,1058 1856,1057 1948,1055 2040,1052 2132,1048 2224,1043 2224,1013 2132,1018 2040,1022 1948,1025 1856,1027 1764,1028 1672,1029 1580,1029 1488,1028 1396,1027 1305,1025 1213,1023 1121,1020 1029,1017 937,1014 845,1010 753,1006 661,1002 569,998 477,994 386,990"/>
+                <Baseline points="386,1010 477,1014 569,1018 661,1022 753,1026 845,1030 937,1034 1029,1037 1121,1040 1213,1043 1305,1045 1396,1047 1488,1048 1580,1049 1672,1049 1764,1048 1856,1047 1948,1045 2040,1042 2132,1038 2224,1033"/>
+                <TextEquiv>
+                    <Unicode>zadny moy przietel, any zadny gyny kromye nych a gich buduczich zadneho prawa myety nebudu, poniey smrty. Take acz by mne swrchupsaneho.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;} person {offset:0; length:4;}">
+                <Coords points="390,1053 482,1057 574,1061 666,1065 759,1070 851,1074 943,1077 1036,1081 1128,1084 1220,1087 1313,1090 1405,1092 1497,1093 1589,1094 1682,1094 1774,1094 1866,1092 1959,1090 2051,1086 2143,1082 2236,1076 2236,1046 2143,1052 2051,1056 1959,1060 1866,1062 1774,1064 1682,1064 1589,1064 1497,1063 1405,1062 1313,1060 1220,1057 1128,1054 1036,1051 943,1047 851,1044 759,1040 666,1035 574,1031 482,1027 390,1023"/>
+                <Baseline points="390,1043 482,1047 574,1051 666,1055 759,1060 851,1064 943,1067 1036,1071 1128,1074 1220,1077 1313,1080 1405,1082 1497,1083 1589,1084 1682,1084 1774,1084 1866,1082 1959,1080 2051,1076 2143,1072 2236,1066"/>
+                <TextEquiv>
+                    <Unicode>a na do swateho Martyna, gesto nenye nayprwe przigde, buoh neuchowal, tehdy puol toho gednoho uroka, ma dano bity, kamz ya rozkazy. A bilolibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="380,1086 473,1090 567,1095 660,1099 754,1103 847,1107 941,1111 1034,1114 1128,1118 1221,1120 1315,1123 1408,1125 1502,1126 1595,1127 1689,1127 1782,1127 1876,1126 1969,1123 2063,1120 2156,1116 2250,1111 2250,1081 2156,1086 2063,1090 1969,1093 1876,1096 1782,1097 1689,1097 1595,1097 1502,1096 1408,1095 1315,1093 1221,1090 1128,1088 1034,1084 941,1081 847,1077 754,1073 660,1069 567,1065 473,1060 380,1056"/>
+                <Baseline points="380,1076 473,1080 567,1085 660,1089 754,1093 847,1097 941,1101 1034,1104 1128,1108 1221,1110 1315,1113 1408,1115 1502,1116 1595,1117 1689,1117 1782,1117 1876,1116 1969,1113 2063,1110 2156,1106 2250,1101"/>
+                <TextEquiv>
+                    <Unicode>kdy, ze bych umrziel po swatem Marlynye a urokow toho czassu nedobral, alle ty uroky zadrzene, magy widany bity, kamz ya rozkazy. A toho wssie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;} person {offset:25; length:6;} person {offset:90; length:21;} place {offset:101; length:10;}">
+                <Coords points="386,1119 478,1123 571,1127 663,1132 756,1136 848,1140 941,1144 1033,1148 1126,1151 1218,1154 1311,1157 1403,1159 1496,1161 1588,1162 1681,1162 1773,1161 1866,1160 1958,1158 2051,1154 2143,1150 2236,1145 2236,1115 2143,1120 2051,1124 1958,1128 1866,1130 1773,1131 1681,1132 1588,1132 1496,1131 1403,1129 1311,1127 1218,1124 1126,1121 1033,1118 941,1114 848,1110 756,1106 663,1102 571,1097 478,1093 386,1089"/>
+                <Baseline points="386,1109 478,1113 571,1117 663,1122 756,1126 848,1130 941,1134 1033,1138 1126,1141 1218,1144 1311,1147 1403,1149 1496,1151 1588,1152 1681,1152 1773,1151 1866,1150 1958,1148 2051,1144 2143,1140 2236,1135"/>
+                <TextEquiv>
+                    <Unicode>na swiedomye ma pecziet Janowa swrchupsaneho, a k me prozbie pecziety urozeneho pana pana Henricha Zelstrberka a urozeneho pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;} person {offset:7; length:21; continued:true;} place {offset:19; length:9;} place {offset:93; length:5;} date {offset:99; length:31; continued:true;year:0; day:0; month:0;}">
+                <Coords points="385,1153 481,1157 578,1161 675,1166 772,1170 868,1174 965,1179 1062,1182 1159,1186 1256,1189 1352,1191 1449,1193 1546,1195 1643,1195 1740,1195 1836,1193 1933,1191 2030,1188 2127,1183 2224,1177 2224,1147 2127,1153 2030,1158 1933,1161 1836,1163 1740,1165 1643,1165 1546,1165 1449,1163 1352,1161 1256,1159 1159,1156 1062,1152 965,1149 868,1144 772,1140 675,1136 578,1131 481,1127 385,1123"/>
+                <Baseline points="385,1143 481,1147 578,1151 675,1156 772,1160 868,1164 965,1169 1062,1172 1159,1176 1256,1179 1352,1181 1449,1183 1546,1185 1643,1185 1740,1185 1836,1183 1933,1181 2030,1178 2127,1173 2224,1167"/>
+                <TextEquiv>
+                    <Unicode>ossye, Oldrzicha z Czruczicz na swiedomye k tomuto listu prziwiessieny grossu, genz gest dan v Praze leta po Boziem narozenye tyssicz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;} date {offset:0; length:65; continued:true;year:0; day:0; month:0;}">
+                <Coords points="385,1188 429,1190 474,1192 518,1194 563,1195 608,1196 652,1197 697,1199 741,1200 786,1201 831,1202 875,1203 920,1205 964,1207 1009,1209 1054,1211 1098,1213 1143,1217 1187,1220 1232,1224 1277,1229 1277,1199 1232,1194 1187,1190 1143,1187 1098,1183 1054,1181 1009,1179 964,1177 920,1175 875,1173 831,1172 786,1171 741,1170 697,1169 652,1167 608,1166 563,1165 518,1164 474,1162 429,1160 385,1158"/>
+                <Baseline points="385,1178 429,1180 474,1182 518,1184 563,1185 608,1186 652,1187 697,1189 741,1190 786,1191 831,1192 875,1193 920,1195 964,1197 1009,1199 1054,1201 1098,1203 1143,1207 1187,1210 1232,1214 1277,1219"/>
+                <TextEquiv>
+                    <Unicode>cztyrzista let leta patehonadczete, ten pondoli po Bozym naroziely¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Jan Tyeberka, odgynud zerweniczie, wyznawam tiemto listem obecznye wssyem, ktoz gey czisty nebo slissiety budu cztucz, ze sem kupil, a zakonnych lydy u¬
+pana Zdenka comendora v knyeze Jakuba, prziewora, uffrantisska, comornyka y knyeze Petra rzieczieneho, wchyna pitanskeho y ver wssieho conventa¬
+domu krzizowniczkeho a satky Boze v Praze namalystranye wedle mostu, zakona swateho Jana Perusalemskeho, zbozie gich a gich dominum matkybozie swr¬
+chupsaneho toczizto dwadczety kop platu w Robniczich a deset kop a cztirzidcziety grossiew platu w Sadowy wedle rybnicz, se dwory knietczymy, s dyedynamy,
+lukamy, s pastwamy, s platy s tiemy sprawedlywymy swrchupsanymy y s gynu se wssy woli a prawy, czoz k tomu przislussie, za sto a zassedessat a za osm kop
+za cztirzidcziety grossiew gym uplnye zaplaczenich, do meho sameho, gedno zywota, a nicz, dale. A tho podymluwamy podepsanymy nayprwe ze kdyzbyko¬
+lywyek a kolikrat koliwyek za nieho zywota obecznye zemska, Bernye byla prowolana a brana, tu magy ony wssichni na tiech lidech, braty a wybitis
+wedle obycziege na tom na wssiem platu a zbozi swrchupsanem, y s rybniczich y w Sadowy. A ya gym nebo gich urziednikom na tom nemam prziekaz¬
+zety, alle radyegi bezelsty pomoczien bity, aby ti lide k tomu prziprawyly wedle obycziege, aby gym gy widali uplnye. Take sudy wedle obycziege swym
+zassiem abichom kdyzby potrziebye bylo spolu myewaly a spolu sudili alle ya beznich nicz a ono bezenne take nebo bez toho komuzbich ya poruczil, ty lidy¬
+a czoz by bylo nebo spadlo wyn nebo Oturli, s rybniczich na tiech lidech, gesto ya, ten plat na nich mam a nebo w Sadowy, czoz by conssiele wedle spra¬
+wedlnosty od sudili, to ma wssie me Janow bity, alle negich alle czoz bybiber wyn nebo otumrli, s rybniczich na tiech lidech, gyesto ony gsu na nych
+bye plat poostawili to ma byty, gich a ya stiem nemam myety nicz czynyty, take gynak na tiech lidech w Robniczich y w Sadowy gynich poplatkuow
+nemam braty, nez sprawedliwe uroky, tak yakoz swrchupsano gest, a yakoz gssu ony braly w swem drzieni a na tez roky yako ony odstara dawna¬
+Take toho platu v Bobniczich a ny w Sadowy, any tiech lidy nemam prodaty, smyenyty, zastawily w tom czassu, any stupity, gynemu bez gich nebo gich
+buduczich zwlastnyeho, a zgyewneho powolenye. Alle mam gye sam drziety, a oprawowaty, do swe smrty. A kdiz by kolywiek buoh neuchowal mne
+Jana swrchupsaneho, ze bich umrziel, tehdyten plath v Bobniczich y w Sadowy wesken s tiem se wssym czoz k nyemu przislussie, y s tiem se wssym
+zoz swrchupsano gest, ynhed ponie smrty ma sie manye a nebo na gich buduczie, a k gichlomu matky Bozie swrchupsanemu nawratity a spadnuty, splny¬
+my prawy a splnym panstwym w tichz mezech a hranicziech beze wssiech penyez danye, a bez prziekazy kazdeho czlowieka, a gym nebo gich budu,
+zym ma toho wssieho tak yakoz gsu ony mnye stupily uplnye ynhed potome smrty stupeno bity. A nebo budu moczi samy swu moczi w to we wssieczko¬
+zoz swrchupsano gest, sye vrowazaty pome smrty. A na tom gym zadny nema prziekazely a nebo tu na tom platu, any na tiech lidech, any ya any¬
+zadny moy przietel, any zadny gyny kromye nych a gich buduczich zadneho prawa myety nebudu, poniey smrty. Take acz by mne swrchupsaneho.
+a na do swateho Martyna, gesto nenye nayprwe przigde, buoh neuchowal, tehdy puol toho gednoho uroka, ma dano bity, kamz ya rozkazy. A bilolibus
+kdy, ze bych umrziel po swatem Marlynye a urokow toho czassu nedobral, alle ty uroky zadrzene, magy widany bity, kamz ya rozkazy. A toho wssie¬
+na swiedomye ma pecziet Janowa swrchupsaneho, a k me prozbie pecziety urozeneho pana pana Henricha Zelstrberka a urozeneho pa¬
+ossye, Oldrzicha z Czruczicz na swiedomye k tomuto listu prziwiessieny grossu, genz gest dan v Praze leta po Boziem narozenye tyssicz,
+cztyrzista let leta patehonadczete, ten pondoli po Bozym naroziely¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

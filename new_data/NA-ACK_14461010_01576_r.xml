@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-12T13:55:46.620+02:00</Created>
+        <LastChange>2019-11-24T17:25:52.304+01:00</LastChange>
+        <TranskribusMetadata docId="209456" pageId="8955311" pageNr="1" tsid="19798032" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=CSMDGKWEHTDCVDKWPETSOVQJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QOSXYVXOAXQBOJVLDTNDEYMJ" imageId="5794398"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14461010_01576_r.jpg" imageWidth="6831" imageHeight="4569">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618339528" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="765,282 765,2566 4639,2555 4633,282"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:18;} place {offset:16; length:5;} person {offset:60; length:29;} place {offset:82; length:7;}">
+                <Coords points="781,1258 1041,1264 1085,618 1598,617 1766,615 1933,614 2100,612 2267,610 2435,609 2602,607 2769,605 2936,604 3104,602 3271,600 3438,599 3605,597 3773,596 3940,595 4107,593 4274,592 4442,591 4432,466 4270,472 4134,461 3955,461 3787,461 3602,461 3445,455 3266,461 3103,461 2935,461 2777,455 2598,466 2425,461 2278,466 2110,461 1931,461 1790,472 1584,466 1117,455 1117,292 792,298"/>
+                <Baseline points="954,613 1264,598 1431,596 1598,595 1766,593 1933,592 2100,590 2267,588 2435,587 2602,585 2769,583 2936,582 3104,580 3271,578 3438,577 3605,575 3773,574 3940,573 4107,571 4274,570 4442,569"/>
+                <TextEquiv>
+                    <Unicode>Ja Katherzina z Lyppe, wdowa nyekdy manzelka urozeneho pana Albrechta Kyryngara z Zefeldu dobre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1067,714 1235,713 1403,711 1572,710 1740,708 1909,706 2077,705 2246,703 2414,702 2583,700 2751,699 2919,697 3088,696 3256,695 3425,695 3593,694 3762,694 3930,694 4099,694 4267,694 4436,695 4436,631 4267,630 4099,630 3930,630 3762,630 3593,630 3425,631 3256,631 3088,632 2919,633 2751,635 2583,636 2414,638 2246,639 2077,641 1909,642 1740,644 1572,646 1403,647 1235,649 1067,650"/>
+                <Baseline points="1067,693 1235,692 1403,690 1572,689 1740,687 1909,685 2077,684 2246,682 2414,681 2583,679 2751,678 2919,676 3088,675 3256,674 3425,674 3593,673 3762,673 3930,673 4099,673 4267,673 4436,674"/>
+                <TextEquiv>
+                    <Unicode>pamyety, wyznawam timto lystem obecznie przedewssemy, ktoz gey uzrzye neb cztucz sslyssety budu, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:40; length:49; continued:true;} place {offset:51; length:5;} place {offset:77; length:12; continued:true;}">
+                <Coords points="1069,821 1237,815 1405,810 1574,806 1742,802 1910,800 2079,798 2247,797 2415,795 2584,795 2752,794 2920,794 3089,794 3257,793 3425,793 3594,792 3762,792 3930,790 4099,789 4267,786 4436,783 4436,719 4267,722 4099,725 3930,726 3762,728 3594,728 3425,729 3257,729 3089,730 2920,730 2752,730 2584,731 2415,731 2247,733 2079,734 1910,736 1742,738 1574,742 1405,746 1237,751 1069,757"/>
+                <Baseline points="1069,800 1237,794 1405,789 1574,785 1742,781 1910,779 2079,777 2247,776 2415,774 2584,774 2752,773 2920,773 3089,773 3257,772 3425,772 3594,771 3762,771 3930,769 4099,768 4267,765 4436,762"/>
+                <TextEquiv>
+                    <Unicode>ze urozeny pany stryczowe mogy mily pan Petruolt z Lyppe, naywyssy marssalek cralowstwie </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} place {offset:0; length:9; continued:true;} person {offset:0; length:9; continued:true;} person {offset:16; length:24;} place {offset:35; length:5;}">
+                <Coords points="1058,916 1225,910 1393,905 1560,901 1728,898 1895,896 2063,894 2230,893 2398,893 2565,892 2733,892 2900,892 3068,892 3235,892 3403,891 3570,890 3738,888 3905,885 4073,881 4240,877 4408,871 4408,804 4240,810 4073,814 3905,818 3738,821 3570,823 3403,824 3235,825 3068,825 2900,825 2733,825 2565,825 2398,826 2230,826 2063,827 1895,829 1728,831 1560,834 1393,838 1225,843 1058,849"/>
+                <Baseline points="1058,894 1225,888 1393,883 1560,879 1728,876 1895,874 2063,872 2230,871 2398,871 2565,870 2733,870 2900,870 3068,870 3235,870 3403,869 3570,868 3738,866 3905,863 4073,859 4240,855 4408,849"/>
+                <TextEquiv>
+                    <Unicode>Czesskeho a pan Gindrzich odtudz z Lyppe, strycz geho, walku a nesnadnie a s welikymy naklady </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} place {offset:23; length:5;}">
+                <Coords points="1044,1013 1216,1006 1388,1000 1560,995 1732,991 1905,989 2077,987 2249,986 2421,985 2593,984 2766,984 2938,983 3110,983 3282,982 3454,980 3627,978 3799,974 3971,969 4143,964 4315,957 4488,948 4488,882 4315,891 4143,898 3971,903 3799,908 3627,912 3454,914 3282,916 3110,917 2938,917 2766,918 2593,918 2421,919 2249,920 2077,921 1905,923 1732,925 1560,929 1388,934 1216,940 1044,947"/>
+                <Baseline points="1044,991 1216,984 1388,978 1560,973 1732,969 1905,967 2077,965 2249,964 2421,963 2593,962 2766,962 2938,961 3110,961 3282,960 3454,958 3627,956 3799,952 3971,947 4143,942 4315,935 4488,926"/>
+                <TextEquiv>
+                    <Unicode>wyena meho dobywssye z Rakus dwu tyssycz zlatich uhersskich czrwenich dobrych wzlatye mnie </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1074,1104 1243,1097 1412,1090 1582,1086 1751,1082 1921,1080 2090,1078 2259,1077 2429,1076 2598,1075 2768,1075 2937,1074 3106,1073 3276,1072 3445,1070 3615,1068 3784,1065 3953,1060 4123,1055 4292,1048 4462,1039 4462,973 4292,982 4123,989 3953,994 3784,999 3615,1002 3445,1004 3276,1006 3106,1007 2937,1008 2768,1009 2598,1009 2429,1010 2259,1011 2090,1012 1921,1014 1751,1016 1582,1020 1412,1024 1243,1031 1074,1038"/>
+                <Baseline points="1074,1082 1243,1075 1412,1068 1582,1064 1751,1060 1921,1058 2090,1056 2259,1055 2429,1054 2598,1053 2768,1053 2937,1052 3106,1051 3276,1050 3445,1048 3615,1046 3784,1043 3953,1038 4123,1033 4292,1026 4462,1017"/>
+                <TextEquiv>
+                    <Unicode>gsu splnyly a daly, kterychz my przygyty gmyelo po mem otczy dobre pamyety a po mem muzy, z kte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:79; length:10;}">
+                <Coords points="1074,1199 1240,1189 1407,1182 1574,1176 1741,1172 1908,1169 2074,1168 2241,1166 2408,1166 2575,1166 2742,1166 2908,1166 3075,1166 3242,1165 3409,1164 3576,1161 3742,1157 3909,1152 4076,1145 4243,1136 4410,1126 4410,1060 4243,1070 4076,1079 3909,1086 3742,1091 3576,1095 3409,1098 3242,1099 3075,1100 2908,1100 2742,1100 2575,1100 2408,1100 2241,1100 2074,1102 1908,1103 1741,1106 1574,1110 1407,1116 1240,1123 1074,1133"/>
+                <Baseline points="1074,1177 1240,1167 1407,1160 1574,1154 1741,1150 1908,1147 2074,1146 2241,1144 2408,1144 2575,1144 2742,1144 2908,1144 3075,1144 3242,1143 3409,1142 3576,1139 3742,1135 3909,1130 4076,1123 4243,1114 4410,1104"/>
+                <TextEquiv>
+                    <Unicode>rychzto peniez, totyz ze dwu tyssycz zlatych nadepsanich wyena ja sswrchupsana Katherzyna </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1094,1287 1261,1278 1428,1271 1595,1266 1763,1262 1930,1259 2097,1258 2264,1257 2432,1256 2599,1256 2766,1256 2933,1256 3101,1256 3268,1255 3435,1254 3602,1252 3770,1248 3937,1244 4104,1238 4271,1230 4439,1220 4439,1157 4271,1167 4104,1175 3937,1181 3770,1185 3602,1189 3435,1191 3268,1192 3101,1193 2933,1193 2766,1193 2599,1193 2432,1193 2264,1194 2097,1195 1930,1196 1763,1199 1595,1203 1428,1208 1261,1215 1094,1224"/>
+                <Baseline points="1094,1266 1261,1257 1428,1250 1595,1245 1763,1241 1930,1238 2097,1237 2264,1236 2432,1235 2599,1235 2766,1235 2933,1235 3101,1235 3268,1234 3435,1233 3602,1231 3770,1227 3937,1223 4104,1217 4271,1209 4439,1199"/>
+                <TextEquiv>
+                    <Unicode>nadepssane strycze sswe prazdny propustyem a quitugy moczy tohoto lysstu z tiech sswrchupsa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="1100,1377 1202,1371 1304,1366 1406,1362 1508,1358 1610,1355 1712,1353 1814,1351 1916,1349 2018,1348 2120,1347 2222,1346 2324,1345 2426,1345 2528,1344 2630,1344 2732,1343 2834,1342 3005,1329 3944,1329 4416,1313 4432,1226 3857,1258 2973,1237 2834,1279 2732,1280 2630,1281 2528,1281 2426,1282 2324,1282 2222,1283 2120,1284 2018,1285 1916,1286 1814,1288 1712,1290 1610,1292 1508,1295 1406,1299 1304,1303 1202,1308 1100,1314"/>
+                <Baseline points="1100,1356 1202,1350 1304,1345 1406,1341 1508,1337 1610,1334 1712,1332 1814,1330 1916,1328 2018,1327 2120,1326 2222,1325 2324,1324 2426,1324 2528,1323 2630,1323 2732,1322 2834,1321 2936,1320 3499,1345 4405,1302"/>
+                <TextEquiv>
+                    <Unicode>nych zlatich wyena meho a k tomu take slibugi s swu dobru wyeru stryczow mich any gych </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="1070,1468 1173,1461 1276,1455 1380,1450 1483,1446 1586,1444 1690,1441 1793,1440 1896,1439 2000,1439 2103,1439 2206,1439 2310,1439 2413,1439 2516,1439 2620,1439 2723,1438 2826,1437 2930,1435 3033,1432 4454,1405 4449,1318 3043,1351 2930,1369 2826,1371 2723,1372 2620,1373 2516,1373 2413,1373 2310,1373 2206,1373 2103,1373 2000,1373 1896,1373 1793,1374 1690,1375 1586,1378 1483,1380 1380,1384 1276,1389 1173,1395 1070,1402"/>
+                <Baseline points="1070,1446 1173,1439 1276,1433 1380,1428 1483,1424 1586,1422 1690,1419 1793,1418 1896,1417 2000,1417 2103,1417 2206,1417 2310,1417 2413,1417 2516,1417 2620,1417 2723,1416 2826,1415 2930,1413 3705,1426 4438,1394"/>
+                <TextEquiv>
+                    <Unicode>erbuow y buduczich z wyecze nenapomynaty zadnym prawem, any kterim obyczegem z wlastie </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="1074,1562 1186,1552 1299,1544 1412,1537 1525,1532 1638,1529 1751,1527 1863,1526 1976,1526 2089,1526 2202,1528 2315,1529 2428,1531 2541,1532 2653,1534 2766,1535 2879,1536 2992,1536 3105,1535 3218,1533 4389,1492 4378,1416 3277,1448 3105,1469 2992,1470 2879,1470 2766,1469 2653,1468 2541,1466 2428,1465 2315,1463 2202,1462 2089,1460 1976,1460 1863,1460 1751,1461 1638,1463 1525,1466 1412,1471 1299,1478 1186,1486 1074,1496"/>
+                <Baseline points="1074,1540 1186,1530 1299,1522 1412,1515 1525,1510 1638,1507 1751,1505 1863,1504 1976,1504 2089,1504 2202,1506 2315,1507 2428,1509 2541,1510 2653,1512 2766,1513 2879,1514 2992,1514 3105,1513 3477,1524 4411,1492"/>
+                <TextEquiv>
+                    <Unicode>z dyedyczstwye otcze meho, neb gyz k tomu zadneho prawa nemam. A to wsseczko, czoz sye swrchu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="1048,1655 1286,1641 1449,1634 1612,1628 1776,1625 1939,1623 2102,1622 2266,1623 2429,1624 2592,1625 2756,1626 2919,1628 3082,1629 3245,1629 3409,1629 3572,1627 3735,1624 3899,1619 4062,1612 4225,1603 4389,1591 4389,1524 4225,1536 4062,1545 3899,1552 3735,1557 3572,1560 3409,1562 3245,1562 3082,1562 2919,1561 2756,1559 2592,1558 2429,1557 2266,1556 2102,1555 1939,1556 1776,1558 1612,1561 1449,1567 1286,1574 1063,1578"/>
+                <Baseline points="1123,1629 1286,1619 1449,1612 1612,1606 1776,1603 1939,1601 2102,1600 2266,1601 2429,1602 2592,1603 2756,1604 2919,1606 3082,1607 3245,1607 3409,1607 3572,1605 3735,1602 3899,1597 4062,1590 4225,1581 4389,1569"/>
+                <TextEquiv>
+                    <Unicode>pysse, slibugi cztucze we wssech kussyech zdrzety beze wssye zle lsty. A k tomu na sswyedomye a pro </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="1058,1752 1407,1733 1563,1726 1719,1721 1875,1718 2031,1716 2187,1716 2343,1716 2499,1717 2655,1719 2812,1721 2968,1723 3124,1724 3280,1725 3436,1725 3592,1724 3748,1721 3904,1717 4060,1710 4216,1702 4373,1691 4373,1624 4216,1635 4060,1643 3904,1650 3748,1654 3592,1657 3436,1658 3280,1658 3124,1657 2968,1656 2812,1654 2655,1652 2499,1650 2343,1649 2187,1649 2031,1649 1875,1651 1719,1654 1563,1659 1407,1666 1063,1649"/>
+                <Baseline points="1090,1730 1407,1711 1563,1704 1719,1699 1875,1696 2031,1694 2187,1694 2343,1694 2499,1695 2655,1697 2812,1699 2968,1701 3124,1702 3280,1703 3436,1703 3592,1702 3748,1699 3904,1695 4060,1688 4216,1680 4373,1669"/>
+                <TextEquiv>
+                    <Unicode>lepssy gystotu sswu gsem wlasstny peczet k tomuto lystu przywyessyla a przyprossyla gsem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;} person {offset:22; length:53;} place {offset:50; length:25;}">
+                <Coords points="1020,1855 1257,1846 1421,1837 1584,1832 1748,1827 1911,1824 2075,1822 2238,1821 2402,1821 2565,1822 2729,1822 2892,1823 3056,1824 3219,1824 3383,1824 3546,1822 3710,1820 3873,1816 4037,1810 4200,1803 4364,1794 4364,1728 4200,1737 4037,1744 3873,1750 3710,1754 3546,1756 3383,1758 3219,1758 3056,1758 2892,1757 2729,1756 2565,1756 2402,1755 2238,1755 2075,1756 1911,1758 1748,1761 1584,1766 1421,1771 1257,1780 1025,1763"/>
+                <Baseline points="1094,1834 1257,1824 1421,1815 1584,1810 1748,1805 1911,1802 2075,1800 2238,1799 2402,1799 2565,1800 2729,1800 2892,1801 3056,1802 3219,1802 3383,1802 3546,1800 3710,1798 3873,1794 4037,1788 4200,1781 4364,1772"/>
+                <TextEquiv>
+                    <Unicode>urozenich panuow pana Jana z Czimburgka, haitmana Markrabsstwye morawsskeho, pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;} person {offset:3; length:33;} place {offset:10; length:9;} place {offset:24; length:12;} person {offset:43; length:44; continued:true;} place {offset:54; length:9;} place {offset:68; length:9;}">
+                <Coords points="1090,1946 1255,1939 1421,1933 1586,1928 1752,1925 1917,1923 2083,1922 2248,1922 2414,1922 2579,1923 2745,1923 2910,1924 3076,1925 3241,1925 3407,1925 3572,1924 3738,1922 3903,1920 4069,1916 4234,1911 4400,1904 4400,1838 4234,1845 4069,1850 3903,1854 3738,1856 3572,1858 3407,1859 3241,1859 3076,1859 2910,1858 2745,1857 2579,1857 2414,1856 2248,1856 2083,1856 1917,1857 1752,1859 1586,1862 1421,1867 1255,1873 1090,1880"/>
+                <Baseline points="1090,1924 1255,1917 1421,1911 1586,1906 1752,1903 1917,1901 2083,1900 2248,1900 2414,1900 2579,1901 2745,1901 2910,1902 3076,1903 3241,1903 3407,1903 3572,1902 3738,1900 3903,1898 4069,1894 4234,1889 4400,1882"/>
+                <TextEquiv>
+                    <Unicode>na Jana z Lompnycze a z Mezerzieczie, pana Benessye z Bozkowicz a z Czruchory, podkomo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;} person {offset:0; length:31; continued:true;} place {offset:7; length:24;} person {offset:38; length:32;} place {offset:48; length:7;} place {offset:60; length:10;} person {offset:77; length:4; continued:true;}">
+                <Coords points="1063,2040 1271,2034 1434,2028 1597,2023 1760,2019 1923,2018 2086,2017 2249,2018 2412,2019 2575,2021 2739,2023 2902,2026 3065,2028 3228,2029 3391,2030 3554,2030 3717,2029 3880,2026 4043,2022 4206,2015 4370,2007 4370,1940 4206,1948 4043,1955 3880,1959 3717,1962 3554,1963 3391,1963 3228,1962 3065,1961 2902,1959 2739,1956 2575,1954 2412,1952 2249,1951 2086,1950 1923,1951 1760,1952 1597,1956 1434,1961 1271,1967 1063,1958"/>
+                <Baseline points="1108,2022 1271,2012 1434,2006 1597,2001 1760,1997 1923,1996 2086,1995 2249,1996 2412,1997 2575,1999 2739,2001 2902,2004 3065,2006 3228,2007 3391,2008 3554,2008 3717,2007 3880,2004 4043,2000 4206,1993 4370,1985"/>
+                <TextEquiv>
+                    <Unicode>rzyeho Makrabsstwye morawsskeho, pana Gyrzyka z Crawarz a z Straznycze, pana Wan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;} person {offset:0; length:27; continued:true;} place {offset:5; length:9;} place {offset:19; length:8;} person {offset:57; length:17;} place {offset:66; length:8;}">
+                <Coords points="1063,2154 1264,2143 1427,2133 1589,2127 1752,2122 1914,2119 2077,2117 2239,2118 2402,2118 2564,2120 2727,2122 2889,2125 3052,2127 3214,2129 3377,2130 3539,2130 3702,2129 3864,2127 4027,2122 4189,2116 4383,2099 4389,2018 4189,2049 4027,2055 3864,2060 3702,2062 3539,2063 3377,2063 3214,2062 3052,2060 2889,2058 2727,2055 2564,2053 2402,2051 2239,2051 2077,2050 1914,2052 1752,2055 1589,2060 1427,2066 1264,2076 1058,2067"/>
+                <Baseline points="1102,2133 1264,2121 1427,2111 1589,2105 1752,2100 1914,2097 2077,2095 2239,2096 2402,2096 2564,2098 2727,2100 2889,2103 3052,2105 3214,2107 3377,2108 3539,2108 3702,2107 3864,2105 4027,2100 4189,2094 4352,2085"/>
+                <TextEquiv>
+                    <Unicode>ka z Bozkowicz a z Letowicz a stateczneho rytyerzye pana Czenka z Mossnowa, ze su sswe </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="1070,2260 1234,2246 1398,2234 1563,2225 1727,2219 1892,2215 2056,2213 2221,2213 2385,2214 2550,2216 2714,2218 2878,2221 3043,2224 3207,2226 3372,2228 3536,2228 3701,2228 3865,2225 4030,2221 4194,2214 4421,2202 4427,2110 4194,2147 4030,2154 3865,2158 3701,2161 3536,2161 3372,2161 3207,2159 3043,2157 2878,2154 2714,2151 2550,2149 2385,2147 2221,2146 2056,2146 1892,2148 1727,2152 1563,2158 1398,2167 1234,2179 1070,2193"/>
+                <Baseline points="1070,2238 1234,2224 1398,2212 1563,2203 1727,2197 1892,2193 2056,2191 2221,2191 2385,2192 2550,2194 2714,2196 2878,2199 3043,2202 3207,2204 3372,2206 3536,2206 3701,2206 3865,2203 4030,2199 4194,2192 4359,2182"/>
+                <TextEquiv>
+                    <Unicode>peczety na sswyedomye podley mey k tomuto lystu przywyssyly gym a gich erbom bez sskody, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;} place {offset:23; length:5;} date {offset:29; length:55; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1063,2365 1251,2343 1417,2331 1582,2321 1748,2315 1914,2310 2079,2308 2245,2307 2410,2308 2576,2310 2742,2312 2907,2315 3073,2318 3238,2321 3404,2323 3570,2325 3735,2325 3901,2324 4066,2321 4232,2317 4398,2310 4398,2243 4232,2250 4066,2254 3901,2257 3735,2258 3570,2258 3404,2256 3238,2254 3073,2251 2907,2248 2742,2245 2576,2243 2410,2241 2245,2240 2079,2241 1914,2243 1748,2248 1582,2254 1417,2264 1251,2276 1058,2273"/>
+                <Baseline points="1086,2337 1251,2321 1417,2309 1582,2299 1748,2293 1914,2288 2079,2286 2245,2285 2410,2286 2576,2288 2742,2290 2907,2293 3073,2296 3238,2299 3404,2301 3570,2303 3735,2303 3901,2302 4066,2299 4232,2295 4398,2288"/>
+                <TextEquiv>
+                    <Unicode>genz gest dan a psan w Brnye po narozeny syna Bozyeho tyssicz ctyrzysta cztyrzydcza¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;} date {offset:0; length:60; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1047,2447 1214,2444 1327,2438 1439,2433 1552,2428 1664,2423 1777,2418 1889,2414 2002,2410 2114,2408 2227,2405 2339,2403 2452,2402 2564,2402 2677,2403 2789,2404 2902,2407 3014,2410 3127,2414 3239,2420 3352,2426 3352,2359 3239,2353 3127,2347 3014,2343 2902,2340 2789,2337 2677,2336 2564,2335 2452,2335 2339,2336 2227,2338 2114,2341 2002,2343 1889,2347 1777,2351 1664,2356 1552,2361 1439,2366 1327,2371 1214,2377 1058,2365"/>
+                <Baseline points="1102,2428 1214,2422 1327,2416 1439,2411 1552,2406 1664,2401 1777,2396 1889,2392 2002,2388 2114,2386 2227,2383 2339,2381 2452,2380 2564,2380 2677,2381 2789,2382 2902,2385 3014,2388 3127,2392 3239,2398 3352,2404"/>
+                <TextEquiv>
+                    <Unicode>teho sessteho leta w ten pondyely po sswyetyem Ffrantissku. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Katherzina z Lyppe, wdowa nyekdy manzelka urozeneho pana Albrechta Kyryngara z Zefeldu dobre &#xD;
+pamyety, wyznawam timto lystem obecznie przedewssemy, ktoz gey uzrzye neb cztucz sslyssety budu, &#xD;
+ze urozeny pany stryczowe mogy mily pan Petruolt z Lyppe, naywyssy marssalek cralowstwie &#xD;
+Czesskeho a pan Gindrzich odtudz z Lyppe, strycz geho, walku a nesnadnie a s welikymy naklady &#xD;
+wyena meho dobywssye z Rakus dwu tyssycz zlatich uhersskich czrwenich dobrych wzlatye mnie &#xD;
+gsu splnyly a daly, kterychz my przygyty gmyelo po mem otczy dobre pamyety a po mem muzy, z kte¬&#xD;
+rychzto peniez, totyz ze dwu tyssycz zlatych nadepsanich wyena ja sswrchupsana Katherzyna &#xD;
+nadepssane strycze sswe prazdny propustyem a quitugy moczy tohoto lysstu z tiech sswrchupsa¬&#xD;
+nych zlatich wyena meho a k tomu take slibugi s swu dobru wyeru stryczow mich any gych &#xD;
+erbuow y buduczich z wyecze nenapomynaty zadnym prawem, any kterim obyczegem z wlastie &#xD;
+z dyedyczstwye otcze meho, neb gyz k tomu zadneho prawa nemam. A to wsseczko, czoz sye swrchu&#xD;
+pysse, slibugi cztucze we wssech kussyech zdrzety beze wssye zle lsty. A k tomu na sswyedomye a pro &#xD;
+lepssy gystotu sswu gsem wlasstny peczet k tomuto lystu przywyessyla a przyprossyla gsem &#xD;
+urozenich panuow pana Jana z Czimburgka, haitmana Markrabsstwye morawsskeho, pa¬&#xD;
+na Jana z Lompnycze a z Mezerzieczie, pana Benessye z Bozkowicz a z Czruchory, podkomo¬&#xD;
+rzyeho Makrabsstwye morawsskeho, pana Gyrzyka z Crawarz a z Straznycze, pana Wan¬&#xD;
+ka z Bozkowicz a z Letowicz a stateczneho rytyerzye pana Czenka z Mossnowa, ze su sswe &#xD;
+peczety na sswyedomye podley mey k tomuto lystu przywyssyly gym a gich erbom bez sskody, &#xD;
+genz gest dan a psan w Brnye po narozeny syna Bozyeho tyssicz ctyrzysta cztyrzydcza¬&#xD;
+teho sessteho leta w ten pondyely po sswyetyem Ffrantissku. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-05T14:36:51.124+02:00</Created>
+        <LastChange>2020-02-27T15:04:29.169+00:00</LastChange>
+        <TranskribusMetadata docId="169948" pageId="6426648" pageNr="1" tsid="21354219" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=WJTFXZRWEPCSVJEMOCWWCPSJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OHTLZGOJFXIVIYPRUIJGISVP" imageId="3818734"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14210614_01488_r.jpg" imageWidth="6104" imageHeight="3691">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618144667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="509,349 509,1338 5066,1362 5085,378"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:39;} place {offset:12; length:9;} place {offset:34; length:8;}">
+                <Coords points="567,606 970,603 1182,612 1393,621 1605,631 1817,640 2028,650 2240,659 2452,667 2663,676 2875,684 3087,691 3298,698 3510,705 3722,710 3933,714 4145,718 4357,721 4568,723 4780,724 4992,723 4988,567 4799,572 4567,567 4373,572 4188,586 3956,567 3757,572 3539,576 3311,557 3102,562 2889,528 2681,547 2467,509 2254,533 2055,513 1837,494 1614,489 1406,484 1027,479 1022,407 562,373"/>
+                <Baseline points="759,574 970,583 1182,592 1393,601 1605,611 1817,620 2028,630 2240,639 2452,647 2663,656 2875,664 3087,671 3298,678 3510,685 3722,690 3933,694 4145,698 4357,701 4568,703 4780,704 4992,703"/>
+                <TextEquiv>
+                    <Unicode>Ja Mikess, Postim sedyenym na cztwrtie, wiznawam tiem listem inffen sein, uzrzie nebo cztn furste und ze Brey dobrym</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} place {offset:29; length:12;} place {offset:43; length:5;} place {offset:50; length:11;} place {offset:63; length:10;}">
+                <Coords points="748,695 959,700 1171,705 1383,712 1595,719 1807,727 2018,735 2230,744 2442,752 2654,761 2866,769 3077,776 3289,784 3501,790 3713,796 3925,801 4136,804 4348,807 4560,808 4772,807 4984,805 4984,745 4772,747 4560,748 4348,747 4136,744 3925,741 3713,736 3501,730 3289,724 3077,716 2866,709 2654,701 2442,692 2230,684 2018,675 1807,667 1595,659 1383,652 1171,645 959,640 748,635"/>
+                <Baseline points="748,675 959,680 1171,685 1383,692 1595,699 1807,707 2018,715 2230,724 2442,732 2654,741 2866,749 3077,756 3289,764 3501,770 3713,776 3925,781 4136,784 4348,787 4560,788 4772,787 4984,785"/>
+                <TextEquiv>
+                    <Unicode>dawam y postupugi mocznye swe sbozie, irroslawicze, graft, nossislawie wythomcze se wssym przislussenstwiem y panstwim nycz sobie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:45; length:20;} place {offset:60; length:5;}">
+                <Coords points="758,789 968,793 1179,798 1390,804 1600,809 1811,816 2022,822 2232,830 2443,837 2654,844 2865,852 3075,859 3286,865 3497,872 3707,878 3918,883 4129,888 4339,892 4550,894 4761,896 4972,897 4972,837 4761,836 4550,834 4339,832 4129,828 3918,823 3707,818 3497,812 3286,805 3075,799 2865,792 2654,784 2443,777 2232,770 2022,762 1811,756 1600,749 1390,744 1179,738 968,733 758,729"/>
+                <Baseline points="758,769 968,773 1179,778 1390,784 1600,789 1811,796 2022,802 2232,810 2443,817 2654,824 2865,832 3075,839 3286,845 3497,852 3707,858 3918,863 4129,868 4339,872 4550,874 4761,876 4972,877"/>
+                <TextEquiv>
+                    <Unicode>nezachowawage, any swym erbom urozenemu panu Gindrzichowi z Lippe, synu memu mylemu, aby drzel poziwal, yako swe wlastnye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="748,883 961,886 1175,890 1389,895 1602,900 1816,906 2030,911 2243,918 2457,924 2671,931 2885,938 3098,945 3312,951 3526,958 3739,964 3953,970 4167,975 4380,980 4594,984 4808,987 5022,990 5022,927 4808,924 4594,921 4380,917 4167,912 3953,907 3739,901 3526,895 3312,888 3098,882 2885,875 2671,868 2457,861 2243,855 2030,848 1816,843 1602,837 1389,832 1175,827 961,823 748,820"/>
+                <Baseline points="748,862 961,865 1175,869 1389,874 1602,879 1816,885 2030,890 2243,897 2457,903 2671,910 2885,917 3098,924 3312,930 3526,937 3739,943 3953,949 4167,954 4380,959 4594,963 4808,966 5022,969"/>
+                <TextEquiv>
+                    <Unicode>dyedicztwi beze wssie urzikrzye y mych erbuow a tomu pro lepssie swiedomye swu gsem peczet prziwiesil k tomuto listu. A pro lepssie swiedomu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:32; length:54;} place {offset:41; length:10;} place {offset:63; length:23;} person {offset:88; length:30; continued:true;} place {offset:95; length:9;}">
+                <Coords points="753,968 961,972 1170,977 1379,981 1588,986 1797,992 2005,998 2214,1003 2423,1010 2632,1016 2841,1022 3049,1029 3258,1035 3467,1041 3676,1047 3885,1053 4093,1058 4302,1063 4511,1068 4720,1072 4929,1076 4929,1013 4720,1009 4511,1005 4302,1000 4093,995 3885,990 3676,984 3467,978 3258,972 3049,966 2841,959 2632,953 2423,947 2214,940 2005,935 1797,929 1588,923 1379,918 1170,914 961,909 753,905"/>
+                <Baseline points="753,947 961,951 1170,956 1379,960 1588,965 1797,971 2005,977 2214,982 2423,989 2632,995 2841,1001 3049,1008 3258,1014 3467,1020 3676,1026 3885,1032 4093,1037 4302,1042 4511,1047 4720,1051 4929,1055"/>
+                <TextEquiv>
+                    <Unicode>prziprosil gsem urozenich pannow Wilema z Pernstayna, hauptmana markrabstwie morawskeho, Jana z Lompnicze, naywyssieho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} person {offset:0; length:25; continued:true;} person {offset:27; length:16;} place {offset:35; length:8;} person {offset:45; length:16;} place {offset:53; length:8;} person {offset:63; length:41;} place {offset:70; length:11;} place {offset:93; length:11;} person {offset:107; length:23;} place {offset:123; length:7;}">
+                <Coords points="732,1047 1426,1069 1616,1075 1805,1081 1995,1086 2185,1091 2374,1097 2564,1102 2754,1107 2943,1112 3133,1118 3323,1123 3512,1129 3702,1135 3892,1141 4081,1148 4271,1155 4461,1162 4650,1171 4840,1180 5030,1189 5030,1126 4840,1117 4650,1108 4461,1099 4271,1092 4081,1085 3892,1078 3702,1072 3512,1066 3323,1060 3133,1055 2943,1049 2754,1044 2564,1039 2374,1034 2185,1028 1995,1023 1805,1018 1616,1012 1426,1006 727,969"/>
+                <Baseline points="722,1047 1426,1048 1616,1054 1805,1060 1995,1065 2185,1070 2374,1076 2564,1081 2754,1086 2943,1091 3133,1097 3323,1102 3512,1108 3702,1114 3892,1120 4081,1127 4271,1134 4461,1141 4650,1150 4840,1159 5030,1168"/>
+                <TextEquiv>
+                    <Unicode>comornyka sudu brnenskeho. Alsse z Cunstata, Smyla z Cunstata, Jana z Lichtenburka, odginad z Czornstaina, a Jossta hechta z Rossie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} place {offset:89; length:8;} date {offset:98; length:29; continued:true;year:0; day:0; month:0;}">
+                <Coords points="717,1139 951,1145 1160,1152 1369,1158 1578,1165 1787,1171 1996,1177 2205,1183 2414,1189 2623,1196 2832,1202 3041,1208 3250,1214 3459,1221 3668,1228 3877,1235 4086,1242 4295,1250 4504,1258 4713,1267 4922,1276 4922,1213 4713,1204 4504,1195 4295,1187 4086,1179 3877,1172 3668,1165 3459,1158 3250,1151 3041,1145 2832,1139 2623,1133 2414,1126 2205,1120 1996,1114 1787,1108 1578,1102 1369,1095 1160,1089 951,1082 722,1071"/>
+                <Baseline points="742,1116 951,1124 1160,1131 1369,1137 1578,1144 1787,1150 1996,1156 2205,1162 2414,1168 2623,1175 2832,1181 3041,1187 3250,1193 3459,1200 3668,1207 3877,1214 4086,1221 4295,1229 4504,1237 4713,1246 4922,1255"/>
+                <TextEquiv>
+                    <Unicode>ze gsu swe peczeti k mey prosbie na swiedomye prziwiesyli k tomuto listu, genz gest dan w czaslawy w Sobothu przed swatim bitem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} date {offset:0; length:50; continued:true;year:0; day:0; month:0;}">
+                <Coords points="743,1247 826,1243 910,1240 994,1239 1078,1239 1162,1239 1246,1241 1330,1243 1414,1246 1498,1249 1582,1253 1665,1257 1749,1260 1833,1264 1917,1268 2001,1271 2085,1274 2169,1276 2253,1277 2337,1278 2421,1277 2421,1214 2337,1215 2253,1214 2169,1213 2085,1211 2001,1208 1917,1205 1833,1201 1749,1197 1665,1194 1582,1190 1498,1186 1414,1183 1330,1180 1246,1178 1162,1176 1078,1176 994,1176 910,1177 826,1180 743,1184"/>
+                <Baseline points="743,1226 826,1222 910,1219 994,1218 1078,1218 1162,1218 1246,1220 1330,1222 1414,1225 1498,1228 1582,1232 1665,1236 1749,1239 1833,1243 1917,1247 2001,1250 2085,1253 2169,1255 2253,1256 2337,1257 2421,1256"/>
+                <TextEquiv>
+                    <Unicode>eta Bozieho tissicz cztirzista dwadczateho prweho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Mikess, Postim sedyenym na cztwrtie, wiznawam tiem listem inffen sein, uzrzie nebo cztn furste und ze Brey dobrym
+dawam y postupugi mocznye swe sbozie, irroslawicze, graft, nossislawie wythomcze se wssym przislussenstwiem y panstwim nycz sobie¬
+nezachowawage, any swym erbom urozenemu panu Gindrzichowi z Lippe, synu memu mylemu, aby drzel poziwal, yako swe wlastnye
+dyedicztwi beze wssie urzikrzye y mych erbuow a tomu pro lepssie swiedomye swu gsem peczet prziwiesil k tomuto listu. A pro lepssie swiedomu¬
+prziprosil gsem urozenich pannow Wilema z Pernstayna, hauptmana markrabstwie morawskeho, Jana z Lompnicze, naywyssieho
+comornyka sudu brnenskeho. Alsse z Cunstata, Smyla z Cunstata, Jana z Lichtenburka, odginad z Czornstaina, a Jossta hechta z Rossie¬
+ze gsu swe peczeti k mey prosbie na swiedomye prziwiesyli k tomuto listu, genz gest dan w czaslawy w Sobothu przed swatim bitem
+eta Bozieho tissicz cztirzista dwadczateho prweho¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

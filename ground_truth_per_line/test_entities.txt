@@ -1,0 +1,3228 @@
+Ovlricus	person
+Dirsizlai	person
+Loman	place
+Plaz	place
+Dir	person
+Dir	person
+Dir	person
+sizlao	person
+Ruzone	person
+Thischov	place
+duce Primu	person
+zelone	person
+Pragensi episcopo domino Henrico	person
+Ovlrici	person
+Ruz	person
+Ruz	person
+Olrich	person
+Dirsizlau	person
+Protiwa	person
+lvric	person
+Zlauwathe	person
+Wilhelmi	person
+lan de Natuniz	person
+Ben	person
+Budiwoi	person
+Ota	person
+Ota	person
+Wisec	person
+Ota	person
+Ota	person
+Buguzlau	person
+Woita	person
+Otewec	person
+Vgolt	person
+Zuda	person
+Pocin	person
+anno Dominice incarnationis MoCoXCoIIIo, indictione undecima	date
+Jan z Sedlcze, rzeczeny Telle	person
+Hinkowi, probostoi z clastera	person
+chotiessowskeho	person
+Janowy z Ulicz	person
+Wylem z Ryzemberga, odginud z Skali	person
+Ian Dywoczek z Pabienycz	person
+Wolkmar z Pabienycz	person
+rzeczeny Had,	person
+Cunrat z Miecholupp	person
+Wylem	person
+Wylem	person
+Diepolt z Dolan	person
+Janek, rzeczeny Wytek	person
+Ian Diewoczek z Pabienycz	person
+Raczek z Tupadl	person
+Jan z Ulicz, bratr geho	person
+Jaroslawa z Czeczowicz, sedienym w Notiessieczich	person
+Lipolta	person
+z Kolessowicz, sedienym we Ptenynie	person
+Waczlawa z Dahobuzie, sedienym v Borowach	person
+leta od narozenie syna Bozieho tyssiczieho cztirsteho sedmazczczietmeho, den	date
+swateho Jacuba, Philippa	date
+Brzenyek z Strakonicz	person
+Sedlczy	place
+Hradecz	place
+Chrzyle	place
+Trchow	place
+Ka	place
+menyczye	place
+Drahotyess	place
+Chrbczye	place
+Ostry	place
+Pahorek	place
+Chlum	place
+Hradczek	place
+Bor	place
+Brzezyny	place
+Woytyechowy, Janowy a Lypoltowy z Krasselowa	person
+Zdenyek z Rozmitala	person
+Jaroslaw z Rozmitala	person
+Bussek z Buzycz	person
+Czeska zemye	place
+Czeske zemy	place
+zemye Czeske	place
+Pyesku	place
+Czeskey zemy	place
+leta Bozieho narozenye tyssyczieho cztwrtehosta cztwrteho den swate Doroty	date
+Fridericus	person
+Dei gratia dux Boemie	person
+Plazenses	place
+Decin	place
+Copidl	place
+Bleg	person
+Bogusse	person
+Groznata came	person
+rarius	person
+Jan iudex	person
+Mutine pincerna	person
+Letar dapifer	person
+Jaros	person
+Ludevik	person
+Werner	person
+Iessutbor	person
+Walzta	person
+Isdata Wittovic	person
+Drizec	person
+Brum	person
+Mahtolt	person
+Rapota scriba	person
+Emram	person
+Pribizlav	person
+Pabian	person
+Petrus	person
+Obiden	person
+Lutognew	person
+Hermannus	person
+Wilhelmi	person
+domino	person
+Henrico, Pragensi episcopo, viro venerabili	person
+Peregrino, Morauiensi episcopo	person
+Elizabhet	person
+Ruprecht der Elter von Gots gnaden pfallenczgraue bei Rein, des heiligen reichs obrister trucsezze und herczog in Beyern	person
+Karl Romisehem kunig zu allen zeiten merer des reichs und kunig zu Beheim	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Ruprecht den Jungern	person
+Sachsen	place
+Newenstat	place
+Storenstein	place
+Hirzsow	place
+Liechtenstein	place
+Rudolfen etwenn pfallenczgraven bey Rein und herczogen in Beyern	person
+Sultzbach	place
+Rosemberg	place
+Hertenstein	place
+Nidstein	place
+Turrendorf	place
+Hiltpoltstein	place
+Hohenstein	place
+Lichteneck	place
+Frankemberg	place
+Lauffen	place
+Eschembach	place
+Hersbruck	place
+Aurbach	place
+Pegnicz	place
+Velden	place
+Plech	place
+Beyern	place
+Beyern	place
+Beyern	place
+Beyern	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+keiser Ludwigs	person
+hertzogen Ruprechten den jungern	person
+Bein	place
+Beyern	place
+Beyern	place
+Beyern	place
+Beyern	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Hagenow	place
+nach Crists geburt dreuzehen hundert und in dem dreu und fumfzigstem jar, dez nechsten dinstags	date
+vor aller heiligen tag	date
+Georgius, Dei gracia rex Bohemie, marchio Moravie, Lucemburgensis et Slesie dux ac Lusacie marchio	person
+Johanni de Waldenstein	person
+Czenkoni Kuna de Cunstat	person
+Mathia, rege Hungarie, Dalmacie,	person
+Trenczin	place
+Prage	place
+die decimaseptima junii anno	date
+Domini millesimoquandtingentesimosexagesimosecundo, regni nostri anno quinto.	date
+Fryderich von Haydeck	person
+Karl, romischem keiser, zu allen zeiten merer des reichs und kunig zu Beheim	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Haydeck	place
+Haydeck	place
+Haydeck	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Haydeck	place
+Haydeck	place
+Haydeck	place
+Rudolf, herczoge zu Sassen	person
+Bolko, herezog zu der Swidnicz	person
+Redacher, herezog zu Brunswig	person
+Dyderich, byschoff zu Mynden	person
+Albrecht, byschoff zu Swerin	person
+Burghart, burgraf zu Meygdeburg, hofmeister	person
+des keiserlichen hofs	person
+Eberhart, graff zu Wirtemberg	person
+Ulrich der elter, graff zu Helfenstein	person
+Thome von Koldicz	person
+Johan	person
+von Rosemberg	person
+Ulrich vom Nuwenhaus	person
+Borsse von Rysemburg	person
+Schenke von Lymburg	person
+Swiker von Gunderfingen	person
+Nuremberg	place
+nach Crists geburt drutzenhundert jar darnach in dem sechczigsten jar an sant Clementen tag	date
+Jan z Wyhnanycz	person
+Marketa, manzelka geho z Nespeczowa,	person
+Petr a Waniek, bratrzie z Nespeczowa,	person
+Radhossty	place
+Radhossty	place
+etrowy a Wankowy z Nespeczowa	person
+zeske zemie	place
+Markwart z Genyssowycz	person
+Slassek Slatiny	person
+Wenczlaw Zamsrsku	person
+Henych z Nespeczowa	person
+Jan Wyhnansky	person
+Marketa, manzelka geho	person
+Radhossty	place
+Radhossty	place
+Petrowy	person
+Petrowy	person
+Petrowy	person
+Wankowy	person
+Wankowy	person
+Wankowy	person
+zeska zemie	place
+zeske zemye	place
+radcze nad Labem	place
+Gyczyna	place
+Petrowy	person
+Petrowy	person
+Petrowy	person
+Wankowy	person
+Wankowy	person
+Wankowy	person
+leta od narozenye syna Bozieho tisyczieho cztyrzsteho trzidczateho cztwrteho, tu sobo	date
+tu prziedpowodny nediely	date
+Rudolph der Junger	person
+Otte von Gots gnaden herczogen ze Sachsen	person
+KarI, Romischer kung, ze allen zeiten merer des reichs und kung ze Beheim	person
+Baldewin, erczbischof ze Trier	person
+Gerlach, erczbischof ze Gencz	person
+Walram, erczbisehof ze Coln	person
+fursten hern Jo	person
+hansen seliger gedechtnuzz, ettwenn kunge ze Beheim	person
+Rudolphe, herczogen ze Sachsen	person
+Woldmar, marggraven ze Brandemburch	person
+und ze Landsperg	person
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+graven Guntheren von Swarczburch	person
+Rome	place
+KarI, der Romische kung	person
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Rudolphs, herczogen ze Sachsen	person
+graven Gunther	person
+graven Gunther	person
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Rudolphs des Jungern, herczogen ze Sachsen	person
+herczog Otte	person
+herczogen Rudolphs	person
+Coln an dem Reyn	place
+do man czalte noch Cristus ge	date
+burth drewczenhundirt und newn und fierczig jar an dem nehisten dinstag noch sand Valentyns tag	date
+Elska z Dubee, nyekdy rzyeczena Coldiczowa	person
+pana Waczlawa z Coldicz	person
+Cristofor z Mynycz, sedienym w Libczyewessy	person
+Pessyk z Wlczicz	person
+sedienym w Horzytyczych	person
+Ratibor z Sedczicz, sedienym w Nowosedlkach	person
+panye Elsky	person
+Bythozyewssy	place
+Semenkowy	place
+czie	place
+czie	place
+czie	place
+czie	place
+czie	place
+czie	place
+Gindrzichovy z Hradczie, obecznemu prziworowy w Czyechach, u Morawye a u Polstye, krzyzow	person
+nyczemu	person
+Zdenkowy, comendorowy domu swathe Marzye na Male Stranye u Prazie podle mosta	person
+Jacubkowy, przyworowy kostelnyemu	person
+Zatczye	place
+Prazie	place
+Prazie	place
+Prazie	place
+Prazie	place
+Elska	person
+Elska	person
+Elska	person
+Bithozyewssy	place
+Elska	person
+Elska	person
+Elska	person
+Prazie na Wieczym Miesstie	place
+Prazie	place
+Prazie	place
+Prazie	place
+Prazie	place
+letha ot narozenye Bozyeho tyssy	date
+czieho ctzrzisteho sedm naczteho tu sobothu po swatem Waczlawu	date
+Anezka z Lyppe	person
+Jaroslawowi z Mezerzieczye	person
+Pertoltowi z Lyppe, naywissiemu marssalku Cralowstwie czeskeho	person
+Jossta z Rossycz, podkomorzie Markrabstwie morawskeho	person
+Artleba z Drahotuss, odginad z Deblyna	person
+Gimrama Dubrawku z Dubrawicze	person
+Bohunka z Myroslawie	person
+Waczlawa z Kukwicz, odginad z Knyehnycz	person
+Zygmunda, rzecze	person
+neho Genyczka z Olbramycz	person
+Pertoltowy	person
+Brnye	place
+po narozenye syna Buozieho	date
+tyssycz cztyrzista trzydczsateho prwnieho leta w tu sobotu po buozyem czyele et cetera	date
+Stephan von Gots gnaden pfallenczgrafe bi Rein und herczog in Beyern	person
+Karle romischen kunige ze aller zeiten merer des	person
+reiches und kunige ze Beheim	person
+Johanse marggrafen	person
+ze Merhern	person
+Merhern	place
+Merhern	place
+Peyse	place
+am mantage vor sant Gregorii tag des heiligen lerers nach	date
+Cristes geburd dreuczehen hundert jar, darnach in dem funf und funfczigstem jar	date
+Petr, z Bozie milosti teho czassu probost	person
+Anna, prziewora	person
+Anna, subprziewora	person
+Margaretha, cantrix, y wessken conwent	person
+clastera chotiessowskeho	person
+Zigmunda, rzimskeho	person
+uherskeho, czeskeho et cetera krale	person
+Jan Hanowecz	person
+Zdenkowi z Drsstky, purkraby na Tinie Horssowskem	person
+Sekyrziany Horzieissie	place
+Wssuzku	place
+Oldrzichowy z Luzan, rzieczenemu Spiczie	person
+Janowi ze Zdiaru, bratru geho	person
+Czeske zemy	place
+Petr, probosst	person
+Zdenka z Drsstky, purkrabie na Tinie Horssowskem	person
+Hinka z Swamberga	person
+Lwika z Gywyan, purkrabie na Przimdie	person
+Gindrzicha z Sedlczie, rzieczeneho Sswaida, purkrabie	person
+na Radiny	person
+Noweho Plznye	place
+leta od narozenie syna	date
+Bozieho tissiczieho cztizsteho trzidczateho prwnieho, ten patek przied swatim Martinem	date
+Johan	person
+Johan	person
+Johan	person
+Gunther, grafen von Swarczburg	person
+Karl, von Gots gnaden	person
+Romischer keiser, ze allen czeiten merer des reichs und kunig ze Beheim	person
+Gorlicz	place
+Budissen	place
+Hogirswirde	place
+Hogirswirde	place
+Hogirswirde	place
+Schonenfelt	place
+Behem	place
+Gorlitz	place
+Budissin	place
+Hogirswirde	place
+Hogirswirde	place
+Hogirswirde	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Hogirswirde	place
+Hogirswirde	place
+Hogirswirde	place
+graf Johans	person
+von Swartzburg	person
+graf Gunther von Swartzburg	person
+grafen Heinrich von Swartzburg, herren zu Arnsteten und zu Sundirschusen	person
+Heinrich, graf von	person
+Johans	person
+Johans	person
+Gunthers	person
+grafen von Swartzburg	person
+nach Cristus geburt drutzenhundert jar, dornach in dem syben und funftzigistem jar an der heiligen sant Petirs	date
+und Paulus abent	date
+Ja Waczlaw z Wratu a z Brazdimye	person
+Praze	place
+Martu	person
+Jaroslawa	person
+Jana	person
+Jana	person
+Jana	person
+Samuele z Hradku a s Waleczowa, kralowstwie czeskeho podkomorzie	person
+Jana Hra	person
+banye z Przerubenicz, haytmana na Koline	person
+Jana z Radycze, panuow staromyestskych marssalka	person
+Weronicze	person
+lleta od narozenie syna Bozieho	date
+tisiczieho cztyrzisteho dwadczateho dewateho, wpondiely przed swatu Marzy Magdalenu	date
+Aless z Rysmburga, naywissy zprawczie Kralewsstwie czeskeho	person
+Horach Cuthnach	place
+Hory Cuthny	place
+krale Waczlawa druheho	person
+cziesarzowy milosti Karla prwnieho	person
+krale Wa	person
+czlawa	person
+czlawa	person
+Horach Cuthnach	place
+leta od narozenie syna Bozieho tisicz cztrsteho	date
+leta trzidczateho pateho, prwny patek v puostie	date
+Zdeniek z Drsstki, purkrabie ten czas na Tynie Horssowskem	person
+Zdeniek Kolwin s Romsperga	person
+Margretha z Frimsstina, manzelka panie Zdenkowa	person
+Colwinowa s Romsperga	person
+Petra probosta a conventha	person
+clastera chotiessowskeho	person
+Tuskow	place
+Tuskow	place
+Hartmanow	place
+Hartmanow	place
+Tuskowie	place
+Hartmanowie	place
+Doleissem	place
+Metelsstie	place
+Wiewiowie	place
+Alles z Koczowa, sedienim v Mirzkowie	person
+Alles z Koczowa	person
+Cunrath Bornik z Stitarz	person
+Mikulas z Chudenicz	person
+Jan Shibal z Modrzegowicz	person
+Cztiborowi z Wolsstina	person
+Zdeniek z Drsstky	person
+Zdeniek Colwin s Romsperga	person
+Margrethi z Ffrunsstina	person
+Hersstin Stary	place
+Margretha z Frunsstina	person
+Hersstin Stary	place
+Cztiborowi z Wolsstina	person
+Hinka Crussinii z Sswamberga	person
+Burjana z Gutsstina, sedienim na Rabsstinie	person
+Dietrzicha z Frimssteina	person
+Raczka z Janowicz, sedienim na Rismbercze	person
+Jana Muchka z Bukowa,	person
+Noweho Plznie	place
+Tyna Horssowskeho	place
+letha po narozeni syna Buozeho porzad cztucz tissiczeho cztirzsteho trid-	date
+czateho sedmeho, ten cztwrtek den swateho Prokopa diedicze nassie czesske zemie etc.	date
+Ludwig von Hoenloch	person
+Karl romischen kung zu allen tzeiten merer des reichs und kung zu Beheim	person
+Johansen ettwenne kunge ze Behem	person
+Behem	place
+Behem	place
+Beheimen	place
+Luczemburg	place
+Nuremberg	place
+nach Crists gebürte dreitzen hundert und in dem drey und fumftzigistem	date
+jare, an santh Bartholomeus tage des heiligen czwelfboten	date
+Johannes judex, scabini atque universitas civitatis Luebeschiczceensis	person
+Johanni inclito Bohemie et Polonie regi	person
+Bolezlao	person
+Heinrico	person
+Wolodizlao, Silesie ducibus dominisque Wretislavie et Legenicz illustribus	person
+terram Oppavie	place
+Oppavie	place
+Oppavie	place
+anno Domini millesimo CCC undecimo XVI kalendas Julii	date
+Karl von Gotes gnaden romischer keyser czu allen czeiten merer des reichs und kunig czu Beheim	person
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Wenczlaw kunig czu Beheim, markgraff czu Brandemburg und herczog in Slesien	person
+Sigmund	person
+Sigmund	person
+Sigmund	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Otten herczogen in Beyern, czu den czeiten markgrafen czu Brandemburg	person
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Lusicz	place
+Lusicz	place
+Breslaw	place
+Breslaw	place
+Sweydnicz	place
+Sweydnicz	place
+Jawr	place
+Jawr	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+kunig Wenczlawn	person
+Sigmunden	person
+Johansen	person
+Johansen	person
+Johansen markgrafen czu Merhern	person
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Lusicz	place
+Lusicz	place
+Breslaw	place
+Breslaw	place
+Sweydnicz	place
+Sweydnicz	place
+Jawr	place
+Jawr	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+kunig Wenczlaws	person
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+kunig Wenczlaw	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+markgraff Johans von Merhern	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+kunig Wenczlaw	person
+Sigmund	person
+Sigmund	person
+Sigmund	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+Johans	person
+markgraff Johans von Merhern	person
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Denemarken	place
+Polon	place
+Polon	place
+Sachsen	place
+Sachsen	place
+Sachsen	place
+Lunemburg	place
+Lunemburg	place
+Lunemburg	place
+Meideburg	place
+Brunswig	place
+Stetyn	place
+Stetyn	place
+Mekelmburg	place
+Mekelmburg	place
+Anhalt	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Dennemarken	place
+Polon	place
+Polon	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Brandemburg	place
+Ludwig erczbischoff czu Mencze	person
+des heiligen romischen reiches in dewtschen landen erczcanczler	person
+Wenczlaw herczog von Sachsen und von Lunemburg, des selben romischen reiches erczmarschalk kurfursten	person
+Johans erczbischoff	person
+czu Prage, des pebstlichen stules czu Rome legate	person
+Peter erczbischoff czu Meidgburg	person
+Johans czu Olomucz, unsers keyserlichen hofes canczler	person
+Albrecht czum Lewthmuschel	person
+Gerhart czu Hyldesheim	person
+Fridrich czu Merseburg	person
+Albrecht czu Halberstat	person
+Peter czu Lubus	person
+Dyetrich czu Brandemburg, bischove	person
+Albrecht herczoge von Sachsen und von Lunemburg	person
+Fridrich markgraff von Meissen	person
+Albrecht herczog von Mekelmburg	person
+Ruprecht herczog von Lignicz	person
+Przimsla von Teschin	person
+Bo	person
+Bo	person
+Bo	person
+gusla von Stetyn	person
+Heinrich vom Brige	person
+Heinrich von Sagan	person
+Heinrich von Littowen, herczogen	person
+die edlen Johans, burggraff czu Meigdburg und grafe czu Hardecke	person
+Heinrich von Holczten	person
+Albrecht von Ryppen	person
+Cunrat	person
+von Regenstein	person
+Burghard von Schrapelow	person
+Otte von Hademerslewen, graven	person
+Grafft und Gerlach von Hoenloch	person
+Wedeke vogt vom Berge	person
+Petir Gast	person
+Benesch und Wenczlaw von Wartemberg	person
+Thyme von Coldicz	person
+Borsze von Risumburg	person
+Johans von Rosem	person
+Bohusla von Swamberg	person
+Jesko von Kossowahora	person
+Potho von Czastolowicz	person
+Johans von Kotebus	person
+Reinhart von Strel	person
+Johans und Ulrich von Biberstein	person
+Tangermund	place
+noch Crists geburt do man czalt dreyczehnhundert jar dornoch in dem vierundsibnczigstem jare an sant Peters und Pauls tage der heiligen czwelffboten, unserr reiche in dem achtund	date
+czwenczigstem und des keysertums in dem czwenczigstem jare	date
+Nicolaus, camericensis prepositus	person
+Mikulass Zagiecz z Hazenburka, sedienim na Budyny	person
+Dorotye	person
+Dorotye	person
+Jana, rzeczeneho	person
+Sele z Lezniczie	person
+Mikulass	person
+Mikulass	person
+Dorotye	person
+Dorotye	person
+Dorothie	person
+Dorothy	person
+Jana z Colowrath, sedyenym na Cornhanzie	person
+Oldrzicha z Waldeka, sedyenym w Hosstymyczich	person
+Smila z Cosstelczie	person
+Mrzaka z Wrassko	person
+dan na massopusst leta od narozenie syna	date
+Bozieho tyssycz cztirzissta osmmezczyetmeho	date
+Gerlach von Gots gnaden des heilgin stuls zue Mencze erczebischoff, des heilgin romschen richs in dutschen landen erczcanceller	person
+Karll romschir keisir zuo allen cziiten merer des richs und kunig zuo Beheim	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Wenczela kuenig	person
+zuo Beheim	person
+Johans marggrave zuo Merhern	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+LupoIt hirczogen zuo Osterich, zuo Styr und zuo Kernten et cetera	person
+keisir Karll	person
+KarI von Gots gnaden romschir keisir zuo allen cziiten merer des richs und konig zuo Beheim	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Wenczela konig zuo Beheim, marggrave zuo Brandenburge und zuo Lusicz	person
+Johans marggrave zuo Merhern	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Leupold herczogen zuo Osterrich, zuo Styr, zuo Kernden und zuo Krayn, herren off der Wyndischen marke, zuo Portenouw, graven	person
+zuo Habspurg, zuo Tyroil, zuo Phirt und zuo Kyburg, marggraven zuo Bergew und langraven in Obern Elsezen	person
+keiser Karl	person
+Wenczela konig zuo Beheim	person
+Johans marggrave zuo Merhern	person
+Ostirrich	place
+Ostirrich	place
+Ostirrich	place
+Ostirrich	place
+Osterrich	place
+Osterrich	place
+Osterrich	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Kernthen	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Wenczelaen kunig zuo Beheim	person
+Johansen marggraven zuo Merhern	person
+Wenczela kunig zuo Beheim	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Johanse marggraven zuo Merhern	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Ostirrich	place
+Ostirrich	place
+Ostirrich	place
+Ostirrich	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Kernten	place
+Kernten	place
+Kernten	place
+Kernten	place
+Kernten	place
+Kernten	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Lupolt, herczogen zuo Osterrich, zuo Styr und zuo Kernten et cetera	person
+kunigen, Wenczalaen zuo Beheim	person
+Johansen marggraven zuo Merhern	person
+Ostirrich	place
+Ostirrich	place
+Ostirrich	place
+Ostirrich	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Styr	place
+Kernten	place
+Kernten	place
+Kernten	place
+Kernten	place
+Kernten	place
+Kernten	place
+Tiroil	place
+Habsburge	place
+kunig Wenczela zuo Beheim	person
+Johans marggrave zuo Merhern	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Albrecht	person
+Lupolt, herczogen zuo Ostir	person
+rich zuo Styr und zu Kernten et cetera	person
+kunig Wenczelaen	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Johansen marggraven zuo Merhern	person
+Merhern	place
+Merhern	place
+Merhern	place
+Merhern	place
+Merhern	place
+Merhern	place
+Merhern	place
+Merhern	place
+Merhern	place
+Albrechten	person
+Lupolten, herczogen zuo Ostirrich, zuo Styr und zu Kernten et cetera	person
+Snoyme	place
+Mencze	place
+Mencze	place
+Eltvil	place
+off den	date
+dornstag vor sante Albans tage, nach Crists geburte druczenhundert jare, darnach in dem sehsundsehszigenstem jare	date
+Elizabeth, Deigracia regina Polonie, magnadux Litphanie et heres Russie	person
+Alberti, Deigracia Romanorum, Hungarie, Bohemie et cetera	person
+regis, ducis Austrie et marchionis Moravie et cetera	person
+Ladislaus, Deigracia Hungarie, Bohemie et cetera rex, duc Austrie marchioque Moravie et cetera	person
+Kazimiro, regi Polonie, magnoduci Litphanie et heredi Russie et cetera	person
+regem Ladislaum	person
+regis Ladislai	person
+regem Ladislaum	person
+rex Ladislaus	person
+Cracovie	place
+feria quarta ipso die cinerum anno domini millesimo quadringentesimoquinquagesimoquarto.	date
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Karls romisch kunigs zu allen ziten merer des reychs und kunigs zu Behem	person
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Karle, als einem kunge zu Beheim	person
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Parckstein	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+Eger	place
+nach Crists geburte	date
+uber dreutzehen hundert jar und dar nach in dem vir und funftzigsten jar, an dem nehsten sunntage nach Ostern, als man singt Quasi modo geniti	date
+Wenczlaw von Gots gnaden kunig zu Beheim, marggraff zu Brandemburg und zu Lusicz	person
+Bernhart von Schomburg, herre zum Hazzenstein	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Hazzenstein	place
+Hazzenstein	place
+Bresnicz	place
+Spinnebach	place
+Renzendorff	place
+Zebenticz	place
+Geiswicz	place
+Hohentanne	place
+Planstorff	place
+Hainstorff	place
+Kurbicz	place
+Kralob	place
+Hennkmstorff	place
+Wiemar	place
+Lobe	place
+Mencz	place
+Waltsachsen	place
+Mereticz	place
+Thun von Koldicz	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Bernharts	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Bernhart	person
+Bernhart	person
+Bernhart	person
+Bernhart	person
+Bernhart	person
+Bernhart	person
+Bernhart	person
+Bernhart	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Prag	place
+nach Crists geburt dreuczenhundert jar, darnach in dem	date
+siben und sechczigisten jar, an sand Barbaren tag, der heiligen jungfrawen	date
+Burghardum, burgravium Magdeburgensis	person
+Boemie	place
+Ruprecht der Elter von Gotis gnaden pfalenczgrave bei Reyn, des heiligen reiches obrister druchtsezze und herzog in Beyern	person
+Karl Romischem kunige zu allen zeiten merer des reichs und kunige ze Behem	person
+Beheim	place
+Ruprechten den Jungern	person
+Sachsen	place
+Nuewen	place
+stat	place
+Stornstein	place
+Hirzow	place
+Lichtenstein	place
+Rudolfen etwenn pfallenczgrafen bey Reyn und herzogen in Beyern	person
+Sulczbach	place
+Rosemberg	place
+Hertenstein	place
+Neydstein	place
+Turrendorff	place
+Hiltpoltstein	place
+Lichtenecke	place
+Frankenberg	place
+Lauffen	place
+Esschembach	place
+Hirspruck	place
+Avrbach	place
+Velden	place
+Pegnicz	place
+Plech	place
+Hohensern	place
+Beyern	place
+Beyern	place
+Beyern	place
+Beyern	place
+Hersprugg	place
+Hersprugg	place
+Aurbach	place
+Aurbach	place
+Hohenstein	place
+Hohenstein	place
+Rein	place
+Beyern	place
+Beyern	place
+Beyern	place
+Beyern	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Hersprugg	place
+Hersprugg	place
+Aurbach	place
+Aurbach	place
+Hohenstein	place
+Hohenstein	place
+Hagenow	place
+nach Cristus geburt dreuzen hundert jar, dornach in dem drey und funfczigstem jare, an dem nehsten dienstage	date
+vor aller heiligen tage	date
+Boleslaus, Dei gratia dux Opoliensis	person
+Johannis, Bohemie et Polonie	person
+regis ac Lucemburgensis comitis	person
+Opoliensem	place
+Opol	place
+Opol	place
+Opol	place
+Opol	place
+Opol	place
+Rosenberch	place
+Crasscow	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Opoliensium	place
+Opolienses	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Vratislavie	place
+anno Domini	date
+millesimo trecentesimo vicesimo septimo in die palmarum	date
+Zygmund, z Bozzye milosti rzymsky czyesarz, wzzdy rozmnozzytel rzysse a uhersky, czesky et cetera kral	person
+Waczla	person
+Waczla	person
+wowi, rzeczenemu Czwok, miesstieninu Noweho miesta Prazskeho	person
+Brzezzyniewes	place
+Male strany	place
+Waczlaw	person
+Czwok	person
+Czwok	person
+Czwok	person
+Czwoka	person
+Praze	place
+w Strziedu przed swatym Ondrzegem, leta od narozenie syna Bozzyeho tisyczyehocztyrzsteho trzidczateho	date
+ssesteho, let kralowstwii nassych uherskeho et cetera w padesatem, rzymskeho w sedmezyczyetmem, czeskeho w sedminad	date
+stem a czyesarzstwie w cztwrtem letie	date
+Johannis	person
+subcamerarii	person
+Gerlach von Gots gnaden erczbischof zu Mencz, des heilgen romischen riches in duetschen landen erczcanczler	person
+Ruprecht der Eldest	person
+Ruprecht der Jungste palanczgrebe by dem Ryne und herczogen in Beyern	person
+Karl, Romischem kunge, zu allen cziden merer des richis und kung zu Behem	person
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Hohinsteyn	place
+Hersbrucke	place
+Aurbach	place
+Rudolfs	person
+ettwenn palanczgrabe by dem Ryene und herczog in Beyern	person
+Behem	place
+Behem	place
+Behem	place
+Behem	place
+Mencze	place
+Meincz	place
+nach Crists geburt dreuczehen hundirt jar, darnach in dem vier und fumfczigsten jare, an dem nehsten	date
+mitwochen nach der heilgen dry kunge tage	date
+Otto von Gots gnaden marggrafe zu Brandemburg und zu Lusicz, dez heiligen romischen reichs obrister camerer, pfallenczgraff bey Reyn und herczog in Beyern	person
+Eger	place
+Eger	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Parkstein	place
+Parkstein	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Eger	place
+Eger	place
+Parkstein	place
+Parkstein	place
+Flozz	place
+Flozz	place
+Flozz	place
+Flozz	place
+Prag	place
+nach Crists geburt dreuczenhundert iar und	date
+darnach in dem sechczigisten iar an unser frawen tag liechtmesse	date
+Morner	person
+Johans	person
+Gunther, gebruder, grafen von Swarczburg	person
+Karln, romschem keiser, zu allen zeiten me	person
+rer des reichs und kunige zu Beheim	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Spremberg	place
+Spremberg	place
+Spremberg	place
+Spremberg	place
+Spremberg	place
+Spremberg	place
+Johan	person
+Johan	person
+Gunther	person
+Gunther	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Spremberg	place
+Spremberg	place
+Spremberg	place
+Prage	place
+nach Cristus geburt dreutzenhundirt jar dornach in dem sechtzigstem jar, an dem nechsten dinstag nach dem	date
+Obristen tage	date
+Sigismundus, Dei gracia Romanorum rex semper augustus ac Hungarie, Boemie, Dalmacie, Croacie	person
+et cetera rex	person
+Ludovici de Cabilone, principis Auraice	person
+Galliam	place
+Ludovico comitatum Gebennensem	person
+Gebennensi	place
+Ludovicum	person
+Ludovicus	person
+Alberti de Coldicz, capitanei Swidnicensis et Jaw	person
+Posonii	place
+anno Domini millesimo quadringentesimo vigesimotercio undecima die januarii, regnorum nostrorum	date
+anno Hungarie et cetera tricesimosexto, Romanorum tredecimo, Boemie vero tercio	date
+Georgio, episcopo Pataviensi	person
+Franciuscus prepositus Strigoniensis	person
+Wladislaus tercius, Deigracia rex Polonie necnon terrarum Cracovie, Sandomirie, Siradie, Lancicie, Cuyauie Lithwanieque prin	person
+ceps supremus, Pomeranie, Russieque dominus et heres et cetera	person
+Johannem, archiepiscopum Tarentinum	person
+Johannem	person
+Johannem	person
+episcopum Segniensem, sedis apostolice legatos	person
+Eugenii, divina providencia pape quarti	person
+ducem Kazimirum	person
+Bohemie	place
+Albertum, Romanorum et Ungarie regem et cetera	person
+Cracovie	place
+Cracovie	place
+feria quinta ipso die corporis Christi anno eiusdem millesimo quadringentesimo	date
+tricesimo nono	date
+Johannis de Coniecz	person
+polie, regni Polonie cancellarii	person
+Fridrich von Gotes gnaden lantgraf zcu Duringen, marcgraf zcu Myszen in dem Osterlande unde zcu Landesperg, graf zcu Orlamunde unde herre des landes zcu Plyssen	person
+Karl, Romischem kunge, zcu allen zciten merer des reichs unde kunge	person
+zcu Beheim	person
+Johansen, herzcogen zcu Kernthen, graven zcu Tirol unde zcu Gortz	person
+Wenczlawen	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Merhern	place
+Merhern	place
+Lutzcemburg	place
+Lutzcemburg	place
+Friderichs	person
+Balthazars	person
+Ludewiges	person
+Wilhelms	person
+Friderich	person
+Friderich	person
+Friderich	person
+Balthar	person
+Ludwig	person
+Wilhelm	person
+Wilhelm	person
+Wilhelm	person
+Duringen	place
+Duringen	place
+Duringen	place
+Myszen	place
+Myszen	place
+Osterlande	place
+Osterlande	place
+Osterlande	place
+Landesperg	place
+Landesperg	place
+Landesperg	place
+Orlamunde	place
+Orlamunde	place
+Orlamunde	place
+Plyssen	place
+Plyssen	place
+Plyssen	place
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Merhern	place
+Merhern	place
+Lutzcemburg	place
+Lutzcemburg	place
+Friderich, lantgrave zcu Duringen, marcgrave zcu Myssen in dem Osterlande unde zcu Landesperg, graf zcu Orlamunde	person
+Plyssen	place
+Plyssen	place
+Plyssen	place
+Fridrich	person
+Fridrich	person
+Fridrich	person
+Balthazar	person
+Balthazar	person
+Ludewigen	person
+Wilhelm	person
+Wilhelm	person
+Wilhelm	person
+Beheim	place
+Beheim	place
+Beheim	place
+Beheim	place
+Karl	person
+Karl	person
+Bothe von Turgow, herre zcu Arnow	person
+Sbinke von Hasenburg	person
+cammermeister her Benesch von Wartenberg, herre zcu Tethzin	person
+Jeske von Cravar	person
+Bothe	person
+Bothe	person
+von Turgow des Bichin	person
+Fridrich von Schonenburg, des Crymatschow	person
+Thime von Kolditz, unser marschalk	person
+Alber von Maltitz, unser hoverichter	person
+Dresden	place
+nach Gotes gepurd dryzcehen hundert iar, darnach in dem acht unde fierzcigesten iar an send Thomastag, des heilgen zcwelfpoten	date
+Georgius, Dei gracia Bohemie rex, Moravie marchio, Luczemburgensis et Slesie dux ac Lusacie marchio	person
+Prage	place
+Prage	place
+Prage	place
+Prage	place
+Karolo	person
+Wenceslao, Bohemie regibus	person
+Sigismundo, roma	person
+norum imperatore	person
+Sigismundi, Bohemie	person
+regis	person
+Sigismundus	person
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+Bohemie	place
+pragenses	place
+pragensium	place
+castri Pragensis	place
+Pragensium	place
+Prage	place
+Prage	place
+Prage	place
+Prage	place
+die sexta	date
+decima decembris anno domini millesimoquadringenfesimo sexagesimoprimo, regni nostri anno quarto	date
+Procopius de Rabenstein, cancellarius	person
+Oldrzich z Rosenberka	person
+Brus s Zahradky, w tu chwily haitman na Trzebony	person
+Beness z Chotienicz	person
+Jan, rzeczeni Kbelecz z Luznicze	person
+Luzniczi	place
+Janowy, opathowi w tu chwily classtera trzebonskeho	person
+Kbelczowa	person
+Jan Kbelecz	person
+Trzebony	place
+Trzebony	place
+leta od narozenye sina Bozieho tisiczieho	date
+cztrsteho trzidczateho trzetieho, ten cztwrtek po swietye Martye.	date
+Johannes, Dei gratia Boemie et Polonie Rex, Lucemburgensis Comes Marchieque Budissinensis dominus	person
+Johannes prepositus, princeps et cancellarius noster	person
+Dirzlaus decanus	person
+magister Nycolaus Custos	person
+Waltherus	person
+scolasticus	person
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wolframicz	place
+Wolframicz	place
+Moravia	place
+Wolframicz	place
+Wolframicz	place
+Wissegradensi	place
+Wissegradensi	place
+Wissegradensi	place
+Wissegradensi	place
+Wissegradensi	place
+Wissegradensi	place
+Henrico de Lypa, summo regni nostri Boemie marschalco	person
+Henrico	person
+Henrico	person
+Henrico	person
+Henrico	person
+Henricum	person
+Henrici	person
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Henricus	person
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Henrico	person
+Henrico	person
+Henrico	person
+Henrico	person
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Wissegradensis	place
+Henrico	person
+Henrico	person
+Henrico	person
+Henrico	person
+Prage	place
+Prage	place
+III Idus Junii anno Domini millesimo	date
+recentesimo vicesimoprimo, regnorum vero nostrorum anno undecimo	date
+Otacarus, Dei gracia Boemorum rex	person
+sorori sue Agneti, sancti	person
+Georgii abbatisse, et monasterio ipsius	person
+Wladizlai, quondam regis Boemie	person
+monasterio tuo sancti Georgii, quod est Prage in castro	place
+castellanus Wisegradensis	person
+Pragensis	place
+Pragensis	place
+Ztragov	place
+anno dominice incarnacionis millesimo CCo XXo IIIIo, indictione XIIa, concurrente, Vo idus octobris	date
+domini Honorii pape III	person
+illustrissimo Romanorum imperatore et rege Sicilie Friderico	person
+Wladizlaus, marchio Moravie	person
+Arnoldus deca	person
+nus	person
+nus	person
+nus	person
+nus	person
+nus	person
+nus	person
+nus	person
+nus	person
+nus	person
+nus	person
+nus	person
+Orso canonicus Pragenses	person
+dominus Jaros	person
+dominus Budiwoy	person
+dominus Borvta	person
+dominus Vitco	person
+Heinricus filii Witconis	person
+Boguzlaus camerarius	person
+Mztidrug castellanus Pragensis	person
+Groznata subcamerarius	person
+Wata	person
+Boguzlaus frater eius de Wranov castellani	person
+Boguzlaus de Wranov castellanus	person
+Zawise filius Witconis	person
+Wipertus	person
+Ypolitus	person
+Hermannus	person
+Diuinus	person
+Johannes, Dei gratia Boemie et Polonie rex, Lucemburgensis comes, Marchieque Budissinensis dominus	person
+Towaczhow	place
+Miriwans	place
+Oplaczan	place
+Wy	place
+clech	place
+Herboritz	place
+Crelicz villa forensi	place
+Pywin	place
+Henrico Juniori de Lypa	person
+Agnetis de Blankenheim	person
+predictum Henricum	person
+castrum Strilk	place
+villam Coriczan	place
+oppidum Hostradicz	place
+villam Myspicz	place
+Henricum de Lypa	person
+Henricus maritus suus	person
+Prage	place
+Prage	place
+IIII Nonas Junii anno Domini millesimo CCC vicesimoprimo, regnorum vero nostrorum anno undecimo	date
+Gindrzicha z Lypeh	person
+Anezcze z Blankenhaym	person
+Towaczow	place
+Hostradicze	place
+Misspicze	place
+Misspicze	place
+Hostieradicze	place
+Misspicze	place
+Misspicze	place
+Johannes, Dei gracia Boemie et Polonie rex et Lucemburgensis comes	person
+Towaczaw	place
+Myrwans	place
+Oplaczan	place
+Wytlich	place
+Herboricz	place
+Grelicz	place
+Pywn	place
+Heinrico de Lypa	person
+Moravici	place
+Agnetis de Blanchenheim	person
+Heinrico de Lypa	person
+Agnetem	person
+Lypa	place
+Lypa	place
+Lypa	place
+Tribowiam Moravicalem	place
+Agneti	person
+Agneti	person
+Tobaczaw	place
+Tribowie	place
+Epternaco	place
+anno Domini millesimo trecentesimo vicesimo septimo tredecima kalendas augusti	date
+Zigmund, z Bozie milosti rzimsky cziesarz, wzdy rozmnozitel rzisse, a uhersky, czesky, dalmatsky, charwatczky et cetera kral	person
+Przibik z Klenoweho	person
+Wolyni	place
+Hradu prazskeho	place
+Przibik	place
+Przibik	place
+Przibik	place
+Przibik	place
+Hradu prazskeho	place
+Przibik	person
+Przibik	person
+Przibik	person
+Przibik	person
+Przibika	person
+Prazie	place
+den swateho Mathusse	date
+aposstola a ewangelisty, Bozieho leta od narozenie sina Bozieho tisiczieho cztyrzsteho trzidczateho a ssiesteho, lett kralowstwii nassich uher	date
+skeho et cetera w padesatem, rzimskeho w XXIII, czeskeho w XVII a cziesarzstwie w czwrtem letye	date
+eta od narozenie Bozieho tisiczieho cztirzsteho trzidczateho ssesteho w nedieli przed swatu Elzbiethu	date
+Praze	place
+Praze	place
+Oldrzichem hrabii Czilskym	person
+Oldrzichem z Rosemberka	person
+Alssem z Stern	person
+Hinczem z Pirgsteina	person
+Cassparem	person
+Hasskem z Waldssteina	person
+Arnosstem z Wla	person
+Przibikem z Clenoweho	person
+Janem z Cunwaldu	person
+nayneprzemozenieygssim kniezetem a panem panem	person
+Sigmundem, z Bozie milosti Rzimskim cziesarzem, wzdy rozmnozitelem rzisse, a Uherskim, Czeskim, et cetera kralem	person
+Bedrzichem z Straznicze	person
+Mikulassem z Pelhrzimowa, rzeczenym Biskup	person
+Waczlawem Corandu	person
+Hory Tabor	place
+Bedrzich	person
+Bedrzich	person
+Bedrzich	person
+Hradisstsku	place
+Chbie	place
+Bedrzich	person
+Bedrzich	person
+Bedrzich	person
+Taborska	place
+Thabor	place
+Thabor	place
+Thabor	place
+Ustim	place
+Thabor	place
+Thabor	place
+Thabor	place
+Ustie	place
+Ustii	place
+Ustii	place
+Ssarowczi	person
+Colda	person
+Rohacz	person
+Be	person
+Be	person
+Be	person
+Be	person
+Be	person
+Be	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+Taborsku	place
+Czechach	place
+Czechach	place
+Czechach	place
+Czechach	place
+Morawie	place
+Morawie	place
+Morawie	place
+Rakusiech	place
+Rakusiech	place
+Czechach	place
+Czechach	place
+Czechach	place
+Czechach	place
+Morawie	place
+Morawie	place
+Morawie	place
+Rakussiech	place
+Thabor	place
+Thabor	place
+Thabor	place
+Czechach	place
+Czechach	place
+Czechach	place
+Czechach	place
+Ustii	place
+Ustii	place
+Lunyewske	place
+Lunyewske	place
+Czechach	place
+Czechach	place
+Czechach	place
+Czechach	place
+Morawie	place
+Morawie	place
+Morawie	place
+Rakusiech	place
+Rakusiech	place
+Be	person
+Be	person
+Be	person
+Be	person
+Be	person
+Be	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+drzich	person
+Bleh	person
+Bechyni	place
+Taborske	place
+Lunyewske	place
+Lunyewske	place
+Praze	place
+Praze	place
+Oldrzych z Hradczie	person
+Zleby	place
+Petrowy	person
+Petrowy	person
+rzeczenemu Zmrzlyk Sweyssyna	person
+Oldrzych z Hradczie	person
+Petrowy	person
+Petrowy	person
+mynczmaystrowy	person
+mynczmaystrowy	person
+Petra, mynczmaystra	person
+Gyndrzycha z Rossmberka	person
+Jana z Ustye	person
+Petra	person
+Petra	person
+starssyeho	person
+dan tento list od narossenye leta Buozyeho tyssyczyeho cztytrczissteho	date
+sessteho, ten pondyeli przyed Buozym krzysstyenii.	date

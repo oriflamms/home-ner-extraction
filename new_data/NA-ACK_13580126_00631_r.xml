@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-30T12:52:01.326+02:00</Created>
+        <LastChange>2019-11-14T12:03:38.737+01:00</LastChange>
+        <TranskribusMetadata docId="189715" pageId="7506968" pageNr="1" tsid="19363603" status="IN_PROGRESS" userId="38723" imgUrl="https://files.transkribus.eu/Get?id=XAPYMTCESLEZZRBEFTZCRJNF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMZIPHCLECGRCURTCOSRKKPU" imageId="4516050"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13580126_00631_r.jpg" imageWidth="6579" imageHeight="4174">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618436299" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1289,1185 1289,2532 4043,2532 4043,1185"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:39; length:41; continued:true;}">
+                <Coords points="1311,1257 1444,1257 1577,1257 1710,1258 1843,1258 1976,1260 2109,1261 2242,1263 2375,1265 2508,1266 2641,1269 2774,1270 2907,1272 3040,1274 3173,1276 3306,1277 3439,1278 3572,1278 3705,1279 3838,1278 3972,1278 3972,1206 3838,1206 3705,1207 3572,1206 3439,1206 3306,1205 3173,1204 3040,1202 2907,1200 2774,1198 2641,1197 2508,1194 2375,1193 2242,1191 2109,1189 1976,1188 1843,1186 1710,1186 1577,1185 1444,1185 1311,1185"/>
+                <Baseline points="1311,1233 1444,1233 1577,1233 1710,1234 1843,1234 1976,1236 2109,1237 2242,1239 2375,1241 2508,1242 2641,1245 2774,1246 2907,1248 3040,1250 3173,1252 3306,1253 3439,1254 3572,1254 3705,1255 3838,1254 3972,1254"/>
+                <TextEquiv>
+                    <Unicode>Dem allirdurchluchtistin herrin herrin Karl, Romischin keysir, czu allen czeitin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:39; continued:true;} place {offset:32; length:7;}">
+                <Coords points="1330,1348 1464,1349 1598,1351 1732,1352 1866,1354 2000,1355 2134,1356 2268,1357 2402,1358 2536,1359 2670,1360 2804,1361 2938,1362 3072,1362 3206,1363 3340,1364 3474,1364 3608,1365 3742,1365 3876,1366 4011,1366 4011,1299 3876,1299 3742,1298 3608,1298 3474,1297 3340,1297 3206,1296 3072,1295 2938,1295 2804,1294 2670,1293 2536,1292 2402,1291 2268,1290 2134,1289 2000,1288 1866,1287 1732,1285 1598,1284 1464,1282 1330,1281"/>
+                <Baseline points="1330,1326 1464,1327 1598,1329 1732,1330 1866,1332 2000,1333 2134,1334 2268,1335 2402,1336 2536,1337 2670,1338 2804,1339 2938,1340 3072,1340 3206,1341 3340,1342 3474,1342 3608,1343 3742,1343 3876,1344 4011,1344"/>
+                <TextEquiv>
+                    <Unicode>merer des rychis und kinige czu Behemen, unsim libin gnedigin herrin, enpi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:8; length:73; continued:true;} place {offset:43; length:7;} place {offset:65; length:7;}">
+                <Coords points="1349,1455 1481,1454 1614,1454 1747,1453 1880,1453 2013,1453 2145,1453 2278,1453 2411,1453 2544,1453 2677,1453 2809,1453 2942,1454 3075,1454 3208,1455 3341,1455 3473,1456 3606,1457 3739,1457 3872,1458 4005,1459 4005,1395 3872,1394 3739,1393 3606,1393 3473,1392 3341,1391 3208,1391 3075,1390 2942,1390 2809,1389 2677,1389 2544,1389 2411,1389 2278,1389 2145,1389 2013,1389 1880,1389 1747,1389 1614,1390 1481,1390 1349,1391"/>
+                <Baseline points="1349,1434 1481,1433 1614,1433 1747,1432 1880,1432 2013,1432 2145,1432 2278,1432 2411,1432 2544,1432 2677,1432 2809,1432 2942,1433 3075,1433 3208,1434 3341,1434 3473,1435 3606,1436 3739,1436 3872,1437 4005,1438"/>
+                <TextEquiv>
+                    <Unicode>te ich, Ludwig von Gotis gnadin herczog in Slesien und herre czu Legnicz und czu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:0; length:5; continued:true;} place {offset:0; length:5;}">
+                <Coords points="1343,1548 1476,1548 1610,1548 1744,1548 1878,1547 2012,1546 2146,1546 2279,1545 2413,1544 2547,1543 2681,1542 2815,1542 2949,1541 3083,1541 3216,1542 3350,1542 3484,1543 3618,1545 3752,1547 3886,1549 4020,1552 4020,1489 3886,1486 3752,1484 3618,1482 3484,1480 3350,1479 3216,1479 3083,1478 2949,1478 2815,1479 2681,1479 2547,1480 2413,1481 2279,1482 2146,1483 2012,1483 1878,1484 1744,1485 1610,1485 1476,1485 1343,1485"/>
+                <Baseline points="1343,1527 1476,1527 1610,1527 1744,1527 1878,1526 2012,1525 2146,1525 2279,1524 2413,1523 2547,1522 2681,1521 2815,1521 2949,1520 3083,1520 3216,1521 3350,1521 3484,1522 3618,1524 3752,1526 3886,1528 4020,1531"/>
+                <TextEquiv>
+                    <Unicode>Lobin, myn willigis dinst czu allin czeitin bereit libir gnedigir herre, uwirr </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1322,1646 1647,1642 1779,1644 1910,1645 2042,1644 2173,1643 2305,1641 2436,1638 2568,1636 2699,1633 2831,1631 2962,1629 3094,1627 3225,1627 3357,1628 3488,1630 3620,1635 3751,1640 3883,1648 4015,1658 4015,1595 3883,1585 3751,1577 3620,1572 3488,1567 3357,1565 3225,1564 3094,1564 2962,1566 2831,1568 2699,1570 2568,1573 2436,1575 2305,1578 2173,1580 2042,1581 1910,1582 1779,1581 1647,1579 1322,1562"/>
+                <Baseline points="1332,1619 1647,1621 1779,1623 1910,1624 2042,1623 2173,1622 2305,1620 2436,1617 2568,1615 2699,1612 2831,1610 2962,1608 3094,1606 3225,1606 3357,1607 3488,1609 3620,1614 3751,1619 3883,1627 4015,1637"/>
+                <TextEquiv>
+                    <Unicode>gnadin, tun ich czu wissin und bekenne offinlichin an desim brife, das mich </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} person {offset:5; length:19;} place {offset:16; length:8;} person {offset:34; length:31;} place {offset:46; length:10;} person {offset:71; length:6; continued:true;}">
+                <Coords points="1289,1730 1426,1738 1564,1743 1702,1747 1839,1749 1977,1749 2115,1748 2252,1746 2390,1743 2528,1740 2666,1737 2803,1734 2941,1731 3079,1728 3216,1727 3354,1726 3492,1727 3629,1730 3767,1735 3905,1741 4043,1751 4043,1682 3905,1672 3767,1666 3629,1661 3492,1658 3354,1657 3216,1658 3079,1659 2941,1662 2803,1665 2666,1668 2528,1671 2390,1674 2252,1677 2115,1679 1977,1680 1839,1680 1702,1678 1564,1674 1426,1669 1289,1661"/>
+                <Baseline points="1289,1707 1426,1715 1564,1720 1702,1724 1839,1726 1977,1726 2115,1725 2252,1723 2390,1720 2528,1717 2666,1714 2803,1711 2941,1708 3079,1705 3216,1704 3354,1703 3492,1704 3629,1707 3767,1712 3905,1718 4043,1728"/>
+                <TextEquiv>
+                    <Unicode>herr Heynke von Czedlicz und herr Heynich von Landiskron, rittere, und Ysaac </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:0; length:8; continued:true;}">
+                <Coords points="1347,1847 1481,1848 1615,1847 1749,1847 1883,1845 2017,1843 2151,1841 2286,1838 2420,1835 2554,1833 2688,1830 2822,1828 2956,1826 3090,1824 3225,1824 3359,1824 3493,1824 3627,1826 3761,1829 3895,1834 4030,1839 4030,1770 3895,1765 3761,1760 3627,1757 3493,1755 3359,1755 3225,1755 3090,1755 2956,1757 2822,1759 2688,1761 2554,1764 2420,1766 2286,1769 2151,1772 2017,1774 1883,1776 1749,1778 1615,1778 1481,1779 1347,1778"/>
+                <Baseline points="1347,1824 1481,1825 1615,1824 1749,1824 1883,1822 2017,1820 2151,1818 2286,1815 2420,1812 2554,1810 2688,1807 2822,1805 2956,1803 3090,1801 3225,1801 3359,1801 3493,1801 3627,1803 3761,1806 3895,1811 4030,1816"/>
+                <TextEquiv>
+                    <Unicode>der Jude beczalt habin vier hundirt schocke groschin von uwirre weyne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1332,1964 1585,1943 1712,1943 1840,1942 1967,1941 2094,1939 2222,1935 2349,1932 2476,1929 2604,1925 2731,1922 2858,1919 2986,1917 3113,1916 3240,1915 3368,1916 3495,1918 3622,1921 3750,1927 3877,1935 4005,1944 4005,1875 3877,1866 3750,1858 3622,1852 3495,1849 3368,1847 3240,1846 3113,1847 2986,1848 2858,1850 2731,1853 2604,1856 2476,1860 2349,1863 2222,1866 2094,1870 1967,1872 1840,1873 1712,1874 1585,1874 1322,1865"/>
+                <Baseline points="1327,1933 1585,1920 1712,1920 1840,1919 1967,1918 2094,1916 2222,1912 2349,1909 2476,1906 2604,1902 2731,1899 2858,1896 2986,1894 3113,1893 3240,1892 3368,1893 3495,1895 3622,1898 3750,1904 3877,1912 4005,1921"/>
+                <TextEquiv>
+                    <Unicode>gutlich unde liplich, also das mir gar wol doran genugit, des sag ich uwin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1353,2058 1508,2052 1638,2047 1768,2042 1898,2039 2028,2034 2157,2031 2287,2027 2417,2025 2547,2022 2677,2020 2806,2018 2936,2017 3066,2016 3196,2017 3326,2018 3455,2020 3585,2023 3715,2026 3845,2031 3975,2037 3975,1965 3845,1959 3715,1954 3585,1951 3455,1948 3326,1946 3196,1945 3066,1944 2936,1945 2806,1946 2677,1948 2547,1950 2417,1953 2287,1955 2157,1959 2028,1962 1898,1967 1768,1970 1638,1975 1508,1980 1342,1959"/>
+                <Baseline points="1379,2032 1508,2028 1638,2023 1768,2018 1898,2015 2028,2010 2157,2007 2287,2003 2417,2001 2547,1998 2677,1996 2806,1994 2936,1993 3066,1992 3196,1993 3326,1994 3455,1996 3585,1999 3715,2002 3845,2007 3975,2013"/>
+                <TextEquiv>
+                    <Unicode>keysirlichin gnadin grosin dank, und sage unde lase uwir gnade ledig unde </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1363,2145 1491,2143 1619,2141 1747,2138 1875,2135 2003,2131 2131,2128 2259,2124 2387,2120 2515,2117 2643,2114 2771,2111 2899,2109 3027,2108 3155,2107 3283,2108 3411,2109 3539,2111 3667,2115 3795,2121 3924,2127 3924,2063 3795,2057 3667,2051 3539,2047 3411,2045 3283,2044 3155,2043 3027,2044 2899,2045 2771,2047 2643,2050 2515,2053 2387,2056 2259,2060 2131,2064 2003,2067 1875,2071 1747,2074 1619,2077 1491,2079 1363,2081"/>
+                <Baseline points="1363,2124 1491,2122 1619,2120 1747,2117 1875,2114 2003,2110 2131,2107 2259,2103 2387,2099 2515,2096 2643,2093 2771,2090 2899,2088 3027,2087 3155,2086 3283,2087 3411,2088 3539,2090 3667,2094 3795,2100 3924,2106"/>
+                <TextEquiv>
+                    <Unicode>qwit und los, und wellin uch um dy genantin vier hundirt schok </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1351,2233 1481,2231 1611,2229 1742,2226 1872,2222 2003,2218 2133,2215 2263,2211 2394,2208 2524,2204 2655,2202 2785,2200 2915,2199 3046,2199 3176,2200 3307,2202 3437,2206 3567,2211 3698,2218 3828,2227 3959,2238 3959,2174 3828,2163 3698,2154 3567,2147 3437,2142 3307,2138 3176,2136 3046,2135 2915,2135 2785,2136 2655,2138 2524,2140 2394,2144 2263,2147 2133,2151 2003,2154 1872,2158 1742,2162 1611,2165 1481,2167 1351,2169"/>
+                <Baseline points="1351,2212 1481,2210 1611,2208 1742,2205 1872,2201 2003,2197 2133,2194 2263,2190 2394,2187 2524,2183 2655,2181 2785,2179 2915,2178 3046,2178 3176,2179 3307,2181 3437,2185 3567,2190 3698,2197 3828,2206 3959,2217"/>
+                <TextEquiv>
+                    <Unicode>nymmirrme gemanen. Und czu orkunde dis bekentnissis hab ich myn ingese¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} place {offset:28; length:7;} date {offset:36; length:40; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1358,2325 1489,2324 1621,2322 1753,2320 1885,2318 2017,2315 2149,2312 2280,2309 2412,2307 2544,2305 2676,2303 2808,2302 2940,2302 3072,2304 3203,2306 3335,2310 3467,2315 3599,2321 3731,2330 3863,2341 3995,2353 3995,2286 3863,2274 3731,2263 3599,2254 3467,2248 3335,2243 3203,2239 3072,2237 2940,2235 2808,2235 2676,2236 2544,2238 2412,2240 2280,2242 2149,2245 2017,2248 1885,2251 1753,2253 1621,2255 1489,2257 1358,2258"/>
+                <Baseline points="1358,2303 1489,2302 1621,2300 1753,2298 1885,2296 2017,2293 2149,2290 2280,2287 2412,2285 2544,2283 2676,2281 2808,2280 2940,2280 3072,2282 3203,2284 3335,2288 3467,2293 3599,2299 3731,2308 3863,2319 3995,2331"/>
+                <TextEquiv>
+                    <Unicode>gil angehangin. Gegebin czu Breslaw an den nesten fritage noch sente Paulus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} date {offset:0; length:73; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1375,2430 1506,2427 1637,2423 1768,2419 1899,2416 2030,2411 2161,2407 2292,2404 2423,2401 2554,2398 2685,2397 2816,2396 2947,2396 3078,2398 3209,2401 3340,2406 3471,2413 3602,2421 3733,2432 3864,2444 3995,2460 3995,2391 3864,2375 3733,2363 3602,2352 3471,2344 3340,2337 3209,2332 3078,2329 2947,2327 2816,2327 2685,2328 2554,2329 2423,2332 2292,2335 2161,2338 2030,2342 1899,2347 1768,2350 1637,2354 1506,2358 1375,2361"/>
+                <Baseline points="1375,2407 1506,2404 1637,2400 1768,2396 1899,2393 2030,2388 2161,2384 2292,2381 2423,2378 2554,2375 2685,2374 2816,2373 2947,2373 3078,2375 3209,2378 3340,2383 3471,2390 3602,2398 3733,2409 3864,2421 3995,2437"/>
+                <TextEquiv>
+                    <Unicode>tag, als her bekant wart noch Gotis geburt driczenhundirt jar in dem acht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} date {offset:0; length:21; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1359,2532 1396,2530 1433,2528 1471,2526 1508,2525 1546,2524 1583,2524 1620,2524 1658,2524 1695,2524 1733,2524 1770,2523 1807,2523 1845,2522 1882,2522 1920,2520 1957,2518 1994,2515 2032,2512 2069,2507 2107,2502 2107,2430 2069,2435 2032,2440 1994,2443 1957,2446 1920,2448 1882,2450 1845,2450 1807,2451 1770,2451 1733,2452 1695,2452 1658,2452 1620,2452 1583,2452 1546,2452 1508,2453 1471,2454 1433,2456 1396,2458 1359,2460"/>
+                <Baseline points="1359,2508 1396,2506 1433,2504 1471,2502 1508,2501 1546,2500 1583,2500 1620,2500 1658,2500 1695,2500 1733,2500 1770,2499 1807,2499 1845,2498 1882,2498 1920,2496 1957,2494 1994,2491 2032,2488 2069,2483 2107,2478"/>
+                <TextEquiv>
+                    <Unicode>und fumfczigstin jare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dem allirdurchluchtistin herrin herrin Karl, Romischin keysir, czu allen czeitin&#xD;
+merer des rychis und kinige czu Behemen, unsim libin gnedigin herrin, enpi¬&#xD;
+te ich, Ludwig von Gotis gnadin herczog in Slesien und herre czu Legnicz und czu &#xD;
+Lobin, myn willigis dinst czu allin czeitin bereit libir gnedigir herre, uwirr &#xD;
+gnadin, tun ich czu wissin und bekenne offinlichin an desim brife, das mich &#xD;
+herr Heynke von Czedlicz und herr Heynich von Landiskron, rittere, und Ysaac &#xD;
+der Jude beczalt habin vier hundirt schocke groschin von uwirre weyne &#xD;
+gutlich unde liplich, also das mir gar wol doran genugit, des sag ich uwin&#xD;
+keysirlichin gnadin grosin dank, und sage unde lase uwir gnade ledig unde &#xD;
+qwit und los, und wellin uch um dy genantin vier hundirt schok &#xD;
+nymmirrme gemanen. Und czu orkunde dis bekentnissis hab ich myn ingese¬&#xD;
+gil angehangin. Gegebin czu Breslaw an den nesten fritage noch sente Paulus &#xD;
+tag, als her bekant wart noch Gotis geburt driczenhundirt jar in dem acht&#xD;
+und fumfczigstin jare.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

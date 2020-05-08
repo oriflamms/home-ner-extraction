@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-05T15:02:12.020+02:00</Created>
+        <LastChange>2019-12-02T17:51:32.474+01:00</LastChange>
+        <TranskribusMetadata docId="169999" pageId="6426797" pageNr="1" tsid="20175627" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=KKKNBUYZEJFFRKWNRCFQLOJI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YYPJNRYLTFOXBCJVUKGQVPCZ" imageId="3818852"/>
+    </Metadata>
+    <Page imageFilename="NA-CG-L_14300811_206_r.jpg" imageWidth="6615" imageHeight="4653">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618170903" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="625,115 625,3086 5247,3060 5211,126"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:21;} place {offset:13; length:11;}">
+                <Coords points="776,1605 1091,1572 1213,590 1711,612 1897,608 2082,604 2267,599 2453,594 2638,590 2823,586 3009,583 3194,579 3379,576 3564,573 3750,571 3935,570 4120,569 4306,570 4491,571 4676,573 4862,576 4862,528 4655,421 4426,433 4306,522 4120,521 3935,522 3750,523 3564,525 3543,302 3279,322 3041,308 2810,337 2638,542 2459,492 2249,459 2082,556 1934,521 1887,349 1694,299 1516,195 806,201"/>
+                <Baseline points="1156,608 1341,605 1526,601 1711,596 1897,592 2082,588 2267,583 2453,578 2638,574 2823,570 3009,567 3194,563 3379,560 3564,557 3750,555 3935,554 4120,553 4306,554 4491,555 4676,557 4862,560"/>
+                <TextEquiv>
+                    <Unicode>Ja Przybek z Konarzowicz, gistecz a prwny dluznik dluhu dolepsaneho, wiznawam tiemto listem przedewssemy, ktoz gei uzrzie aneb cztucze slysseti budu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:112; length:18;} place {offset:121; length:9;}">
+                <Coords points="1174,696 2404,677 2533,672 2661,668 2790,664 2918,661 3047,658 3175,656 3304,655 3432,654 3561,653 3690,652 3818,652 3947,651 4075,650 4204,649 4332,648 4461,646 4589,645 4718,642 4847,639 4847,588 4718,591 4589,594 4461,595 4332,597 4204,598 4075,599 3947,600 3818,601 3690,601 3561,602 3432,603 3304,604 3175,605 3047,607 2918,610 2790,613 2661,617 2533,621 2404,626 1162,624"/>
+                <Baseline points="1189,696 2404,660 2533,655 2661,651 2790,647 2918,644 3047,641 3175,639 3304,638 3432,637 3561,636 3690,635 3818,635 3947,634 4075,633 4204,632 4332,631 4461,629 4589,628 4718,625 4847,622"/>
+                <TextEquiv>
+                    <Unicode>ze gsem dluzen sprawedlyweho dluhu dwadczeti kopp grossow dobrych strzebrnych prazskeho razu slowutnemu panossy Janowy z Trzessycz, kterezto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1162,773 1349,770 1536,766 1723,762 1910,758 2097,753 2284,749 2471,745 2658,741 2845,737 3032,733 3219,729 3406,726 3593,724 3780,721 3967,719 4154,718 4341,717 4528,717 4715,718 4902,719 4902,673 4715,672 4528,671 4341,671 4154,672 3967,673 3780,675 3593,678 3406,680 3219,683 3032,687 2845,691 2658,695 2471,699 2284,703 2097,707 1910,712 1723,716 1536,720 1349,724 1162,727"/>
+                <Baseline points="1162,758 1349,755 1536,751 1723,747 1910,743 2097,738 2284,734 2471,730 2658,726 2845,722 3032,718 3219,714 3406,711 3593,709 3780,706 3967,704 4154,703 4341,702 4528,702 4715,703 4902,704"/>
+                <TextEquiv>
+                    <Unicode>penieze slibugi gemu swu dobru wieru krzestiansku, bezewssie zle lsti, y podlezenim dolepsanym dati a hottowymy peniezy zaplatiti od tohoto swateho Gyrzie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} person {offset:73; length:7;} person {offset:102; length:6;}">
+                <Coords points="1174,841 2401,825 2531,820 2661,817 2791,814 2921,812 3051,809 3180,807 3310,805 3440,803 3570,802 3700,800 3830,799 3960,798 4089,797 4219,795 4349,794 4479,792 4609,791 4739,790 4869,788 4869,737 4739,739 4609,740 4479,741 4349,743 4219,744 4089,746 3960,747 3830,748 3700,749 3570,751 3440,752 3310,754 3180,756 3051,758 2921,761 2791,763 2661,766 2531,769 2401,774 1180,764"/>
+                <Baseline points="1183,823 2401,808 2531,803 2661,800 2791,797 2921,795 3051,792 3180,790 3310,788 3440,786 3570,785 3700,783 3830,782 3960,781 4089,780 4219,778 4349,777 4479,775 4609,774 4739,773 4869,771"/>
+                <TextEquiv>
+                    <Unicode>iakoz mynul wecztyrzech letech, a wtiech dwadczat kopach ya, swrchupsany Przybek, naprzed gmenowanemu Janowy postupugi moczi tohoto listu dwu kop</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;} place {offset:56; length:14;} person {offset:74; length:19;}">
+                <Coords points="1183,924 2399,897 2527,892 2655,887 2783,883 2911,880 3039,878 3167,876 3295,874 3423,873 3552,872 3680,871 3808,870 3936,869 4064,868 4192,867 4320,865 4448,863 4576,861 4704,857 4833,853 4833,802 4704,806 4576,810 4448,812 4320,814 4192,816 4064,817 3936,818 3808,819 3680,820 3552,821 3423,822 3295,823 3167,825 3039,827 2911,829 2783,832 2655,836 2527,841 2399,846 1186,850"/>
+                <Baseline points="1186,912 2399,880 2527,875 2655,870 2783,866 2911,863 3039,861 3167,859 3295,857 3423,856 3552,855 3680,854 3808,853 3936,852 4064,851 4192,850 4320,848 4448,846 4576,844 4704,840 4833,836"/>
+                <TextEquiv>
+                    <Unicode>platu grossow dobrych razu prazskeho, platu rocznieho w Konarzowiczich na Mikssowy Menfrakowy, na swem czlowieku platnem, na geho dworzie y na</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="1153,996 2406,974 2535,967 2664,961 2793,956 2922,952 3051,949 3180,946 3309,945 3438,943 3567,942 3696,941 3825,941 3954,940 4083,939 4212,938 4341,936 4470,934 4599,932 4728,929 4857,925 4857,876 4728,880 4599,883 4470,885 4341,887 4212,889 4083,890 3954,891 3825,892 3696,892 3567,893 3438,894 3309,896 3180,897 3051,900 2922,903 2793,907 2664,912 2535,918 2406,925 1162,930"/>
+                <Baseline points="1180,1001 1693,996 2266,975 2664,945 2793,940 2922,936 3051,933 3180,930 3309,929 3438,927 3567,926 3696,925 3825,925 3954,924 4083,923 4212,922 4341,920 4470,918 4599,916 4728,913 4857,909"/>
+                <TextEquiv>
+                    <Unicode>geho purkrechtu doswrchupsaneho roku trissto kopu na swateho Hawla, nynienaiprw przysstieho a kopu na swateho Gyrzie hned potom przisstieho, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="1130,1073 2390,1048 2529,1041 2668,1036 2807,1031 2946,1027 3085,1023 3224,1020 3363,1017 3502,1015 3640,1012 3779,1010 3918,1009 4057,1007 4196,1006 4335,1004 4474,1002 4613,1001 4752,999 4891,996 4891,947 4752,950 4613,952 4474,953 4335,955 4196,957 4057,958 3918,960 3779,961 3640,963 3502,966 3363,968 3224,971 3085,974 2946,978 2807,982 2668,987 2529,992 2390,999 1147,1010"/>
+                <Baseline points="1147,1064 1943,1064 2529,1025 2668,1020 2807,1015 2946,1011 3085,1007 3224,1004 3363,1001 3502,999 3640,996 3779,994 3918,993 4057,991 4196,990 4335,988 4474,986 4613,985 4752,983 4891,980"/>
+                <TextEquiv>
+                    <Unicode>tak zata cztyrzy leta gemu postupugi s tiem prawem, jakoz sem ia sam toho czlowieka w drzeny byll, nycz sobie na nyem zadne zwlasstnosti any ktereho prawa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;} person {offset:85; length:7;}">
+                <Coords points="1142,1146 1328,1144 1514,1141 1700,1137 1886,1133 2072,1128 2258,1123 2444,1118 2630,1113 2816,1108 3002,1102 3188,1097 3374,1092 3560,1087 3746,1083 3932,1079 4118,1076 4304,1074 4490,1072 4676,1071 4862,1072 4862,1023 4676,1022 4490,1023 4304,1025 4118,1027 3932,1030 3746,1034 3560,1038 3374,1043 3188,1048 3002,1053 2816,1059 2630,1064 2444,1069 2258,1074 2072,1079 1886,1084 1700,1088 1514,1092 1328,1095 1142,1097"/>
+                <Baseline points="1142,1130 1328,1128 1514,1125 1700,1121 1886,1117 2072,1112 2258,1107 2444,1102 2630,1097 2816,1092 3002,1086 3188,1081 3374,1076 3560,1071 3746,1067 3932,1063 4118,1060 4304,1058 4490,1056 4676,1055 4862,1056"/>
+                <TextEquiv>
+                    <Unicode>nepoostawuge, dotiech cztyrz let iakozsie naprzed menuge, a kdizbych ya, swrchupsany Przybek, nebmogi buduczy, tiech dwadczety kop grossow w tiech czty¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;} person {offset:41; length:6;} person {offset:112; length:3;}">
+                <Coords points="1118,1219 1305,1217 1492,1214 1679,1210 1866,1206 2053,1202 2240,1197 2427,1191 2614,1186 2801,1180 2988,1175 3175,1170 3362,1165 3549,1160 3736,1157 3923,1153 4110,1151 4297,1149 4484,1148 4671,1148 4858,1150 4858,1099 4671,1097 4484,1097 4297,1098 4110,1100 3923,1102 3736,1106 3549,1109 3362,1114 3175,1119 2988,1124 2801,1129 2614,1135 2427,1140 2240,1146 2053,1151 1866,1155 1679,1159 1492,1163 1305,1166 1118,1168"/>
+                <Baseline points="1118,1202 1305,1200 1492,1197 1679,1193 1866,1189 2053,1185 2240,1180 2427,1174 2614,1169 2801,1163 2988,1158 3175,1153 3362,1148 3549,1143 3736,1140 3923,1136 4110,1134 4297,1132 4484,1131 4671,1131 4858,1133"/>
+                <TextEquiv>
+                    <Unicode>rziech letech swrchupsanich dal a splnil Janowy, wierzitely memu naprzed gmenowanemu, aneb geho buduczym, to ma Jan, wierzitell moy, ode mne przygety,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="1140,1293 1326,1291 1513,1287 1700,1283 1887,1278 2074,1273 2261,1267 2448,1262 2635,1256 2822,1250 3009,1244 3195,1239 3382,1234 3569,1230 3756,1226 3943,1223 4130,1221 4317,1220 4504,1220 4691,1221 4878,1223 4878,1172 4691,1170 4504,1169 4317,1169 4130,1170 3943,1172 3756,1175 3569,1179 3382,1183 3195,1188 3009,1193 2822,1199 2635,1205 2448,1211 2261,1216 2074,1222 1887,1227 1700,1232 1513,1236 1326,1240 1140,1242"/>
+                <Baseline points="1140,1276 1326,1274 1513,1270 1700,1266 1887,1261 2074,1256 2261,1250 2448,1245 2635,1239 2822,1233 3009,1227 3195,1222 3382,1217 3569,1213 3756,1209 3943,1206 4130,1204 4317,1203 4504,1203 4691,1204 4878,1206"/>
+                <TextEquiv>
+                    <Unicode>y geho buduczy penieze ty gistee przigeti, a mnye toho czlowieka y toho platu swrchupsaneho w mu mocz zasie bez zawady sstupity, aneb mym buduczym bezew¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="1174,1359 1356,1358 1539,1355 1722,1352 1904,1348 2087,1344 2270,1340 2452,1335 2635,1330 2818,1324 3001,1319 3183,1315 3366,1310 3549,1306 3731,1302 3914,1299 4097,1297 4279,1296 4462,1296 4645,1296 4828,1299 4828,1248 4645,1245 4462,1245 4279,1245 4097,1246 3914,1248 3731,1251 3549,1255 3366,1259 3183,1264 3001,1268 2818,1273 2635,1279 2452,1284 2270,1289 2087,1293 1904,1297 1722,1301 1539,1304 1356,1307 1174,1308"/>
+                <Baseline points="1174,1342 1356,1341 1539,1338 1722,1335 1904,1331 2087,1327 2270,1323 2452,1318 2635,1313 2818,1307 3001,1302 3183,1298 3366,1293 3549,1289 3731,1285 3914,1282 4097,1280 4279,1279 4462,1279 4645,1279 4828,1282"/>
+                <TextEquiv>
+                    <Unicode>ssieho zmatku y bezewssie nesnazie y bezewssiech zamysslow. A paklybych gemu wierzitely swemu tiech dwadczat kop nedal aneb nemohl daty wtom czasu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:11;} person {offset:34; length:7;} person {offset:114; length:6;}">
+                <Coords points="1150,1435 1338,1433 1526,1431 1714,1427 1902,1424 2091,1419 2279,1414 2467,1409 2655,1403 2843,1398 3032,1394 3220,1388 3408,1383 3596,1379 3784,1375 3973,1371 4161,1368 4349,1366 4537,1365 4725,1365 4914,1366 4914,1315 4725,1314 4537,1314 4349,1315 4161,1317 3973,1320 3784,1324 3596,1328 3408,1332 3220,1337 3032,1343 2843,1347 2655,1352 2467,1358 2279,1363 2091,1368 1902,1373 1714,1376 1526,1380 1338,1382 1150,1384"/>
+                <Baseline points="1150,1418 1338,1416 1526,1414 1714,1410 1902,1407 2091,1402 2279,1397 2467,1392 2655,1386 2843,1381 3032,1377 3220,1371 3408,1366 3596,1362 3784,1358 3973,1354 4161,1351 4349,1349 4537,1348 4725,1348 4914,1349"/>
+                <TextEquiv>
+                    <Unicode>iakoz swrchupsano stogi, tehda ya Przybek, naprzed psany gistecz, slibugi ten swrchupsany plat naprzed menowanemu Janowy w zemske dczki wlozyti, zprawy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:12;} place {offset:56; length:12;}">
+                <Coords points="1142,1503 1326,1502 1510,1501 1695,1498 1879,1495 2064,1492 2248,1488 2432,1483 2617,1478 2801,1474 2986,1469 3170,1464 3354,1459 3539,1455 3723,1451 3908,1447 4092,1444 4276,1442 4461,1441 4645,1440 4830,1441 4830,1393 4645,1392 4461,1393 4276,1394 4092,1396 3908,1399 3723,1403 3539,1407 3354,1411 3170,1416 2986,1421 2801,1426 2617,1430 2432,1435 2248,1440 2064,1444 1879,1447 1695,1450 1510,1453 1326,1454 1142,1455"/>
+                <Baseline points="1142,1487 1326,1486 1510,1485 1695,1482 1879,1479 2064,1476 2248,1472 2432,1467 2617,1462 2801,1458 2986,1453 3170,1448 3354,1443 3539,1439 3723,1435 3908,1431 4092,1428 4276,1426 4461,1425 4645,1424 4830,1425"/>
+                <TextEquiv>
+                    <Unicode>ty, zprawczemi dobrymi oczistity aswoboditi, iakoz tato czeska zemie zaprawo ma, aneb wty czasy mieti bude, a to slibugi ucziniti na prwe suche dny, kte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="1126,1568 1311,1567 1496,1566 1681,1565 1866,1563 2052,1561 2237,1558 2422,1555 2607,1551 2792,1548 2978,1544 3163,1540 3348,1535 3533,1531 3718,1527 3904,1523 4089,1519 4274,1515 4459,1512 4644,1508 4830,1505 4830,1459 4644,1462 4459,1466 4274,1469 4089,1473 3904,1477 3718,1481 3533,1485 3348,1489 3163,1494 2978,1498 2792,1502 2607,1505 2422,1509 2237,1512 2052,1515 1866,1517 1681,1519 1496,1520 1311,1521 1126,1522"/>
+                <Baseline points="1126,1553 1311,1552 1496,1551 1681,1550 1866,1548 2052,1546 2237,1543 2422,1540 2607,1536 2792,1533 2978,1529 3163,1525 3348,1520 3533,1516 3718,1512 3904,1508 4089,1504 4274,1500 4459,1497 4644,1493 4830,1490"/>
+                <TextEquiv>
+                    <Unicode>rezto naiprwe w tom swatem Gyrzy pridu, iakoz sie naprzed menuge, neb nadruhe suche dni yhned potom poprwnych wzapietie przysstie aneb na trzetie a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:14;} place {offset:90; length:12;}">
+                <Coords points="1131,1640 1316,1637 1501,1634 1686,1631 1871,1627 2056,1624 2241,1621 2426,1617 2611,1614 2796,1610 2982,1607 3167,1603 3352,1600 3537,1596 3722,1593 3907,1589 4092,1586 4277,1583 4462,1579 4647,1576 4833,1572 4833,1526 4647,1530 4462,1533 4277,1537 4092,1540 3907,1543 3722,1547 3537,1550 3352,1554 3167,1557 2982,1561 2796,1564 2611,1568 2426,1571 2241,1575 2056,1578 1871,1581 1686,1585 1501,1588 1316,1591 1131,1594"/>
+                <Baseline points="1131,1625 1316,1622 1501,1619 1686,1616 1871,1612 2056,1609 2241,1606 2426,1602 2611,1599 2796,1595 2982,1592 3167,1588 3352,1585 3537,1581 3722,1578 3907,1574 4092,1571 4277,1568 4462,1564 4647,1561 4833,1557"/>
+                <TextEquiv>
+                    <Unicode>konecznie na cztwrte wssie gedny podruhych porzad poczitagicz, aczby zemske dczky w teito czeskei zemi byly, a rzadnie otewrzeny byli, apakliby desk zemskych w</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:15;} place {offset:6; length:12;} place {offset:118; length:12;}">
+                <Coords points="1150,1716 1337,1712 1524,1707 1711,1703 1898,1699 2085,1694 2272,1690 2459,1686 2646,1683 2833,1679 3020,1676 3207,1673 3394,1670 3581,1667 3768,1664 3955,1661 4142,1658 4329,1656 4516,1654 4703,1652 4890,1650 4890,1599 4703,1601 4516,1603 4329,1605 4142,1607 3955,1610 3768,1613 3581,1616 3394,1619 3207,1622 3020,1625 2833,1628 2646,1632 2459,1635 2272,1639 2085,1643 1898,1648 1711,1652 1524,1656 1337,1661 1150,1665"/>
+                <Baseline points="1150,1699 1337,1695 1524,1690 1711,1686 1898,1682 2085,1677 2272,1673 2459,1669 2646,1666 2833,1662 3020,1659 3207,1656 3394,1653 3581,1650 3768,1647 3955,1644 4142,1641 4329,1639 4516,1637 4703,1635 4890,1633"/>
+                <TextEquiv>
+                    <Unicode>teito czeskei zemi nebylo, aneb rzadnie otewrzeny nebyli, alle kteryzby koliwiek gyny rzad a prawo miesto desk w teto czeskei zemi ustawen byl, gessto by ho pozy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:16;} person {offset:107; length:6;}">
+                <Coords points="1126,1792 1312,1789 1499,1785 1686,1781 1872,1777 2059,1772 2246,1766 2432,1762 2619,1757 2806,1751 2993,1747 3179,1742 3366,1739 3553,1735 3739,1732 3926,1730 4113,1729 4299,1729 4486,1730 4673,1732 4860,1735 4860,1684 4673,1681 4486,1679 4299,1678 4113,1678 3926,1679 3739,1681 3553,1684 3366,1688 3179,1691 2993,1696 2806,1700 2619,1706 2432,1711 2246,1715 2059,1721 1872,1726 1686,1730 1499,1734 1312,1738 1126,1741"/>
+                <Baseline points="1126,1775 1312,1772 1499,1768 1686,1764 1872,1760 2059,1755 2246,1749 2432,1745 2619,1740 2806,1734 2993,1730 3179,1725 3366,1722 3553,1718 3739,1715 3926,1713 4113,1712 4299,1712 4486,1713 4673,1715 4860,1718"/>
+                <TextEquiv>
+                    <Unicode>wali wssiczkni zemane obecznie, rytierzssty, panossczy lide tiem rzadem a prawem ten plat swrchupsani gemu Janowi naprzedpsanemu y geho buduczim mam u¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:17;} person {offset:37; length:19;} place {offset:46; length:10;} person {offset:58; length:37;} place {offset:64; length:8;} place {offset:85; length:10;} person {offset:97; length:13;} person {offset:135; length:7;}">
+                <Coords points="1130,1867 1316,1866 1503,1865 1690,1863 1876,1860 2063,1857 2250,1853 2436,1848 2623,1843 2810,1838 2997,1833 3183,1828 3370,1823 3557,1819 3743,1815 3930,1811 4117,1809 4303,1807 4490,1806 4677,1806 4864,1807 4864,1756 4677,1755 4490,1755 4303,1756 4117,1758 3930,1760 3743,1764 3557,1768 3370,1772 3183,1777 2997,1782 2810,1787 2623,1792 2436,1797 2250,1802 2063,1806 1876,1809 1690,1812 1503,1814 1316,1815 1130,1816"/>
+                <Baseline points="1130,1850 1316,1849 1503,1848 1690,1846 1876,1843 2063,1840 2250,1836 2436,1831 2623,1826 2810,1821 2997,1816 3183,1811 3370,1806 3557,1802 3743,1798 3930,1794 4117,1792 4303,1790 4490,1789 4677,1789 4864,1790"/>
+                <TextEquiv>
+                    <Unicode>gistiti, autwrditi y swoboditi. A my Mikess z Sendrazicz, Jan z Hossticz, sedienim w Libyniewsy, Bazek Nebowid, rukoymie swrchupsaneho Przibka, s nym a zan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:18;}">
+                <Coords points="1135,1948 1321,1946 1508,1944 1695,1941 1881,1938 2068,1935 2255,1932 2441,1928 2628,1924 2815,1920 3002,1915 3188,1911 3375,1906 3562,1902 3748,1898 3935,1894 4122,1890 4308,1886 4495,1883 4682,1880 4869,1877 4869,1826 4682,1829 4495,1832 4308,1835 4122,1839 3935,1843 3748,1847 3562,1851 3375,1855 3188,1860 3002,1864 2815,1869 2628,1873 2441,1877 2255,1881 2068,1884 1881,1887 1695,1890 1508,1893 1321,1895 1135,1897"/>
+                <Baseline points="1135,1931 1321,1929 1508,1927 1695,1924 1881,1921 2068,1918 2255,1915 2441,1911 2628,1907 2815,1903 3002,1898 3188,1894 3375,1889 3562,1885 3748,1881 3935,1877 4122,1873 4308,1869 4495,1866 4682,1863 4869,1860"/>
+                <TextEquiv>
+                    <Unicode>slibugem wssiczkni nassy dobru wieru krzestiansku bezewssie zle lsti ruku pospolni a nerozdielnu, ze to wssie uczyni a dokona, czoz swrchupsano stogi, tak rzadnie, iakoz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:19;}">
+                <Coords points="1125,2026 1313,2023 1502,2019 1690,2015 1879,2011 2068,2007 2256,2003 2445,1999 2633,1995 2822,1991 3011,1986 3199,1982 3388,1978 3576,1974 3765,1969 3954,1965 4142,1962 4331,1958 4519,1954 4708,1951 4897,1947 4897,1896 4708,1900 4519,1903 4331,1907 4142,1911 3954,1914 3765,1918 3576,1923 3388,1927 3199,1931 3011,1935 2822,1940 2633,1944 2445,1948 2256,1952 2068,1956 1879,1960 1690,1964 1502,1968 1313,1972 1125,1975"/>
+                <Baseline points="1125,2009 1313,2006 1502,2002 1690,1998 1879,1994 2068,1990 2256,1986 2445,1982 2633,1978 2822,1974 3011,1969 3199,1965 3388,1961 3576,1957 3765,1952 3954,1948 4142,1945 4331,1941 4519,1937 4708,1934 4897,1930"/>
+                <TextEquiv>
+                    <Unicode>giz naprzed menowano gest, na ty czasy gmenowane, apakliby toho neuczinil azeby toho platu naprzed czasto psaneho w zemske dczky newlozil, a tak nezprawil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:20;}">
+                <Coords points="1123,2096 1309,2093 1495,2090 1681,2086 1867,2083 2053,2079 2239,2075 2425,2070 2611,2066 2797,2062 2984,2057 3170,2053 3356,2049 3542,2044 3728,2040 3914,2036 4100,2032 4286,2028 4472,2024 4658,2021 4845,2018 4845,1967 4658,1970 4472,1973 4286,1977 4100,1981 3914,1985 3728,1989 3542,1993 3356,1998 3170,2002 2984,2006 2797,2011 2611,2015 2425,2019 2239,2024 2053,2028 1867,2032 1681,2035 1495,2039 1309,2042 1123,2045"/>
+                <Baseline points="1123,2079 1309,2076 1495,2073 1681,2069 1867,2066 2053,2062 2239,2058 2425,2053 2611,2049 2797,2045 2984,2040 3170,2036 3356,2032 3542,2027 3728,2023 3914,2019 4100,2015 4286,2011 4472,2007 4658,2004 4845,2001"/>
+                <TextEquiv>
+                    <Unicode>a neoswobodil, iakozsie nahorze pissie, tehdy yhned potom, kdizbychom napomanuti byly od nasseho wierzitele swrchupsaneho, zust poslem nebo geho listem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:21;}">
+                <Coords points="1106,2170 1293,2167 1481,2164 1669,2161 1857,2158 2045,2154 2233,2150 2421,2146 2609,2142 2797,2137 2985,2132 3172,2128 3360,2123 3548,2118 3736,2113 3924,2108 4112,2103 4300,2098 4488,2093 4676,2088 4864,2083 4864,2032 4676,2037 4488,2042 4300,2047 4112,2052 3924,2057 3736,2062 3548,2067 3360,2072 3172,2077 2985,2081 2797,2086 2609,2091 2421,2095 2233,2099 2045,2103 1857,2107 1669,2110 1481,2113 1293,2116 1106,2119"/>
+                <Baseline points="1106,2153 1293,2150 1481,2147 1669,2144 1857,2141 2045,2137 2233,2133 2421,2129 2609,2125 2797,2120 2985,2115 3172,2111 3360,2106 3548,2101 3736,2096 3924,2091 4112,2086 4300,2081 4488,2076 4676,2071 4864,2066"/>
+                <TextEquiv>
+                    <Unicode>yhned my swrchupsani rukoymie, geden druheho neczakage, any sie geden druheho doma nebytim wymluwage, w lezenie obiczegne adluzne slibugem wleh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:22;}">
+                <Coords points="1128,2239 1314,2235 1500,2231 1686,2228 1873,2224 2059,2221 2245,2217 2431,2214 2618,2210 2804,2207 2990,2203 3176,2199 3363,2195 3549,2191 3735,2187 3921,2182 4108,2177 4294,2172 4480,2166 4666,2160 4853,2153 4853,2105 4666,2112 4480,2118 4294,2124 4108,2129 3921,2134 3735,2139 3549,2143 3363,2147 3176,2151 2990,2155 2804,2159 2618,2162 2431,2166 2245,2169 2059,2173 1873,2176 1686,2180 1500,2183 1314,2187 1128,2191"/>
+                <Baseline points="1128,2223 1314,2219 1500,2215 1686,2212 1873,2208 2059,2205 2245,2201 2431,2198 2618,2194 2804,2191 2990,2187 3176,2183 3363,2179 3549,2175 3735,2171 3921,2166 4108,2161 4294,2156 4480,2150 4666,2144 4853,2137"/>
+                <TextEquiv>
+                    <Unicode>nuti swymy wlastnymi zywoti, kazdi s gedniem pacholkem a sedwiema konyoma, aneb miesto sebe kazdi panossy rytierzskeho rzadu w to lezenie mocz polozyti,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:23;} place {offset:56; length:8;} place {offset:73; length:17;}">
+                <Coords points="1126,2305 1312,2303 1498,2301 1684,2299 1871,2296 2057,2292 2243,2289 2429,2286 2616,2282 2802,2278 2988,2274 3174,2270 3361,2266 3547,2262 3733,2258 3919,2253 4106,2249 4292,2245 4478,2241 4664,2237 4851,2234 4851,2186 4664,2189 4478,2193 4292,2197 4106,2201 3919,2205 3733,2210 3547,2214 3361,2218 3174,2222 2988,2226 2802,2230 2616,2234 2429,2238 2243,2241 2057,2244 1871,2248 1684,2251 1498,2253 1312,2255 1126,2257"/>
+                <Baseline points="1126,2289 1312,2287 1498,2285 1684,2283 1871,2280 2057,2276 2243,2273 2429,2270 2616,2266 2802,2262 2988,2258 3174,2254 3361,2250 3547,2246 3733,2242 3919,2237 4106,2233 4292,2229 4478,2225 4664,2221 4851,2218"/>
+                <TextEquiv>
+                    <Unicode>take kazdeho s gedniem pacholkem a se dwiema konyoma do Nymburka aneb do Hradcze nad Labem, z tu dwu do gednoho miesta w hospodu cztneho hospodarze, kdez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:24;}">
+                <Coords points="1118,2376 1313,2375 1509,2373 1705,2371 1900,2368 2096,2365 2292,2361 2488,2358 2683,2353 2879,2348 3075,2344 3271,2339 3466,2334 3662,2329 3858,2324 4054,2319 4249,2314 4445,2310 4641,2305 4837,2301 4837,2250 4641,2254 4445,2259 4249,2263 4054,2268 3858,2273 3662,2278 3466,2283 3271,2288 3075,2293 2879,2297 2683,2302 2488,2307 2292,2310 2096,2314 1900,2317 1705,2320 1509,2322 1313,2324 1118,2325"/>
+                <Baseline points="1118,2359 1313,2358 1509,2356 1705,2354 1900,2351 2096,2348 2292,2344 2488,2341 2683,2336 2879,2331 3075,2327 3271,2322 3466,2317 3662,2312 3858,2307 4054,2302 4249,2297 4445,2293 4641,2288 4837,2284"/>
+                <TextEquiv>
+                    <Unicode>nam bude ukazano azgednano od nasseho wierzitele swrchupsaneho neb od geho posla, a ztoho lezenie nemamy na zadne prawo wygiezdietiani, wychoditi, nez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:25;}">
+                <Coords points="1105,2446 1294,2445 1483,2443 1672,2441 1861,2438 2050,2435 2239,2432 2428,2429 2617,2424 2806,2420 2995,2416 3184,2411 3373,2407 3562,2402 3751,2397 3940,2392 4129,2387 4318,2382 4507,2377 4696,2372 4885,2367 4885,2318 4696,2323 4507,2328 4318,2333 4129,2338 3940,2343 3751,2348 3562,2353 3373,2358 3184,2362 2995,2367 2806,2371 2617,2375 2428,2380 2239,2383 2050,2386 1861,2389 1672,2392 1483,2394 1294,2396 1105,2397"/>
+                <Baseline points="1105,2430 1294,2429 1483,2427 1672,2425 1861,2422 2050,2419 2239,2416 2428,2413 2617,2408 2806,2404 2995,2400 3184,2395 3373,2391 3562,2386 3751,2381 3940,2376 4129,2371 4318,2366 4507,2361 4696,2356 4885,2351"/>
+                <TextEquiv>
+                    <Unicode>w niem ustawicznie lezeti, a gie konati, tak dluho donizbychom gemu toho platu naprzedpsaneho w zemske dczki newlozili, nezprawyli a neoswobodyli, aneb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:26;}">
+                <Coords points="1127,2516 1311,2513 1496,2511 1681,2509 1865,2506 2050,2503 2235,2500 2419,2497 2604,2494 2789,2490 2974,2487 3158,2483 3343,2479 3528,2475 3712,2471 3897,2467 4082,2463 4266,2458 4451,2454 4636,2449 4821,2445 4821,2396 4636,2400 4451,2405 4266,2409 4082,2414 3897,2418 3712,2422 3528,2426 3343,2430 3158,2434 2974,2438 2789,2441 2604,2445 2419,2448 2235,2451 2050,2454 1865,2457 1681,2460 1496,2462 1311,2464 1127,2467"/>
+                <Baseline points="1127,2500 1311,2497 1496,2495 1681,2493 1865,2490 2050,2487 2235,2484 2419,2481 2604,2478 2789,2474 2974,2471 3158,2467 3343,2463 3528,2459 3712,2455 3897,2451 4082,2447 4266,2442 4451,2438 4636,2433 4821,2429"/>
+                <TextEquiv>
+                    <Unicode>twrdili tiem rzadem, iakozsie naprzed menuge, a dokudzbychom gemu wssech sskod proto wzatich uplnie a doczela hotowymi peniezy nezaplatili, kterezby</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:27;}">
+                <Coords points="1156,2589 1340,2587 1524,2585 1709,2583 1893,2580 2078,2578 2262,2575 2446,2572 2631,2569 2815,2566 3000,2563 3184,2559 3368,2556 3553,2552 3737,2549 3922,2545 4106,2542 4290,2538 4475,2534 4659,2531 4844,2528 4844,2477 4659,2480 4475,2483 4290,2487 4106,2491 3922,2494 3737,2498 3553,2501 3368,2505 3184,2508 3000,2512 2815,2515 2631,2518 2446,2521 2262,2524 2078,2527 1893,2529 1709,2532 1524,2534 1340,2536 1156,2538"/>
+                <Baseline points="1156,2572 1340,2570 1524,2568 1709,2566 1893,2563 2078,2561 2262,2558 2446,2555 2631,2552 2815,2549 3000,2546 3184,2542 3368,2539 3553,2535 3737,2532 3922,2528 4106,2525 4290,2521 4475,2517 4659,2514 4844,2511"/>
+                <TextEquiv>
+                    <Unicode>sskody mohly pokazany byti dobrym swiedomym bez prawa doliczowanie. A pakliby z nas rukoymi w tom czasu ktereho pan Boh neuchowal, tehdy my zy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:28;}">
+                <Coords points="1119,2665 1305,2664 1492,2662 1678,2660 1865,2658 2052,2656 2238,2653 2425,2650 2611,2647 2798,2644 2985,2641 3171,2637 3358,2633 3544,2629 3731,2625 3918,2621 4104,2617 4291,2613 4477,2608 4664,2604 4851,2600 4851,2549 4664,2553 4477,2557 4291,2562 4104,2566 3918,2570 3731,2574 3544,2578 3358,2582 3171,2586 2985,2590 2798,2593 2611,2596 2425,2599 2238,2602 2052,2605 1865,2607 1678,2609 1492,2611 1305,2613 1119,2614"/>
+                <Baseline points="1119,2648 1305,2647 1492,2645 1678,2643 1865,2641 2052,2639 2238,2636 2425,2633 2611,2630 2798,2627 2985,2624 3171,2620 3358,2616 3544,2612 3731,2608 3918,2604 4104,2600 4291,2596 4477,2591 4664,2587 4851,2583"/>
+                <TextEquiv>
+                    <Unicode>wy slibugem tak dobreho a mowiteho odedne umrleho poczitagicz, k sobie przistawiti, kdiz napomanuti budem, list tento obnowiecz w taz slowa, a to pod leze¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:29;}">
+                <Coords points="1122,2737 1309,2736 1497,2735 1685,2734 1873,2732 2060,2730 2248,2728 2436,2725 2624,2722 2811,2719 2999,2716 3187,2713 3375,2709 3562,2705 3750,2701 3938,2697 4126,2693 4313,2688 4501,2683 4689,2678 4925,2666 4877,2621 4689,2627 4501,2632 4313,2637 4126,2642 3938,2646 3750,2650 3562,2654 3375,2658 3187,2662 2999,2665 2811,2668 2624,2671 2436,2674 2248,2677 2060,2679 1873,2681 1685,2683 1497,2684 1309,2685 1122,2686"/>
+                <Baseline points="1122,2720 1309,2719 1497,2718 1685,2717 1873,2715 2060,2713 2248,2711 2436,2708 2624,2705 2811,2702 2999,2699 3187,2696 3375,2692 3562,2688 3750,2684 3938,2680 4126,2676 4313,2671 4501,2666 4689,2661 4877,2655"/>
+                <TextEquiv>
+                    <Unicode>nim swrchupsanim. A ktozby tento list myel s dobru woly nasseho wierzitele swrchupsaneho, ten ma a mieti bude tuz mocz a tez prawo, czoz tento list swied¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:30;}">
+                <Coords points="1115,2806 1302,2808 1490,2810 1677,2810 1865,2809 2053,2808 2240,2806 2428,2803 2615,2800 2803,2796 2991,2792 3178,2788 3366,2784 3553,2779 3741,2776 3929,2771 4116,2768 4304,2765 4491,2762 4679,2760 4867,2759 4867,2708 4679,2709 4491,2711 4304,2714 4116,2717 3929,2720 3741,2725 3553,2728 3366,2733 3178,2737 2991,2741 2803,2745 2615,2749 2428,2752 2240,2755 2053,2757 1865,2758 1677,2759 1490,2759 1302,2757 1115,2755"/>
+                <Baseline points="1115,2789 1302,2791 1490,2793 1677,2793 1865,2792 2053,2791 2240,2789 2428,2786 2615,2783 2803,2779 2991,2775 3178,2771 3366,2767 3553,2762 3741,2759 3929,2754 4116,2751 4304,2748 4491,2745 4679,2743 4867,2742"/>
+                <TextEquiv>
+                    <Unicode>czy, iakozto on sam. Toho wsseho na potwrzenie a lepssy gistost peczeti sme swe wlastnie nassy dobru woly a wiedomim k tomuto listu prziwiesili, genz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:31;} date {offset:16; length:92;year:0; day:0; month:0;}">
+                <Coords points="1122,2884 1275,2886 1429,2887 1582,2888 1736,2888 1890,2887 2043,2886 2197,2884 2350,2882 2504,2879 2658,2876 2811,2873 2965,2870 3118,2866 3272,2863 3426,2859 3579,2856 3733,2852 3886,2849 4040,2847 4194,2844 4194,2793 4040,2796 3886,2798 3733,2801 3579,2805 3426,2808 3272,2812 3118,2815 2965,2819 2811,2822 2658,2825 2504,2828 2350,2831 2197,2833 2043,2835 1890,2836 1736,2837 1582,2837 1429,2836 1275,2835 1122,2833"/>
+                <Baseline points="1122,2867 1275,2869 1429,2870 1582,2871 1736,2871 1890,2870 2043,2869 2197,2867 2350,2865 2504,2862 2658,2859 2811,2856 2965,2853 3118,2849 3272,2846 3426,2842 3579,2839 3733,2835 3886,2832 4040,2830 4194,2827"/>
+                <TextEquiv>
+                    <Unicode>gest dan a psan leta od narozenie sina Bozeho tisicz cztirzsteho trydczateho, ten patek po swatem Wawrzinczy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Przybek z Konarzowicz, gistecz a prwny dluznik dluhu dolepsaneho, wiznawam tiemto listem przedewssemy, ktoz gei uzrzie aneb cztucze slysseti budu,
+ze gsem dluzen sprawedlyweho dluhu dwadczeti kopp grossow dobrych strzebrnych prazskeho razu slowutnemu panossy Janowy z Trzessycz, kterezto
+penieze slibugi gemu swu dobru wieru krzestiansku, bezewssie zle lsti, y podlezenim dolepsanym dati a hottowymy peniezy zaplatiti od tohoto swateho Gyrzie,
+iakoz mynul wecztyrzech letech, a wtiech dwadczat kopach ya, swrchupsany Przybek, naprzed gmenowanemu Janowy postupugi moczi tohoto listu dwu kop
+platu grossow dobrych razu prazskeho, platu rocznieho w Konarzowiczich na Mikssowy Menfrakowy, na swem czlowieku platnem, na geho dworzie y na
+geho purkrechtu doswrchupsaneho roku trissto kopu na swateho Hawla, nynienaiprw przysstieho a kopu na swateho Gyrzie hned potom przisstieho, a
+tak zata cztyrzy leta gemu postupugi s tiem prawem, jakoz sem ia sam toho czlowieka w drzeny byll, nycz sobie na nyem zadne zwlasstnosti any ktereho prawa
+nepoostawuge, dotiech cztyrz let iakozsie naprzed menuge, a kdizbych ya, swrchupsany Przybek, nebmogi buduczy, tiech dwadczety kop grossow w tiech czty¬
+rziech letech swrchupsanich dal a splnil Janowy, wierzitely memu naprzed gmenowanemu, aneb geho buduczym, to ma Jan, wierzitell moy, ode mne przygety,
+y geho buduczy penieze ty gistee przigeti, a mnye toho czlowieka y toho platu swrchupsaneho w mu mocz zasie bez zawady sstupity, aneb mym buduczym bezew¬
+ssieho zmatku y bezewssie nesnazie y bezewssiech zamysslow. A paklybych gemu wierzitely swemu tiech dwadczat kop nedal aneb nemohl daty wtom czasu,
+iakoz swrchupsano stogi, tehda ya Przybek, naprzed psany gistecz, slibugi ten swrchupsany plat naprzed menowanemu Janowy w zemske dczki wlozyti, zprawy¬
+ty, zprawczemi dobrymi oczistity aswoboditi, iakoz tato czeska zemie zaprawo ma, aneb wty czasy mieti bude, a to slibugi ucziniti na prwe suche dny, kte¬
+rezto naiprwe w tom swatem Gyrzy pridu, iakoz sie naprzed menuge, neb nadruhe suche dni yhned potom poprwnych wzapietie przysstie aneb na trzetie a
+konecznie na cztwrte wssie gedny podruhych porzad poczitagicz, aczby zemske dczky w teito czeskei zemi byly, a rzadnie otewrzeny byli, apakliby desk zemskych w
+teito czeskei zemi nebylo, aneb rzadnie otewrzeny nebyli, alle kteryzby koliwiek gyny rzad a prawo miesto desk w teto czeskei zemi ustawen byl, gessto by ho pozy¬
+wali wssiczkni zemane obecznie, rytierzssty, panossczy lide tiem rzadem a prawem ten plat swrchupsani gemu Janowi naprzedpsanemu y geho buduczim mam u¬
+gistiti, autwrditi y swoboditi. A my Mikess z Sendrazicz, Jan z Hossticz, sedienim w Libyniewsy, Bazek Nebowid, rukoymie swrchupsaneho Przibka, s nym a zan
+slibugem wssiczkni nassy dobru wieru krzestiansku bezewssie zle lsti ruku pospolni a nerozdielnu, ze to wssie uczyni a dokona, czoz swrchupsano stogi, tak rzadnie, iakoz
+giz naprzed menowano gest, na ty czasy gmenowane, apakliby toho neuczinil azeby toho platu naprzed czasto psaneho w zemske dczky newlozil, a tak nezprawil
+a neoswobodil, iakozsie nahorze pissie, tehdy yhned potom, kdizbychom napomanuti byly od nasseho wierzitele swrchupsaneho, zust poslem nebo geho listem,
+yhned my swrchupsani rukoymie, geden druheho neczakage, any sie geden druheho doma nebytim wymluwage, w lezenie obiczegne adluzne slibugem wleh¬
+nuti swymy wlastnymi zywoti, kazdi s gedniem pacholkem a sedwiema konyoma, aneb miesto sebe kazdi panossy rytierzskeho rzadu w to lezenie mocz polozyti,
+take kazdeho s gedniem pacholkem a se dwiema konyoma do Nymburka aneb do Hradcze nad Labem, z tu dwu do gednoho miesta w hospodu cztneho hospodarze, kdez
+nam bude ukazano azgednano od nasseho wierzitele swrchupsaneho neb od geho posla, a ztoho lezenie nemamy na zadne prawo wygiezdietiani, wychoditi, nez
+w niem ustawicznie lezeti, a gie konati, tak dluho donizbychom gemu toho platu naprzedpsaneho w zemske dczki newlozili, nezprawyli a neoswobodyli, aneb
+twrdili tiem rzadem, iakozsie naprzed menuge, a dokudzbychom gemu wssech sskod proto wzatich uplnie a doczela hotowymi peniezy nezaplatili, kterezby
+sskody mohly pokazany byti dobrym swiedomym bez prawa doliczowanie. A pakliby z nas rukoymi w tom czasu ktereho pan Boh neuchowal, tehdy my zy¬
+wy slibugem tak dobreho a mowiteho odedne umrleho poczitagicz, k sobie przistawiti, kdiz napomanuti budem, list tento obnowiecz w taz slowa, a to pod leze¬
+nim swrchupsanim. A ktozby tento list myel s dobru woly nasseho wierzitele swrchupsaneho, ten ma a mieti bude tuz mocz a tez prawo, czoz tento list swied¬
+czy, iakozto on sam. Toho wsseho na potwrzenie a lepssy gistost peczeti sme swe wlastnie nassy dobru woly a wiedomim k tomuto listu prziwiesili, genz
+gest dan a psan leta od narozenie sina Bozeho tisicz cztirzsteho trydczateho, ten patek po swatem Wawrzinczy.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-08-29T10:53:23.438+02:00</Created>
+        <LastChange>2020-02-27T15:05:00.380+00:00</LastChange>
+        <TranskribusMetadata docId="202237" pageId="8449180" pageNr="1" tsid="19863511" status="IN_PROGRESS" userId="48350" imgUrl="https://files.transkribus.eu/Get?id=ZZLUXBPEMARCEEFDVEERYGER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBRASAQPDKVGIFPIIOVVKCKV" imageId="5351290"/>
+    </Metadata>
+    <Page imageFilename="NA-AZK-Plasy_1183ca~11839999_579_r.jpg" imageWidth="3000" imageHeight="3492">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617788851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="432,402 432,2156 1951,2156 1951,402"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:75; length:10; continued:true;}">
+                <Coords points="455,457 527,458 600,460 672,461 745,462 817,463 890,464 962,464 1035,465 1107,466 1180,466 1252,466 1325,467 1397,467 1470,467 1542,467 1615,467 1687,467 1760,467 1832,467 1905,466 1905,411 1832,412 1760,412 1687,412 1615,412 1542,412 1470,412 1397,412 1325,412 1252,411 1180,411 1107,411 1035,410 962,409 890,409 817,408 745,407 672,406 600,405 527,403 455,402"/>
+                <Baseline points="455,439 527,440 600,442 672,443 745,444 817,445 890,446 962,446 1035,447 1107,448 1180,448 1252,448 1325,449 1397,449 1470,449 1542,449 1615,449 1687,449 1760,449 1832,449 1905,448"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:21; continued:true;} place {offset:15; length:6;}">
+                <Coords points="454,547 527,546 600,545 673,545 746,544 819,544 892,544 965,544 1038,544 1111,544 1185,544 1258,544 1331,544 1404,544 1477,544 1550,544 1623,544 1696,544 1769,544 1842,544 1916,544 1916,487 1842,487 1769,487 1696,487 1623,487 1550,487 1477,487 1404,487 1331,487 1258,487 1185,487 1111,487 1038,487 965,487 892,487 819,487 746,487 673,488 600,488 527,489 454,490"/>
+                <Baseline points="454,528 527,527 600,526 673,526 746,525 819,525 892,525 965,525 1038,525 1111,525 1185,525 1258,525 1331,525 1404,525 1477,525 1550,525 1623,525 1696,525 1769,525 1842,525 1916,525"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} place {offset:23; length:9;}">
+                <Coords points="447,636 521,636 595,636 669,635 743,636 817,636 891,636 965,637 1039,638 1113,638 1187,639 1261,640 1335,640 1409,641 1483,641 1557,641 1631,641 1705,641 1779,640 1853,640 1928,638 1928,577 1853,579 1779,579 1705,580 1631,580 1557,580 1483,580 1409,580 1335,579 1261,579 1187,578 1113,577 1039,577 965,576 891,575 817,575 743,575 669,574 595,575 521,575 447,575"/>
+                <Baseline points="447,616 521,616 595,616 669,615 743,616 817,616 891,616 965,617 1039,618 1113,618 1187,619 1261,620 1335,620 1409,621 1483,621 1557,621 1631,621 1705,621 1779,620 1853,620 1928,618"/>
+                <TextEquiv>
+                    <Unicode>nede est, quod fratris Plazenses, miserias suas cora me deposuerit, Na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} place {offset:30; length:5;}">
+                <Coords points="452,727 526,727 600,727 674,727 748,727 822,727 896,727 970,727 1044,727 1118,727 1192,727 1266,727 1340,726 1414,726 1488,726 1562,726 1636,725 1710,725 1784,725 1858,724 1932,724 1932,663 1858,663 1784,664 1710,664 1636,664 1562,665 1488,665 1414,665 1340,665 1266,666 1192,666 1118,666 1044,666 970,666 896,666 822,666 748,666 674,666 600,666 526,666 452,666"/>
+                <Baseline points="452,707 526,707 600,707 674,707 748,707 822,707 896,707 970,707 1044,707 1118,707 1192,707 1266,707 1340,706 1414,706 1488,706 1562,706 1636,705 1710,705 1784,705 1858,704 1932,704"/>
+                <TextEquiv>
+                    <Unicode>Sebant eni teloneum salus in decimus, appatus meo ipsis donatum cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="452,824 524,821 596,819 668,818 740,817 812,816 884,816 956,816 1028,816 1100,816 1172,817 1244,817 1316,817 1388,817 1460,817 1532,817 1604,816 1676,815 1748,813 1820,811 1892,809 1892,748 1820,750 1748,752 1676,754 1604,755 1532,756 1460,756 1388,756 1316,756 1244,756 1172,756 1100,755 1028,755 956,755 884,755 812,755 740,756 668,757 596,758 524,760 452,763"/>
+                <Baseline points="452,804 524,801 596,799 668,798 740,797 812,796 884,796 956,796 1028,796 1100,796 1172,797 1244,797 1316,797 1388,797 1460,797 1532,797 1604,796 1676,795 1748,793 1820,791 1892,789"/>
+                <TextEquiv>
+                    <Unicode>usus sine qui proiculo animaorum suam ad monasterius deferre ob¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="449,915 523,915 598,914 673,914 748,914 823,913 898,913 973,913 1048,913 1123,912 1198,912 1272,912 1347,911 1422,911 1497,910 1572,910 1647,909 1722,908 1797,907 1872,906 1947,905 1947,844 1872,845 1797,846 1722,847 1647,848 1572,849 1497,849 1422,850 1347,850 1272,851 1198,851 1123,851 1048,852 973,852 898,852 823,852 748,853 673,853 598,853 523,854 449,854"/>
+                <Baseline points="449,895 523,895 598,894 673,894 748,894 823,893 898,893 973,893 1048,893 1123,892 1198,892 1272,892 1347,891 1422,891 1497,890 1572,890 1647,889 1722,888 1797,887 1872,886 1947,885"/>
+                <TextEquiv>
+                    <Unicode>congitudine iuie et regsidias latnum nequerit et suorum dolori com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} place {offset:47; length:6;}">
+                <Coords points="441,1008 515,1008 590,1008 665,1008 740,1008 815,1008 890,1008 965,1008 1040,1009 1115,1009 1190,1010 1264,1010 1339,1011 1414,1012 1489,1013 1564,1014 1639,1015 1714,1016 1789,1017 1864,1018 1939,1019 1939,958 1864,957 1789,956 1714,955 1639,954 1564,953 1489,952 1414,951 1339,950 1264,949 1190,949 1115,948 1040,948 965,947 890,947 815,947 740,947 665,947 590,947 515,947 441,947"/>
+                <Baseline points="441,988 515,988 590,988 665,988 740,988 815,988 890,988 965,988 1040,989 1115,989 1190,990 1264,990 1339,991 1414,992 1489,993 1564,994 1639,995 1714,996 1789,997 1864,998 1939,999"/>
+                <TextEquiv>
+                    <Unicode>nassimus in Peticioni annuens, villa mea nostre copidis, eis perpetuo iure¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="437,1107 512,1107 587,1107 662,1107 738,1106 813,1106 888,1106 964,1106 1039,1106 1114,1106 1190,1107 1265,1107 1340,1108 1415,1109 1491,1110 1566,1111 1641,1113 1717,1115 1792,1117 1867,1120 1943,1123 1943,1062 1867,1059 1792,1056 1717,1054 1641,1052 1566,1050 1491,1049 1415,1048 1340,1047 1265,1046 1190,1046 1114,1045 1039,1045 964,1045 888,1045 813,1045 738,1045 662,1046 587,1046 512,1046 437,1046"/>
+                <Baseline points="437,1087 512,1087 587,1087 662,1087 738,1086 813,1086 888,1086 964,1086 1039,1086 1114,1086 1190,1087 1265,1087 1340,1088 1415,1089 1491,1090 1566,1091 1641,1093 1717,1095 1792,1097 1867,1100 1943,1103"/>
+                <TextEquiv>
+                    <Unicode>possidecia reddidi. secotum predictum teloneum quam ad ipsos protimit ius meo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="438,1203 512,1204 586,1204 661,1204 735,1204 810,1205 884,1205 959,1206 1033,1206 1108,1207 1182,1207 1256,1208 1331,1209 1405,1211 1480,1212 1554,1213 1629,1215 1703,1217 1778,1219 1852,1222 1927,1225 1927,1164 1852,1161 1778,1158 1703,1156 1629,1154 1554,1152 1480,1151 1405,1150 1331,1148 1256,1147 1182,1146 1108,1146 1033,1145 959,1145 884,1144 810,1144 735,1143 661,1143 586,1143 512,1143 438,1142"/>
+                <Baseline points="438,1183 512,1184 586,1184 661,1184 735,1184 810,1185 884,1185 959,1186 1033,1186 1108,1187 1182,1187 1256,1188 1331,1189 1405,1191 1480,1192 1554,1193 1629,1195 1703,1197 1778,1199 1852,1202 1927,1205"/>
+                <TextEquiv>
+                    <Unicode>accepi. Ut autem hec conmitatio nostra rata et inconvulsa et posterum prema¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="440,1299 515,1299 591,1298 666,1298 742,1298 817,1299 893,1300 968,1301 1044,1302 1119,1303 1195,1305 1271,1307 1346,1309 1422,1311 1497,1313 1573,1315 1648,1317 1724,1319 1799,1321 1875,1323 1951,1325 1951,1264 1875,1262 1799,1260 1724,1258 1648,1256 1573,1254 1497,1252 1422,1250 1346,1248 1271,1246 1195,1244 1119,1242 1044,1241 968,1240 893,1239 817,1238 742,1237 666,1237 591,1237 515,1238 440,1238"/>
+                <Baseline points="440,1279 515,1279 591,1278 666,1278 742,1278 817,1279 893,1280 968,1281 1044,1282 1119,1283 1195,1285 1271,1287 1346,1289 1422,1291 1497,1293 1573,1295 1648,1297 1724,1299 1799,1301 1875,1303 1951,1305"/>
+                <TextEquiv>
+                    <Unicode>neatur. Hoc provilequi sigillo meo confirmaus et testes idoneos huic confir¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} person {offset:41; length:4;} person {offset:47; length:7;} person {offset:56; length:14; continued:true;}">
+                <Coords points="440,1397 515,1398 590,1399 666,1400 741,1400 816,1402 892,1403 967,1404 1042,1405 1118,1407 1193,1408 1268,1409 1344,1411 1419,1413 1494,1415 1570,1417 1645,1419 1720,1421 1796,1424 1871,1426 1947,1429 1947,1368 1871,1365 1796,1363 1720,1360 1645,1358 1570,1356 1494,1354 1419,1352 1344,1350 1268,1348 1193,1347 1118,1346 1042,1344 967,1343 892,1342 816,1341 741,1339 666,1339 590,1338 515,1337 440,1336"/>
+                <Baseline points="440,1377 515,1378 590,1379 666,1380 741,1380 816,1382 892,1383 967,1384 1042,1385 1118,1387 1193,1388 1268,1389 1344,1391 1419,1393 1494,1395 1570,1397 1645,1399 1720,1401 1796,1404 1871,1406 1947,1409"/>
+                <TextEquiv>
+                    <Unicode>nationi ad hibus, quorum nominea et hec, Bleg, Bogusse, Groznata came¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} person {offset:0; length:6; continued:true;} person {offset:8; length:9;} person {offset:19; length:15;} person {offset:36; length:13;} person {offset:51; length:5;} person {offset:58; length:7;}">
+                <Coords points="432,1495 507,1497 582,1498 657,1500 733,1502 808,1503 883,1504 958,1505 1034,1506 1109,1507 1184,1508 1259,1509 1335,1510 1410,1512 1485,1513 1560,1514 1636,1515 1711,1516 1786,1518 1861,1519 1937,1521 1937,1460 1861,1458 1786,1457 1711,1455 1636,1454 1560,1453 1485,1452 1410,1451 1335,1449 1259,1448 1184,1447 1109,1446 1034,1445 958,1444 883,1443 808,1442 733,1441 657,1439 582,1437 507,1436 432,1434"/>
+                <Baseline points="432,1475 507,1477 582,1478 657,1480 733,1482 808,1483 883,1484 958,1485 1034,1486 1109,1487 1184,1488 1259,1489 1335,1490 1410,1492 1485,1493 1560,1494 1636,1495 1711,1496 1786,1498 1861,1499 1937,1501"/>
+                <TextEquiv>
+                    <Unicode>ari. Ian iudex, Martine pincerna, Tetar dapifer, Jaros Ludexik¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} person {offset:0; length:6;} person {offset:8; length:9;} person {offset:19; length:6;} person {offset:27; length:15;} person {offset:44; length:6;} person {offset:52; length:4;}">
+                <Coords points="468,1596 539,1597 610,1598 681,1599 752,1600 823,1601 894,1601 965,1602 1036,1603 1107,1603 1178,1604 1249,1605 1320,1605 1391,1606 1462,1607 1533,1608 1604,1610 1675,1612 1746,1613 1817,1616 1889,1618 1889,1557 1817,1555 1746,1552 1675,1551 1604,1549 1533,1547 1462,1546 1391,1545 1320,1544 1249,1544 1178,1543 1107,1542 1036,1542 965,1541 894,1540 823,1540 752,1539 681,1538 610,1537 539,1536 468,1535"/>
+                <Baseline points="468,1576 539,1577 610,1578 681,1579 752,1580 823,1581 894,1581 965,1582 1036,1583 1107,1583 1178,1584 1249,1585 1320,1585 1391,1586 1462,1587 1533,1588 1604,1590 1675,1592 1746,1593 1817,1596 1889,1598"/>
+                <TextEquiv>
+                    <Unicode>wyerner, Jessittibor, syaluta, Jdata, Wittiovicus, Drizec, Britni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} person {offset:0; length:7;} person {offset:9; length:13;} person {offset:24; length:5;} person {offset:45; length:9;} person {offset:56; length:6;} person {offset:64; length:6;}">
+                <Coords points="442,1698 519,1699 597,1699 675,1700 753,1701 831,1701 909,1702 986,1703 1064,1704 1142,1705 1220,1706 1298,1707 1376,1709 1453,1711 1531,1713 1609,1715 1687,1718 1765,1721 1843,1724 1921,1728 1921,1671 1843,1667 1765,1664 1687,1661 1609,1658 1531,1656 1453,1654 1376,1652 1298,1650 1220,1649 1142,1648 1064,1647 986,1646 909,1645 831,1644 753,1644 675,1643 597,1642 519,1642 442,1641"/>
+                <Baseline points="442,1679 519,1680 597,1680 675,1681 753,1682 831,1682 909,1683 986,1684 1064,1685 1142,1686 1220,1687 1298,1688 1376,1690 1453,1692 1531,1694 1609,1696 1687,1699 1765,1702 1843,1705 1921,1709"/>
+                <TextEquiv>
+                    <Unicode>Nahtolt. Napota, Seba, Linra, cum fratre suo s ribizlay, Labian letrius¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;} person {offset:15; length:6;} person {offset:23; length:8;} person {offset:33; length:9;} person {offset:50; length:8;} person {offset:69; length:6; continued:true;}">
+                <Coords points="432,1767 506,1768 580,1769 654,1770 729,1771 803,1773 877,1774 951,1777 1026,1779 1100,1781 1174,1783 1248,1786 1323,1788 1397,1791 1471,1794 1545,1797 1620,1800 1694,1803 1768,1806 1842,1808 1917,1812 1917,1779 1842,1775 1768,1773 1694,1770 1620,1767 1545,1764 1471,1761 1397,1758 1323,1755 1248,1753 1174,1750 1100,1748 1026,1746 951,1744 877,1741 803,1740 729,1738 654,1737 580,1736 506,1735 432,1734"/>
+                <Baseline points="432,1756 506,1757 580,1758 654,1759 729,1760 803,1762 877,1763 951,1766 1026,1768 1100,1770 1174,1772 1248,1775 1323,1777 1397,1780 1471,1783 1545,1786 1620,1789 1694,1792 1768,1795 1842,1797 1917,1801"/>
+                <TextEquiv>
+                    <Unicode>fratre suo, Obidemus. Lutognew, Hermanus filius Wilhelmi, Preta Ano¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;} person {offset:0; length:43; continued:true;} place {offset:9; length:8;} person {offset:47; length:30;} place {offset:58; length:10;}">
+                <Coords points="440,1859 515,1860 590,1862 665,1863 740,1865 816,1866 891,1868 966,1870 1041,1871 1116,1874 1192,1876 1267,1878 1342,1879 1417,1882 1492,1884 1568,1886 1643,1888 1718,1891 1793,1893 1868,1896 1944,1898 1944,1837 1868,1835 1793,1832 1718,1830 1643,1827 1568,1825 1492,1823 1417,1821 1342,1818 1267,1817 1192,1815 1116,1813 1041,1810 966,1809 891,1807 816,1805 740,1804 665,1802 590,1801 515,1799 440,1798"/>
+                <Baseline points="440,1839 515,1840 590,1842 665,1843 740,1845 816,1846 891,1848 966,1850 1041,1851 1116,1854 1192,1856 1267,1858 1342,1859 1417,1862 1492,1864 1568,1866 1643,1868 1718,1871 1793,1873 1868,1876 1944,1878"/>
+                <TextEquiv>
+                    <Unicode>Henrico Pragensis episo iuro venerabili et per regno moraviensis epo nostrum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="440,1943 513,1944 586,1947 659,1949 732,1951 805,1953 878,1956 951,1959 1024,1961 1097,1964 1170,1966 1243,1969 1316,1971 1389,1973 1462,1975 1535,1977 1608,1979 1681,1980 1754,1982 1827,1983 1900,1984 1900,1923 1827,1922 1754,1921 1681,1919 1608,1918 1535,1916 1462,1914 1389,1912 1316,1910 1243,1908 1170,1905 1097,1903 1024,1900 951,1898 878,1895 805,1892 732,1890 659,1888 586,1886 513,1883 440,1882"/>
+                <Baseline points="440,1923 513,1924 586,1927 659,1929 732,1931 805,1933 878,1936 951,1939 1024,1941 1097,1944 1170,1946 1243,1949 1316,1951 1389,1953 1462,1955 1535,1957 1608,1959 1681,1960 1754,1962 1827,1963 1900,1964"/>
+                <TextEquiv>
+                    <Unicode>oder honesto iuvinarius, ut statuti nostri iua latores anathematis iusculo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="438,2027 512,2029 587,2030 661,2032 736,2034 811,2036 885,2039 960,2041 1034,2044 1109,2046 1184,2049 1258,2052 1333,2055 1407,2057 1482,2060 1557,2063 1631,2066 1706,2068 1780,2071 1855,2073 1930,2075 1930,2014 1855,2012 1780,2010 1706,2007 1631,2005 1557,2002 1482,1999 1407,1996 1333,1994 1258,1991 1184,1988 1109,1985 1034,1983 960,1980 885,1978 811,1975 736,1973 661,1971 587,1969 512,1968 438,1966"/>
+                <Baseline points="438,2007 512,2009 587,2010 661,2012 736,2014 811,2016 885,2019 960,2021 1034,2024 1109,2026 1184,2029 1258,2032 1333,2035 1407,2037 1482,2040 1557,2043 1631,2046 1706,2048 1780,2051 1855,2053 1930,2055"/>
+                <TextEquiv>
+                    <Unicode>denuncient innodatos. Acta sunt autem hec et conseccione basilice quam ob¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;} person {offset:38; length:9;}">
+                <Coords points="440,2111 515,2113 591,2114 667,2116 742,2118 818,2121 894,2123 970,2126 1045,2129 1121,2132 1197,2135 1273,2137 1348,2140 1424,2143 1500,2146 1576,2148 1651,2150 1727,2152 1803,2154 1879,2156 1879,2095 1803,2093 1727,2091 1651,2089 1576,2087 1500,2085 1424,2082 1348,2079 1273,2076 1197,2074 1121,2071 1045,2068 970,2065 894,2062 818,2060 742,2057 667,2055 591,2053 515,2052 440,2050"/>
+                <Baseline points="440,2091 515,2093 591,2094 667,2096 742,2098 818,2101 894,2103 970,2106 1045,2109 1121,2112 1197,2115 1273,2117 1348,2120 1424,2123 1500,2126 1576,2128 1651,2130 1727,2132 1803,2134 1879,2136"/>
+                <TextEquiv>
+                    <Unicode>memoria victorie mee, socia thori mei elizas het conscriperit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+nede est, quod fratris Plazenses, miserias suas cora me deposuerit, Na¬
+Sebant eni teloneum salus in decimus, appatus meo ipsis donatum cum
+usus sine qui proiculo animaorum suam ad monasterius deferre ob¬
+congitudine iuie et regsidias latnum nequerit et suorum dolori com¬
+nassimus in Peticioni annuens, villa mea nostre copidis, eis perpetuo iure¬
+possidecia reddidi. secotum predictum teloneum quam ad ipsos protimit ius meo¬
+accepi. Ut autem hec conmitatio nostra rata et inconvulsa et posterum prema¬
+neatur. Hoc provilequi sigillo meo confirmaus et testes idoneos huic confir¬
+nationi ad hibus, quorum nominea et hec, Bleg, Bogusse, Groznata came¬
+ari. Ian iudex, Martine pincerna, Tetar dapifer, Jaros Ludexik¬
+wyerner, Jessittibor, syaluta, Jdata, Wittiovicus, Drizec, Britni¬
+Nahtolt. Napota, Seba, Linra, cum fratre suo s ribizlay, Labian letrius¬
+fratre suo, Obidemus. Lutognew, Hermanus filius Wilhelmi, Preta Ano¬
+Henrico Pragensis episo iuro venerabili et per regno moraviensis epo nostrum
+oder honesto iuvinarius, ut statuti nostri iua latores anathematis iusculo¬
+denuncient innodatos. Acta sunt autem hec et conseccione basilice quam ob¬
+memoria victorie mee, socia thori mei elizas het conscriperit,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

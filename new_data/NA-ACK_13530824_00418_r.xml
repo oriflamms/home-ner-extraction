@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-09T10:08:41.932+02:00</Created>
+        <LastChange>2019-10-11T14:37:20.149+02:00</LastChange>
+        <TranskribusMetadata docId="180385" pageId="7056858" pageNr="1" tsid="16810990" status="IN_PROGRESS" userId="40502" imgUrl="https://files.transkribus.eu/Get?id=CEXZGNUZBBKLMTOISQIJNTPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXAPINXTCGRBLZYHIYCSTXJG" imageId="4361634"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13530824_00418_r.jpg" imageWidth="6577" imageHeight="4622">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618135525" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="851,1123 851,2454 4743,2454 4743,1123"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:4; length:19;} place {offset:15; length:8;}">
+                <Coords points="851,1210 1045,1206 1240,1203 1434,1199 1629,1197 1824,1194 2018,1193 2213,1191 2407,1190 2602,1190 2797,1189 2991,1190 3186,1190 3380,1191 3575,1192 3770,1193 3964,1195 4159,1197 4353,1199 4548,1202 4743,1204 4743,1138 4548,1136 4353,1133 4159,1131 3964,1129 3770,1127 3575,1126 3380,1125 3186,1124 2991,1124 2797,1123 2602,1124 2407,1124 2213,1125 2018,1127 1824,1128 1629,1131 1434,1133 1136,1153 873,961 783,949"/>
+                <Baseline points="851,1188 1045,1184 1240,1181 1434,1177 1629,1175 1824,1172 2018,1171 2213,1169 2407,1168 2602,1168 2797,1167 2991,1168 3186,1168 3380,1169 3575,1170 3770,1171 3964,1173 4159,1175 4353,1177 4548,1180 4743,1182"/>
+                <TextEquiv>
+                    <Unicode>Wir Ludwig von Hoenloch tun kunt offenlichen mit disem brive allen den, die in sehint oder horen lesen, das wir den allirdurchluchtigisten fursten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:17; length:72;} place {offset:83; length:6;}">
+                <Coords points="855,1300 1044,1296 1234,1292 1423,1289 1613,1286 1802,1284 1992,1281 2181,1280 2371,1279 2560,1278 2750,1278 2940,1278 3129,1279 3319,1280 3508,1281 3698,1283 3887,1286 4077,1288 4266,1292 4456,1295 4646,1299 4646,1233 4456,1229 4266,1226 4077,1222 3887,1220 3698,1217 3508,1215 3319,1214 3129,1213 2940,1212 2750,1212 2560,1212 2371,1213 2181,1214 1992,1215 1802,1218 1613,1220 1423,1223 1234,1226 1044,1230 855,1234"/>
+                <Baseline points="855,1278 1044,1274 1234,1270 1423,1267 1613,1264 1802,1262 1992,1259 2181,1258 2371,1257 2560,1256 2750,1256 2940,1256 3129,1257 3319,1258 3508,1259 3698,1261 3887,1264 4077,1266 4266,1270 4456,1273 4646,1277"/>
+                <TextEquiv>
+                    <Unicode>und herren hern, Karl romischen kung zu allen tzeiten merer des reichs und kung zu Beheim, unsern lieben genedigen herren sein, erben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:101; length:32;} place {offset:128; length:5;}">
+                <Coords points="859,1391 1051,1386 1243,1381 1436,1377 1628,1374 1820,1371 2013,1369 2205,1367 2397,1366 2590,1365 2782,1365 2974,1366 3167,1367 3359,1368 3551,1370 3744,1373 3936,1376 4128,1379 4321,1384 4513,1388 4706,1393 4706,1327 4513,1322 4321,1318 4128,1313 3936,1310 3744,1307 3551,1304 3359,1302 3167,1301 2974,1300 2782,1299 2590,1299 2397,1300 2205,1301 2013,1303 1820,1305 1628,1308 1436,1311 1243,1315 1051,1320 859,1325"/>
+                <Baseline points="859,1369 1051,1364 1243,1359 1436,1355 1628,1352 1820,1349 2013,1347 2205,1345 2397,1344 2590,1343 2782,1343 2974,1344 3167,1345 3359,1346 3551,1348 3744,1351 3936,1354 4128,1357 4321,1362 4513,1366 4706,1371"/>
+                <TextEquiv>
+                    <Unicode>und nachkumen, aller schult, dorumb wir in oder seliger gedechtnützze den hochgebornen fursten, hern Johansen ettwenne kunge ze Behem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="894,1478 1092,1473 1291,1469 1490,1465 1689,1462 1888,1459 2087,1458 2286,1457 2485,1456 2684,1457 2882,1458 3081,1459 3280,1461 3479,1463 3678,1466 3877,1469 4076,1473 4275,1477 4474,1481 4673,1486 4673,1428 4474,1423 4275,1419 4076,1415 3877,1411 3678,1408 3479,1405 3280,1403 3081,1401 2882,1400 2684,1399 2485,1398 2286,1399 2087,1400 1888,1401 1689,1404 1490,1407 1291,1411 1092,1415 894,1420"/>
+                <Baseline points="894,1459 1092,1454 1291,1450 1490,1446 1689,1443 1888,1440 2087,1439 2286,1438 2485,1437 2684,1438 2882,1439 3081,1440 3280,1442 3479,1444 3678,1447 3877,1450 4076,1454 4275,1458 4474,1462 4673,1467"/>
+                <TextEquiv>
+                    <Unicode>seinem vater, mit briven oder süst in dheineweis gemanen möchten uncz uff disen heutigen tag, gar und genczlichen ledig und lozz gelazzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="881,1576 1071,1572 1261,1568 1451,1565 1641,1562 1831,1559 2021,1557 2211,1556 2401,1554 2591,1553 2781,1553 2971,1553 3161,1553 3351,1553 3541,1554 3731,1556 3921,1557 4111,1559 4301,1562 4491,1564 4682,1567 4682,1507 4491,1504 4301,1502 4111,1499 3921,1497 3731,1496 3541,1494 3351,1493 3161,1493 2971,1493 2781,1493 2591,1493 2401,1494 2211,1496 2021,1497 1831,1499 1641,1502 1451,1505 1261,1508 1071,1512 881,1516"/>
+                <Baseline points="881,1556 1071,1552 1261,1548 1451,1545 1641,1542 1831,1539 2021,1537 2211,1536 2401,1534 2591,1533 2781,1533 2971,1533 3161,1533 3351,1533 3541,1534 3731,1536 3921,1537 4111,1539 4301,1542 4491,1544 4682,1547"/>
+                <TextEquiv>
+                    <Unicode>haben und quiit und auch ledig sagen mit krafft dicz brives, und geloben für uns, unsir erbin und nachkumen mit guten steten trewen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="885,1673 1073,1670 1262,1668 1450,1666 1639,1664 1828,1662 2016,1659 2205,1658 2393,1656 2582,1654 2771,1653 2959,1652 3148,1652 3336,1652 3525,1652 3714,1654 3902,1655 4091,1658 4279,1661 4468,1665 4657,1670 4657,1600 4468,1595 4279,1591 4091,1588 3902,1585 3714,1584 3525,1582 3336,1582 3148,1582 2959,1582 2771,1583 2582,1584 2393,1586 2205,1588 2016,1589 1828,1592 1639,1594 1450,1596 1262,1598 1073,1600 885,1603"/>
+                <Baseline points="885,1650 1073,1647 1262,1645 1450,1643 1639,1641 1828,1639 2016,1636 2205,1635 2393,1633 2582,1631 2771,1630 2959,1629 3148,1629 3336,1629 3525,1629 3714,1631 3902,1632 4091,1635 4279,1638 4468,1642 4657,1647"/>
+                <TextEquiv>
+                    <Unicode>an geverde dem obgenanten unserm genedigen herren dem kunge, seinen erben und nachkumen an dem reiche und auch an dem kungrich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} place {offset:3; length:5;}">
+                <Coords points="867,1771 1054,1768 1242,1765 1430,1763 1618,1760 1806,1758 1994,1757 2182,1755 2370,1754 2558,1753 2746,1753 2933,1753 3121,1753 3309,1753 3497,1755 3685,1756 3873,1758 4061,1760 4249,1763 4437,1767 4625,1770 4625,1686 4437,1683 4249,1679 4061,1676 3873,1674 3685,1672 3497,1671 3309,1669 3121,1669 2933,1669 2746,1669 2558,1669 2370,1670 2182,1671 1994,1673 1806,1674 1618,1676 1430,1679 1242,1681 1054,1684 867,1687"/>
+                <Baseline points="867,1743 1054,1740 1242,1737 1430,1735 1618,1732 1806,1730 1994,1729 2182,1727 2370,1726 2558,1725 2746,1725 2933,1725 3121,1725 3309,1725 3497,1727 3685,1728 3873,1730 4061,1732 4249,1735 4437,1739 4625,1742"/>
+                <TextEquiv>
+                    <Unicode>zu Behem, das wir sulche schult, die sich uff disen heutigen tag vergangen hat, nimmer in dheineweis eischen odir vordern wollen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1570456410360_183" custom="readingOrder {index:7;} place {offset:42; length:8;} place {offset:71; length:10;}">
+                <Coords points="897,1813 2108,1790 3466,1806 4418,1809 4657,1809 4657,1859 4418,1859 3466,1856 2108,1840 898,1863"/>
+                <Baseline points="898,1858 2108,1835 3466,1851 4418,1854 4657,1854"/>
+                <TextEquiv>
+                    <Unicode>noch ire leute, beinamen des kungrichs zu Beheimen, der grafschafft zu Luczemburg und wo sie andirswo in iren herschefften unde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="896,1966 1086,1962 1277,1959 1468,1957 1659,1955 1850,1954 2040,1953 2231,1953 2422,1953 2613,1953 2804,1954 2994,1955 3185,1957 3376,1959 3567,1961 3758,1963 3948,1966 4139,1969 4330,1972 4521,1975 4679,1982 4679,1898 4521,1891 4330,1888 4139,1885 3948,1882 3758,1879 3567,1877 3376,1875 3185,1873 2994,1871 2804,1870 2613,1869 2422,1869 2231,1869 2040,1869 1850,1870 1659,1871 1468,1873 1277,1875 1086,1878 896,1882"/>
+                <Baseline points="896,1938 1086,1934 1277,1931 1468,1929 1659,1927 1850,1926 2040,1925 2231,1925 2422,1925 2613,1925 2804,1926 2994,1927 3185,1929 3376,1931 3567,1933 3758,1935 3948,1938 4139,1941 4330,1944 4521,1947 4712,1951"/>
+                <TextEquiv>
+                    <Unicode>landen sictzen, dorumb hindern, pfenden odir uffhalden sullen odir wollen, in dheinen tzukumpftigen tzeiten. Wer auch sache, das furbaz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="882,2062 1070,2057 1258,2054 1447,2051 1635,2049 1824,2048 2012,2048 2200,2049 2389,2050 2577,2052 2766,2054 2954,2056 3142,2059 3331,2062 3519,2065 3708,2068 3896,2072 4084,2074 4273,2078 4461,2080 4650,2083 4650,1999 4461,1996 4273,1994 4084,1990 3896,1988 3708,1984 3519,1981 3331,1978 3142,1975 2954,1972 2766,1970 2577,1968 2389,1966 2200,1965 2012,1964 1824,1964 1635,1965 1447,1967 1258,1970 1070,1973 882,1978"/>
+                <Baseline points="882,2034 1070,2029 1258,2026 1447,2023 1635,2021 1824,2020 2012,2020 2200,2021 2389,2022 2577,2024 2766,2026 2954,2028 3142,2031 3331,2034 3519,2037 3708,2040 3896,2044 4084,2046 4273,2050 4461,2052 4650,2055"/>
+                <TextEquiv>
+                    <Unicode>mer dheinerlei brive sulcher schult ze liechte quemen, meinen und wollen wir, das die genczlichen abesein und keine krafft haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="903,2152 1092,2148 1281,2146 1471,2144 1660,2143 1850,2142 2039,2143 2228,2144 2418,2146 2607,2148 2797,2150 2986,2153 3175,2156 3365,2159 3554,2162 3744,2166 3933,2169 4122,2171 4312,2174 4501,2176 4691,2178 4691,2105 4501,2103 4312,2101 4122,2098 3933,2096 3744,2093 3554,2089 3365,2086 3175,2083 2986,2080 2797,2077 2607,2075 2418,2073 2228,2071 2039,2070 1850,2069 1660,2070 1471,2071 1281,2073 1092,2075 903,2079"/>
+                <Baseline points="903,2128 1092,2124 1281,2122 1471,2120 1660,2119 1850,2118 2039,2119 2228,2120 2418,2122 2607,2124 2797,2126 2986,2129 3175,2132 3365,2135 3554,2138 3744,2142 3933,2145 4122,2147 4312,2150 4501,2152 4691,2154"/>
+                <TextEquiv>
+                    <Unicode>sullen, wann wir sie töten und alczemal vernichten in disem brive, usgenumen unsern pfantschefften, die wir innehaben von dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="909,2251 1100,2247 1291,2244 1482,2242 1673,2241 1864,2241 2055,2241 2246,2242 2437,2244 2628,2246 2820,2249 3011,2252 3202,2256 3393,2259 3584,2264 3775,2268 3966,2272 4157,2276 4348,2281 4539,2285 4731,2288 4731,2215 4539,2212 4348,2208 4157,2203 3966,2199 3775,2195 3584,2191 3393,2186 3202,2183 3011,2179 2820,2176 2628,2173 2437,2171 2246,2169 2055,2168 1864,2168 1673,2168 1482,2169 1291,2171 1100,2174 909,2178"/>
+                <Baseline points="909,2227 1100,2223 1291,2220 1482,2218 1673,2217 1864,2217 2055,2217 2246,2218 2437,2220 2628,2222 2820,2225 3011,2228 3202,2232 3393,2235 3584,2240 3775,2244 3966,2248 4157,2252 4348,2257 4539,2261 4731,2264"/>
+                <TextEquiv>
+                    <Unicode>reiche, bei den wir ungehindert beleiben sullen nach laut der brive, die wir dorubir haben von dem reiche. Mit urkunde ditz brives,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} place {offset:47; length:9;} date {offset:57; length:70; continued:true;}">
+                <Coords points="909,2349 1096,2346 1284,2345 1472,2344 1660,2343 1848,2343 2035,2344 2223,2345 2411,2346 2599,2348 2787,2350 2974,2353 3162,2356 3350,2360 3538,2364 3726,2368 3913,2373 4101,2378 4289,2383 4477,2389 4665,2395 4665,2325 4477,2319 4289,2313 4101,2308 3913,2303 3726,2298 3538,2294 3350,2290 3162,2286 2974,2283 2787,2280 2599,2278 2411,2276 2223,2275 2035,2274 1848,2273 1660,2273 1472,2274 1284,2275 1096,2276 909,2279"/>
+                <Baseline points="909,2326 1096,2323 1284,2322 1472,2321 1660,2320 1848,2320 2035,2321 2223,2322 2411,2323 2599,2325 2787,2327 2974,2330 3162,2333 3350,2337 3538,2341 3726,2345 3913,2350 4101,2355 4289,2360 4477,2366 4665,2372"/>
+                <TextEquiv>
+                    <Unicode>versigilt mit unserm insigel, der geben ist zu Nuremberg nach Crists gebürte dreitzen hundert und in dem drey und fumftzigistem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} date {offset:0; length:57; continued:true;}">
+                <Coords points="920,2446 1009,2443 1098,2441 1187,2440 1276,2440 1366,2440 1455,2440 1544,2441 1633,2442 1722,2443 1812,2445 1901,2447 1990,2449 2079,2450 2168,2451 2258,2453 2347,2453 2436,2454 2525,2454 2614,2453 2704,2452 2704,2382 2614,2383 2525,2384 2436,2384 2347,2383 2258,2383 2168,2381 2079,2380 1990,2379 1901,2377 1812,2375 1722,2373 1633,2372 1544,2371 1455,2370 1366,2370 1276,2370 1187,2370 1098,2371 1009,2373 920,2376"/>
+                <Baseline points="920,2423 1009,2420 1098,2418 1187,2417 1276,2417 1366,2417 1455,2417 1544,2418 1633,2419 1722,2420 1812,2422 1901,2424 1990,2426 2079,2427 2168,2428 2258,2430 2347,2430 2436,2431 2525,2431 2614,2430 2704,2429"/>
+                <TextEquiv>
+                    <Unicode>jare, an santh Bartholomeus tage des heiligen czwelfboten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir Ludwig von Hoenloch tun kunt offenlichen mit disem brive allen den, die in sehint oder horen lesen, das wir den allirdurchluchtigisten fursten
+und herren hern, Karl romischen kung zu allen tzeiten merer des reichs und kung zu Beheim, unsern lieben genedigen herren sein, erben
+und nachkumen, aller schult, dorumb wir in oder seliger gedechtnützze den hochgebornen fursten, hern Johansen ettwenne kunge ze Behem,
+seinem vater, mit briven oder süst in dheineweis gemanen möchten uncz uff disen heutigen tag, gar und genczlichen ledig und lozz gelazzen
+haben und quiit und auch ledig sagen mit krafft dicz brives, und geloben für uns, unsir erbin und nachkumen mit guten steten trewen
+an geverde dem obgenanten unserm genedigen herren dem kunge, seinen erben und nachkumen an dem reiche und auch an dem kungrich
+zu Behem, das wir sulche schult, die sich uff disen heutigen tag vergangen hat, nimmer in dheineweis eischen odir vordern wollen,
+noch ire leute, beinamen des kungrichs zu Beheimen, der grafschafft zu Luczemburg und wo sie andirswo in iren herschefften unde
+landen sictzen, dorumb hindern, pfenden odir uffhalden sullen odir wollen, in dheinen tzukumpftigen tzeiten. Wer auch sache, das furbaz¬
+mer dheinerlei brive sulcher schult ze liechte quemen, meinen und wollen wir, das die genczlichen abesein und keine krafft haben
+sullen, wann wir sie töten und alczemal vernichten in disem brive, usgenumen unsern pfantschefften, die wir innehaben von dem
+reiche, bei den wir ungehindert beleiben sullen nach laut der brive, die wir dorubir haben von dem reiche. Mit urkunde ditz brives,
+versigilt mit unserm insigel, der geben ist zu Nuremberg nach Crists gebürte dreitzen hundert und in dem drey und fumftzigistem
+jare, an santh Bartholomeus tage des heiligen czwelfboten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

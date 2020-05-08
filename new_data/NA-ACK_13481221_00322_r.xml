@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-11T09:13:26.035+02:00</Created>
+        <LastChange>2019-11-18T09:25:29.805+01:00</LastChange>
+        <TranskribusMetadata docId="181104" pageId="7264743" pageNr="1" tsid="19489918" status="IN_PROGRESS" userId="38723" imgUrl="https://files.transkribus.eu/Get?id=ZNKIXLYPGAZJLXKIGYKIQUNA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VKWKZTYLDCVMZMUHKQDIXYFU" imageId="4373176"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13481221_00322_r.jpg" imageWidth="9226" imageHeight="6426">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618082577" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="1595,90 1595,2064 5799,2064 5799,90"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;} person {offset:4; length:160;} place {offset:43; length:8;} place {offset:66; length:6;} place {offset:80; length:10;} place {offset:100; length:10;} place {offset:121; length:9;} place {offset:157; length:7;}">
+                <Coords points="1543,724 1933,720 2133,724 2334,727 2534,731 2735,735 2935,738 3135,742 3336,745 3536,748 3737,750 3937,752 4137,752 4338,752 4538,751 4739,749 4939,746 5139,741 5340,735 5540,728 5741,718 5741,676 5540,686 5340,693 5139,699 4939,704 4739,707 4538,709 4338,710 4137,710 3937,710 3737,708 3536,706 3336,703 3135,700 2935,696 2735,693 2534,689 2334,685 2133,682 1933,678 1538,659"/>
+                <Baseline points="1562,711 1933,706 2133,710 2334,713 2534,717 2735,721 2935,724 3135,728 3336,731 3536,734 3737,736 3937,738 4137,738 4338,738 4538,737 4739,735 4939,732 5139,727 5340,721 5540,714 5741,704"/>
+                <TextEquiv>
+                    <Unicode>Wir Fridrich von Gotes gnaden lantgraf zcu Duringen, marcgraf zcu Myszen in dem Osterlande unde zcu Landesperg, graf zcu Orlamunde unde herre des landes zcu Plyssen, voriehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:1;}">
+                <Coords points="1610,779 1816,782 2022,785 2228,788 2435,792 2641,796 2847,800 3054,804 3260,807 3466,810 3673,813 3879,815 4085,816 4291,816 4498,815 4704,812 4910,809 5117,804 5323,797 5529,788 5736,778 5736,736 5529,746 5323,755 5117,762 4910,767 4704,770 4498,773 4291,774 4085,774 3879,773 3673,771 3466,768 3260,765 3054,762 2847,758 2641,754 2435,750 2228,746 2022,743 1816,740 1610,737"/>
+                <Baseline points="1610,765 1816,768 2022,771 2228,774 2435,778 2641,782 2847,786 3054,790 3260,793 3466,796 3673,799 3879,801 4085,802 4291,802 4498,801 4704,798 4910,795 5117,790 5323,783 5529,774 5736,764"/>
+                <TextEquiv>
+                    <Unicode>unde tun kunt offenlichen mit disem brief allen den, die in sehen, horen oder lesen, daz wir durch gemeines nutzces willen frides unde gemaches unserer lande beidersit unde auch umb sunderer </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:2;} person {offset:131; length:67; continued:true;}">
+                <Coords points="1596,833 1805,837 2014,842 2223,847 2432,852 2641,857 2850,862 3059,866 3268,870 3477,874 3686,877 3895,879 4104,880 4313,880 4522,878 4731,876 4940,872 5149,866 5358,860 5567,851 5776,840 5776,798 5567,809 5358,818 5149,824 4940,830 4731,834 4522,836 4313,838 4104,838 3895,837 3686,835 3477,832 3268,828 3059,824 2850,820 2641,815 2432,810 2223,805 2014,800 1805,795 1596,791"/>
+                <Baseline points="1596,819 1805,823 2014,828 2223,833 2432,838 2641,843 2850,848 3059,852 3268,856 3477,860 3686,863 3895,865 4104,866 4313,866 4522,864 4731,862 4940,858 5149,852 5358,846 5567,837 5776,826"/>
+                <TextEquiv>
+                    <Unicode>fruntschaft begerunge und liebe, die uns darzcu leitet, uns mit dem allerdurchluchtigsten fursten unde unserm gnedigen herren hern Karl, Romischem kunge, zcu allen zciten merer des reichs unde kunge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;} person {offset:0; length:10; continued:true;} place {offset:4; length:6;} person {offset:53; length:65;} place {offset:77; length:8;} place {offset:98; length:5;} place {offset:113; length:5;} person {offset:125; length:10;} place {offset:189; length:6;}">
+                <Coords points="1602,893 1809,898 2017,904 2225,909 2432,914 2640,920 2848,925 3055,929 3263,934 3471,937 3679,940 3886,941 4094,942 4302,942 4509,941 4717,938 4925,933 5132,928 5340,921 5548,912 5756,901 5756,859 5548,870 5340,879 5132,886 4925,891 4717,896 4509,899 4302,900 4094,900 3886,899 3679,898 3471,895 3263,892 3055,887 2848,883 2640,878 2432,872 2225,867 2017,862 1809,856 1602,851"/>
+                <Baseline points="1602,879 1809,884 2017,890 2225,895 2432,900 2640,906 2848,911 3055,915 3263,920 3471,923 3679,926 3886,927 4094,928 4302,928 4509,927 4717,924 4925,919 5132,914 5340,907 5548,898 5756,887"/>
+                <TextEquiv>
+                    <Unicode>zcu Beheim, unde den hochgeboren fursten unde herren Johansen, herzcogen zcu Kernthen, graven zcu Tirol unde zcu Gortz, unde Wenczlawen, sinen brudern, iren erben unde nachkomen kungen zcu Beheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;} place {offset:40; length:7;} place {offset:64; length:11;} person {offset:107; length:10;} person {offset:119; length:10;} person {offset:131; length:9;} person {offset:146; length:8;}">
+                <Coords points="1610,954 1817,959 2024,964 2231,970 2438,976 2645,981 2852,986 3059,992 3266,996 3473,1000 3680,1003 3887,1005 4094,1006 4301,1006 4508,1004 4715,1001 4922,997 5129,991 5336,982 5543,973 5750,960 5750,918 5543,931 5336,940 5129,949 4922,955 4715,959 4508,962 4301,964 4094,964 3887,963 3680,961 3473,958 3266,954 3059,950 2852,944 2645,939 2438,934 2231,928 2024,922 1817,917 1610,912"/>
+                <Baseline points="1610,940 1817,945 2024,950 2231,956 2438,962 2645,967 2852,972 3059,978 3266,982 3473,986 3680,989 3887,991 4094,992 4301,992 4508,990 4715,987 4922,983 5129,977 5336,968 5543,959 5750,946"/>
+                <TextEquiv>
+                    <Unicode>und der cronen da selbes marcgrafen zcu Merhern unde grafen zcu Lutzcemburg von unsers unde der hochgeborn Friderichs, Balthazars, Ludewiges unde Wilhelms, unser sune, und aller unser unde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="1614,1013 1819,1019 2025,1025 2231,1030 2436,1035 2642,1041 2848,1047 3053,1051 3259,1055 3465,1059 3671,1062 3876,1064 4082,1064 4288,1064 4493,1063 4699,1060 4905,1056 5110,1050 5316,1042 5522,1033 5728,1022 5728,980 5522,991 5316,1000 5110,1008 4905,1014 4699,1018 4493,1021 4288,1022 4082,1022 3876,1022 3671,1020 3465,1017 3259,1013 3053,1009 2848,1005 2642,999 2436,993 2231,988 2025,983 1819,977 1614,971"/>
+                <Baseline points="1614,999 1819,1005 2025,1011 2231,1016 2436,1021 2642,1027 2848,1033 3053,1037 3259,1041 3465,1045 3671,1048 3876,1050 4082,1050 4288,1050 4493,1049 4699,1046 4905,1042 5110,1036 5316,1028 5522,1019 5728,1008"/>
+                <TextEquiv>
+                    <Unicode>irerr erben unde nachkumen, wegen fursten unde herren der vorgenanten unserr herschefte und lande mit vollem rate und mit wolbedachtem mut voreint unde vorbunden haben, und voreinen unde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;} person {offset:150; length:9;} person {offset:161; length:7;} person {offset:170; length:6;} person {offset:178; length:7;}">
+                <Coords points="1589,1080 1825,1078 2032,1084 2240,1090 2447,1096 2655,1101 2862,1107 3069,1112 3277,1115 3484,1119 3692,1122 3899,1123 4106,1124 4314,1124 4521,1122 4729,1119 4936,1115 5143,1110 5351,1102 5558,1094 5766,1083 5766,1041 5558,1052 5351,1060 5143,1068 4936,1073 4729,1077 4521,1080 4314,1082 4106,1082 3899,1081 3692,1080 3484,1077 3277,1073 3069,1070 2862,1065 2655,1059 2447,1054 2240,1048 2032,1042 1825,1036 1589,1024"/>
+                <Baseline points="1618,1057 1825,1064 2032,1070 2240,1076 2447,1082 2655,1087 2862,1093 3069,1098 3277,1101 3484,1105 3692,1108 3899,1109 4106,1110 4314,1110 4521,1108 4729,1105 4936,1101 5143,1096 5351,1088 5558,1080 5766,1069"/>
+                <TextEquiv>
+                    <Unicode>vorbinden uns mit disem gegenwertigen brief und geloben mit geswornem eide in guten truwen on alles geverde, daz wir unde die vorgenanten  unser sune Friderich, Balthar, Ludwig, Wilhelm und unser aller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:7;} place {offset:36; length:8;} place {offset:61; length:6;} place {offset:75; length:10;} place {offset:95; length:10;} place {offset:118; length:9;} place {offset:155; length:7;}">
+                <Coords points="1603,1132 1810,1138 2018,1144 2226,1149 2434,1154 2642,1160 2850,1165 3057,1170 3265,1173 3473,1177 3681,1179 3889,1181 4097,1182 4305,1182 4512,1181 4720,1178 4928,1174 5136,1169 5344,1162 5552,1153 5760,1143 5760,1101 5552,1111 5344,1120 5136,1127 4928,1132 4720,1136 4512,1139 4305,1140 4097,1140 3889,1139 3681,1137 3473,1135 3265,1131 3057,1128 2850,1123 2642,1118 2434,1112 2226,1107 2018,1102 1810,1096 1603,1090"/>
+                <Baseline points="1603,1118 1810,1124 2018,1130 2226,1135 2434,1140 2642,1146 2850,1151 3057,1156 3265,1159 3473,1163 3681,1165 3889,1167 4097,1168 4305,1168 4512,1167 4720,1164 4928,1160 5136,1155 5344,1148 5552,1139 5760,1129"/>
+                <TextEquiv>
+                    <Unicode>erben unde nachkomen lantgraven zcu Duringen, marcgraven zcu Myszen in dem Osterlande unde zcu Landesperg, grafen zcu Orlamunde unde herren des landes zcu Plyssen in allen iren erben unde nach¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:8;} place {offset:17; length:6;} place {offset:65; length:7;} place {offset:89; length:11;}">
+                <Coords points="1610,1194 1815,1199 2020,1204 2225,1210 2430,1214 2636,1219 2841,1224 3046,1228 3251,1232 3456,1234 3662,1237 3867,1238 4072,1239 4277,1239 4482,1237 4688,1235 4893,1231 5098,1226 5303,1220 5508,1212 5714,1203 5714,1164 5508,1173 5303,1181 5098,1187 4893,1192 4688,1196 4482,1198 4277,1200 4072,1200 3867,1199 3662,1198 3456,1195 3251,1193 3046,1189 2841,1185 2636,1180 2430,1175 2225,1171 2020,1165 1815,1160 1610,1155"/>
+                <Baseline points="1610,1181 1815,1186 2020,1191 2225,1197 2430,1201 2636,1206 2841,1211 3046,1215 3251,1219 3456,1221 3662,1224 3867,1225 4072,1226 4277,1226 4482,1224 4688,1222 4893,1218 5098,1213 5303,1207 5508,1199 5714,1190"/>
+                <TextEquiv>
+                    <Unicode>komen kungen zcu Beheim unde der cronen doselbis, marcgraven zcu Merhern unde grafen zcu Lutzcemburg zcu behalden ire furstentum, erbe, lande, herschefte, gut, ere und gewonheit, die sie yzcunt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:9;}">
+                <Coords points="1595,1253 1802,1256 2009,1259 2216,1263 2424,1267 2631,1272 2838,1277 3045,1281 3253,1285 3460,1289 3667,1291 3874,1294 4082,1296 4289,1296 4496,1295 4703,1293 4911,1290 5118,1285 5325,1278 5532,1269 5740,1258 5740,1219 5532,1230 5325,1239 5118,1246 4911,1251 4703,1254 4496,1256 4289,1257 4082,1257 3874,1255 3667,1252 3460,1250 3253,1246 3045,1242 2838,1238 2631,1233 2424,1228 2216,1224 2009,1220 1802,1217 1595,1214"/>
+                <Baseline points="1595,1240 1802,1243 2009,1246 2216,1250 2424,1254 2631,1259 2838,1264 3045,1268 3253,1272 3460,1276 3667,1278 3874,1281 4082,1283 4289,1283 4496,1282 4703,1280 4911,1277 5118,1272 5325,1265 5532,1256 5740,1245"/>
+                <TextEquiv>
+                    <Unicode>haben oder noch erkrigen unde gewinnen, wie oder von welchen sachen, die an sie quemen, ewiglichen beholfen sullen unde wollen, sin wider allermenlich niemanden uzzcunemen von den sie angegriffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:10;}">
+                <Coords points="1602,1306 1810,1312 2018,1318 2226,1324 2434,1329 2643,1334 2851,1338 3059,1342 3267,1346 3475,1349 3684,1352 3892,1353 4100,1354 4308,1354 4516,1353 4725,1351 4933,1348 5141,1343 5349,1337 5557,1331 5766,1323 5766,1284 5557,1292 5349,1298 5141,1304 4933,1309 4725,1312 4516,1314 4308,1315 4100,1315 3892,1314 3684,1313 3475,1310 3267,1307 3059,1303 2851,1299 2643,1295 2434,1290 2226,1285 2018,1279 1810,1273 1602,1267"/>
+                <Baseline points="1602,1293 1810,1299 2018,1305 2226,1311 2434,1316 2643,1321 2851,1325 3059,1329 3267,1333 3475,1336 3684,1339 3892,1340 4100,1341 4308,1341 4516,1340 4725,1338 4933,1335 5141,1330 5349,1324 5557,1318 5766,1310"/>
+                <TextEquiv>
+                    <Unicode>gehindert oder beschedigt wurden, oder wen sie angriffen, hindern oder beschedigen wolten in dheinewis nach dem als der hulfe in zcu widersten oder sie anzcugriffene not wirt, so wir beste mugen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:11;} person {offset:67; length:113;} place {offset:92; length:8;} place {offset:116; length:6;} place {offset:130; length:10;} place {offset:150; length:10;} place {offset:171; length:9;}">
+                <Coords points="1598,1364 1804,1372 2010,1379 2216,1385 2423,1391 2629,1397 2835,1401 3041,1405 3248,1408 3454,1411 3660,1413 3866,1414 4073,1414 4279,1414 4485,1412 4691,1411 4898,1408 5104,1404 5310,1400 5516,1394 5723,1388 5723,1346 5516,1352 5310,1358 5104,1362 4898,1366 4691,1369 4485,1370 4279,1372 4073,1372 3866,1372 3660,1371 3454,1369 3248,1366 3041,1363 2835,1359 2629,1355 2423,1349 2216,1343 2010,1337 1804,1330 1598,1322"/>
+                <Baseline points="1598,1350 1804,1358 2010,1365 2216,1371 2423,1377 2629,1383 2835,1387 3041,1391 3248,1394 3454,1397 3660,1399 3866,1400 4073,1400 4279,1400 4485,1398 4691,1397 4898,1394 5104,1390 5310,1386 5516,1380 5723,1374"/>
+                <TextEquiv>
+                    <Unicode>on geverde. Unde des zcu urkunde unde ewiger gedechtnuzz haben wir Friderich, lantgrave zcu Duringen, marcgrave zcu Myssen in dem Osterlande unde zcu Landesperg, graf zcu Orlamunde, unde herre des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:12;} place {offset:11; length:7;} person {offset:27; length:8;} person {offset:40; length:9;}">
+                <Coords points="1596,1427 1802,1434 2009,1440 2216,1446 2423,1452 2630,1457 2837,1461 3043,1464 3250,1467 3457,1470 3664,1472 3871,1474 4078,1475 4285,1476 4491,1476 4698,1476 4905,1476 5112,1475 5319,1474 5526,1473 5733,1471 5733,1429 5526,1431 5319,1432 5112,1433 4905,1434 4698,1434 4491,1434 4285,1434 4078,1433 3871,1432 3664,1430 3457,1428 3250,1425 3043,1422 2837,1419 2630,1415 2423,1410 2216,1404 2009,1398 1802,1392 1596,1385"/>
+                <Baseline points="1596,1413 1802,1420 2009,1426 2216,1432 2423,1438 2630,1443 2837,1447 3043,1450 3250,1453 3457,1456 3664,1458 3871,1460 4078,1461 4285,1462 4491,1462 4698,1462 4905,1462 5112,1461 5319,1460 5526,1459 5733,1457"/>
+                <TextEquiv>
+                    <Unicode>landes zcu Plyssen und wir Fridrich und Balthazar, sine sune vorgenanten unser insigel gelegt an disen brief unde uber daz geloben wir alle dri mit gesammenter hant, mit geswornem eide in guten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:13;} person {offset:50; length:9;} person {offset:65; length:7;}">
+                <Coords points="1603,1488 1809,1496 2016,1502 2222,1508 2429,1512 2636,1516 2842,1520 3049,1523 3255,1526 3462,1528 3669,1530 3875,1532 4082,1533 4288,1534 4495,1535 4702,1535 4908,1536 5115,1536 5321,1537 5528,1537 5735,1537 5735,1495 5528,1495 5321,1495 5115,1494 4908,1494 4702,1493 4495,1493 4288,1492 4082,1491 3875,1490 3669,1488 3462,1486 3255,1484 3049,1481 2842,1478 2636,1474 2429,1470 2222,1466 2016,1460 1809,1454 1603,1446"/>
+                <Baseline points="1603,1474 1809,1482 2016,1488 2222,1494 2429,1498 2636,1502 2842,1506 3049,1509 3255,1512 3462,1514 3669,1516 3875,1518 4082,1519 4288,1520 4495,1521 4702,1521 4908,1522 5115,1522 5321,1523 5528,1523 5735,1523"/>
+                <TextEquiv>
+                    <Unicode>truwen on geverde, vor die vorgenanten hochgeborn Ludewigen unde Wilhelm, unser kinde unde bruder, wenne sie mundig werden, unde zcu iren tagen kumen, daz sie alle dise vorgenanten vorbuntnizze, eide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:14;}">
+                <Coords points="1586,1559 1823,1561 2029,1564 2235,1568 2441,1572 2646,1575 2852,1578 3058,1580 3264,1583 3469,1585 3675,1586 3881,1588 4087,1589 4292,1590 4498,1591 4704,1592 4910,1593 5115,1593 5321,1593 5527,1593 5733,1593 5733,1553 5527,1553 5321,1553 5115,1553 4910,1553 4704,1552 4498,1551 4292,1550 4087,1549 3881,1548 3675,1546 3469,1545 3264,1543 3058,1540 2852,1538 2646,1535 2441,1532 2235,1528 2029,1524 1823,1521 1597,1500"/>
+                <Baseline points="1618,1543 1823,1548 2029,1551 2235,1555 2441,1559 2646,1562 2852,1565 3058,1567 3264,1570 3469,1572 3675,1573 3881,1575 4087,1576 4292,1577 4498,1578 4704,1579 4910,1580 5115,1580 5321,1580 5527,1580 5733,1580"/>
+                <TextEquiv>
+                    <Unicode>unde gelubde vollfuren sullen, unde ire insigel legen an disen brief, were aber daz sie von hindernuzz oder von deheinen sachen, welcherlei die weren an disen brief nicht quemen, dennoch sal diser gegen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:15;}">
+                <Coords points="1597,1611 1823,1618 2031,1622 2239,1625 2447,1628 2655,1631 2863,1633 3071,1635 3279,1638 3487,1639 3695,1641 3903,1643 4111,1644 4319,1646 4527,1647 4735,1648 4943,1648 5151,1649 5359,1649 5567,1650 5775,1650 5775,1610 5567,1610 5359,1609 5151,1609 4943,1608 4735,1608 4527,1607 4319,1606 4111,1604 3903,1603 3695,1601 3487,1599 3279,1598 3071,1595 2863,1593 2655,1591 2447,1588 2239,1585 2031,1582 1823,1578 1600,1559"/>
+                <Baseline points="1615,1602 1823,1605 2031,1609 2239,1612 2447,1615 2655,1618 2863,1620 3071,1622 3279,1625 3487,1626 3695,1628 3903,1630 4111,1631 4319,1633 4527,1634 4735,1635 4943,1635 5151,1636 5359,1636 5567,1637 5775,1637"/>
+                <TextEquiv>
+                    <Unicode>wortige brief alle kraft haben und in allen den gelubden eiden vorbuntnuzz und macht beliben, als ob derselben unser kinde und bruder insigel daran kumen weren. Auch ist bi namen geteidingt und geredt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:16;} place {offset:139; length:6;}">
+                <Coords points="1597,1678 1838,1680 2043,1684 2247,1688 2452,1691 2657,1693 2861,1695 3066,1698 3271,1699 3475,1700 3680,1702 3885,1703 4089,1703 4294,1704 4499,1705 4703,1706 4908,1707 5113,1708 5317,1709 5522,1710 5727,1712 5727,1670 5522,1668 5317,1667 5113,1666 4908,1665 4703,1664 4499,1663 4294,1662 4089,1661 3885,1661 3680,1660 3475,1658 3271,1657 3066,1656 2861,1653 2657,1651 2452,1649 2247,1646 2043,1642 1838,1638 1593,1622"/>
+                <Baseline points="1600,1671 1838,1666 2043,1670 2247,1674 2452,1677 2657,1679 2861,1681 3066,1684 3271,1685 3475,1686 3680,1688 3885,1689 4089,1689 4294,1690 4499,1691 4703,1692 4908,1693 5113,1694 5317,1695 5522,1696 5727,1698"/>
+                <TextEquiv>
+                    <Unicode>daz alle vorbuntnuzz gelubde stucke, teyding unde artikel, die zcwischen dem vorgenanten unserm herren, dem romischen kunge unde kunge zcu Beheim, uns unde unsern erben bevestent und beschriben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:17;}">
+                <Coords points="1586,1745 1810,1741 2018,1745 2227,1749 2435,1752 2644,1754 2852,1756 3061,1758 3269,1758 3478,1759 3686,1760 3894,1760 4103,1760 4311,1761 4520,1761 4728,1761 4937,1762 5145,1763 5354,1764 5562,1766 5771,1769 5771,1730 5562,1727 5354,1725 5145,1724 4937,1723 4728,1722 4520,1722 4311,1722 4103,1721 3894,1721 3686,1721 3478,1720 3269,1719 3061,1719 2852,1717 2644,1715 2435,1713 2227,1710 2018,1706 1810,1702 1589,1689"/>
+                <Baseline points="1602,1723 1810,1728 2018,1732 2227,1736 2435,1739 2644,1741 2852,1743 3061,1745 3269,1745 3478,1746 3686,1747 3894,1747 4103,1747 4311,1748 4520,1748 4728,1748 4937,1749 5145,1750 5354,1751 5562,1753 5771,1756"/>
+                <TextEquiv>
+                    <Unicode>sint in allen iren kreften, ewiglichen sin und beliben sullen, nach brieve lute, die daruber gegeben sint. Unde wann wir oder unser vorgenanten sune, unser unde ire erben, oder wer von unsern, iren unde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:18;} person {offset:115; length:4;}">
+                <Coords points="1597,1801 1841,1801 2048,1806 2255,1810 2462,1813 2669,1816 2876,1817 3083,1818 3290,1818 3497,1818 3704,1818 3911,1817 4118,1816 4325,1816 4532,1815 4739,1815 4946,1815 5153,1816 5360,1818 5567,1820 5775,1823 5775,1784 5567,1781 5360,1779 5153,1777 4946,1776 4739,1776 4532,1776 4325,1777 4118,1777 3911,1778 3704,1779 3497,1779 3290,1779 3083,1779 2876,1778 2669,1777 2462,1774 2255,1771 2048,1767 1841,1762 1597,1752"/>
+                <Baseline points="1586,1797 1841,1788 2048,1793 2255,1797 2462,1800 2669,1803 2876,1804 3083,1805 3290,1805 3497,1805 3704,1805 3911,1804 4118,1803 4325,1803 4532,1802 4739,1802 4946,1802 5153,1803 5360,1805 5567,1807 5775,1810"/>
+                <TextEquiv>
+                    <Unicode>unserer erben wegen in unsern unde iren landen und herscheften gewaldig ist von dem vorgenanten unserm herren hern Karl, sinen brudern und iren  erben mit brieven oder mit boten umb hulffe ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:19;}">
+                <Coords points="1604,1853 1812,1857 2019,1863 2225,1868 2432,1872 2638,1874 2845,1876 3051,1878 3258,1878 3464,1879 3671,1878 3878,1878 4084,1877 4291,1877 4497,1876 4704,1875 4910,1875 5117,1875 5323,1875 5530,1876 5737,1878 5737,1836 5530,1834 5323,1833 5117,1833 4910,1833 4704,1833 4497,1834 4291,1835 4084,1835 3878,1836 3671,1836 3464,1837 3258,1836 3051,1836 2845,1834 2638,1832 2432,1830 2225,1826 2019,1821 1812,1815 1600,1808"/>
+                <Baseline points="1600,1849 1812,1843 2019,1849 2225,1854 2432,1858 2638,1860 2845,1862 3051,1864 3258,1864 3464,1865 3671,1864 3878,1864 4084,1863 4291,1863 4497,1862 4704,1861 4910,1861 5117,1861 5323,1861 5530,1862 5737,1864"/>
+                <TextEquiv>
+                    <Unicode>mant werden, so sullen wir binnen fier wuchen, die nach der manunge allerschirst sich nach einander volgen unde ergen, in zcu hulfe kumen in aller wise, als vor geschriben stet. Des sint gezcug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:20;} person {offset:10; length:33;} place {offset:20; length:6;} place {offset:38; length:5;} person {offset:49; length:20;} place {offset:60; length:9;} person {offset:101; length:59;} place {offset:131; length:10;} place {offset:153; length:7;} person {offset:166; length:16;} place {offset:176; length:6;} person {offset:184; length:6; continued:true;}">
+                <Coords points="1612,1912 1823,1917 2032,1923 2241,1928 2451,1932 2660,1935 2869,1938 3078,1939 3288,1940 3497,1940 3706,1939 3915,1938 4125,1937 4334,1936 4543,1935 4752,1933 4962,1932 5171,1931 5380,1930 5589,1930 5799,1930 5799,1888 5589,1888 5380,1888 5171,1889 4962,1890 4752,1891 4543,1893 4334,1894 4125,1895 3915,1896 3706,1897 3497,1898 3288,1898 3078,1897 2869,1896 2660,1893 2451,1890 2241,1886 2032,1881 1823,1875 1615,1864"/>
+                <Baseline points="1614,1895 1823,1903 2032,1909 2241,1914 2451,1918 2660,1921 2869,1924 3078,1925 3288,1926 3497,1926 3706,1925 3915,1924 4125,1923 4334,1922 4543,1921 4752,1919 4962,1918 5171,1917 5380,1916 5589,1916 5799,1916"/>
+                <TextEquiv>
+                    <Unicode>die edeln Bothe von Turgow, herre zcu Arnow, her Sbinke von Hasenburg, des vorgenanten unsers herren cammermeister her Benesch von Wartenberg, herre zcu Tethzin, her Jeske von Cravar, Bothe </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:21;} person {offset:0; length:21; continued:true;} place {offset:4; length:6;} place {offset:15; length:6;} person {offset:27; length:41;} place {offset:40; length:11;} place {offset:57; length:11;} person {offset:74; length:34;} place {offset:84; length:7;} person {offset:115; length:36;} place {offset:125; length:7;}">
+                <Coords points="1604,1964 1841,1976 2045,1983 2250,1989 2454,1993 2658,1997 2863,1999 3067,2001 3271,2001 3476,2001 3680,2000 3884,1999 4089,1998 4293,1996 4497,1994 4702,1992 4906,1990 5110,1988 5315,1986 5519,1984 5724,1983 5724,1941 5519,1942 5315,1944 5110,1946 4906,1948 4702,1950 4497,1952 4293,1954 4089,1956 3884,1957 3680,1958 3476,1959 3271,1959 3067,1959 2863,1957 2658,1955 2454,1951 2250,1947 2045,1941 1841,1934 1604,1919"/>
+                <Baseline points="1626,1960 1841,1962 2045,1969 2250,1975 2454,1979 2658,1983 2863,1985 3067,1987 3271,1987 3476,1987 3680,1986 3884,1985 4089,1984 4293,1982 4497,1980 4702,1978 4906,1976 5110,1974 5315,1972 5519,1970 5724,1969"/>
+                <TextEquiv>
+                    <Unicode>von Turgow des Bichin, ist Fridrich von Schonenburg, des Crymatschow, ist Thime von Kolditz, unser marschalk, unde Alber von Maltitz, unser hoverichter, unser lieben getruwen. Mit gezceuge ditz </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:22;} place {offset:28; length:7;} date {offset:36; length:126;year:0; day:0; month:0;}">
+                <Coords points="1612,2038 1819,2035 1999,2043 2179,2048 2358,2054 2538,2057 2718,2061 2897,2062 3077,2064 3257,2064 3437,2064 3616,2063 3796,2062 3976,2060 4155,2058 4335,2056 4515,2052 4694,2049 4874,2047 5054,2044 5234,2041 5234,1999 5054,2002 4874,2005 4694,2007 4515,2010 4335,2014 4155,2016 3976,2018 3796,2020 3616,2021 3437,2022 3257,2022 3077,2022 2897,2020 2718,2019 2538,2015 2358,2012 2179,2006 1999,2001 1819,1993 1615,1975"/>
+                <Baseline points="1640,2013 1819,2021 1999,2029 2179,2034 2358,2040 2538,2043 2718,2047 2897,2048 3077,2050 3257,2050 3437,2050 3616,2049 3796,2048 3976,2046 4155,2044 4335,2042 4515,2038 4694,2035 4874,2033 5054,2030 5234,2027"/>
+                <TextEquiv>
+                    <Unicode>briefs, der gegeben ist zcu Dresden nach Gotes gepurd dryzcehen hundert iar, darnach in dem acht unde fierzcigesten iar an send Thomastag, des heilgen zcwelfpoten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir Fridrich von Gotes gnaden lantgraf zcu Duringen, marcgraf zcu Myszen in dem Osterlande unde zcu Landesperg, graf zcu Orlamunde unde herre des landes zcu Plyssen, voriehen&#xD;
+unde tun kunt offenlichen mit disem brief allen den, die in sehen, horen oder lesen, daz wir durch gemeines nutzces willen frides unde gemaches unserer lande beidersit unde auch umb sunderer &#xD;
+fruntschaft begerunge und liebe, die uns darzcu leitet, uns mit dem allerdurchluchtigsten fursten unde unserm gnedigen herren hern Karl, Romischem kunge, zcu allen zciten merer des reichs unde kunge&#xD;
+zcu Beheim, unde den hochgeboren fursten unde herren Johansen, herzcogen zcu Kernthen, graven zcu Tirol unde zcu Gortz, unde Wenczlawen, sinen brudern, iren erben unde nachkomen kungen zcu Beheim&#xD;
+und der cronen da selbes marcgrafen zcu Merhern unde grafen zcu Lutzcemburg von unsers unde der hochgeborn Friderichs, Balthazars, Ludewiges unde Wilhelms, unser sune, und aller unser unde&#xD;
+irerr erben unde nachkumen, wegen fursten unde herren der vorgenanten unserr herschefte und lande mit vollem rate und mit wolbedachtem mut voreint unde vorbunden haben, und voreinen unde&#xD;
+vorbinden uns mit disem gegenwertigen brief und geloben mit geswornem eide in guten truwen on alles geverde, daz wir unde die vorgenanten  unser sune Friderich, Balthar, Ludwig, Wilhelm und unser aller&#xD;
+erben unde nachkomen lantgraven zcu Duringen, marcgraven zcu Myszen in dem Osterlande unde zcu Landesperg, grafen zcu Orlamunde unde herren des landes zcu Plyssen in allen iren erben unde nach¬&#xD;
+komen kungen zcu Beheim unde der cronen doselbis, marcgraven zcu Merhern unde grafen zcu Lutzcemburg zcu behalden ire furstentum, erbe, lande, herschefte, gut, ere und gewonheit, die sie yzcunt &#xD;
+haben oder noch erkrigen unde gewinnen, wie oder von welchen sachen, die an sie quemen, ewiglichen beholfen sullen unde wollen, sin wider allermenlich niemanden uzzcunemen von den sie angegriffen&#xD;
+gehindert oder beschedigt wurden, oder wen sie angriffen, hindern oder beschedigen wolten in dheinewis nach dem als der hulfe in zcu widersten oder sie anzcugriffene not wirt, so wir beste mugen&#xD;
+on geverde. Unde des zcu urkunde unde ewiger gedechtnuzz haben wir Friderich, lantgrave zcu Duringen, marcgrave zcu Myssen in dem Osterlande unde zcu Landesperg, graf zcu Orlamunde, unde herre des&#xD;
+landes zcu Plyssen und wir Fridrich und Balthazar, sine sune vorgenanten unser insigel gelegt an disen brief unde uber daz geloben wir alle dri mit gesammenter hant, mit geswornem eide in guten&#xD;
+truwen on geverde, vor die vorgenanten hochgeborn Ludewigen unde Wilhelm, unser kinde unde bruder, wenne sie mundig werden, unde zcu iren tagen kumen, daz sie alle dise vorgenanten vorbuntnizze, eide&#xD;
+unde gelubde vollfuren sullen, unde ire insigel legen an disen brief, were aber daz sie von hindernuzz oder von deheinen sachen, welcherlei die weren an disen brief nicht quemen, dennoch sal diser gegen¬&#xD;
+wortige brief alle kraft haben und in allen den gelubden eiden vorbuntnuzz und macht beliben, als ob derselben unser kinde und bruder insigel daran kumen weren. Auch ist bi namen geteidingt und geredt,&#xD;
+daz alle vorbuntnuzz gelubde stucke, teyding unde artikel, die zcwischen dem vorgenanten unserm herren, dem romischen kunge unde kunge zcu Beheim, uns unde unsern erben bevestent und beschriben&#xD;
+sint in allen iren kreften, ewiglichen sin und beliben sullen, nach brieve lute, die daruber gegeben sint. Unde wann wir oder unser vorgenanten sune, unser unde ire erben, oder wer von unsern, iren unde&#xD;
+unserer erben wegen in unsern unde iren landen und herscheften gewaldig ist von dem vorgenanten unserm herren hern Karl, sinen brudern und iren  erben mit brieven oder mit boten umb hulffe ge¬&#xD;
+mant werden, so sullen wir binnen fier wuchen, die nach der manunge allerschirst sich nach einander volgen unde ergen, in zcu hulfe kumen in aller wise, als vor geschriben stet. Des sint gezcug&#xD;
+die edeln Bothe von Turgow, herre zcu Arnow, her Sbinke von Hasenburg, des vorgenanten unsers herren cammermeister her Benesch von Wartenberg, herre zcu Tethzin, her Jeske von Cravar, Bothe &#xD;
+von Turgow des Bichin, ist Fridrich von Schonenburg, des Crymatschow, ist Thime von Kolditz, unser marschalk, unde Alber von Maltitz, unser hoverichter, unser lieben getruwen. Mit gezceuge ditz &#xD;
+briefs, der gegeben ist zcu Dresden nach Gotes gepurd dryzcehen hundert iar, darnach in dem acht unde fierzcigesten iar an send Thomastag, des heilgen zcwelfpoten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-10-04T15:14:51.239+02:00</Created>
+        <LastChange>2019-11-12T16:29:40.228+01:00</LastChange>
+        <TranskribusMetadata docId="222730" pageId="9478054" pageNr="1" tsid="19273670" status="IN_PROGRESS" userId="40502" imgUrl="https://files.transkribus.eu/Get?id=LEUOHEAGGFKEJSERKAOJFGQU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UFFXJVCSEAPBTLCGDTBEEBQG" imageId="6171884"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14260320_01512_r.jpg" imageWidth="9279" imageHeight="5162">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617556336" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1573572420515_275"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="825,890 795,2758 7528,2588 7474,890"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:4; length:107;} place {offset:62; length:8;} place {offset:72; length:6;} place {offset:80; length:8;} place {offset:90; length:7;} person {offset:116; length:82;} place {offset:143; length:7;} place {offset:152; length:6;} place {offset:160; length:9;} place {offset:191; length:7;}">
+                <Coords points="825,1041 1151,1041 1478,1041 1805,1041 2131,1041 2458,1040 2785,1039 3111,1038 3438,1036 3765,1033 4092,1030 4418,1026 4745,1021 5072,1015 5398,1008 5725,1001 6052,992 6378,981 6705,970 7032,956 7359,942 7359,890 7032,904 6705,918 6378,929 6052,940 5725,949 5398,956 5072,963 4745,969 4418,974 4092,978 3765,981 3438,984 3111,986 2785,987 2458,988 2131,989 1805,989 1478,989 1151,989 825,989"/>
+                <Baseline points="825,1024 1151,1024 1478,1024 1805,1024 2131,1024 2458,1023 2785,1022 3111,1021 3438,1019 3765,1016 4092,1013 4418,1009 4745,1004 5072,998 5398,991 5725,984 6052,975 6378,964 6705,953 7032,939 7359,925"/>
+                <TextEquiv>
+                    <Unicode>Nos Sigismundus, Dei gracia romanorum rex, semper augustus ac Hungarie, Boemie, Dalmacie, Croacie et cetera rex, et Albertus, eadem gracia dux Austrie, Stirie, Karinthie et cetera et marchio Moravie, notumfacimus tenore presencium universis, quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:84; length:58;} place {offset:99; length:6;} place {offset:119; length:11;} place {offset:137; length:5;} place {offset:189; length:9;} place {offset:200; length:5;} place {offset:207; length:7;} place {offset:216; length:11;} place {offset:229; length:8;} place {offset:239; length:4;}">
+                <Coords points="879,1123 1205,1120 1531,1117 1857,1115 2184,1113 2510,1111 2836,1109 3163,1107 3489,1105 3815,1102 4142,1099 4468,1095 4794,1091 5120,1086 5447,1079 5773,1071 6099,1063 6426,1052 6752,1040 7078,1027 7405,1011 7405,959 7078,975 6752,988 6426,1000 6099,1011 5773,1019 5447,1027 5120,1034 4794,1039 4468,1043 4142,1047 3815,1050 3489,1053 3163,1055 2836,1057 2510,1059 2184,1061 1857,1063 1531,1065 1205,1068 879,1071"/>
+                <Baseline points="879,1106 1205,1103 1531,1100 1857,1098 2184,1096 2510,1094 2836,1092 3163,1090 3489,1088 3815,1085 4142,1082 4468,1078 4794,1074 5120,1069 5447,1062 5773,1054 6099,1046 6426,1035 6752,1023 7078,1010 7405,994"/>
+                <TextEquiv>
+                    <Unicode>nos nuper vidimus et auscultari ac legi fecimus certas litteras illustris principis Henrici, ducis Slesie et domini de Furstemberg et in Jawor, ac consulum civium et communitatum civitatum Sweydnicz, Jawor, Strygon, Reychenbach, Nymptsch, Hayn,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} place {offset:0; length:9;} place {offset:11; length:8;} place {offset:21; length:9;} place {offset:32; length:7;} place {offset:41; length:8;} place {offset:51; length:8;} place {offset:61; length:11;} place {offset:74; length:7;} place {offset:85; length:4;}">
+                <Coords points="895,1200 1222,1196 1549,1193 1876,1189 2203,1186 2531,1183 2858,1180 3185,1177 3512,1174 3839,1170 4167,1166 4494,1162 4821,1158 5148,1152 5475,1147 5803,1140 6130,1133 6457,1125 6784,1116 7111,1106 7439,1095 7439,1043 7111,1054 6784,1064 6457,1073 6130,1081 5803,1088 5475,1095 5148,1100 4821,1106 4494,1110 4167,1114 3839,1118 3512,1122 3185,1125 2858,1128 2531,1131 2203,1134 1876,1137 1549,1141 1222,1144 895,1148"/>
+                <Baseline points="895,1183 1222,1179 1549,1176 1876,1172 2203,1169 2531,1166 2858,1163 3185,1160 3512,1157 3839,1153 4167,1149 4494,1145 4821,1141 5148,1135 5475,1130 5803,1123 6130,1116 6457,1108 6784,1099 7111,1089 7439,1078"/>
+                <TextEquiv>
+                    <Unicode>Landishut, Hyrsberk, Lewemberg, Boczlaw, Czobothe, Vreyburg, Greyfemburg, Schonow et Lehn non abrasas seu cantallatas, sed integras sanas et omni vicio ac susspicione carentes sigillisque veris et non fictis firmius communitas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:234; length:44; continued:true;} place {offset:260; length:6;}">
+                <Coords points="887,1269 1213,1265 1540,1261 1867,1258 2194,1254 2520,1251 2847,1248 3174,1244 3501,1241 3827,1238 4154,1234 4481,1230 4808,1226 5134,1221 5461,1216 5788,1211 6115,1205 6441,1198 6768,1191 7095,1183 7422,1174 7422,1128 7095,1137 6768,1145 6441,1152 6115,1159 5788,1165 5461,1170 5134,1175 4808,1180 4481,1184 4154,1188 3827,1192 3501,1195 3174,1198 2847,1202 2520,1205 2194,1208 1867,1212 1540,1215 1213,1219 887,1223"/>
+                <Baseline points="887,1254 1213,1250 1540,1246 1867,1243 2194,1239 2520,1236 2847,1233 3174,1229 3501,1226 3827,1223 4154,1219 4481,1215 4808,1211 5134,1206 5461,1201 5788,1196 6115,1190 6441,1183 6768,1176 7095,1168 7422,1159"/>
+                <TextEquiv>
+                    <Unicode>quas ad presentes nostras litteras atque scripta inseri et transscribi fecimus ut eis aquocumque homine adhibeatur fides infallibilis atque firma, quarum quidem litterarum tenor de verbo ad verbum per omnia sequitur et est talis: Nos Heinricus, Dei gracia dux Slesie, dominus de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:0; length:23; continued:true;} place {offset:0; length:11;} place {offset:18; length:5;} person {offset:132; length:44;} place {offset:141; length:6;} place {offset:163; length:13;} person {offset:185; length:25;} place {offset:203; length:7;}">
+                <Coords points="911,1333 1236,1329 1561,1325 1887,1321 2212,1318 2537,1314 2863,1311 3188,1308 3513,1304 3839,1301 4164,1297 4489,1293 4815,1289 5140,1284 5465,1280 5791,1275 6116,1269 6441,1263 6767,1256 7092,1248 7418,1240 7418,1194 7092,1202 6767,1210 6441,1217 6116,1223 5791,1229 5465,1234 5140,1238 4815,1243 4489,1247 4164,1251 3839,1255 3513,1258 3188,1262 2863,1265 2537,1268 2212,1272 1887,1275 1561,1279 1236,1283 911,1287"/>
+                <Baseline points="911,1318 1236,1314 1561,1310 1887,1306 2212,1303 2537,1299 2863,1296 3188,1293 3513,1289 3839,1286 4164,1282 4489,1278 4815,1274 5140,1269 5465,1265 5791,1260 6116,1254 6441,1248 6767,1241 7092,1233 7418,1225"/>
+                <TextEquiv>
+                    <Unicode>Furstemberg et in Jawor, ad universorum noticiam tenore presencium volumus pervenire, quod quia cum illustribus principibus dominis Johanne, Boemie rege ac comite Lucemburgensi, necnon Karolo, marchione Moravie, eiusdem regis domini primogenito, sororiis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} place {offset:138; length:6;} place {offset:155; length:7;} place {offset:187; length:7;}">
+                <Coords points="901,1398 1243,1395 1585,1392 1927,1389 2269,1385 2611,1381 2953,1377 3295,1372 3637,1367 3979,1363 4321,1357 4663,1352 5005,1346 5347,1341 5689,1335 6031,1330 6373,1325 6715,1319 7057,1314 7400,1309 7400,1261 7057,1266 6715,1271 6373,1277 6031,1282 5689,1287 5347,1293 5005,1298 4663,1304 4321,1309 3979,1315 3637,1319 3295,1324 2953,1329 2611,1333 2269,1337 1927,1341 1585,1344 1243,1347 901,1350"/>
+                <Baseline points="901,1382 1243,1379 1585,1376 1927,1373 2269,1369 2611,1365 2953,1361 3295,1356 3637,1351 3979,1347 4321,1341 4663,1336 5005,1330 5347,1325 5689,1319 6031,1314 6373,1309 6715,1303 7057,1298 7400,1293"/>
+                <TextEquiv>
+                    <Unicode>nostris karissimis, ad pleniorem concordie pervenimus unionem et talia cum ipsis colligacionis intravimus federa, quod nos ipsos in regno Boemie seu terra Moravie aliisque terris ipsorum Polonie cum tota nostra potencia, quotiens et quando eis necesse fuerit, fideliter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="883,1463 1210,1459 1537,1456 1864,1452 2191,1448 2518,1444 2845,1440 3173,1436 3500,1431 3827,1427 4154,1423 4481,1418 4808,1413 5135,1409 5463,1404 5790,1399 6117,1394 6444,1390 6771,1385 7098,1380 7426,1375 7426,1327 7098,1332 6771,1337 6444,1342 6117,1346 5790,1351 5463,1356 5135,1361 4808,1365 4481,1370 4154,1375 3827,1379 3500,1383 3173,1388 2845,1392 2518,1396 2191,1400 1864,1404 1537,1408 1210,1411 883,1415"/>
+                <Baseline points="883,1447 1210,1443 1537,1440 1864,1436 2191,1432 2518,1428 2845,1424 3173,1420 3500,1415 3827,1411 4154,1407 4481,1402 4808,1397 5135,1393 5463,1388 5790,1383 6117,1378 6444,1374 6771,1369 7098,1364 7426,1359"/>
+                <TextEquiv>
+                    <Unicode>adiuvare contra ipsorum adversarios ipsis iniuriari volentes sub propriis nostris dispendiis debeamus, ipsi vero in expensis nobis tunc providere tenebuntur, si autem in dictorum dominorum obsequiis cum aliquo rebelle vel rebellibus ipsorum bellum campestre in dictis terris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="885,1535 1212,1529 1540,1523 1868,1518 2195,1513 2523,1509 2851,1504 3178,1500 3506,1496 3834,1492 4162,1488 4489,1484 4817,1480 5145,1475 5472,1471 5800,1466 6128,1461 6455,1456 6783,1450 7111,1444 7439,1437 7439,1389 7111,1396 6783,1402 6455,1408 6128,1413 5800,1418 5472,1423 5145,1427 4817,1432 4489,1436 4162,1440 3834,1444 3506,1448 3178,1452 2851,1456 2523,1461 2195,1465 1868,1470 1540,1475 1212,1481 885,1487"/>
+                <Baseline points="885,1519 1212,1513 1540,1507 1868,1502 2195,1497 2523,1493 2851,1488 3178,1484 3506,1480 3834,1476 4162,1472 4489,1468 4817,1464 5145,1459 5472,1455 5800,1450 6128,1445 6455,1440 6783,1434 7111,1428 7439,1421"/>
+                <TextEquiv>
+                    <Unicode>eorum inierimus, damna, que nos sustinere contingeret, nobis resarcire sunt adstricti, sed ad eos lucra, que reportaverimus, pertinebunt, si vero cum eis extra limites suos ad alienas terras processerimus in eorum servitiis, tum non solum pro expensis verum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} place {offset:162; length:11;}">
+                <Coords points="901,1606 1224,1599 1547,1593 1870,1587 2193,1581 2516,1576 2839,1571 3162,1567 3485,1562 3808,1558 4132,1554 4455,1550 4778,1546 5101,1542 5424,1538 5747,1534 6070,1529 6393,1525 6716,1520 7039,1514 7363,1509 7363,1460 7039,1465 6716,1471 6393,1476 6070,1480 5747,1485 5424,1489 5101,1493 4778,1497 4455,1501 4132,1505 3808,1509 3485,1513 3162,1518 2839,1522 2516,1527 2193,1532 1870,1538 1547,1544 1224,1550 901,1557"/>
+                <Baseline points="901,1590 1224,1583 1547,1577 1870,1571 2193,1565 2516,1560 2839,1555 3162,1551 3485,1546 3808,1542 4132,1538 4455,1534 4778,1530 5101,1526 5424,1522 5747,1518 6070,1513 6393,1509 6716,1504 7039,1498 7363,1493"/>
+                <TextEquiv>
+                    <Unicode>etiam pro dampnis, que sustinuerimus, nobis repsondere tenebuntur et pro serviciis nostris eam, qua contentari aut subsistere possimus, facere recompensam. Datum Wratislavie in epiphania Domini anno Domini millesimo trecentesimo tricesimo septimo nostri sub appensione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} place {offset:100; length:8;} place {offset:110; length:5;} place {offset:117; length:7;} place {offset:126; length:11;} place {offset:139; length:8;} place {offset:149; length:4;} place {offset:155; length:9;} place {offset:166; length:8;} place {offset:176; length:9;} place {offset:187; length:8;} place {offset:197; length:8;}">
+                <Coords points="888,1661 2340,1635 2605,1637 2870,1638 3135,1637 3400,1636 3665,1633 3931,1630 4196,1626 4461,1622 4726,1617 4991,1613 5256,1609 5521,1605 5787,1601 6052,1599 6317,1597 6582,1596 6847,1597 7112,1599 7378,1602 7378,1550 7112,1547 6847,1545 6582,1544 6317,1545 6052,1547 5787,1549 5521,1553 5256,1557 4991,1561 4726,1565 4461,1570 4196,1574 3931,1578 3665,1581 3400,1584 3135,1585 2870,1586 2605,1585 2340,1583 2075,1579"/>
+                <Baseline points="2075,1614 2340,1618 2605,1620 2870,1621 3135,1620 3400,1619 3665,1616 3931,1613 4196,1609 4461,1605 4726,1600 4991,1596 5256,1592 5521,1588 5787,1584 6052,1582 6317,1580 6582,1579 6847,1580 7112,1582 7378,1585"/>
+                <TextEquiv>
+                    <Unicode>sigilli in testimonium premissorum. Wir die ratmanne burger und die ganczen gemeynschefte der stete Swydnicz, Jawor, Strygon, Reychenbach, Nymptsch, Hayn, Landishut, Hyrsberk, Lewenberg, Bonczlaw, Czobothe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} place {offset:0; length:8;} place {offset:10; length:11;} place {offset:23; length:7;} place {offset:35; length:4;}">
+                <Coords points="891,1758 1214,1747 1537,1738 1861,1729 2184,1722 2508,1715 2831,1710 3154,1705 3478,1701 3801,1697 4125,1693 4448,1690 4771,1688 5095,1685 5418,1682 5742,1679 6065,1676 6388,1673 6712,1669 7035,1665 7359,1660 7359,1608 7035,1613 6712,1617 6388,1621 6065,1624 5742,1627 5418,1630 5095,1633 4771,1636 4448,1638 4125,1641 3801,1645 3478,1649 3154,1653 2831,1658 2508,1663 2184,1670 1861,1677 1537,1686 1214,1695 891,1706"/>
+                <Baseline points="891,1741 1214,1730 1537,1721 1861,1712 2184,1705 2508,1698 2831,1693 3154,1688 3478,1684 3801,1680 4125,1676 4448,1673 4771,1671 5095,1668 5418,1665 5742,1662 6065,1659 6388,1656 6712,1652 7035,1648 7359,1643"/>
+                <TextEquiv>
+                    <Unicode>Vreyburg, Greyfemberg, Schonaw und Lehn bekennen und tun kunt offentlich mit disem briefe allen den, die in sehen odir horen lesen, daz wir von gebote und wissentlichem geheizze des durchluchtisten fursten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} person {offset:10; length:28;} place {offset:33; length:5;} person {offset:122; length:36;} place {offset:148; length:10;} place {offset:164; length:6;} place {offset:179; length:7;}">
+                <Coords points="877,1838 1199,1824 1522,1811 1844,1801 2167,1792 2489,1784 2812,1777 3134,1772 3457,1767 3779,1764 4102,1760 4425,1758 4747,1756 5070,1754 5392,1752 5715,1751 6037,1749 6360,1747 6682,1744 7005,1741 7328,1737 7328,1685 7005,1689 6682,1692 6360,1695 6037,1697 5715,1699 5392,1700 5070,1702 4747,1704 4425,1706 4102,1708 3779,1712 3457,1715 3134,1720 2812,1725 2489,1732 2167,1740 1844,1749 1522,1759 1199,1772 877,1786"/>
+                <Baseline points="877,1821 1199,1807 1522,1794 1844,1784 2167,1775 2489,1767 2812,1760 3134,1755 3457,1750 3779,1747 4102,1743 4425,1741 4747,1739 5070,1737 5392,1735 5715,1734 6037,1732 6360,1730 6682,1727 7005,1724 7328,1720"/>
+                <TextEquiv>
+                    <Unicode>hern hern Wenczlaws, kuniges czu Behem, unsers lieben gnedigen hern, und ouch der hochgeborn furstinnen und vrowen vrowen Elizabeth, herczoginn czu Osterreich, czu Steyer und czu Kernden, unser lieben gnedigen vrowen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} person {offset:81; length:49;} place {offset:106; length:9;} place {offset:125; length:5;}">
+                <Coords points="927,1905 1246,1892 1565,1880 1885,1869 2204,1860 2524,1853 2843,1846 3163,1841 3482,1836 3802,1832 4121,1829 4440,1827 4760,1825 5079,1824 5399,1823 5718,1822 6038,1821 6357,1821 6677,1820 6996,1819 7316,1818 7316,1766 6996,1767 6677,1768 6357,1769 6038,1769 5718,1770 5399,1771 5079,1772 4760,1773 4440,1775 4121,1777 3802,1780 3482,1784 3163,1789 2843,1794 2524,1801 2204,1808 1885,1817 1565,1828 1246,1840 927,1853"/>
+                <Baseline points="927,1888 1246,1875 1565,1863 1885,1852 2204,1843 2524,1836 2843,1829 3163,1824 3482,1819 3802,1815 4121,1812 4440,1810 4760,1808 5079,1807 5399,1806 5718,1805 6038,1804 6357,1804 6677,1803 6996,1802 7316,1801"/>
+                <TextEquiv>
+                    <Unicode>und dorczu mit gust und guten willen der hochgeborn furstinnen und vrowen wroven Agnesen, herczoginn czur Sweydnicz und czum Jawor, unsere lieben gnedigen vrowen, dem allerduchluchtistem fursten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} person {offset:12; length:80;} place {offset:87; length:5;} place {offset:114; length:5;} place {offset:159; length:5;}">
+                <Coords points="868,1985 1195,1970 1522,1956 1850,1945 2177,1935 2504,1926 2832,1918 3159,1912 3486,1907 3814,1903 4141,1900 4468,1898 4796,1896 5123,1895 5450,1895 5778,1894 6105,1895 6432,1895 6760,1896 7087,1896 7415,1897 7415,1845 7087,1844 6760,1844 6432,1843 6105,1843 5778,1842 5450,1843 5123,1843 4796,1844 4468,1846 4141,1848 3814,1851 3486,1855 3159,1860 2832,1866 2504,1874 2177,1883 1850,1893 1522,1904 1195,1918 868,1933"/>
+                <Baseline points="868,1968 1195,1953 1522,1939 1850,1928 2177,1918 2504,1909 2832,1901 3159,1895 3486,1890 3814,1886 4141,1883 4468,1881 4796,1879 5123,1878 5450,1878 5778,1877 6105,1878 6432,1878 6760,1879 7087,1879 7415,1880"/>
+                <TextEquiv>
+                    <Unicode>herren hern Karle, romischem keiser, czu allen czeiten merer des reichs und kungen czu Behem, als eynem kunge czu Behem seinen erben und nachkomen, kungen czu Behem, erblichen geholdet gelobt und leibliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} person {offset:103; length:14;}">
+                <Coords points="878,2061 1207,2047 1537,2034 1867,2022 2197,2012 2527,2002 2856,1994 3186,1987 3516,1981 3846,1977 4176,1973 4505,1970 4835,1968 5165,1968 5495,1968 5825,1969 6154,1971 6484,1973 6814,1977 7144,1981 7474,1986 7474,1934 7144,1929 6814,1925 6484,1921 6154,1919 5825,1917 5495,1916 5165,1916 4835,1916 4505,1918 4176,1921 3846,1925 3516,1929 3186,1935 2856,1942 2527,1950 2197,1960 1867,1970 1537,1982 1207,1995 878,2009"/>
+                <Baseline points="878,2044 1207,2030 1537,2017 1867,2005 2197,1995 2527,1985 2856,1977 3186,1970 3516,1964 3846,1960 4176,1956 4505,1953 4835,1951 5165,1951 5495,1951 5825,1952 6154,1954 6484,1956 6814,1960 7144,1964 7474,1969"/>
+                <TextEquiv>
+                    <Unicode>eyde czu den heyligen gesworn haben in der mazze ab es czu schulden queme, daz der egenant unser herre kunig Wenczlaw ane leibes erben abgienge oder ob er erben gewunne die ouch furbas ane leibes erben vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;} person {offset:105; length:12;} place {offset:157; length:5;}">
+                <Coords points="902,2138 1241,2124 1581,2111 1921,2099 2261,2089 2601,2079 2941,2070 3281,2062 3621,2056 3961,2050 4301,2046 4641,2043 4981,2041 5321,2040 5661,2040 6001,2041 6341,2043 6681,2046 7021,2051 7361,2056 7361,2004 7021,1999 6681,1994 6341,1991 6001,1989 5661,1988 5321,1988 4981,1989 4641,1991 4301,1994 3961,1998 3621,2004 3281,2010 2941,2018 2601,2027 2261,2037 1921,2047 1581,2059 1241,2072 902,2086"/>
+                <Baseline points="902,2121 1241,2107 1581,2094 1921,2082 2261,2072 2601,2062 2941,2053 3281,2045 3621,2039 3961,2033 4301,2029 4641,2026 4981,2024 5321,2023 5661,2023 6001,2024 6341,2026 6681,2029 7021,2034 7361,2039"/>
+                <TextEquiv>
+                    <Unicode>schieden, daz wir denn mit den egenanten steten merkten und iren wichbilden an den egenanten unsern hern keyser Karle, seine erben odir nachkomen, kunge czu Behem, als an unser rechte erbliche und naturliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="900,2218 1224,2203 1548,2189 1872,2176 2196,2166 2520,2156 2844,2147 3168,2139 3492,2133 3816,2127 4141,2123 4465,2119 4789,2116 5113,2115 5437,2114 5761,2114 6085,2114 6409,2115 6733,2117 7057,2120 7382,2123 7382,2071 7057,2068 6733,2065 6409,2063 6085,2062 5761,2062 5437,2062 5113,2063 4789,2064 4465,2067 4141,2071 3816,2075 3492,2081 3168,2087 2844,2095 2520,2104 2196,2114 1872,2124 1548,2137 1224,2151 900,2166"/>
+                <Baseline points="900,2201 1224,2186 1548,2172 1872,2159 2196,2149 2520,2139 2844,2130 3168,2122 3492,2116 3816,2110 4141,2106 4465,2102 4789,2099 5113,2098 5437,2097 5761,2097 6085,2097 6409,2098 6733,2100 7057,2103 7382,2106"/>
+                <TextEquiv>
+                    <Unicode>herschaft erben und gevallen sullen und dorumb so globen wir alle gemeynlich und unser ieczlicher sunderlich fur uns unser erben und nachkomen ewiclich in guten truwen ane geverde und bei den eyden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;} person {offset:96; length:13;}">
+                <Coords points="876,2293 1203,2277 1530,2263 1858,2249 2185,2238 2512,2228 2840,2218 3167,2210 3494,2204 3822,2199 4149,2194 4476,2190 4804,2188 5131,2186 5458,2185 5786,2184 6113,2185 6440,2186 6768,2187 7095,2189 7423,2191 7423,2145 7095,2143 6768,2141 6440,2140 6113,2139 5786,2138 5458,2139 5131,2140 4804,2142 4476,2144 4149,2148 3822,2153 3494,2158 3167,2164 2840,2172 2512,2182 2185,2192 1858,2203 1530,2217 1203,2231 876,2247"/>
+                <Baseline points="876,2278 1203,2262 1530,2248 1858,2234 2185,2223 2512,2213 2840,2203 3167,2195 3494,2189 3822,2184 4149,2179 4476,2175 4804,2173 5131,2171 5458,2170 5786,2169 6113,2170 6440,2171 6768,2172 7095,2174 7423,2176"/>
+                <TextEquiv>
+                    <Unicode>die wir doruber gesworn haben, ab es czu schulden queme als vorgeschriben stet, daz unser herre kung Wenczlaw ane leibes erben und erbes erben vorschiede do got fur sey, daz wir denne unsere erben und nachkomen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;} person {offset:145; length:7;} person {offset:197; length:13;}">
+                <Coords points="869,2356 1192,2345 1515,2334 1838,2323 2161,2314 2484,2305 2807,2296 3130,2288 3453,2281 3776,2275 4100,2270 4423,2265 4746,2261 5069,2258 5392,2256 5715,2255 6038,2255 6361,2257 6684,2259 7007,2263 7331,2267 7331,2221 7007,2217 6684,2213 6361,2211 6038,2209 5715,2209 5392,2210 5069,2212 4746,2215 4423,2219 4100,2224 3776,2229 3453,2235 3130,2242 2807,2250 2484,2259 2161,2268 1838,2277 1515,2288 1192,2299 869,2310"/>
+                <Baseline points="869,2341 1192,2330 1515,2319 1838,2308 2161,2299 2484,2290 2807,2281 3130,2273 3453,2266 3776,2260 4100,2255 4423,2250 4746,2246 5069,2243 5392,2241 5715,2240 6038,2240 6361,2242 6684,2244 7007,2248 7331,2252"/>
+                <TextEquiv>
+                    <Unicode>alle gemeynlich und unser ieczlicher sunderlich mitsampt den egenanten steten merkten und wichbilden noch tode der egenanten unser vrowen vrowen Agnesen, der herczoginn, dem obgenanten unserm hern keisere Karle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;} place {offset:40; length:5;}">
+                <Coords points="892,2440 1218,2425 1545,2411 1871,2399 2198,2387 2524,2377 2851,2368 3177,2361 3504,2354 3830,2348 4157,2343 4484,2339 4810,2336 5137,2333 5463,2332 5790,2331 6116,2330 6443,2330 6769,2331 7096,2332 7423,2333 7423,2281 7096,2280 6769,2279 6443,2278 6116,2278 5790,2279 5463,2280 5137,2281 4810,2284 4484,2287 4157,2291 3830,2296 3504,2302 3177,2309 2851,2316 2524,2325 2198,2335 1871,2347 1545,2359 1218,2373 892,2388"/>
+                <Baseline points="892,2423 1218,2408 1545,2394 1871,2382 2198,2370 2524,2360 2851,2351 3177,2344 3504,2337 3830,2331 4157,2326 4484,2322 4810,2319 5137,2316 5463,2315 5790,2314 6116,2313 6443,2313 6769,2314 7096,2315 7423,2316"/>
+                <TextEquiv>
+                    <Unicode>seinen erben oder nachkomen, kungen czu Behem, als unsere rechten naturlichen und erblicher herschafft gewarten und in untertenig sein sullen und wollen iren fromen czu werben iren schaden zu wen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="876,2512 1123,2502 1370,2492 1617,2481 1865,2472 2112,2463 2359,2454 2606,2447 2854,2439 3101,2433 3348,2426 3595,2421 3843,2415 4090,2412 4337,2408 4584,2405 4832,2403 5079,2402 5326,2402 5573,2403 7427,2380 5821,2353 5573,2352 5326,2351 5079,2351 4832,2352 4584,2354 4337,2357 4090,2361 3843,2364 3595,2370 3348,2375 3101,2382 2854,2388 2606,2396 2359,2403 2112,2412 1865,2421 1617,2430 1370,2441 1123,2451 876,2461"/>
+                <Baseline points="876,2495 1123,2485 1370,2475 1617,2464 1865,2455 2112,2446 2359,2437 2606,2430 2854,2422 3101,2416 3348,2409 3595,2404 3843,2398 4090,2395 4337,2391 4584,2388 4832,2386 5079,2385 5326,2385 5573,2386 5821,2387"/>
+                <TextEquiv>
+                    <Unicode>den und alles, das gen in czu tunde das rechte erblich burger gen, irre rechten erblichen und naturlichen herschaft durch recht odir gewonheit czu tunde pflichtig sein. Mit urkunde dicz briefes vorsigelt mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;} place {offset:42; length:9;}">
+                <Coords points="878,2582 1205,2567 1532,2552 1859,2539 2187,2528 2514,2517 2841,2508 3169,2499 3496,2492 3823,2486 4151,2481 4478,2476 4805,2473 5132,2470 5460,2468 5787,2466 6114,2465 6442,2465 6769,2465 7096,2466 7424,2467 7424,2421 7096,2420 6769,2419 6442,2419 6114,2419 5787,2420 5460,2422 5132,2424 4805,2427 4478,2430 4151,2435 3823,2440 3496,2446 3169,2453 2841,2462 2514,2471 2187,2482 1859,2493 1532,2506 1205,2521 878,2536"/>
+                <Baseline points="878,2567 1205,2552 1532,2537 1859,2524 2187,2513 2514,2502 2841,2493 3169,2484 3496,2477 3823,2471 4151,2466 4478,2461 4805,2458 5132,2455 5460,2453 5787,2451 6114,2450 6442,2450 6769,2450 7096,2451 7424,2452"/>
+                <TextEquiv>
+                    <Unicode>unsern anhangunden ingesigeln. Geben czur Sweydnicz an dem freytag vor sand Gallen tag noch Crists geburde dreyczenhundert jar dornach in dem neunundsechczigstem jare. In cuius rei testimonium atque robur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;} place {offset:106; length:6;} date {offset:113; length:122; continued:true;year:0; day:0; month:0;} place {offset:211; length:8;}">
+                <Coords points="894,2660 1220,2645 1547,2631 1874,2618 2201,2606 2528,2595 2854,2586 3181,2576 3508,2569 3835,2562 4162,2556 4488,2551 4815,2548 5142,2545 5469,2543 5796,2542 6122,2542 6449,2543 6776,2544 7103,2547 7430,2550 7430,2498 7103,2495 6776,2492 6449,2491 6122,2490 5796,2490 5469,2491 5142,2493 4815,2496 4488,2499 4162,2504 3835,2510 3508,2517 3181,2524 2854,2534 2528,2543 2201,2554 1874,2566 1547,2579 1220,2593 894,2608"/>
+                <Baseline points="894,2643 1220,2628 1547,2614 1874,2601 2201,2589 2528,2578 2854,2569 3181,2559 3508,2552 3835,2545 4162,2539 4488,2534 4815,2531 5142,2528 5469,2526 5796,2525 6122,2525 6449,2526 6776,2527 7103,2530 7430,2533"/>
+                <TextEquiv>
+                    <Unicode>presentes nostras litteras ac inserciones sigillorum nostrorum appensione facimus firmius roborari. Datum Wienne anno Domini millesimo quadringentesimo vicesimosexto vicesima die marcii, regnorum nostrorum anno Hungarie et cetera trice¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:23;} date {offset:0; length:47; continued:true;year:0; day:0; month:0;} place {offset:26; length:6;}">
+                <Coords points="882,2721 956,2720 1031,2719 1106,2718 1180,2716 1255,2715 1330,2714 1404,2713 1479,2711 1554,2709 1628,2708 1703,2706 1778,2704 1852,2702 1927,2700 2002,2698 2076,2695 2151,2693 2226,2689 2301,2686 2301,2634 2226,2637 2151,2641 2076,2643 2002,2646 1927,2648 1852,2650 1778,2652 1703,2654 1628,2656 1554,2657 1479,2659 1404,2661 1330,2662 1255,2663 1180,2664 1106,2666 1031,2667 956,2668 882,2669"/>
+                <Baseline points="882,2704 956,2703 1031,2702 1106,2701 1180,2699 1255,2698 1330,2697 1404,2696 1479,2694 1554,2692 1628,2691 1703,2689 1778,2687 1852,2685 1927,2683 2002,2681 2076,2678 2151,2676 2226,2672 2301,2669"/>
+                <TextEquiv>
+                    <Unicode>simo nono, romanorum XVI, Boemie vicesimo sexto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nos Sigismundus, Dei gracia romanorum rex, semper augustus ac Hungarie, Boemie, Dalmacie, Croacie et cetera rex, et Albertus, eadem gracia dux Austrie, Stirie, Karinthie et cetera et marchio Moravie, notumfacimus tenore presencium universis, quod
+nos nuper vidimus et auscultari ac legi fecimus certas litteras illustris principis Henrici, ducis Slesie et domini de Furstemberg et in Jawor, ac consulum civium et communitatum civitatum Sweydnicz, Jawor, Strygon, Reychenbach, Nymptsch, Hayn,
+Landishut, Hyrsberk, Lewemberg, Boczlaw, Czobothe, Vreyburg, Greyfemburg, Schonow et Lehn non abrasas seu cantallatas, sed integras sanas et omni vicio ac susspicione carentes sigillisque veris et non fictis firmius communitas,
+quas ad presentes nostras litteras atque scripta inseri et transscribi fecimus ut eis aquocumque homine adhibeatur fides infallibilis atque firma, quarum quidem litterarum tenor de verbo ad verbum per omnia sequitur et est talis: Nos Heinricus, Dei gracia dux Slesie, dominus de
+Furstemberg et in Jawor, ad universorum noticiam tenore presencium volumus pervenire, quod quia cum illustribus principibus dominis Johanne, Boemie rege ac comite Lucemburgensi, necnon Karolo, marchione Moravie, eiusdem regis domini primogenito, sororiis
+nostris karissimis, ad pleniorem concordie pervenimus unionem et talia cum ipsis colligacionis intravimus federa, quod nos ipsos in regno Boemie seu terra Moravie aliisque terris ipsorum Polonie cum tota nostra potencia, quotiens et quando eis necesse fuerit, fideliter
+adiuvare contra ipsorum adversarios ipsis iniuriari volentes sub propriis nostris dispendiis debeamus, ipsi vero in expensis nobis tunc providere tenebuntur, si autem in dictorum dominorum obsequiis cum aliquo rebelle vel rebellibus ipsorum bellum campestre in dictis terris
+eorum inierimus, damna, que nos sustinere contingeret, nobis resarcire sunt adstricti, sed ad eos lucra, que reportaverimus, pertinebunt, si vero cum eis extra limites suos ad alienas terras processerimus in eorum servitiis, tum non solum pro expensis verum
+etiam pro dampnis, que sustinuerimus, nobis repsondere tenebuntur et pro serviciis nostris eam, qua contentari aut subsistere possimus, facere recompensam. Datum Wratislavie in epiphania Domini anno Domini millesimo trecentesimo tricesimo septimo nostri sub appensione
+sigilli in testimonium premissorum. Wir die ratmanne burger und die ganczen gemeynschefte der stete Swydnicz, Jawor, Strygon, Reychenbach, Nymptsch, Hayn, Landishut, Hyrsberk, Lewenberg, Bonczlaw, Czobothe,
+Vreyburg, Greyfemberg, Schonaw und Lehn bekennen und tun kunt offentlich mit disem briefe allen den, die in sehen odir horen lesen, daz wir von gebote und wissentlichem geheizze des durchluchtisten fursten und
+hern hern Wenczlaws, kuniges czu Behem, unsers lieben gnedigen hern, und ouch der hochgeborn furstinnen und vrowen vrowen Elizabeth, herczoginn czu Osterreich, czu Steyer und czu Kernden, unser lieben gnedigen vrowen,
+und dorczu mit gust und guten willen der hochgeborn furstinnen und vrowen wroven Agnesen, herczoginn czur Sweydnicz und czum Jawor, unsere lieben gnedigen vrowen, dem allerduchluchtistem fursten und
+herren hern Karle, romischem keiser, czu allen czeiten merer des reichs und kungen czu Behem, als eynem kunge czu Behem seinen erben und nachkomen, kungen czu Behem, erblichen geholdet gelobt und leibliche
+eyde czu den heyligen gesworn haben in der mazze ab es czu schulden queme, daz der egenant unser herre kunig Wenczlaw ane leibes erben abgienge oder ob er erben gewunne die ouch furbas ane leibes erben vor¬
+schieden, daz wir denn mit den egenanten steten merkten und iren wichbilden an den egenanten unsern hern keyser Karle, seine erben odir nachkomen, kunge czu Behem, als an unser rechte erbliche und naturliche
+herschaft erben und gevallen sullen und dorumb so globen wir alle gemeynlich und unser ieczlicher sunderlich fur uns unser erben und nachkomen ewiclich in guten truwen ane geverde und bei den eyden
+die wir doruber gesworn haben, ab es czu schulden queme als vorgeschriben stet, daz unser herre kung Wenczlaw ane leibes erben und erbes erben vorschiede do got fur sey, daz wir denne unsere erben und nachkomen
+alle gemeynlich und unser ieczlicher sunderlich mitsampt den egenanten steten merkten und wichbilden noch tode der egenanten unser vrowen vrowen Agnesen, der herczoginn, dem obgenanten unserm hern keisere Karle,
+seinen erben oder nachkomen, kungen czu Behem, als unsere rechten naturlichen und erblicher herschafft gewarten und in untertenig sein sullen und wollen iren fromen czu werben iren schaden zu wen¬
+den und alles, das gen in czu tunde das rechte erblich burger gen, irre rechten erblichen und naturlichen herschaft durch recht odir gewonheit czu tunde pflichtig sein. Mit urkunde dicz briefes vorsigelt mit
+unsern anhangunden ingesigeln. Geben czur Sweydnicz an dem freytag vor sand Gallen tag noch Crists geburde dreyczenhundert jar dornach in dem neunundsechczigstem jare. In cuius rei testimonium atque robur
+presentes nostras litteras ac inserciones sigillorum nostrorum appensione facimus firmius roborari. Datum Wienne anno Domini millesimo quadringentesimo vicesimosexto vicesima die marcii, regnorum nostrorum anno Hungarie et cetera trice¬
+simo nono, romanorum XVI, Boemie vicesimo sexto.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573572420515_275" custom="readingOrder {index:1;}">
+            <Coords points="6494,2620 7450,2620 7450,2846 6494,2846"/>
+            <TextLine id="line_1573572426921_278" custom="readingOrder {index:0;}">
+                <Coords points="6530,2681 6970,2656 7294,2644 7405,2636 7408,2686 7296,2694 6972,2706 6533,2731"/>
+                <Baseline points="6533,2726 6972,2701 7296,2689 7408,2681"/>
+                <TextEquiv>
+                    <Unicode>Ad mandatum domini regis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573572430311_283" custom="readingOrder {index:1;} person {offset:0; length:34;} place {offset:20; length:14;}">
+                <Coords points="6610,2737 6949,2728 7242,2720 7402,2720 7402,2770 7243,2770 6950,2778 6611,2787"/>
+                <Baseline points="6611,2782 6950,2773 7243,2765 7402,2765"/>
+                <TextEquiv>
+                    <Unicode>Michael, prepositus Boleslaviensis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ad mandatum domini regis
+Michael, prepositus Boleslaviensis.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

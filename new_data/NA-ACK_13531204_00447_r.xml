@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-30T16:06:31.686+02:00</Created>
+        <LastChange>2019-10-25T14:46:47.551+02:00</LastChange>
+        <TranskribusMetadata docId="189813" pageId="7511589" pageNr="1" tsid="17798247" status="IN_PROGRESS" userId="40502" imgUrl="https://files.transkribus.eu/Get?id=GTEQVPYSTSBJGZAMKHFVNJYS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHVPYMNGQHHLWWDQLQUCUGOL" imageId="4518652"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13531204_00447_r.jpg" imageWidth="9225" imageHeight="5761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618405313" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1179,461 1251,3074 6630,3074 6558,461"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:4; length:122;} place {offset:58; length:4;} place {offset:120; length:6;}">
+                <Coords points="1251,811 1363,806 1475,801 1587,797 1699,794 1811,792 1923,790 2035,790 2147,789 2259,789 2372,790 2484,790 2596,791 2708,792 2820,793 2932,793 3044,794 3156,794 3268,793 3380,792 6572,799 6572,688 3380,681 3268,720 3156,721 3044,721 2932,699 2820,699 2708,719 2596,718 2484,717 2372,717 2259,716 2104,676 1992,677 1923,731 1826,688 1714,676 1587,724 1530,695 1321,350 1154,388"/>
+                <Baseline points="1251,787 1363,782 1475,777 1587,773 1699,770 1811,768 1923,766 2035,766 2147,765 2259,765 2372,766 2484,766 2596,767 2708,768 2820,769 2932,769 3044,770 3156,770 3268,769 3380,768 3493,767"/>
+                <TextEquiv>
+                    <Unicode>Wir Ruprecht der Elter von Gots gnaden pfallentzgrave bei Rein, des heiligen reichs obrister truchtsezze und hertzog in Beyern, bekennen und tun kunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} person {offset:139; length:15; continued:true;}">
+                <Coords points="1316,902 1596,896 1850,893 2104,891 2359,890 2613,889 2867,890 3121,890 3376,892 3630,894 3884,896 4138,898 4393,901 4647,903 4901,906 5155,909 5410,911 5664,913 5918,915 6172,917 6427,918 6427,845 6172,844 5918,842 5664,840 5410,838 5155,836 4901,833 4647,830 4393,828 4138,825 3884,823 3630,821 3376,819 3121,817 2867,817 2613,816 2359,817 2104,818 1850,820 1596,823 1316,829"/>
+                <Baseline points="1342,876 1596,872 1850,869 2104,867 2359,866 2613,865 2867,866 3121,866 3376,868 3630,870 3884,872 4138,874 4393,877 4647,879 4901,882 5155,885 5410,887 5664,889 5918,891 6172,893 6427,894"/>
+                <TextEquiv>
+                    <Unicode>offenlich mit disem brive allen den, die in sehent odir horent lesen, alleine die brive dez allirdurchluchtigsten fursten und herren, hern Karls romischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} person {offset:0; length:59; continued:true;} place {offset:54; length:5;} place {offset:150; length:4;}">
+                <Coords points="1306,991 1580,998 1833,997 2085,997 2338,997 2590,997 2843,998 3095,1000 3348,1001 3600,1003 3853,1004 4105,1006 4358,1008 4610,1009 4863,1011 5115,1012 5368,1013 5620,1013 5873,1013 6125,1013 6420,1014 6420,941 6125,940 5873,940 5620,940 5368,940 5115,939 4863,938 4610,936 4358,935 4105,933 3853,931 3600,930 3348,928 3095,927 2843,925 2590,924 2338,924 2085,924 1833,924 1580,925 1306,918"/>
+                <Baseline points="1328,975 1580,974 1833,973 2085,973 2338,973 2590,973 2843,974 3095,976 3348,977 3600,979 3853,980 4105,982 4358,984 4610,985 4863,987 5115,988 5368,989 5620,989 5873,989 6125,989 6378,988"/>
+                <TextEquiv>
+                    <Unicode>kungs zu allen tzeiten merers des reichs und kungs zu Behem, unsirs lieben gnedigen herren, die er ubir seine pfantschefte der stat und des landes zu Eger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} place {offset:15; length:5;} place {offset:25; length:9;} place {offset:148; length:5;}">
+                <Coords points="1314,1097 1574,1096 1834,1096 2094,1096 2354,1097 2614,1098 2874,1100 3134,1102 3394,1105 3654,1107 3915,1109 4175,1112 4435,1114 4695,1116 4955,1118 5215,1119 5475,1120 5735,1120 5995,1119 6255,1118 6552,1115 6552,1042 6255,1045 5995,1046 5735,1047 5475,1047 5215,1046 4955,1045 4695,1043 4435,1041 4175,1039 3915,1036 3654,1034 3394,1032 3134,1029 2874,1027 2614,1025 2354,1024 2094,1023 1834,1023 1574,1023 1314,1024"/>
+                <Baseline points="1314,1073 1574,1072 1834,1072 2094,1072 2354,1073 2614,1074 2874,1076 3134,1078 3394,1081 3654,1083 3915,1085 4175,1088 4435,1090 4695,1092 4955,1094 5215,1095 5475,1096 5735,1096 5995,1095 6255,1094 6516,1091"/>
+                <TextEquiv>
+                    <Unicode>und der vesten Flozz und Parkstein und waz dorczu gehoret, gehabt hat und die auch seliger gedechtnuzze die hochgebornen fursten, ettwenne kunge zu Behem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="1298,1196 1593,1195 1848,1194 2104,1194 2359,1196 2615,1198 2870,1200 3125,1204 3381,1207 3636,1211 3892,1214 4147,1218 4402,1221 4658,1224 4913,1226 5169,1227 5424,1227 5679,1227 5935,1225 6190,1222 6486,1217 6486,1144 6190,1149 5935,1152 5679,1154 5424,1154 5169,1154 4913,1153 4658,1151 4402,1148 4147,1145 3892,1141 3636,1138 3381,1134 3125,1131 2870,1127 2615,1125 2359,1123 2104,1121 1848,1121 1593,1122 1298,1123"/>
+                <Baseline points="1338,1172 1593,1171 1848,1170 2104,1170 2359,1172 2615,1174 2870,1176 3125,1180 3381,1183 3636,1187 3892,1190 4147,1194 4402,1197 4658,1200 4913,1202 5169,1203 5424,1203 5679,1203 5935,1201 6190,1198 6446,1193"/>
+                <TextEquiv>
+                    <Unicode>seine eltern, durch merklicher sachen willen von dem heiligen reiche behaldin und dirworben haben, von widirczemer ungeschicht beide verbrennet und ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="1322,1305 1589,1304 1848,1302 2107,1302 2366,1303 2625,1305 2884,1308 3143,1311 3402,1315 3661,1319 3920,1323 4179,1326 4438,1329 4697,1332 4956,1334 5215,1335 5474,1334 5733,1332 5992,1328 6251,1323 6567,1315 6567,1239 6251,1247 5992,1252 5733,1256 5474,1258 5215,1259 4956,1258 4697,1256 4438,1253 4179,1250 3920,1247 3661,1243 3402,1239 3143,1235 2884,1232 2625,1229 2366,1227 2107,1226 1848,1226 1589,1228 1322,1229"/>
+                <Baseline points="1330,1282 1589,1279 1848,1277 2107,1277 2366,1278 2625,1280 2884,1283 3143,1286 3402,1290 3661,1294 3920,1298 4179,1301 4438,1304 4697,1307 4956,1309 5215,1310 5474,1309 5733,1307 5992,1303 6251,1298 6511,1290"/>
+                <TextEquiv>
+                    <Unicode>lorn sint, daz er domite sein recht nicht beweisen mag, als billich were, doch, sintdemmal, daz uns dieselbe pfantschaft wol kundig ist und wir sulchir gelegin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} place {offset:67; length:4;} place {offset:101; length:5;} place {offset:111; length:9;}">
+                <Coords points="1318,1410 1576,1409 1834,1408 2092,1409 2351,1410 2609,1412 2867,1415 3126,1418 3384,1421 3642,1424 3901,1428 4159,1431 4417,1433 4675,1436 4934,1438 5192,1439 5450,1439 5709,1438 5967,1436 6225,1433 6484,1429 6484,1354 6225,1358 5967,1361 5709,1363 5450,1364 5192,1364 4934,1363 4675,1361 4417,1358 4159,1356 3901,1353 3642,1349 3384,1346 3126,1343 2867,1340 2609,1337 2351,1335 2092,1334 1834,1333 1576,1334 1318,1335"/>
+                <Baseline points="1318,1385 1576,1384 1834,1383 2092,1384 2351,1385 2609,1387 2867,1390 3126,1393 3384,1396 3642,1399 3901,1403 4159,1406 4417,1408 4675,1411 4934,1413 5192,1414 5450,1414 5709,1413 5967,1411 6225,1408 6484,1404"/>
+                <TextEquiv>
+                    <Unicode>heit wol und genczlich undirweisit sein, daz die obgenante stat zu Eger mit dem lande und die vesten Flozz und Parkstein mit allen zugehorungen dem kung¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} place {offset:25; length:5;}">
+                <Coords points="1325,1516 1581,1513 1837,1511 2093,1511 2349,1512 2606,1514 2862,1516 3118,1520 3374,1523 3630,1528 3887,1532 4143,1536 4399,1540 4655,1544 4911,1548 5168,1550 5424,1552 5680,1553 5936,1553 6192,1551 6481,1540 6481,1465 6192,1476 5936,1478 5680,1478 5424,1477 5168,1475 4911,1473 4655,1469 4399,1465 4143,1461 3887,1457 3630,1453 3374,1448 3118,1445 2862,1441 2606,1439 2349,1437 2093,1436 1837,1436 1581,1438 1325,1441"/>
+                <Baseline points="1325,1491 1581,1488 1837,1486 2093,1486 2349,1487 2606,1489 2862,1491 3118,1495 3374,1498 3630,1503 3887,1507 4143,1511 4399,1515 4655,1519 4911,1523 5168,1525 5424,1527 5680,1528 5936,1528 6192,1526 6449,1523"/>
+                <TextEquiv>
+                    <Unicode>reiche und der cronen zu Behem umb viertzig tusent mark lotiges silbers, sechst halben guldein florenczer gewicht fur ye die mark tze reiten, zu rechtem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} place {offset:111; length:5;}">
+                <Coords points="1302,1619 1587,1621 1840,1618 2093,1618 2346,1618 2599,1620 2852,1623 3105,1627 3358,1631 3611,1635 3864,1641 4117,1645 4370,1650 4623,1654 4876,1657 5129,1660 5382,1662 5635,1662 5888,1661 6141,1658 6398,1653 6398,1578 6141,1583 5888,1586 5635,1587 5382,1587 5129,1585 4876,1582 4623,1579 4370,1575 4117,1570 3864,1566 3611,1560 3358,1556 3105,1552 2852,1548 2599,1545 2346,1543 2093,1543 1840,1543 1587,1546 1302,1544"/>
+                <Baseline points="1334,1600 1587,1596 1840,1593 2093,1593 2346,1593 2599,1595 2852,1598 3105,1602 3358,1606 3611,1610 3864,1616 4117,1620 4370,1625 4623,1629 4876,1632 5129,1635 5382,1637 5635,1637 5888,1636 6141,1633 6394,1628"/>
+                <TextEquiv>
+                    <Unicode>pfande recht und redlichen von wegen des heiligen reichs versetzit sind, und sein eldern und vorvarn, kunge zu Behem in gewere und rechter besitzunge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="1335,1727 1593,1724 1851,1723 2109,1723 2367,1724 2625,1726 2883,1729 3141,1733 3399,1737 3657,1742 3916,1746 4174,1750 4432,1755 4690,1758 4948,1761 5206,1763 5464,1764 5722,1763 5980,1762 6238,1759 6553,1751 6553,1676 6238,1684 5980,1687 5722,1688 5464,1689 5206,1688 4948,1686 4690,1683 4432,1680 4174,1675 3916,1671 3657,1667 3399,1662 3141,1658 2883,1654 2625,1651 2367,1649 2109,1648 1851,1648 1575,1637 1317,1640"/>
+                <Baseline points="1335,1702 1593,1699 1851,1698 2109,1698 2367,1699 2625,1701 2883,1704 3141,1708 3399,1712 3657,1717 3916,1721 4174,1725 4432,1730 4690,1733 4948,1736 5206,1738 5464,1739 5722,1738 5980,1737 6238,1734 6497,1728"/>
+                <TextEquiv>
+                    <Unicode>derselben pfantschefte gewesen sint und er noch ist uff disen heutigen tag, des haben wir angesehen die besundir gnade und den nutczen, fleizz und auch die ste¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="1323,1829 1580,1827 1837,1827 2095,1828 2352,1829 2610,1832 2867,1835 3125,1839 3382,1843 3640,1847 3897,1851 4154,1856 4412,1860 4669,1863 4927,1867 5184,1869 5442,1871 5699,1871 5957,1871 6214,1869 6500,1866 6500,1791 6214,1794 5957,1796 5699,1796 5442,1796 5184,1794 4927,1792 4669,1788 4412,1785 4154,1781 3897,1776 3640,1772 3382,1768 3125,1764 2867,1760 2610,1757 2352,1754 2095,1753 1837,1752 1580,1752 1323,1754"/>
+                <Baseline points="1323,1804 1580,1802 1837,1802 2095,1803 2352,1804 2610,1807 2867,1810 3125,1814 3382,1818 3640,1822 3897,1826 4154,1831 4412,1835 4669,1838 4927,1842 5184,1844 5442,1846 5699,1846 5957,1846 6214,1844 6472,1841"/>
+                <TextEquiv>
+                    <Unicode>ticliche arbeit, domite der obgenante unsir herre, dez heiligen reiches nutz und ere getrewlich undirstanden hat, und habin auch gebruvet die merklichen getrewen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} place {offset:57; length:5;} place {offset:157; length:3; continued:true;}">
+                <Coords points="1312,1929 1570,1929 1828,1930 2086,1932 2344,1934 2602,1938 2860,1942 3118,1946 3376,1951 3634,1956 3893,1961 4151,1965 4409,1969 4667,1973 4925,1976 5183,1978 5441,1980 5699,1980 5957,1979 6215,1977 6474,1973 6474,1898 6215,1902 5957,1904 5699,1905 5441,1905 5183,1903 4925,1901 4667,1898 4409,1894 4151,1890 3893,1886 3634,1881 3376,1876 3118,1871 2860,1867 2602,1863 2344,1859 2086,1857 1828,1855 1570,1854 1312,1854"/>
+                <Baseline points="1312,1904 1570,1904 1828,1905 2086,1907 2344,1909 2602,1913 2860,1917 3118,1921 3376,1926 3634,1931 3893,1936 4151,1940 4409,1944 4667,1948 4925,1951 5183,1953 5441,1955 5699,1955 5957,1954 6215,1952 6474,1948"/>
+                <TextEquiv>
+                    <Unicode>dienst, die seine eldern, ettwenne hochgeborne kunige zu Behem, dem obgenanten reiche erlichen und nuczlichen offte getan haben, wanne auch das kungriche zu Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} place {offset:0; length:4; continued:true;} place {offset:131; length:6;}">
+                <Coords points="1321,2033 1578,2033 1835,2034 2092,2037 2350,2040 2607,2045 2864,2049 3121,2054 3379,2060 3636,2066 3893,2071 4150,2076 4408,2080 4665,2084 4922,2087 5179,2089 5437,2089 5694,2088 5951,2086 6208,2081 6466,2074 6466,1999 6208,2006 5951,2011 5694,2013 5437,2014 5179,2014 4922,2012 4665,2009 4408,2005 4150,2001 3893,1996 3636,1991 3379,1985 3121,1979 2864,1974 2607,1970 2350,1965 2092,1962 1835,1959 1578,1958 1321,1958"/>
+                <Baseline points="1321,2008 1578,2008 1835,2009 2092,2012 2350,2015 2607,2020 2864,2024 3121,2029 3379,2035 3636,2041 3893,2046 4150,2051 4408,2055 4665,2059 4922,2062 5179,2064 5437,2064 5694,2063 5951,2061 6208,2056 6466,2049"/>
+                <TextEquiv>
+                    <Unicode>heim ein edlez und wirdiges gelyet ist der, romischen cronen, so meinen und wollen wir sulchen schaden des obgenanten kungrichs zu Beheim vernumfticlichen understeen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="1318,2135 1593,2137 1848,2141 2103,2147 2358,2152 2614,2158 2869,2165 3124,2171 3379,2178 3634,2184 3890,2190 4145,2195 4400,2200 4655,2204 4910,2207 5166,2208 5421,2208 5676,2206 5931,2203 6186,2198 6442,2190 6442,2114 6186,2122 5931,2127 5676,2130 5421,2132 5166,2132 4910,2131 4655,2128 4400,2124 4145,2119 3890,2114 3634,2108 3379,2102 3124,2095 2869,2089 2614,2082 2358,2076 2103,2071 1848,2065 1593,2061 1318,2059"/>
+                <Baseline points="1338,2110 1593,2112 1848,2116 2103,2122 2358,2127 2614,2133 2869,2140 3124,2146 3379,2153 3634,2159 3890,2165 4145,2170 4400,2175 4655,2179 4910,2182 5166,2183 5421,2183 5676,2181 5931,2178 6186,2173 6442,2165"/>
+                <TextEquiv>
+                    <Unicode>durch die besundir trewe, domite wir, als ein kurfürste dem heiligin reiche verbunden sein, uf die rede daz der obgenante unsir herre daz selbe seine kungriche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} place {offset:3; length:6;}">
+                <Coords points="1308,2234 1562,2241 1817,2248 2072,2256 2326,2264 2581,2272 2836,2280 3090,2288 3345,2296 3600,2303 3855,2309 4109,2314 4364,2319 4619,2322 4873,2324 5128,2324 5383,2323 5637,2320 5892,2315 6147,2308 6402,2299 6402,2223 6147,2232 5892,2239 5637,2244 5383,2247 5128,2248 4873,2248 4619,2246 4364,2243 4109,2238 3855,2233 3600,2227 3345,2220 3090,2212 2836,2204 2581,2196 2326,2188 2072,2180 1817,2172 1562,2165 1308,2158"/>
+                <Baseline points="1308,2209 1562,2216 1817,2223 2072,2231 2326,2239 2581,2247 2836,2255 3090,2263 3345,2271 3600,2278 3855,2284 4109,2289 4364,2294 4619,2297 4873,2299 5128,2299 5383,2298 5637,2295 5892,2290 6147,2283 6402,2274"/>
+                <TextEquiv>
+                    <Unicode>zu Beheim durch sulchen tzweyvel icht beschedigit oder gehindirt werde, so bekennen wir mit wolbedachtem mute und mit rechter wizzen, daz die obgenante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;} place {offset:8; length:4;} place {offset:42; length:5;} place {offset:52; length:9;}">
+                <Coords points="1324,2334 1578,2343 1832,2353 2086,2362 2340,2372 2594,2380 2848,2389 3102,2396 3356,2404 3610,2411 3864,2416 4118,2421 4372,2425 4626,2428 4880,2430 5134,2431 5388,2430 5642,2428 5896,2425 6150,2420 6405,2413 6405,2337 6150,2344 5896,2349 5642,2352 5388,2354 5134,2355 4880,2354 4626,2352 4372,2349 4118,2345 3864,2340 3610,2335 3356,2328 3102,2320 2848,2313 2594,2304 2340,2296 2086,2286 1832,2277 1578,2267 1324,2258"/>
+                <Baseline points="1324,2309 1578,2318 1832,2328 2086,2337 2340,2347 2594,2355 2848,2364 3102,2371 3356,2379 3610,2386 3864,2391 4118,2396 4372,2400 4626,2403 4880,2405 5134,2406 5388,2405 5642,2403 5896,2400 6150,2395 6405,2388"/>
+                <TextEquiv>
+                    <Unicode>stat zu Eger mit dem lande und die vesten Flozz und Parkstein mit merkten, dorfen, mit edlen und unedlen, armen und reichen, kreizzen und allen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;} place {offset:138; length:6;}">
+                <Coords points="1306,2434 1591,2446 1844,2456 2097,2467 2350,2477 2603,2487 2856,2495 3109,2504 3362,2511 3615,2517 3868,2523 4121,2528 4374,2532 4627,2535 4880,2536 5133,2537 5386,2536 5639,2534 5892,2530 6145,2526 6398,2519 6398,2446 6145,2453 5892,2457 5639,2461 5386,2463 5133,2464 4880,2463 4627,2462 4374,2459 4121,2455 3868,2450 3615,2444 3362,2438 3109,2431 2856,2422 2603,2414 2350,2404 2097,2394 1844,2383 1591,2373 1306,2361"/>
+                <Baseline points="1338,2410 1591,2422 1844,2432 2097,2443 2350,2453 2603,2463 2856,2471 3109,2480 3362,2487 3615,2493 3868,2499 4121,2504 4374,2508 4627,2511 4880,2512 5133,2513 5386,2512 5639,2510 5892,2506 6145,2502 6398,2495"/>
+                <TextEquiv>
+                    <Unicode>czugehorungin, die in den gemerken derselbin lande und vesten gelegen und gesezzen sint, dez obgenanten unsirs herren, als eines kungs zu Beheim, seiner er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;} place {offset:29; length:5;}">
+                <Coords points="1322,2550 1575,2560 1829,2570 2082,2578 2336,2588 2590,2597 2843,2605 3097,2614 3350,2621 3604,2627 3858,2633 4111,2638 4365,2641 4618,2644 4872,2645 5126,2644 5379,2642 5633,2639 5886,2633 6140,2626 6394,2617 6394,2544 6140,2553 5886,2560 5633,2566 5379,2569 5126,2571 4872,2572 4618,2571 4365,2568 4111,2565 3858,2560 3604,2554 3350,2548 3097,2541 2843,2532 2590,2524 2336,2515 2082,2505 1829,2497 1575,2487 1322,2477"/>
+                <Baseline points="1322,2526 1575,2536 1829,2546 2082,2554 2336,2564 2590,2573 2843,2581 3097,2590 3350,2597 3604,2603 3858,2609 4111,2614 4365,2617 4618,2620 4872,2621 5126,2620 5379,2618 5633,2615 5886,2609 6140,2602 6394,2593"/>
+                <TextEquiv>
+                    <Unicode>ben und nachkumen, kungen zu Behem, und der cronen dezselbin kungrichs rechte pfantschaft lange gewesen sein und noch sein fur viertzig tusent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="1316,2667 1567,2675 1819,2684 2071,2693 2323,2701 2575,2710 2826,2718 3078,2726 3330,2733 3582,2739 3834,2744 4085,2749 4337,2752 4589,2754 4841,2754 5093,2753 5344,2750 5596,2745 5848,2738 6100,2727 6352,2715 6352,2639 6100,2651 5848,2662 5596,2669 5344,2674 5093,2677 4841,2678 4589,2678 4337,2676 4085,2673 3834,2668 3582,2663 3330,2657 3078,2650 2826,2642 2575,2634 2323,2625 2071,2617 1819,2608 1567,2599 1316,2591"/>
+                <Baseline points="1316,2642 1567,2650 1819,2659 2071,2668 2323,2676 2575,2685 2826,2693 3078,2701 3330,2708 3582,2714 3834,2719 4085,2724 4337,2727 4589,2729 4841,2729 5093,2728 5344,2725 5596,2720 5848,2713 6100,2702 6352,2690"/>
+                <TextEquiv>
+                    <Unicode>mark lotiges silbers sulchis gewichtes, als dovor begriffen ist. Und dieselbin pfantschaft bestetigen wir mit rechter wizzen in allir der mazze, als dovor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;} place {offset:90; length:4;}">
+                <Coords points="1312,2781 1566,2788 1820,2796 2074,2803 2328,2812 2583,2820 2837,2828 3091,2836 3345,2844 3599,2850 3854,2856 4108,2861 4362,2865 4616,2867 4870,2868 5125,2867 5379,2864 5633,2859 5887,2852 6141,2842 6396,2830 6396,2754 6141,2766 5887,2776 5633,2783 5379,2788 5125,2791 4870,2792 4616,2791 4362,2789 4108,2785 3854,2780 3599,2774 3345,2768 3091,2760 2837,2752 2583,2744 2328,2736 2074,2727 1820,2720 1566,2712 1312,2705"/>
+                <Baseline points="1312,2756 1566,2763 1820,2771 2074,2778 2328,2787 2583,2795 2837,2803 3091,2811 3345,2819 3599,2825 3854,2831 4108,2836 4362,2840 4616,2842 4870,2843 5125,2842 5379,2839 5633,2834 5887,2827 6141,2817 6396,2805"/>
+                <TextEquiv>
+                    <Unicode>begriffen ist, und geben dortzu unsere gunst, willen und wort, als ein pfallentzgrave bey Rein, obrister truchtsezze und ein kurfurste dez heiligen reichs. Mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;} place {offset:67; length:5;} date {offset:73; length:85; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1320,2894 1571,2899 1822,2906 2073,2914 2325,2921 2576,2930 2827,2938 3079,2947 3330,2955 3581,2963 3833,2970 4084,2976 4335,2981 4586,2985 4838,2987 5089,2988 5340,2986 5592,2983 5843,2976 6094,2968 6346,2957 6346,2881 6094,2892 5843,2900 5592,2907 5340,2910 5089,2912 4838,2911 4586,2909 4335,2905 4084,2900 3833,2894 3581,2887 3330,2879 3079,2871 2827,2862 2576,2854 2325,2845 2073,2838 1822,2830 1571,2823 1320,2818"/>
+                <Baseline points="1320,2869 1571,2874 1822,2881 2073,2889 2325,2896 2576,2905 2827,2913 3079,2922 3330,2930 3581,2938 3833,2945 4084,2951 4335,2956 4586,2960 4838,2962 5089,2963 5340,2961 5592,2958 5843,2951 6094,2943 6346,2932"/>
+                <TextEquiv>
+                    <Unicode>urkund dicz brives, versigilt mit unserm insigel, der geben ist zu Speyr noch Crists geburtte dreyczen hundirt jare, dornoch in dem drey und funfczigsten jare,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;} date {offset:0; length:60; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1310,3012 1408,3011 1507,3011 1606,3011 1705,3014 1804,3016 1902,3019 2001,3023 2100,3028 2199,3032 2298,3037 2396,3042 2495,3047 2594,3052 2693,3057 2792,3061 2890,3065 2989,3069 3088,3071 3187,3073 3286,3074 3286,2998 3187,2997 3088,2995 2989,2993 2890,2989 2792,2985 2693,2981 2594,2976 2495,2971 2396,2966 2298,2961 2199,2956 2100,2952 2001,2947 1902,2943 1804,2940 1705,2938 1606,2935 1507,2935 1408,2935 1310,2936"/>
+                <Baseline points="1310,2987 1408,2986 1507,2986 1606,2986 1705,2989 1804,2991 1902,2994 2001,2998 2100,3003 2199,3007 2298,3012 2396,3017 2495,3022 2594,3027 2693,3032 2792,3036 2890,3040 2989,3044 3088,3046 3187,3048 3286,3049"/>
+                <TextEquiv>
+                    <Unicode>an der nechsten mitwochen vor dez heiligen santh Niclas tage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir Ruprecht der Elter von Gots gnaden pfallentzgrave bei Rein, des heiligen reichs obrister truchtsezze und hertzog in Beyern, bekennen und tun kunt
+offenlich mit disem brive allen den, die in sehent odir horent lesen, alleine die brive dez allirdurchluchtigsten fursten und herren, hern Karls romischen
+kungs zu allen tzeiten merers des reichs und kungs zu Behem, unsirs lieben gnedigen herren, die er ubir seine pfantschefte der stat und des landes zu Eger
+und der vesten Flozz und Parkstein und waz dorczu gehoret, gehabt hat und die auch seliger gedechtnuzze die hochgebornen fursten, ettwenne kunge zu Behem,
+seine eltern, durch merklicher sachen willen von dem heiligen reiche behaldin und dirworben haben, von widirczemer ungeschicht beide verbrennet und ver¬
+lorn sint, daz er domite sein recht nicht beweisen mag, als billich were, doch, sintdemmal, daz uns dieselbe pfantschaft wol kundig ist und wir sulchir gelegin¬
+heit wol und genczlich undirweisit sein, daz die obgenante stat zu Eger mit dem lande und die vesten Flozz und Parkstein mit allen zugehorungen dem kung¬
+reiche und der cronen zu Behem umb viertzig tusent mark lotiges silbers, sechst halben guldein florenczer gewicht fur ye die mark tze reiten, zu rechtem
+pfande recht und redlichen von wegen des heiligen reichs versetzit sind, und sein eldern und vorvarn, kunge zu Behem in gewere und rechter besitzunge
+derselben pfantschefte gewesen sint und er noch ist uff disen heutigen tag, des haben wir angesehen die besundir gnade und den nutczen, fleizz und auch die ste¬
+ticliche arbeit, domite der obgenante unsir herre, dez heiligen reiches nutz und ere getrewlich undirstanden hat, und habin auch gebruvet die merklichen getrewen
+dienst, die seine eldern, ettwenne hochgeborne kunige zu Behem, dem obgenanten reiche erlichen und nuczlichen offte getan haben, wanne auch das kungriche zu Be¬
+heim ein edlez und wirdiges gelyet ist der, romischen cronen, so meinen und wollen wir sulchen schaden des obgenanten kungrichs zu Beheim vernumfticlichen understeen
+durch die besundir trewe, domite wir, als ein kurfürste dem heiligin reiche verbunden sein, uf die rede daz der obgenante unsir herre daz selbe seine kungriche
+zu Beheim durch sulchen tzweyvel icht beschedigit oder gehindirt werde, so bekennen wir mit wolbedachtem mute und mit rechter wizzen, daz die obgenante
+stat zu Eger mit dem lande und die vesten Flozz und Parkstein mit merkten, dorfen, mit edlen und unedlen, armen und reichen, kreizzen und allen
+czugehorungin, die in den gemerken derselbin lande und vesten gelegen und gesezzen sint, dez obgenanten unsirs herren, als eines kungs zu Beheim, seiner er¬
+ben und nachkumen, kungen zu Behem, und der cronen dezselbin kungrichs rechte pfantschaft lange gewesen sein und noch sein fur viertzig tusent
+mark lotiges silbers sulchis gewichtes, als dovor begriffen ist. Und dieselbin pfantschaft bestetigen wir mit rechter wizzen in allir der mazze, als dovor
+begriffen ist, und geben dortzu unsere gunst, willen und wort, als ein pfallentzgrave bey Rein, obrister truchtsezze und ein kurfurste dez heiligen reichs. Mit
+urkund dicz brives, versigilt mit unserm insigel, der geben ist zu Speyr noch Crists geburtte dreyczen hundirt jare, dornoch in dem drey und funfczigsten jare,
+an der nechsten mitwochen vor dez heiligen santh Niclas tage.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

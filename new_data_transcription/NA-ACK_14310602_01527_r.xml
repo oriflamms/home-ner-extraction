@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-16T15:30:07.888+02:00</Created>
+        <LastChange>2020-02-27T15:01:36.663+00:00</LastChange>
+        <TranskribusMetadata docId="211712" pageId="9074984" pageNr="1" tsid="19791472" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=QTMAHUGZCIZZLZFXASEFXXZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXWTZZMEBLFPSICMWMQXRNEM" imageId="5857485"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14310602_01527_r.jpg" imageWidth="6054" imageHeight="4240">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618438549" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="442,447 437,1644 5024,1663 5010,437"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:14;} place {offset:12; length:5;} person {offset:33; length:26;} place {offset:47; length:12;}">
+                <Coords points="495,1216 682,1202 759,692 1350,676 1556,669 1761,664 1966,660 2171,656 2377,654 2582,652 2787,651 2992,650 3198,650 3403,650 3608,651 3813,651 4019,651 4224,651 4429,651 4634,650 4840,649 4847,490 4635,490 4423,490 4217,480 4019,490 3813,490 3601,495 3404,490 3221,485 3014,490 2808,490 2606,480 2385,490 2154,485 1966,485 1769,485 1591,480 1360,476 1062,476 851,471 485,480"/>
+                <Baseline points="735,683 940,672 1145,663 1350,655 1556,648 1761,643 1966,639 2171,635 2377,633 2582,631 2787,630 2992,629 3198,629 3403,629 3608,630 3813,630 4019,630 4224,630 4429,630 4634,629 4840,628"/>
+                <TextEquiv>
+                    <Unicode>ipso teneant gewonheiten und gehorent lesen, ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:28; length:62;} place {offset:41; length:5;} place {offset:70; length:20;}">
+                <Coords points="768,795 972,783 1176,772 1380,762 1584,753 1788,747 1992,742 2196,737 2400,735 2604,732 2808,731 3012,730 3216,730 3420,731 3624,731 3828,732 4032,733 4236,734 4440,735 4644,736 4848,736 4848,673 4644,673 4440,672 4236,671 4032,670 3828,669 3624,668 3420,668 3216,667 3012,667 2808,668 2604,669 2400,672 2196,674 1992,679 1788,684 1584,690 1380,699 1176,709 972,720 768,732"/>
+                <Baseline points="768,774 972,762 1176,751 1380,741 1584,732 1788,726 1992,721 2196,716 2400,714 2604,711 2808,710 3012,709 3216,709 3420,710 3624,710 3828,711 4032,712 4236,713 4440,714 4644,715 4848,715"/>
+                <TextEquiv>
+                    <Unicode>lyssety budu, ze gsem panu Pertoltowy z Lyppe, naywissiemu marssalku cralowstwie czeskeho, bratru swemu mylemu dala a pomczyla z do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="736,882 940,866 1145,852 1350,840 1555,829 1760,821 1965,814 2170,809 2375,805 2580,802 2785,801 2989,800 3194,800 3399,801 3604,803 3809,805 4014,808 4219,810 4424,813 4629,816 4834,818 4834,770 4629,768 4424,765 4219,762 4014,760 3809,757 3604,755 3399,753 3194,752 2989,752 2785,753 2580,754 2375,757 2170,761 1965,766 1760,773 1555,781 1350,792 1145,804 940,818 736,834"/>
+                <Baseline points="736,866 940,850 1145,836 1350,824 1555,813 1760,805 1965,798 2170,793 2375,789 2580,786 2785,785 2989,784 3194,784 3399,785 3604,787 3809,789 4014,792 4219,794 4424,797 4629,800 4834,802"/>
+                <TextEquiv>
+                    <Unicode>bru pamyety a z dobrym rozmyslem czos gsem myela listuow na ktere penieze a neb na kterk dluhy gesto to dale listowe swiedssye y ty dominihy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="736,959 940,942 1144,925 1348,912 1552,901 1756,891 1960,883 2164,877 2368,872 2572,868 2777,866 2981,866 3185,866 3389,868 3593,870 3797,874 4001,878 4205,883 4409,888 4613,894 4818,900 4818,852 4613,846 4409,840 4205,835 4001,830 3797,826 3593,822 3389,820 3185,818 2981,818 2777,818 2572,820 2368,824 2164,829 1960,835 1756,843 1552,853 1348,864 1144,877 940,894 736,911"/>
+                <Baseline points="736,943 940,926 1144,909 1348,896 1552,885 1756,875 1960,867 2164,861 2368,856 2572,852 2777,850 2981,850 3185,850 3389,852 3593,854 3797,858 4001,862 4205,867 4409,872 4613,878 4818,884"/>
+                <TextEquiv>
+                    <Unicode>na kterez gsem listuow nemyela nez popsanet gsem gemu dala ty nostrum, take wsseczky poruczyem ipsopsalat gsem gie dalybnoh sprawe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="737,1033 943,1016 1149,1000 1355,987 1561,975 1767,965 1973,956 2179,949 2385,944 2591,939 2797,937 3003,935 3209,935 3415,936 3621,939 3827,942 4033,946 4239,952 4445,959 4651,966 4858,974 4858,920 4651,912 4445,905 4239,898 4033,892 3827,888 3621,885 3415,882 3209,881 3003,881 2797,883 2591,885 2385,890 2179,895 1973,902 1767,911 1561,921 1355,933 1149,946 943,962 737,979"/>
+                <Baseline points="737,1015 943,998 1149,982 1355,969 1561,957 1767,947 1973,938 2179,931 2385,926 2591,921 2797,919 3003,917 3209,917 3415,918 3621,921 3827,924 4033,928 4239,934 4445,941 4651,948 4858,956"/>
+                <TextEquiv>
+                    <Unicode>olywie nez czos bych odkazala komu czo daty toho mu wierzim y swierzylastni ze mee rozkazanye uczini a splny yako mogy wier¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="699,1113 906,1097 1113,1081 1320,1067 1527,1055 1734,1044 1941,1034 2148,1026 2355,1019 2562,1013 2769,1009 2976,1006 3183,1004 3390,1004 3597,1006 3804,1009 4011,1013 4218,1019 4425,1026 4632,1034 4840,1045 4840,982 4632,971 4425,963 4218,956 4011,950 3804,946 3597,943 3390,941 3183,941 2976,943 2769,946 2562,950 2355,956 2148,963 1941,971 1734,981 1527,992 1320,1004 1113,1018 906,1034 699,1050"/>
+                <Baseline points="699,1092 906,1076 1113,1060 1320,1046 1527,1034 1734,1023 1941,1013 2148,1005 2355,998 2562,992 2769,988 2976,985 3183,983 3390,983 3597,985 3804,988 4011,992 4218,998 4425,1005 4632,1013 4840,1024"/>
+                <TextEquiv>
+                    <Unicode>ny bratr a porucznyk, A toho pro lepssye gistost a swiedomye mey dobrey wuoly kazal sem przywiesyty swu wlastnie peczet k tomuto listu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:31; length:53;} place {offset:40; length:7;} place {offset:61; length:23;} person {offset:91; length:38;} place {offset:101; length:9;} place {offset:122; length:7;}">
+                <Coords points="713,1184 920,1171 1127,1160 1334,1148 1542,1138 1749,1128 1956,1118 2163,1110 2371,1103 2578,1097 2785,1092 2992,1089 3200,1087 3407,1086 3614,1087 3821,1090 4029,1096 4236,1102 4443,1111 4650,1122 4858,1135 4858,1072 4650,1059 4443,1048 4236,1039 4029,1033 3821,1027 3614,1024 3407,1023 3200,1024 2992,1026 2785,1029 2578,1034 2371,1040 2163,1047 1956,1055 1749,1065 1542,1075 1334,1085 1127,1097 920,1108 713,1121"/>
+                <Baseline points="713,1163 920,1150 1127,1139 1334,1127 1542,1117 1749,1107 1956,1097 2163,1089 2371,1082 2578,1076 2785,1071 2992,1068 3200,1066 3407,1065 3614,1066 3821,1069 4029,1075 4236,1081 4443,1090 4650,1101 4858,1114"/>
+                <TextEquiv>
+                    <Unicode>aprossyla gsem urozeneho pana Jossta z Rossycz podkomorzie markrabstwie morawskeho, pana utleba z Drahotuss, odginad zdellyna pana¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} person {offset:0; length:29;} place {offset:19; length:10;} person {offset:51; length:20;} place {offset:61; length:10;} person {offset:73; length:39;} place {offset:84; length:7;} place {offset:103; length:9;} person {offset:114; length:17; continued:true;}">
+                <Coords points="725,1261 933,1247 1141,1234 1349,1222 1557,1210 1765,1200 1973,1191 2181,1182 2389,1176 2597,1170 2805,1165 3013,1162 3221,1161 3429,1161 3637,1162 3845,1165 4053,1169 4261,1176 4469,1183 4677,1193 4886,1205 4886,1151 4677,1139 4469,1129 4261,1122 4053,1115 3845,1111 3637,1108 3429,1107 3221,1107 3013,1108 2805,1111 2597,1116 2389,1122 2181,1128 1973,1137 1765,1146 1557,1156 1349,1168 1141,1180 933,1193 725,1207"/>
+                <Baseline points="725,1243 933,1229 1141,1216 1349,1204 1557,1192 1765,1182 1973,1173 2181,1164 2389,1158 2597,1152 2805,1147 3013,1144 3221,1143 3429,1143 3637,1144 3845,1147 4053,1151 4261,1158 4469,1165 4677,1175 4886,1187"/>
+                <TextEquiv>
+                    <Unicode>Ginuravia Bubrawku z Dubrawicze, a slowutneho panosse Bohunka z Myroslawie, Waczlawa z Kantwicz, odginad z Knyehnycz Zygmunda, rzecze¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} person {offset:0; length:25; continued:true;} place {offset:16; length:9;}">
+                <Coords points="729,1341 935,1325 1142,1310 1348,1296 1555,1284 1761,1274 1968,1264 2174,1257 2381,1251 2587,1246 2794,1243 3001,1241 3207,1240 3414,1240 3620,1242 3827,1245 4033,1248 4240,1253 4446,1259 4653,1265 4860,1273 4860,1219 4653,1211 4446,1205 4240,1199 4033,1194 3827,1191 3620,1188 3414,1186 3207,1186 3001,1187 2794,1189 2587,1192 2381,1197 2174,1203 1968,1210 1761,1220 1555,1230 1348,1242 1142,1256 935,1271 729,1287"/>
+                <Baseline points="729,1323 935,1307 1142,1292 1348,1278 1555,1266 1761,1256 1968,1246 2174,1239 2381,1233 2587,1228 2794,1225 3001,1223 3207,1222 3414,1222 3620,1224 3827,1227 4033,1230 4240,1235 4446,1241 4653,1247 4860,1255"/>
+                <TextEquiv>
+                    <Unicode>neho Genyczka, z Olbramycz, aby swe peczeti przywiesyly, podle mey na swiedomye k tomuto listu. A natu dobru wuoly gsem poniczyla, panu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} person {offset:0; length:10;} place {offset:102; length:5;} date {offset:108; length:27; continued:true;year:0; day:0; month:0;}">
+                <Coords points="750,1422 958,1403 1167,1386 1375,1372 1584,1360 1792,1349 2001,1341 2209,1335 2418,1330 2626,1327 2835,1324 3044,1324 3252,1324 3461,1325 3669,1326 3878,1329 4086,1332 4295,1335 4503,1338 4712,1341 4921,1345 4921,1282 4712,1278 4503,1275 4295,1272 4086,1269 3878,1266 3669,1263 3461,1262 3252,1261 3044,1261 2835,1261 2626,1264 2418,1267 2209,1272 2001,1278 1792,1286 1584,1297 1375,1309 1167,1323 958,1340 750,1359"/>
+                <Baseline points="750,1401 958,1382 1167,1365 1375,1351 1584,1339 1792,1328 2001,1320 2209,1314 2418,1309 2626,1306 2835,1303 3044,1303 3252,1303 3461,1304 3669,1305 3878,1308 4086,1311 4295,1314 4503,1317 4712,1320 4921,1324"/>
+                <TextEquiv>
+                    <Unicode>Hertoltowy, bratru memu y dala y moczy tohoto listu dawame gemu y geho erbuom, genz gest dan a psan v Brnye po narozenye syna Buozieho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} date {offset:0; length:86; continued:true;year:0; day:0; month:0;}">
+                <Coords points="678,1548 929,1503 1054,1485 1179,1469 1304,1455 1430,1444 1555,1435 1680,1428 1805,1421 1930,1416 2056,1412 2181,1409 2306,1406 2431,1403 2556,1400 2682,1398 2807,1394 2932,1390 3057,1386 3183,1379 3183,1330 3057,1337 2932,1341 2807,1345 2682,1349 2556,1351 2431,1354 2306,1357 2181,1360 2056,1363 1930,1367 1805,1372 1680,1379 1555,1386 1430,1395 1304,1406 1179,1420 1054,1436 929,1454 682,1437"/>
+                <Baseline points="711,1524 929,1487 1054,1469 1179,1453 1304,1439 1430,1428 1555,1419 1680,1412 1805,1405 1930,1400 2056,1396 2181,1393 2306,1390 2431,1387 2556,1384 2682,1382 2807,1378 2932,1374 3057,1370 3183,1363"/>
+                <TextEquiv>
+                    <Unicode>tyssyli, Gyrzista trzydczateho prwneho leta w tu sobotu pobuozyem, czyele et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ipso teneant gewonheiten und gehorent lesen, ver¬
+lyssety budu, ze gsem panu Pertoltowy z Lyppe, naywissiemu marssalku cralowstwie czeskeho, bratru swemu mylemu dala a pomczyla z do¬
+bru pamyety a z dobrym rozmyslem czos gsem myela listuow na ktere penieze a neb na kterk dluhy gesto to dale listowe swiedssye y ty dominihy
+na kterez gsem listuow nemyela nez popsanet gsem gemu dala ty nostrum, take wsseczky poruczyem ipsopsalat gsem gie dalybnoh sprawe¬
+olywie nez czos bych odkazala komu czo daty toho mu wierzim y swierzylastni ze mee rozkazanye uczini a splny yako mogy wier¬
+ny bratr a porucznyk, A toho pro lepssye gistost a swiedomye mey dobrey wuoly kazal sem przywiesyty swu wlastnie peczet k tomuto listu
+aprossyla gsem urozeneho pana Jossta z Rossycz podkomorzie markrabstwie morawskeho, pana utleba z Drahotuss, odginad zdellyna pana¬
+Ginuravia Bubrawku z Dubrawicze, a slowutneho panosse Bohunka z Myroslawie, Waczlawa z Kantwicz, odginad z Knyehnycz Zygmunda, rzecze¬
+neho Genyczka, z Olbramycz, aby swe peczeti przywiesyly, podle mey na swiedomye k tomuto listu. A natu dobru wuoly gsem poniczyla, panu¬
+Hertoltowy, bratru memu y dala y moczy tohoto listu dawame gemu y geho erbuom, genz gest dan a psan v Brnye po narozenye syna Buozieho
+tyssyli, Gyrzista trzydczateho prwneho leta w tu sobotu pobuozyem, czyele et</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

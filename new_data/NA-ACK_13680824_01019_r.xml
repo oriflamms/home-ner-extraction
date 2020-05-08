@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-01T15:35:20.904+02:00</Created>
+        <LastChange>2019-11-15T17:11:07.544+01:00</LastChange>
+        <TranskribusMetadata docId="190614" pageId="7543705" pageNr="1" tsid="19418768" status="IN_PROGRESS" userId="40502" imgUrl="https://files.transkribus.eu/Get?id=YXFHTBQUWVJRMEWDWLIEJGGH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MAENSNCJQJZMPWMZMDJTFZDY" imageId="4545814"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13680824_01019_r.jpg" imageWidth="3000" imageHeight="2112">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618155505" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1573636696755_90"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="448,224 461,1000 2465,1035 2466,223"/>
+            <TextLine id="r1l5" custom="readingOrder {index:0;} person {offset:4; length:93;}">
+                <Coords points="452,372 567,370 664,369 761,368 857,367 954,366 1051,365 1147,364 1244,364 1341,363 1438,363 1534,363 1631,363 1728,363 1824,364 1921,364 2018,365 2114,365 2211,366 2308,367 2405,368 2405,338 2308,337 2211,336 2114,335 2018,335 1921,334 1824,334 1726,308 1631,333 1534,333 1438,333 1341,333 1244,334 1147,334 1051,335 954,336 857,337 764,316 664,339 569,259 452,259"/>
+                <Baseline points="471,362 567,360 664,359 761,358 857,357 954,356 1051,355 1147,354 1244,354 1341,353 1438,353 1534,353 1631,353 1728,353 1824,354 1921,354 2018,355 2114,355 2211,356 2308,357 2405,358"/>
+                <TextEquiv>
+                    <Unicode>Wir Karl von Gots gnaden romischer keyzer czu allen czeiten merer des reichs und kunig czu Beheim embieten den lantluyten, rittern und knechten burgern und insessen des halben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:1;} place {offset:35; length:7;} person {offset:166; length:32; continued:true;}">
+                <Coords points="481,406 577,405 673,404 770,403 866,402 963,401 1059,400 1156,399 1252,398 1349,398 1445,397 1541,397 1638,397 1734,397 1831,398 1927,398 2024,399 2120,400 2217,401 2313,403 2410,405 2410,375 2313,373 2217,371 2120,370 2024,369 1927,368 1831,368 1734,367 1638,367 1541,367 1445,367 1349,368 1252,368 1156,369 1059,370 963,371 866,372 770,373 673,374 577,375 481,376"/>
+                <Baseline points="481,396 577,395 673,394 770,393 866,392 963,391 1059,390 1156,389 1252,388 1349,388 1445,387 1541,387 1638,387 1734,387 1831,388 1927,388 2024,389 2120,390 2217,391 2313,393 2410,395"/>
+                <TextEquiv>
+                    <Unicode>landis und der halben stad czu der Steinaw, unser lieben getrewen, unsir gnade und alles guet, wanne nue von Gotis vorhenkniezze seliger gedechtnisse der hochgeborne Bolke, eczwenne herczoge czu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:2;} person {offset:0; length:8; continued:true;} place {offset:0; length:8;} place {offset:149; length:6;}">
+                <Coords points="479,440 576,439 673,438 770,437 867,436 964,435 1061,435 1158,434 1255,434 1352,433 1449,433 1546,433 1643,433 1740,434 1837,435 1934,435 2031,437 2128,438 2225,440 2322,442 2420,444 2420,414 2322,412 2225,410 2128,408 2031,407 1934,405 1837,405 1740,404 1643,403 1546,403 1449,403 1352,403 1255,404 1158,404 1061,405 964,405 867,406 770,407 673,408 576,409 479,410"/>
+                <Baseline points="479,430 576,429 673,428 770,427 867,426 964,425 1061,425 1158,424 1255,424 1352,423 1449,423 1546,423 1643,423 1740,424 1837,425 1934,425 2031,427 2128,428 2225,430 2322,432 2420,434"/>
+                <TextEquiv>
+                    <Unicode>Swidnicz, unsir lieber swager, von todis wegen leider vorscheiden ist, dem ir czu herren seine lebtage und uns dem hochgebornen Wenczlawen, kunge zu Beheim, unserme lieben soene, unsirn erben und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;} place {offset:21; length:6;}">
+                <Coords points="476,475 573,473 671,471 769,470 866,469 964,468 1062,467 1159,466 1257,466 1355,466 1453,466 1550,466 1648,467 1746,468 1843,469 1941,470 2039,471 2136,473 2234,475 2332,477 2430,479 2430,449 2332,447 2234,445 2136,443 2039,441 1941,440 1843,439 1746,438 1648,437 1550,436 1453,436 1355,436 1257,436 1159,436 1062,437 964,438 866,439 769,440 671,441 573,443 476,445"/>
+                <Baseline points="476,465 573,463 671,461 769,460 866,459 964,458 1062,457 1159,456 1257,456 1355,456 1453,456 1550,456 1648,457 1746,458 1843,459 1941,460 2039,461 2136,463 2234,465 2332,467 2430,469"/>
+                <TextEquiv>
+                    <Unicode>nochkomen, kungen zu Beheim und der cronen des selben kunigreichs, zu rechtir erbschaft vor gewartet habt, und nue noch seyme tode das vorgenanten halbeteil und ir uff uns, den egenanten unsir suen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;} place {offset:37; length:6;} place {offset:83; length:6;}">
+                <Coords points="477,507 574,505 671,504 768,502 865,501 962,500 1059,499 1157,499 1254,498 1351,498 1448,498 1545,499 1642,499 1739,500 1837,501 1934,503 2031,505 2128,507 2225,509 2322,512 2420,515 2420,485 2322,482 2225,479 2128,477 2031,475 1934,473 1837,471 1739,470 1642,469 1545,469 1448,468 1351,468 1254,468 1157,469 1059,469 962,470 865,471 768,472 671,474 574,475 477,477"/>
+                <Baseline points="477,497 574,495 671,494 768,492 865,491 962,490 1059,489 1157,489 1254,488 1351,488 1448,488 1545,489 1642,489 1739,490 1837,491 1934,493 2031,495 2128,497 2225,499 2322,502 2420,505"/>
+                <TextEquiv>
+                    <Unicode>unsir erben und nochkomen, kunge czu Beheim, und die crone desselben kungreichs zu Beheim, lediclich widerkomen seit, als ir ouch darumb vormals uns, unserm egenanten sone, unsirn erben und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;} place {offset:22; length:6;}">
+                <Coords points="477,542 574,540 672,538 770,536 868,535 966,533 1064,533 1161,532 1259,532 1357,531 1455,532 1553,532 1651,533 1749,534 1846,535 1944,536 2042,538 2140,541 2238,543 2336,546 2434,549 2434,519 2336,516 2238,513 2140,511 2042,508 1944,506 1846,505 1749,504 1651,503 1553,502 1455,502 1357,501 1259,502 1161,502 1064,503 966,503 868,505 770,506 672,508 574,510 477,512"/>
+                <Baseline points="477,532 574,530 672,528 770,526 868,525 966,523 1064,523 1161,522 1259,522 1357,521 1455,522 1553,522 1651,523 1749,524 1846,525 1944,526 2042,528 2140,531 2238,533 2336,536 2434,539"/>
+                <TextEquiv>
+                    <Unicode>nochkomen, kungen zcu Beheim, und der cronen desselben kungreichs leiplich gehuldet, globt und gesworn und eine rechte erbhuldunge getan habt und wenn wir, nue vor notlichen sachen und geschef¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="485,578 581,574 677,572 773,569 869,567 965,566 1061,565 1157,564 1253,563 1349,563 1445,564 1541,564 1637,565 1733,566 1829,568 1925,570 2021,572 2117,574 2213,576 2309,579 2406,582 2406,552 2309,549 2213,546 2117,544 2021,542 1925,540 1829,538 1733,536 1637,535 1541,534 1445,534 1349,533 1253,533 1157,534 1061,535 965,536 869,537 773,539 677,542 581,544 485,548"/>
+                <Baseline points="485,568 581,564 677,562 773,559 869,557 965,556 1061,555 1157,554 1253,553 1349,553 1445,554 1541,554 1637,555 1733,556 1829,558 1925,560 2021,562 2117,564 2213,566 2309,569 2406,572"/>
+                <TextEquiv>
+                    <Unicode>den des heiligen reichs nicht kegenwertik gesein mogen, euch und daz land leiplich inczunemene in craft der erbhuldunge, die ir uns getan habt als vorgeschriben stet, dar umb so haben wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;} place {offset:84; length:7;} place {offset:156; length:6;} person {offset:184; length:10; continued:true;}">
+                <Coords points="477,609 556,609 627,607 698,606 769,604 840,603 911,602 982,602 1053,601 1124,601 1196,600 1267,600 1338,600 1409,600 1480,601 1551,601 1622,601 1693,602 1764,602 1835,603 2433,613 2433,577 1835,573 1764,572 1693,572 1622,571 1551,571 1480,571 1409,570 1338,570 1267,570 1196,570 1124,571 1053,571 982,572 911,572 840,573 769,574 698,576 627,577 556,579 478,581"/>
+                <Baseline points="476,607 547,605 627,601 698,600 769,603 840,593 911,592 982,592 1053,591 1124,591 1196,590 1267,590 1338,590 1409,590 1480,591 1551,591 1622,591 1693,592 1764,592 1835,593 2432,617"/>
+                <TextEquiv>
+                    <Unicode>sulche ynnenuinge und ouch ander ordenunge bestelnisse und schickunge des landes zu Luesicz glicherweis, als anderr unser, und der cronen der kungreichs ze Beheim, lande dem egenanten kunge Wen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;} person {offset:0; length:7; continued:true;} person {offset:108; length:32;} place {offset:135; length:5;}">
+                <Coords points="481,650 577,647 674,644 770,642 867,640 964,638 1060,637 1157,636 1254,635 1350,635 1447,635 1544,636 1640,637 1737,637 1834,639 1930,640 2027,642 2124,644 2220,646 2317,649 2414,651 2414,621 2317,619 2220,616 2124,614 2027,612 1930,610 1834,609 1737,607 1640,607 1544,606 1447,605 1350,605 1254,605 1157,606 1060,607 964,608 867,610 770,612 674,614 577,617 481,620"/>
+                <Baseline points="481,640 577,637 674,634 770,632 867,630 964,628 1060,627 1157,626 1254,625 1350,625 1447,625 1544,626 1640,627 1737,627 1834,629 1930,630 2027,632 2124,634 2220,636 2317,639 2414,641"/>
+                <TextEquiv>
+                    <Unicode>czlawen, unserm sone, den das mit sampt uns erblich angehoret und von unsern und seinen wegen dem ewirdigen Johansen, erczebischofe zu Prage, unserme lieben fursten, ratgeben und andechti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="470,681 578,679 674,677 770,675 866,674 962,672 1058,671 1154,671 1250,671 1346,671 1443,671 1539,671 1635,672 1731,673 1827,675 1923,677 2019,679 2115,681 2211,684 2307,687 2404,690 2404,660 2307,657 2211,654 2115,651 2019,649 1923,647 1827,645 1731,643 1635,642 1539,641 1443,641 1346,641 1250,641 1154,641 1058,641 962,642 866,644 770,645 674,647 578,649 471,652"/>
+                <Baseline points="482,671 578,669 674,667 770,665 866,664 962,662 1058,661 1154,661 1250,661 1346,661 1443,661 1539,661 1635,662 1731,663 1827,665 1923,667 2019,669 2115,671 2211,674 2307,677 2404,680"/>
+                <TextEquiv>
+                    <Unicode>gem, als eynem vormuenden vorwesere und houbtmanne, wizzentlich mit ganczer und volkomener macht empholhen, also daz er, diselben unsere land, alle von unsern und des egenanten unsirs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;} place {offset:168; length:6;}">
+                <Coords points="486,710 580,709 674,708 769,706 863,705 958,704 1052,704 1147,703 1241,703 1336,703 1430,703 1524,704 1619,705 1713,706 1808,707 1902,709 1997,711 2091,714 2186,717 2280,720 2433,723 2431,688 2280,690 2186,687 2091,684 1997,681 1902,679 1808,677 1713,676 1619,675 1524,674 1430,673 1336,673 1241,673 1147,673 1052,674 958,674 863,675 769,676 674,678 580,679 486,680"/>
+                <Baseline points="480,708 574,707 668,706 763,704 857,703 952,702 1046,702 1141,701 1235,701 1330,701 1424,701 1518,702 1613,703 1707,704 1802,705 1896,707 1991,709 2085,712 2180,715 2274,718 2429,725"/>
+                <TextEquiv>
+                    <Unicode>sones, wegen ynnemen und ynnehaben sal und als ein vormunde vorweser und houbtman dieselben zu nucze und zu eren, unser, unsirs sones und der cronen des kungreichs czu Beheim, ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:11;}">
+                <Coords points="478,745 575,744 673,743 770,742 868,741 966,740 1063,739 1161,738 1259,738 1356,737 1454,737 1552,737 1649,738 1747,738 1845,740 1942,741 2040,743 2138,746 2235,749 2333,752 2431,756 2431,726 2333,722 2235,719 2138,716 2040,713 1942,711 1845,710 1747,708 1649,708 1552,707 1454,707 1356,707 1259,708 1161,708 1063,709 966,710 868,711 770,712 673,713 575,714 478,715"/>
+                <Baseline points="478,735 575,734 673,733 770,732 868,731 966,730 1063,729 1161,728 1259,728 1356,727 1454,727 1552,727 1649,728 1747,728 1845,730 1942,731 2040,733 2138,736 2235,739 2333,742 2431,746"/>
+                <TextEquiv>
+                    <Unicode>trewelich vorwesen und danen so gebieten wir und emphelhen, uch allen gemeinlich und uwirme iczlichem besunderlich mit disem briefe, ernstlich und vesticlich, daz ir zuhant noch ange¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:12;} person {offset:36; length:16;} place {offset:105; length:6;}">
+                <Coords points="486,781 583,780 680,779 777,778 874,777 971,776 1068,776 1166,775 1263,775 1360,775 1457,775 1554,776 1651,777 1748,778 1846,779 1943,780 2040,782 2137,784 2234,787 2331,790 2429,793 2429,763 2331,760 2234,757 2137,754 2040,752 1943,750 1846,749 1748,748 1651,747 1554,746 1457,745 1360,745 1263,745 1166,745 1068,746 971,746 874,747 777,748 680,749 583,750 486,751"/>
+                <Baseline points="486,771 583,770 680,769 777,768 874,767 971,766 1068,766 1166,765 1263,765 1360,765 1457,765 1554,766 1651,767 1748,768 1846,769 1943,770 2040,772 2137,774 2234,777 2331,780 2429,783"/>
+                <TextEquiv>
+                    <Unicode>sichte dicz briefes dem vorgenanten kunge Wentzlawen, unserme sone, unsern erben und nochkomen, kunge zu Beheim, als uwerr rechten, naturlichen und erblichen herschaft huldet, globet und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="480,818 576,816 673,814 770,812 867,811 964,810 1061,809 1158,809 1255,809 1352,809 1449,809 1545,810 1642,811 1739,812 1836,814 1933,815 2030,817 2127,819 2224,822 2321,824 2418,827 2418,797 2321,794 2224,792 2127,789 2030,787 1933,785 1836,784 1739,782 1642,781 1545,780 1449,779 1352,779 1255,779 1158,779 1061,779 964,780 867,781 770,782 673,784 576,786 480,788"/>
+                <Baseline points="480,808 576,806 673,804 770,802 867,801 964,800 1061,799 1158,799 1255,799 1352,799 1449,799 1545,800 1642,801 1739,802 1836,804 1933,805 2030,807 2127,809 2224,812 2321,814 2418,817"/>
+                <TextEquiv>
+                    <Unicode>sweret, noch der vordern erbhuldunge slechticlich und an allen undirscheit und ouch im an allen undirscheit gehorsam getrew, gewere und undirtenik seit an alle widerrede als billich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:14;}">
+                <Coords points="482,849 579,848 677,846 775,845 873,845 971,844 1068,844 1166,844 1264,844 1362,844 1460,844 1557,845 1655,846 1753,847 1851,849 1949,851 2046,853 2144,855 2242,857 2340,860 2438,863 2438,833 2340,830 2242,827 2144,825 2046,823 1949,821 1851,819 1753,817 1655,816 1557,815 1460,814 1362,814 1264,814 1166,814 1068,814 971,814 873,815 775,815 677,816 579,818 482,819"/>
+                <Baseline points="482,839 579,838 677,836 775,835 873,835 971,834 1068,834 1166,834 1264,834 1362,834 1460,834 1557,835 1655,836 1753,837 1851,839 1949,841 2046,843 2144,845 2242,847 2340,850 2438,853"/>
+                <TextEquiv>
+                    <Unicode>und recht ist, also doch, daz der egenante erczebischoff odir wen, er darczu senden odir schicken wirdet, ob unser egenanter soen, darczu nicht koemen mochte, von welchen sachen, daz geschee die sel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:15;} place {offset:141; length:6;}">
+                <Coords points="480,885 577,883 674,882 771,881 868,880 965,879 1062,879 1159,879 1256,879 1353,879 1450,880 1547,881 1644,881 1741,883 1838,884 1935,886 2032,888 2129,889 2226,892 2323,894 2421,897 2421,867 2323,864 2226,862 2129,859 2032,858 1935,856 1838,854 1741,853 1644,851 1547,851 1450,850 1353,849 1256,849 1159,849 1062,849 965,849 868,850 771,851 674,852 577,853 480,855"/>
+                <Baseline points="480,875 577,873 674,872 771,871 868,870 965,869 1062,869 1159,869 1256,869 1353,869 1450,870 1547,871 1644,871 1741,873 1838,874 1935,876 2032,878 2129,879 2226,882 2323,884 2421,887"/>
+                <TextEquiv>
+                    <Unicode>be huldunge, eyde und gelubde, als ein vormunde vorweser und houbtman von uch czu unsern unsirs sones, unserr erben und nochkoemen, kunge ze Beheim, handen ynnemen und emphaen sullen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:16;}">
+                <Coords points="485,922 581,920 677,919 773,918 869,917 966,916 1062,916 1158,915 1254,915 1350,915 1447,916 1543,916 1639,917 1735,918 1831,919 1928,920 2024,922 2120,924 2216,926 2312,928 2409,931 2409,901 2312,898 2216,896 2120,894 2024,892 1928,890 1831,889 1735,888 1639,887 1543,886 1447,886 1350,885 1254,885 1158,885 1062,886 966,886 869,887 773,888 677,889 581,890 485,892"/>
+                <Baseline points="485,912 581,910 677,909 773,908 869,907 966,906 1062,906 1158,905 1254,905 1350,905 1447,906 1543,906 1639,907 1735,908 1831,909 1928,910 2024,912 2120,914 2216,916 2312,918 2409,921"/>
+                <TextEquiv>
+                    <Unicode>dem ir ouch gehorsamlich und getruwelich, als einem vorweser vormunde und houbtmane gewarten sullet. Mit urkunde dicz briefes, vorsigelt mit unserr keizerlichen maiestat ingesigel, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:17;} place {offset:15; length:5;} date {offset:21; length:167; continued:true;year:0; day:0; month:0;}">
+                <Coords points="480,957 576,956 673,954 770,953 867,952 964,952 1061,951 1157,951 1254,951 1351,952 1448,952 1545,953 1642,954 1739,955 1835,956 1932,958 2029,960 2126,962 2223,964 2320,967 2417,970 2417,940 2320,937 2223,934 2126,932 2029,930 1932,928 1835,926 1739,925 1642,924 1545,923 1448,922 1351,922 1254,921 1157,921 1061,921 964,922 867,922 770,923 673,924 576,926 480,927"/>
+                <Baseline points="480,947 576,946 673,944 770,943 867,942 964,942 1061,941 1157,941 1254,941 1351,942 1448,942 1545,943 1642,944 1739,945 1835,946 1932,948 2029,950 2126,952 2223,954 2320,957 2417,960"/>
+                <TextEquiv>
+                    <Unicode>gegeben ist zu Moden noch Cristes geburt dreiczenhundert jar, dornach in dem acht und sechczigisten jare, an send Bartholomeus tag, des heiligen czwelfboten, unserr reiche des romischen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:18;} date {offset:0; length:119; continued:true;year:0; day:0; month:0;} place {offset:33; length:11;}">
+                <Coords points="479,989 543,989 607,988 671,987 735,986 800,986 864,985 928,984 992,984 1056,983 1121,983 1185,983 1249,982 1313,982 1377,982 1442,982 1506,982 1570,983 1634,983 1698,984 1763,985 1763,955 1698,954 1634,953 1570,953 1506,952 1442,952 1377,952 1313,952 1249,952 1185,953 1121,953 1056,953 992,954 928,954 864,955 800,956 735,956 671,957 607,958 543,959 479,959"/>
+                <Baseline points="479,979 543,979 607,978 671,977 735,976 800,976 864,975 928,974 992,974 1056,973 1121,973 1185,973 1249,972 1313,972 1377,972 1442,972 1506,972 1570,973 1634,973 1698,974 1763,975"/>
+                <TextEquiv>
+                    <Unicode>dem drey und czwenczigisten, des Behemischen in dem czwey und czwenczigisten und des keyzertums in dem vierczendem jare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir Karl von Gots gnaden romischer keyzer czu allen czeiten merer des reichs und kunig czu Beheim embieten den lantluyten, rittern und knechten burgern und insessen des halben
+landis und der halben stad czu der Steinaw, unser lieben getrewen, unsir gnade und alles guet, wanne nue von Gotis vorhenkniezze seliger gedechtnisse der hochgeborne Bolke, eczwenne herczoge czu der
+Swidnicz, unsir lieber swager, von todis wegen leider vorscheiden ist, dem ir czu herren seine lebtage und uns dem hochgebornen Wenczlawen, kunge zu Beheim, unserme lieben soene, unsirn erben und
+nochkomen, kungen zu Beheim und der cronen des selben kunigreichs, zu rechtir erbschaft vor gewartet habt, und nue noch seyme tode das vorgenanten halbeteil und ir uff uns, den egenanten unsir suen,
+unsir erben und nochkomen, kunge czu Beheim, und die crone desselben kungreichs zu Beheim, lediclich widerkomen seit, als ir ouch darumb vormals uns, unserm egenanten sone, unsirn erben und
+nochkomen, kungen zcu Beheim, und der cronen desselben kungreichs leiplich gehuldet, globt und gesworn und eine rechte erbhuldunge getan habt und wenn wir, nue vor notlichen sachen und geschef¬
+den des heiligen reichs nicht kegenwertik gesein mogen, euch und daz land leiplich inczunemene in craft der erbhuldunge, die ir uns getan habt als vorgeschriben stet, dar umb so haben wir
+sulche ynnenuinge und ouch ander ordenunge bestelnisse und schickunge des landes zu Luesicz glicherweis, als anderr unser, und der cronen der kungreichs ze Beheim, lande dem egenanten kunge Wen¬
+czlawen, unserm sone, den das mit sampt uns erblich angehoret und von unsern und seinen wegen dem ewirdigen Johansen, erczebischofe zu Prage, unserme lieben fursten, ratgeben und andechti¬
+gem, als eynem vormuenden vorwesere und houbtmanne, wizzentlich mit ganczer und volkomener macht empholhen, also daz er, diselben unsere land, alle von unsern und des egenanten unsirs
+sones, wegen ynnemen und ynnehaben sal und als ein vormunde vorweser und houbtman dieselben zu nucze und zu eren, unser, unsirs sones und der cronen des kungreichs czu Beheim, ge¬
+trewelich vorwesen und danen so gebieten wir und emphelhen, uch allen gemeinlich und uwirme iczlichem besunderlich mit disem briefe, ernstlich und vesticlich, daz ir zuhant noch ange¬
+sichte dicz briefes dem vorgenanten kunge Wentzlawen, unserme sone, unsern erben und nochkomen, kunge zu Beheim, als uwerr rechten, naturlichen und erblichen herschaft huldet, globet und
+sweret, noch der vordern erbhuldunge slechticlich und an allen undirscheit und ouch im an allen undirscheit gehorsam getrew, gewere und undirtenik seit an alle widerrede als billich
+und recht ist, also doch, daz der egenante erczebischoff odir wen, er darczu senden odir schicken wirdet, ob unser egenanter soen, darczu nicht koemen mochte, von welchen sachen, daz geschee die sel¬
+be huldunge, eyde und gelubde, als ein vormunde vorweser und houbtman von uch czu unsern unsirs sones, unserr erben und nochkoemen, kunge ze Beheim, handen ynnemen und emphaen sullen,
+dem ir ouch gehorsamlich und getruwelich, als einem vorweser vormunde und houbtmane gewarten sullet. Mit urkunde dicz briefes, vorsigelt mit unserr keizerlichen maiestat ingesigel, der
+gegeben ist zu Moden noch Cristes geburt dreiczenhundert jar, dornach in dem acht und sechczigisten jare, an send Bartholomeus tag, des heiligen czwelfboten, unserr reiche des romischen in
+dem drey und czwenczigisten, des Behemischen in dem czwey und czwenczigisten und des keyzertums in dem vierczendem jare.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573636696755_90" custom="readingOrder {index:1;}">
+            <Coords points="2103,1040 2408,1040 2408,1152 2103,1152"/>
+            <TextLine id="line_1573636700898_93" custom="readingOrder {index:0;}">
+                <Coords points="2145,1039 2239,1033 2340,1029 2342,1079 2241,1083 2148,1089"/>
+                <Baseline points="2148,1084 2241,1078 2342,1074"/>
+                <TextEquiv>
+                    <Unicode>per dominum imperatorem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573636703450_98" custom="readingOrder {index:1;} person {offset:0; length:19;}">
+                <Coords points="2139,1091 2280,1086 2360,1083 2362,1133 2282,1136 2141,1141"/>
+                <Baseline points="2141,1136 2282,1131 2362,1128"/>
+                <TextEquiv>
+                    <Unicode>Johannes Jaurensis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>per dominum imperatorem
+Johannes Jaurensis.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-05T15:00:09.591+02:00</Created>
+        <LastChange>2019-12-02T22:44:51.530+01:00</LastChange>
+        <TranskribusMetadata docId="169992" pageId="6426788" pageNr="1" tsid="20192245" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=YWQAIGOAEUEUUYBRIDFGPYYY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLSIKIFVRAATMGWOHYHPDKDY" imageId="3818843"/>
+    </Metadata>
+    <Page imageFilename="NA-CG-L_14240622_192_r.jpg" imageWidth="6615" imageHeight="4653">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618036584" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2454,560 2510,2133 5232,2160 5143,575"/>
+            <TextLine id="line_1566490994976_591" custom="readingOrder {index:0;} person {offset:3; length:16;} place {offset:13; length:6;} missing {offset:28; length:1;}">
+                <Coords points="2534,625 3215,625 3671,778 4247,784 4620,731 5001,772 5008,864 4605,873 4250,873 3681,879 2857,889 2743,1101"/>
+                <Baseline points="2794,883 3246,883 3681,874 4250,868 4605,868 5008,859"/>
+                <TextEquiv>
+                    <Unicode>Ja Zbramir z Bukowa wyznawa(…)to listem obecznye przedew¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;} missing {offset:39; length:1;}">
+                <Coords points="2821,958 2877,956 2934,954 2990,952 3047,951 3103,949 3160,948 3216,946 3273,946 3329,944 3386,944 3442,943 3499,942 3555,942 3612,941 3668,941 3725,941 3781,941 3838,941 3894,941 5110,946 5101,854 3894,893 3838,893 3781,893 3725,893 3668,893 3612,893 3555,894 3499,894 3442,895 3386,896 3329,896 3273,898 3216,898 3160,900 3103,901 3047,903 2990,904 2934,906 2877,908 2821,910"/>
+                <Baseline points="2821,942 2877,940 2934,938 2990,936 3047,935 3103,933 3160,932 3216,930 3273,930 3329,928 3386,928 3442,927 3499,926 3555,926 3807,937 4027,928 4190,931 4457,922 4665,937 4905,937 5104,943"/>
+                <TextEquiv>
+                    <Unicode>ssemy, ktoz gey uzrze aneb cztucz usli(…), zie gsem slibil a moczi tohoto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="2846,1022 2958,1018 3071,1013 3184,1010 3297,1008 3410,1006 3523,1005 3635,1004 3748,1004 3861,1004 3974,1004 4087,1004 4200,1004 4313,1003 4425,1003 4538,1002 4651,1001 4764,999 4877,997 4990,993 5103,989 5103,952 4990,956 4877,960 4764,962 4651,964 4538,965 4425,966 4313,966 4200,967 4087,967 3974,967 3861,967 3748,967 3635,967 3523,968 3410,969 3297,971 3184,973 3071,976 2958,981 2846,985"/>
+                <Baseline points="2846,1010 2958,1006 3071,1001 3184,998 3297,996 3410,994 3523,993 3635,992 3748,992 3861,992 3974,992 4087,992 4200,992 4313,991 4425,991 4538,990 4651,989 4764,987 4877,985 4990,981 5103,977"/>
+                <TextEquiv>
+                    <Unicode>listu slibugi pode czti a pod wieru nebiti proti urozenym panom panu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;} person {offset:0; length:43;} place {offset:11; length:8;} place {offset:33; length:10;} person {offset:46; length:9; continued:true;}">
+                <Coords points="2822,1106 2948,1097 3060,1091 3171,1087 3283,1084 3395,1082 3506,1080 3618,1079 3729,1079 3841,1079 3953,1079 4064,1079 4176,1079 4287,1079 4399,1078 4511,1077 4622,1076 4734,1073 4845,1069 4957,1065 5069,1058 5069,1009 4957,1016 4819,1005 4734,1024 4622,1027 4511,1028 4399,1029 4273,1000 4176,1030 4064,1030 3953,1030 3819,1008 3729,1030 3618,1030 3506,1031 3371,1014 3283,1035 3171,1038 3060,1042 2952,1026 2837,1055"/>
+                <Baseline points="2837,1088 2948,1081 3060,1075 3171,1071 3283,1068 3395,1066 3506,1064 3618,1063 3729,1063 3841,1063 3953,1063 4064,1063 4176,1063 4287,1063 4399,1062 4511,1061 4622,1060 4734,1057 4845,1053 4957,1049 5069,1042"/>
+                <TextEquiv>
+                    <Unicode>Wylemowy z Symburga, sedyenym na Perstaynye a Galhotowy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;} person {offset:0; length:34; continued:true;} place {offset:2; length:9;} place {offset:24; length:10;}">
+                <Coords points="2797,1180 2911,1172 3026,1167 3140,1162 3255,1158 3369,1156 3484,1154 3598,1152 3713,1151 3827,1151 3942,1150 4056,1150 4171,1149 4285,1149 4400,1148 4514,1146 4629,1144 4743,1142 4858,1138 4972,1134 5087,1128 5087,1079 4972,1085 4858,1089 4743,1093 4629,1095 4508,1074 4401,1062 4285,1100 4171,1100 4056,1101 3942,1101 3827,1102 3713,1102 3582,1074 3484,1105 3347,1083 3255,1109 3140,1113 3026,1118 2905,1112 2797,1131"/>
+                <Baseline points="2797,1164 2911,1156 3026,1151 3140,1146 3255,1142 3369,1140 3484,1138 3598,1136 3713,1135 3827,1135 3942,1134 4056,1134 4171,1133 4285,1133 4400,1132 4514,1130 4629,1128 4743,1126 4858,1122 4972,1118 5087,1112"/>
+                <TextEquiv>
+                    <Unicode>z Horzowycz sedyenym na Rabstaynie, any proti gich kteremu, any proti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="2844,1248 2955,1243 3067,1238 3178,1234 3290,1230 3401,1227 3513,1224 3624,1223 3736,1221 3847,1220 3959,1219 4071,1218 4182,1217 4294,1217 4405,1216 4517,1216 4628,1215 4740,1215 4851,1214 4963,1213 5075,1211 5075,1162 4963,1164 4851,1165 4740,1166 4628,1166 4517,1167 4405,1167 4294,1168 4182,1168 4071,1169 3959,1170 3847,1171 3751,1148 3624,1174 3513,1175 3409,1157 3290,1181 3160,1157 3067,1189 2952,1160 2844,1199"/>
+                <Baseline points="2844,1232 2955,1227 3067,1222 3178,1218 3290,1214 3401,1211 3513,1208 3624,1207 3736,1205 3847,1204 3959,1203 4071,1202 4182,1201 4294,1201 4405,1200 4517,1200 4628,1199 4740,1199 4851,1198 4963,1197 5075,1195"/>
+                <TextEquiv>
+                    <Unicode>gich zbozy, any kterym kusem, any kteru radu gym przekazety od</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="2846,1321 2960,1313 3075,1306 3190,1302 3304,1297 3419,1295 3534,1293 3648,1291 3763,1290 3878,1290 3992,1290 4107,1291 4222,1291 4336,1291 4451,1291 4566,1291 4680,1290 4795,1288 4910,1286 5025,1283 5025,1234 4896,1204 4795,1239 4665,1207 4555,1204 4439,1213 4318,1204 4220,1228 4107,1242 4000,1222 3878,1241 3742,1219 3648,1242 3537,1207 3419,1246 3285,1216 3190,1253 3075,1257 2949,1246 2846,1272"/>
+                <Baseline points="2846,1305 2960,1297 3075,1290 3190,1286 3304,1281 3419,1279 3534,1277 3648,1275 3763,1274 3878,1274 3992,1274 4107,1275 4222,1275 4336,1275 4451,1275 4566,1275 4680,1274 4795,1272 4910,1270 5025,1267"/>
+                <TextEquiv>
+                    <Unicode>tohoto listu danye, az do deseti leth porzad zbiehlich. A paklibich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="2840,1389 2949,1383 3058,1379 3167,1376 3276,1373 3385,1371 3494,1370 3603,1370 3712,1370 3821,1370 3930,1371 4039,1371 4148,1371 4257,1372 4366,1371 4475,1371 4584,1370 4693,1368 4802,1365 4911,1361 5021,1357 5021,1273 4911,1312 4802,1316 4693,1319 4584,1321 4475,1322 4366,1322 4257,1323 4148,1322 4039,1322 3930,1322 3821,1321 3712,1321 3603,1321 3494,1321 3385,1322 3276,1324 3167,1327 3058,1330 2949,1334 2840,1340"/>
+                <Baseline points="2840,1373 2949,1367 3058,1363 3167,1360 3276,1357 3385,1355 3494,1354 3603,1354 3712,1354 3821,1354 3930,1355 4039,1355 4148,1355 4257,1356 4366,1355 4475,1355 4584,1354 4693,1352 4802,1349 4911,1345 5021,1341"/>
+                <TextEquiv>
+                    <Unicode>czo proty nym uczynyl wtiech deseti letech, tehdy sem ztratyl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="2848,1460 2961,1455 3075,1451 3188,1448 3302,1446 3416,1444 3529,1443 3643,1443 3757,1442 3870,1442 3984,1442 4098,1442 4211,1442 4325,1442 4439,1441 4552,1440 4666,1438 4780,1436 4893,1433 5007,1429 5121,1424 5121,1379 5007,1384 4893,1388 4780,1391 4666,1393 4552,1395 4439,1396 4325,1397 4211,1397 4098,1397 3994,1368 3852,1377 3763,1379 3629,1368 3529,1398 3386,1365 3302,1401 3188,1403 3075,1406 2961,1410 2848,1415"/>
+                <Baseline points="2848,1445 2961,1440 3075,1436 3188,1433 3302,1431 3416,1429 3529,1428 3643,1428 3757,1427 3870,1427 3984,1427 4098,1427 4211,1427 4325,1427 4439,1426 4552,1425 4666,1423 4780,1421 4893,1418 5007,1414 5121,1409"/>
+                <TextEquiv>
+                    <Unicode>wieru a czest, a po deseti letech buduli chtieti proti nym biti, mam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="2852,1521 2962,1517 3072,1515 3183,1513 3293,1513 3404,1512 3514,1512 3625,1513 3735,1513 3846,1514 3956,1514 4066,1515 4177,1515 4287,1515 4398,1514 4508,1513 4619,1512 4729,1509 4840,1506 4950,1501 5061,1496 5061,1451 4950,1456 4843,1427 4715,1433 4619,1467 4487,1436 4398,1469 4309,1445 4177,1470 4066,1470 3956,1469 3840,1439 3735,1468 3625,1468 3514,1467 3397,1433 3293,1468 3183,1468 3072,1470 2962,1472 2852,1476"/>
+                <Baseline points="2852,1506 2962,1502 3072,1500 3183,1498 3293,1498 3404,1497 3514,1497 3625,1498 3735,1498 3846,1499 3956,1499 4066,1500 4177,1500 4287,1500 4398,1499 4508,1498 4619,1497 4729,1494 4840,1491 4950,1486 5061,1481"/>
+                <TextEquiv>
+                    <Unicode>se proti nym ohraditi yako dobry czlowiek. A toho na swiedomye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;} person {offset:48; length:12; continued:true;} place {offset:55; length:5; continued:true;}">
+                <Coords points="2841,1599 2953,1595 3065,1592 3177,1590 3289,1589 3401,1589 3513,1589 3625,1589 3737,1590 3849,1591 3961,1592 4073,1592 4185,1593 4297,1593 4409,1593 4521,1592 4633,1591 4745,1589 4857,1585 4969,1581 5081,1576 5081,1527 4969,1532 4857,1536 4745,1540 4633,1542 4521,1543 4409,1544 4297,1544 4185,1544 4073,1543 3961,1543 3849,1542 3737,1541 3625,1540 3513,1540 3401,1540 3289,1540 3177,1541 3065,1543 2953,1546 2841,1550"/>
+                <Baseline points="2841,1583 2953,1579 3065,1576 3177,1574 3289,1573 3401,1573 3513,1573 3625,1573 3737,1574 3849,1575 3961,1576 4073,1576 4185,1577 4297,1577 4409,1577 4521,1576 4633,1575 4745,1573 4857,1569 4969,1565 5081,1560"/>
+                <TextEquiv>
+                    <Unicode>a lepssy gystotu prosyl gsem slowutnych panossy Jana z Dnye¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;} person {offset:0; length:5; continued:true;} place {offset:0; length:5; continued:true;} person {offset:8; length:37;} place {offset:38; length:7;}">
+                <Coords points="2854,1679 2965,1675 3076,1673 3187,1670 3298,1669 3409,1668 3520,1667 3632,1667 3743,1666 3854,1666 3965,1666 4076,1666 4187,1666 4298,1665 4410,1664 4521,1662 4632,1660 4743,1658 4854,1654 4965,1649 5077,1644 5077,1595 4965,1600 4854,1605 4743,1609 4632,1611 4521,1613 4410,1615 4298,1616 4187,1617 4076,1617 3965,1617 3854,1617 3743,1617 3632,1618 3520,1618 3409,1619 3298,1620 3187,1621 3076,1624 2965,1626 2854,1630"/>
+                <Baseline points="2854,1663 2965,1659 3076,1657 3187,1654 3298,1653 3409,1652 3520,1651 3632,1651 3743,1650 3854,1650 3965,1650 4076,1650 4187,1650 4298,1649 4410,1648 4521,1646 4632,1644 4743,1642 4854,1638 4965,1633 5077,1628"/>
+                <TextEquiv>
+                    <Unicode>ssowa a Waczlawa, rzeczeneho Prczek z Smykucz, czie gsu swe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="2865,1757 2972,1753 3080,1751 3187,1748 3295,1746 3402,1744 3510,1743 3617,1741 3725,1740 3832,1740 3940,1739 4048,1738 4155,1737 4263,1737 4370,1736 4478,1735 4585,1734 4693,1733 4800,1731 4908,1729 5016,1727 5016,1678 4908,1680 4800,1682 4693,1684 4585,1685 4478,1686 4370,1687 4263,1688 4155,1688 4048,1689 3940,1690 3832,1691 3725,1691 3617,1692 3510,1694 3402,1695 3295,1697 3187,1699 3080,1702 2972,1704 2865,1708"/>
+                <Baseline points="2865,1741 2972,1737 3080,1735 3187,1732 3295,1730 3402,1728 3510,1727 3617,1725 3725,1724 3832,1724 3940,1723 4048,1722 4155,1721 4263,1721 4370,1720 4478,1719 4585,1718 4693,1717 4800,1715 4908,1713 5016,1711"/>
+                <TextEquiv>
+                    <Unicode>wlastnye peczeti podle me k tomuto listu przywiesyly, genz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;} date {offset:9; length:52; continued:true;year:0; day:0; month:0;}">
+                <Coords points="2892,1834 2976,1830 3060,1826 3145,1823 3229,1820 3314,1819 3398,1817 3483,1816 3567,1815 3652,1815 3736,1814 3820,1814 3905,1814 3989,1813 4074,1813 4158,1813 4243,1812 4327,1811 4412,1810 4496,1808 4988,1807 5006,1730 4496,1759 4412,1761 4327,1762 4243,1763 4158,1764 4074,1764 3989,1764 3905,1765 3820,1765 3736,1765 3652,1766 3567,1766 3483,1767 3398,1768 3314,1770 3229,1771 3145,1774 3060,1777 2976,1781 2892,1785"/>
+                <Baseline points="2892,1818 2976,1814 3060,1810 3145,1807 3229,1804 3314,1803 3398,1801 3483,1800 3567,1799 3652,1799 3736,1798 3820,1798 3905,1798 3989,1797 4074,1797 4158,1797 4243,1796 4327,1795 4412,1794 4496,1792 5000,1795"/>
+                <TextEquiv>
+                    <Unicode>gest dan leta od narozenie syna Bozieho tisiczeho cztyrzsteho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;} date {offset:0; length:45; continued:true;year:0; day:0; month:0;}">
+                <Coords points="2882,1912 2960,1907 3039,1902 3118,1899 3197,1896 3275,1893 3354,1891 3433,1890 3512,1889 3590,1888 3669,1887 3748,1887 3827,1887 3905,1887 3984,1886 4063,1886 4142,1885 4220,1885 4299,1883 4378,1882 4457,1880 4457,1831 4378,1833 4299,1834 4220,1836 4142,1836 4063,1837 3984,1837 3905,1838 3827,1838 3748,1838 3669,1838 3590,1839 3512,1840 3433,1841 3354,1842 3275,1844 3197,1847 3113,1845 3039,1853 2960,1858 2882,1863"/>
+                <Baseline points="2882,1896 2960,1891 3039,1886 3118,1883 3197,1880 3275,1877 3354,1875 3433,1874 3512,1873 3590,1872 3669,1871 3748,1871 3827,1871 3905,1871 3984,1870 4063,1870 4142,1869 4220,1869 4299,1867 4378,1866 4457,1864"/>
+                <TextEquiv>
+                    <Unicode>dwadczateho cztwrteho, ten den na Bozie tielo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Zbramir z Bukowa wyznawa(…)to listem obecznye przedew¬&#xD;
+ssemy, ktoz gey uzrze aneb cztucz usli(…), zie gsem slibil a moczi tohoto&#xD;
+listu slibugi pode czti a pod wieru nebiti proti urozenym panom panu&#xD;
+Wylemowy z Symburga, sedyenym na Perstaynye a Galhotowy&#xD;
+z Horzowycz sedyenym na Rabstaynie, any proti gich kteremu, any proti&#xD;
+gich zbozy, any kterym kusem, any kteru radu gym przekazety od&#xD;
+tohoto listu danye, az do deseti leth porzad zbiehlich. A paklibich&#xD;
+czo proty nym uczynyl wtiech deseti letech, tehdy sem ztratyl&#xD;
+wieru a czest, a po deseti letech buduli chtieti proti nym biti, mam&#xD;
+se proti nym ohraditi yako dobry czlowiek. A toho na swiedomye&#xD;
+a lepssy gystotu prosyl gsem slowutnych panossy Jana z Dnye¬&#xD;
+ssowa a Waczlawa, rzeczeneho Prczek z Smykucz, czie gsu swe&#xD;
+wlastnye peczeti podle me k tomuto listu przywiesyly, genz&#xD;
+gest dan leta od narozenie syna Bozieho tisiczeho cztyrzsteho&#xD;
+dwadczateho cztwrteho, ten den na Bozie tielo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

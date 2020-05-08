@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-11T12:41:03.913+02:00</Created>
+        <LastChange>2019-11-25T21:18:23.431+01:00</LastChange>
+        <TranskribusMetadata docId="208880" pageId="8946284" pageNr="1" tsid="19851127" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=PMHONCYDJCQGQPHCNBCMUSDI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQCMIXTBHXHEGHAKZAYUSXNX" imageId="5787756"/>
+    </Metadata>
+    <Page imageFilename="NA-AZK-Jiri_14361012_333_r.jpg" imageWidth="4709" imageHeight="4509">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618518696" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="209,164 205,1772 4372,1784 4387,194"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:101;}">
+                <Coords points="232,611 898,592 1074,597 1250,602 1426,606 1602,609 1778,612 1954,614 2130,616 2306,617 2483,618 2659,620 2835,621 3011,622 3187,623 3363,625 3539,627 3715,629 3891,632 4067,636 4244,641 4237,540 4065,522 3908,522 3732,522 3565,521 3381,507 3198,510 3022,510 2839,510 2670,518 2491,514 2311,510 2158,514 1919,502 1668,499 1638,214 1451,203 1208,203 1096,196 973,196 232,181"/>
+                <Baseline points="722,570 898,577 1074,582 1250,587 1426,591 1602,594 1778,597 1954,599 2130,601 2306,602 2483,603 2659,605 2835,606 3011,607 3187,608 3363,610 3539,612 3715,614 3891,617 4067,621 4244,626"/>
+                <TextEquiv>
+                    <Unicode>My Zygmund z Bozzye milosti rzymsky czyesarz, wzzdy rozmnozzytel rzysse a uhersky, czesky et cetera kral, wyznawame tiemto listem obecznie przede¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:106; length:25;}">
+                <Coords points="650,659 829,662 1008,666 1187,669 1367,672 1546,675 1725,678 1905,681 2084,684 2263,687 2443,689 2622,691 2801,693 2980,695 3160,697 3339,699 3518,700 3698,701 3877,703 4056,703 4236,704 4236,658 4056,657 3877,657 3698,655 3518,654 3339,653 3160,651 2980,649 2801,647 2622,645 2443,643 2263,641 2084,638 1905,635 1725,632 1546,629 1367,626 1187,623 1008,620 829,616 650,613"/>
+                <Baseline points="650,644 829,647 1008,651 1187,654 1367,657 1546,660 1725,663 1905,666 2084,669 2263,672 2443,674 2622,676 2801,678 2980,680 3160,682 3339,684 3518,685 3698,686 3877,688 4056,688 4236,689"/>
+                <TextEquiv>
+                    <Unicode>wssemi, ktozz gey uzrzie nebo cztucze slysseti budu, zze znamenawsse wierna a pilna zasluzzenie urozeneho Oldrzicha Medka z Waldeka, wierneho nasseho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="664,727 841,731 1018,735 1195,738 1373,741 1550,744 1727,747 1904,750 2082,753 2259,755 2436,757 2613,759 2791,762 2968,764 3145,766 3322,767 3500,769 3677,771 3854,773 4031,774 4209,776 4209,727 4031,725 3854,724 3677,722 3500,720 3322,718 3145,717 2968,715 2791,713 2613,710 2436,708 2259,706 2082,704 1904,701 1727,698 1550,695 1373,692 1195,689 1018,686 841,682 664,678"/>
+                <Baseline points="664,711 841,715 1018,719 1195,722 1373,725 1550,728 1727,731 1904,734 2082,737 2259,739 2436,741 2613,743 2791,746 2968,748 3145,750 3322,751 3500,753 3677,755 3854,757 4031,758 4209,760"/>
+                <TextEquiv>
+                    <Unicode>mileho, gimizzto nassye welebnosti ot drahnie przedesslych let ustawnie zachowal, sie gest y gma zachowati, sie buducznie chtiecze gemu to na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:85; length:11;}">
+                <Coords points="656,799 833,802 1011,806 1189,809 1367,812 1544,815 1722,819 1900,822 2078,825 2255,827 2433,830 2611,832 2789,835 2966,837 3144,839 3322,841 3500,843 3677,844 3855,846 4033,847 4211,848 4211,799 4033,798 3855,797 3677,795 3500,794 3322,792 3144,790 2966,788 2789,786 2611,783 2433,781 2255,778 2078,776 1900,773 1722,770 1544,766 1367,763 1189,760 1011,757 833,753 656,750"/>
+                <Baseline points="656,783 833,786 1011,790 1189,793 1367,796 1544,799 1722,803 1900,806 2078,809 2255,811 2433,814 2611,816 2789,819 2966,821 3144,823 3322,825 3500,827 3677,828 3855,830 4033,831 4211,832"/>
+                <TextEquiv>
+                    <Unicode>hraditi a milost y wdiecznost nassy okazati, s dobrym rozmyslem a radu nassii temuzz Oldrzichowi za ty geho sluzzby, naklady y sskody zastawi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} place {offset:87; length:8;} place {offset:121; length:15;}">
+                <Coords points="662,872 838,875 1014,877 1190,880 1366,882 1542,885 1718,887 1895,890 2071,892 2247,895 2423,898 2599,900 2775,903 2951,905 3128,907 3304,910 3480,912 3656,914 3832,917 4008,919 4185,921 4185,872 4008,870 3832,868 3656,865 3480,863 3304,861 3128,858 2951,856 2775,854 2599,851 2423,849 2247,846 2071,843 1895,841 1718,838 1542,836 1366,833 1190,831 1014,828 838,826 662,823"/>
+                <Baseline points="662,856 838,859 1014,861 1190,864 1366,866 1542,869 1718,871 1895,874 2071,876 2247,879 2423,882 2599,884 2775,887 2951,889 3128,891 3304,894 3480,896 3656,898 3832,901 4008,903 4185,905"/>
+                <TextEquiv>
+                    <Unicode>lisme a zapsali y tiemto listem zastawugem a zapisugem z milosti nassye zwlasstnie wsy Mokropsy geptissek swatogirzskych hradu Prazskeho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} place {offset:2; length:25;}">
+                <Coords points="668,942 844,944 1021,946 1198,948 1375,950 1552,953 1729,956 1905,958 2082,961 2259,964 2436,967 2613,970 2790,973 2967,975 3143,978 3320,980 3497,982 3674,984 3851,985 4028,986 4205,986 4205,937 4028,937 3851,936 3674,935 3497,933 3320,931 3143,929 2967,926 2790,924 2613,921 2436,918 2259,915 2082,912 1905,909 1729,907 1552,904 1375,901 1198,899 1021,897 844,895 668,893"/>
+                <Baseline points="668,926 844,928 1021,930 1198,932 1375,934 1552,937 1729,940 1905,942 2082,945 2259,948 2436,951 2613,954 2790,957 2967,959 3143,962 3320,964 3497,966 3674,968 3851,969 4028,970 4205,970"/>
+                <TextEquiv>
+                    <Unicode>s lesem rzeczeny Geptisstie, s rzeku, s uroky a pozzytky y prawy wsselikakymi, k tiem wsem przyslussnymi, we dwustu kopach grossuow prazskych</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:48; length:8;}">
+                <Coords points="665,1019 843,1020 1021,1021 1199,1022 1377,1024 1555,1026 1733,1029 1911,1032 2089,1034 2267,1037 2446,1039 2624,1042 2802,1045 2980,1047 3158,1049 3336,1051 3514,1052 3692,1053 3870,1054 4048,1054 4227,1053 4227,1002 4048,1003 3870,1003 3692,1002 3514,1001 3336,1000 3158,998 2980,996 2802,994 2624,991 2446,988 2267,986 2089,983 1911,981 1733,978 1555,975 1377,973 1199,971 1021,970 843,969 665,968"/>
+                <Baseline points="665,1002 843,1003 1021,1004 1199,1005 1377,1007 1555,1009 1733,1012 1911,1015 2089,1017 2267,1020 2446,1022 2624,1025 2802,1028 2980,1030 3158,1032 3336,1034 3514,1035 3692,1036 3870,1037 4048,1037 4227,1036"/>
+                <TextEquiv>
+                    <Unicode>strziebrnych a dobrych, a to tak, aby gmenowany Oldrzich to drzzal a miel y toho pozzywal bez nassye, nassych buduczych neb urzednikow,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="660,1093 837,1093 1014,1094 1192,1095 1369,1096 1547,1098 1724,1100 1901,1102 2079,1105 2256,1107 2434,1110 2611,1113 2788,1115 2966,1118 3143,1120 3321,1122 3498,1124 3675,1125 3853,1126 4030,1127 4208,1127 4208,1076 4030,1076 3853,1075 3675,1074 3498,1073 3321,1071 3143,1069 2966,1067 2788,1064 2611,1062 2434,1059 2256,1056 2079,1054 1901,1051 1724,1049 1547,1047 1369,1045 1192,1044 1014,1043 837,1042 660,1042"/>
+                <Baseline points="660,1076 837,1076 1014,1077 1192,1078 1369,1079 1547,1081 1724,1083 1901,1085 2079,1088 2256,1090 2434,1093 2611,1096 2788,1098 2966,1101 3143,1103 3321,1105 3498,1107 3675,1108 3853,1109 4030,1110 4208,1110"/>
+                <TextEquiv>
+                    <Unicode>y wssech ginych odpory a przekazky, to znamenite przidawagicz, kdyzzbychom my neb nassy buduczii a neb ty osoby, kterezz tu wyplatu sprawe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} person {offset:33; length:11;}">
+                <Coords points="652,1171 832,1170 1013,1170 1193,1171 1374,1172 1555,1173 1735,1174 1916,1176 2096,1178 2277,1180 2458,1183 2638,1185 2819,1188 2999,1190 3180,1192 3361,1194 3541,1196 3722,1198 3902,1200 4083,1201 4264,1202 4264,1151 4083,1150 3902,1149 3722,1147 3541,1145 3361,1143 3180,1141 2999,1139 2819,1137 2638,1134 2458,1132 2277,1129 2096,1127 1916,1125 1735,1123 1555,1122 1374,1121 1193,1120 1013,1119 832,1119 652,1120"/>
+                <Baseline points="652,1154 832,1153 1013,1153 1193,1154 1374,1155 1555,1156 1735,1157 1916,1159 2096,1161 2277,1163 2458,1166 2638,1168 2819,1171 2999,1173 3180,1175 3361,1177 3541,1179 3722,1181 3902,1183 4083,1184 4264,1185"/>
+                <TextEquiv>
+                    <Unicode>dliwie mieti magy, gizzprawenemu Oldrzichowi cztwrt leta naprzed wiedieti, daducze tiech dwiestie kop grossuow, dali a zaplatili tehdy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="637,1249 817,1246 998,1245 1178,1244 1359,1245 1539,1245 1720,1247 1900,1249 2081,1251 2261,1253 2442,1256 2623,1259 2803,1262 2984,1264 3164,1267 3345,1269 3525,1270 3706,1272 3886,1272 4067,1272 4248,1271 4248,1220 4067,1221 3886,1221 3706,1221 3525,1219 3345,1218 3164,1216 2984,1213 2803,1211 2623,1208 2442,1205 2261,1202 2081,1200 1900,1198 1720,1196 1539,1194 1359,1194 1178,1193 998,1194 817,1195 637,1198"/>
+                <Baseline points="637,1232 817,1229 998,1228 1178,1227 1359,1228 1539,1228 1720,1230 1900,1232 2081,1234 2261,1236 2442,1239 2623,1242 2803,1245 2984,1247 3164,1250 3345,1252 3525,1253 3706,1255 3886,1255 4067,1255 4248,1254"/>
+                <TextEquiv>
+                    <Unicode>yhned, dlenie wiecze neczynie, manam, nassym buduczym nebo tiem, gimzzby przislussalo wsii prwepsanych s przislussenstwim wssim s stu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} person {offset:49; length:8;}">
+                <Coords points="642,1323 820,1321 999,1320 1177,1319 1356,1319 1535,1320 1713,1322 1892,1324 2070,1326 2249,1329 2428,1332 2606,1335 2785,1338 2963,1341 3142,1343 3321,1346 3499,1348 3678,1349 3856,1350 4035,1350 4214,1350 4214,1299 4035,1299 3856,1299 3678,1298 3499,1297 3321,1295 3142,1292 2963,1290 2785,1287 2606,1284 2428,1281 2249,1278 2070,1275 1892,1273 1713,1271 1535,1269 1356,1268 1177,1268 999,1269 820,1270 642,1272"/>
+                <Baseline points="642,1306 820,1304 999,1303 1177,1302 1356,1302 1535,1303 1713,1305 1892,1307 2070,1309 2249,1312 2428,1315 2606,1318 2785,1321 2963,1324 3142,1326 3321,1329 3499,1331 3678,1332 3856,1333 4035,1333 4214,1333"/>
+                <TextEquiv>
+                    <Unicode>piti bez odporu y bez zmatku, a take swrchupsany Oldrzich lidii tiech wsii mimo sprawedliwe poplatky a uzzytky nema obtiezzowati ku po¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} person {offset:99; length:9;}">
+                <Coords points="650,1401 828,1399 1007,1397 1185,1396 1364,1397 1542,1397 1721,1398 1899,1400 2078,1402 2256,1404 2435,1406 2613,1409 2792,1412 2970,1414 3149,1416 3327,1418 3506,1420 3684,1421 3863,1422 4041,1422 4220,1422 4220,1371 4041,1371 3863,1371 3684,1370 3506,1369 3327,1367 3149,1365 2970,1363 2792,1361 2613,1358 2435,1355 2256,1353 2078,1351 1899,1349 1721,1347 1542,1346 1364,1346 1185,1345 1007,1346 828,1348 650,1350"/>
+                <Baseline points="650,1384 828,1382 1007,1380 1185,1379 1364,1380 1542,1380 1721,1381 1899,1383 2078,1385 2256,1387 2435,1389 2613,1392 2792,1395 2970,1397 3149,1399 3327,1401 3506,1403 3684,1404 3863,1405 4041,1405 4220,1405"/>
+                <TextEquiv>
+                    <Unicode>horssenii toho zbozzye obyczegem zzadnym. A ktozzby tento list miel nebo mieti bude, czastopsaneho Oldrzicha dobru a swobodnu woli, ten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="640,1474 819,1472 999,1470 1178,1469 1358,1470 1538,1470 1717,1472 1897,1474 2077,1476 2256,1478 2436,1481 2616,1484 2795,1486 2975,1489 3155,1491 3334,1493 3514,1494 3694,1495 3873,1495 4053,1494 4233,1492 4233,1441 4053,1443 3873,1444 3694,1444 3514,1443 3334,1442 3155,1440 2975,1438 2795,1435 2616,1433 2436,1430 2256,1427 2077,1425 1897,1423 1717,1421 1538,1419 1358,1419 1178,1418 999,1419 819,1421 640,1423"/>
+                <Baseline points="640,1457 819,1455 999,1453 1178,1452 1358,1453 1538,1453 1717,1455 1897,1457 2077,1459 2256,1461 2436,1464 2616,1467 2795,1469 2975,1472 3155,1474 3334,1476 3514,1477 3694,1478 3873,1478 4053,1477 4233,1475"/>
+                <TextEquiv>
+                    <Unicode>ma y mieti bude w tomto zapisu wsseczko prawo yako on sam. Toho na potwrzenie nass czyesarzsky maiestat kazalisme prziwiesyti k</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} date {offset:29; length:105; continued:true;year:0; day:0; month:0;}">
+                <Coords points="644,1544 823,1543 1002,1542 1182,1543 1361,1544 1541,1545 1720,1547 1900,1549 2079,1552 2259,1555 2438,1558 2617,1560 2797,1563 2976,1565 3156,1567 3335,1568 3515,1568 3694,1568 3874,1567 4053,1564 4233,1561 4233,1510 4053,1513 3874,1516 3694,1517 3515,1517 3335,1517 3156,1516 2976,1514 2797,1512 2617,1509 2438,1507 2259,1504 2079,1501 1900,1498 1720,1496 1541,1494 1361,1493 1182,1492 1002,1491 823,1492 644,1493"/>
+                <Baseline points="644,1527 823,1526 1002,1525 1182,1526 1361,1527 1541,1528 1720,1530 1900,1532 2079,1535 2259,1538 2438,1541 2617,1543 2797,1546 2976,1548 3156,1550 3335,1551 3515,1551 3694,1551 3874,1550 4053,1547 4233,1544"/>
+                <TextEquiv>
+                    <Unicode>tomuto listu, genzz gest dan leta od narozenie syna Bozzyeho tisyczyehocztyrzstehotrzidczatehossesteho ten patek przed swatym Kalixtem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} date {offset:0; length:146; continued:true;year:0; day:0; month:0;}">
+                <Coords points="623,1623 805,1620 988,1619 1170,1619 1353,1619 1536,1620 1718,1622 1901,1624 2084,1627 2266,1629 2449,1631 2632,1634 2814,1636 2997,1637 3180,1638 3362,1638 3545,1637 3728,1635 3910,1632 4093,1627 4276,1621 4276,1570 4093,1576 3910,1581 3728,1584 3545,1586 3362,1587 3180,1587 2997,1586 2814,1585 2632,1583 2449,1580 2266,1578 2084,1576 1901,1573 1718,1571 1536,1569 1353,1568 1170,1568 988,1568 805,1569 623,1572"/>
+                <Baseline points="623,1606 805,1603 988,1602 1170,1602 1353,1602 1536,1603 1718,1605 1901,1607 2084,1610 2266,1612 2449,1614 2632,1617 2814,1619 2997,1620 3180,1621 3362,1621 3545,1620 3728,1618 3910,1615 4093,1610 4276,1604"/>
+                <TextEquiv>
+                    <Unicode>papezzem let kralowstwii nassych uherskeho et cetera w padesatem, rzymskeho w dedmezyczyetmeho, czeskeho w XVII a czyesarzstwie w cztwrtem letie. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>My Zygmund z Bozzye milosti rzymsky czyesarz, wzzdy rozmnozzytel rzysse a uhersky, czesky et cetera kral, wyznawame tiemto listem obecznie przede¬&#xD;
+wssemi, ktozz gey uzrzie nebo cztucze slysseti budu, zze znamenawsse wierna a pilna zasluzzenie urozeneho Oldrzicha Medka z Waldeka, wierneho nasseho&#xD;
+mileho, gimizzto nassye welebnosti ot drahnie przedesslych let ustawnie zachowal, sie gest y gma zachowati, sie buducznie chtiecze gemu to na¬&#xD;
+hraditi a milost y wdiecznost nassy okazati, s dobrym rozmyslem a radu nassii temuzz Oldrzichowi za ty geho sluzzby, naklady y sskody zastawi¬&#xD;
+lisme a zapsali y tiemto listem zastawugem a zapisugem z milosti nassye zwlasstnie wsy Mokropsy geptissek swatogirzskych hradu Prazskeho&#xD;
+s lesem rzeczeny Geptisstie, s rzeku, s uroky a pozzytky y prawy wsselikakymi, k tiem wsem przyslussnymi, we dwustu kopach grossuow prazskych&#xD;
+strziebrnych a dobrych, a to tak, aby gmenowany Oldrzich to drzzal a miel y toho pozzywal bez nassye, nassych buduczych neb urzednikow,&#xD;
+y wssech ginych odpory a przekazky, to znamenite przidawagicz, kdyzzbychom my neb nassy buduczii a neb ty osoby, kterezz tu wyplatu sprawe¬&#xD;
+dliwie mieti magy, gizzprawenemu Oldrzichowi cztwrt leta naprzed wiedieti, daducze tiech dwiestie kop grossuow, dali a zaplatili tehdy&#xD;
+yhned, dlenie wiecze neczynie, manam, nassym buduczym nebo tiem, gimzzby przislussalo wsii prwepsanych s przislussenstwim wssim s stu¬&#xD;
+piti bez odporu y bez zmatku, a take swrchupsany Oldrzich lidii tiech wsii mimo sprawedliwe poplatky a uzzytky nema obtiezzowati ku po¬&#xD;
+horssenii toho zbozzye obyczegem zzadnym. A ktozzby tento list miel nebo mieti bude, czastopsaneho Oldrzicha dobru a swobodnu woli, ten&#xD;
+ma y mieti bude w tomto zapisu wsseczko prawo yako on sam. Toho na potwrzenie nass czyesarzsky maiestat kazalisme prziwiesyti k&#xD;
+tomuto listu, genzz gest dan leta od narozenie syna Bozzyeho tisyczyehocztyrzstehotrzidczatehossesteho ten patek przed swatym Kalixtem&#xD;
+papezzem let kralowstwii nassych uherskeho et cetera w padesatem, rzymskeho w dedmezyczyetmeho, czeskeho w XVII a czyesarzstwie w cztwrtem letie. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

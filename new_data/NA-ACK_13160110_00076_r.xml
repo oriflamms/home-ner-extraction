@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-24T16:48:35.287+02:00</Created>
+        <LastChange>2019-12-04T14:16:15.205+01:00</LastChange>
+        <TranskribusMetadata docId="187520" pageId="7458427" pageNr="1" tsid="20382736" status="IN_PROGRESS" userId="48350" imgUrl="https://files.transkribus.eu/Get?id=KFWGDPJBTKTBBPCBOKWJQVNG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YPHDLNNPLYDOAWNNXEHUAJTX" imageId="4480920"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13160110_00076_r.jpg" imageWidth="6585" imageHeight="4628">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617480758" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1285,1375 1285,2728 4081,2728 4081,1375"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:4; length:15;} place {offset:13; length:6;}">
+                <Coords points="1311,1475 1443,1480 1576,1483 1708,1486 1841,1487 1973,1487 2106,1486 2238,1485 2371,1483 2503,1480 2636,1476 2768,1472 2901,1469 3033,1464 3166,1459 3298,1454 3431,1450 3563,1445 3696,1440 3828,1437 3961,1433 3961,1375 3828,1379 3696,1382 3563,1387 3431,1392 3298,1396 3166,1401 3033,1406 2901,1411 2768,1414 2636,1418 2503,1422 2371,1425 2238,1427 2106,1428 1973,1429 1841,1429 1708,1428 1576,1425 1443,1422 1311,1417"/>
+                <Baseline points="1311,1456 1443,1461 1576,1464 1708,1467 1841,1468 1973,1468 2106,1467 2238,1466 2371,1464 2503,1461 2636,1457 2768,1453 2901,1450 3033,1445 3166,1440 3298,1435 3431,1431 3563,1426 3696,1421 3828,1418 3961,1414"/>
+                <TextEquiv>
+                    <Unicode>Ego Potho de Turgow ad universorum notitiam tenore presentium cupio pervenire, quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:45; length:55;} place {offset:54; length:6;} place {offset:64; length:7;} place {offset:80; length:13;}">
+                <Coords points="1295,1565 1431,1567 1567,1567 1703,1567 1839,1567 1975,1566 2111,1564 2247,1563 2383,1561 2519,1559 2655,1556 2791,1553 2927,1551 3063,1547 3199,1545 3335,1542 3471,1540 3607,1538 3743,1536 3879,1534 4015,1533 4015,1475 3879,1476 3743,1478 3607,1480 3471,1482 3335,1484 3199,1487 3063,1489 2927,1493 2791,1495 2655,1498 2519,1501 2383,1503 2247,1505 2111,1506 1975,1508 1839,1509 1703,1509 1567,1509 1431,1509 1295,1507"/>
+                <Baseline points="1295,1546 1431,1548 1567,1548 1703,1548 1839,1548 1975,1547 2111,1545 2247,1544 2383,1542 2519,1540 2655,1537 2791,1534 2927,1532 3063,1528 3199,1526 3335,1523 3471,1521 3607,1519 3743,1517 3879,1515 4015,1514"/>
+                <TextEquiv>
+                    <Unicode>quia serenissimo et illustri principi domino Johanni, Boemie et Polonie regi ac Lucemburgensi comiti, cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} place {offset:18; length:7;} place {offset:29; length:5;}">
+                <Coords points="1285,1657 1419,1657 1553,1657 1687,1656 1821,1655 1955,1653 2089,1650 2223,1648 2357,1645 2491,1642 2626,1639 2760,1635 2894,1632 3028,1630 3162,1627 3296,1625 3430,1623 3564,1622 3698,1622 3832,1622 3967,1623 3967,1559 3832,1558 3698,1558 3564,1558 3430,1559 3296,1561 3162,1563 3028,1566 2894,1568 2760,1571 2626,1575 2491,1578 2357,1581 2223,1584 2089,1586 1955,1589 1821,1591 1687,1592 1553,1593 1419,1593 1285,1593"/>
+                <Baseline points="1285,1636 1419,1636 1553,1636 1687,1635 1821,1634 1955,1632 2089,1629 2223,1627 2357,1624 2491,1621 2626,1618 2760,1614 2894,1611 3028,1609 3162,1606 3296,1604 3430,1602 3564,1601 3698,1601 3832,1601 3967,1602"/>
+                <TextEquiv>
+                    <Unicode>municionibus meis Grediss et Arnow perpetuo adherere ac servire contra omnem hominem toto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1289,1744 1428,1743 1567,1741 1706,1738 1845,1736 1984,1733 2123,1730 2263,1727 2402,1724 2541,1721 2680,1718 2819,1715 2958,1712 3097,1709 3237,1707 3376,1705 3515,1703 3654,1702 3793,1701 3932,1701 4072,1702 4072,1639 3932,1638 3793,1638 3654,1639 3515,1640 3376,1642 3237,1644 3097,1646 2958,1649 2819,1652 2680,1655 2541,1658 2402,1661 2263,1664 2123,1667 1984,1670 1845,1673 1706,1675 1567,1678 1428,1680 1289,1681"/>
+                <Baseline points="1289,1723 1428,1722 1567,1720 1706,1717 1845,1715 1984,1712 2123,1709 2263,1706 2402,1703 2541,1700 2680,1697 2819,1694 2958,1691 3097,1688 3237,1686 3376,1684 3515,1682 3654,1681 3793,1680 3932,1680 4072,1681"/>
+                <TextEquiv>
+                    <Unicode>posse meo, vice et nomine prestiti iuramenti promisi et promitto, ipse michi proinde trecentas marcas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1321,1839 1456,1834 1591,1830 1726,1826 1861,1822 1997,1818 2132,1815 2267,1812 2402,1809 2537,1806 2673,1804 2808,1802 2943,1800 3078,1798 3213,1796 3348,1794 3484,1793 3619,1792 3754,1790 3889,1789 4025,1787 4025,1726 3889,1728 3754,1729 3619,1731 3484,1732 3348,1733 3213,1735 3078,1737 2943,1739 2808,1741 2673,1743 2537,1745 2402,1748 2267,1751 2132,1754 1997,1757 1861,1761 1726,1765 1591,1769 1456,1773 1321,1778"/>
+                <Baseline points="1321,1819 1456,1814 1591,1810 1726,1806 1861,1802 1997,1798 2132,1795 2267,1792 2402,1789 2537,1786 2673,1784 2808,1782 2943,1780 3078,1778 3213,1776 3348,1774 3484,1773 3619,1772 3754,1770 3889,1769 4025,1767"/>
+                <TextEquiv>
+                    <Unicode>grossorum denariorum Pragensium regii pagamenti dare promisit et in eisdem ac dampnis, que cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} place {offset:83; length:4;}">
+                <Coords points="1316,1921 1454,1916 1592,1911 1730,1907 1869,1903 2007,1899 2145,1895 2283,1892 2422,1888 2560,1885 2698,1882 2836,1879 2975,1877 3113,1875 3251,1873 3389,1871 3528,1869 3666,1868 3804,1866 3942,1865 4081,1864 4081,1807 3942,1808 3804,1809 3666,1811 3528,1812 3389,1814 3251,1816 3113,1818 2975,1820 2836,1822 2698,1825 2560,1828 2422,1831 2283,1835 2145,1838 2007,1842 1869,1846 1730,1850 1592,1854 1454,1859 1316,1864"/>
+                <Baseline points="1316,1902 1454,1897 1592,1892 1730,1888 1869,1884 2007,1880 2145,1876 2283,1873 2422,1869 2560,1866 2698,1863 2836,1860 2975,1858 3113,1856 3251,1854 3389,1852 3528,1850 3666,1849 3804,1847 3942,1846 4081,1845"/>
+                <TextEquiv>
+                    <Unicode>quadraginta viris armatis in ipsius serviciis pertulere, michi oppidum suum dictum Hof cum mili¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} place {offset:68; length:8;}">
+                <Coords points="1308,2010 1446,2002 1584,1994 1722,1988 1861,1982 1999,1978 2137,1974 2276,1971 2414,1968 2552,1966 2691,1965 2829,1963 2967,1962 3105,1960 3244,1958 3382,1955 3520,1953 3659,1949 3797,1945 3935,1940 4074,1934 4074,1882 3935,1888 3797,1893 3659,1897 3520,1901 3382,1903 3244,1906 3105,1908 2967,1910 2829,1911 2691,1913 2552,1914 2414,1916 2276,1919 2137,1922 1999,1926 1861,1930 1722,1936 1584,1942 1446,1950 1308,1958"/>
+                <Baseline points="1308,1993 1446,1985 1584,1977 1722,1971 1861,1965 1999,1961 2137,1957 2276,1954 2414,1951 2552,1949 2691,1948 2829,1946 2967,1945 3105,1943 3244,1941 3382,1938 3520,1936 3659,1932 3797,1928 3935,1923 4074,1917"/>
+                <TextEquiv>
+                    <Unicode>tibus et vasallis ac incolis tam ad ipsum oppidum quam ad civitatem Trutenow, ipsa civi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} place {offset:5; length:8;} place {offset:70; length:8;} place {offset:85; length:3;}">
+                <Coords points="1320,2097 1454,2089 1589,2082 1724,2076 1859,2070 1994,2066 2129,2061 2263,2058 2398,2055 2533,2052 2668,2050 2803,2048 2938,2046 3073,2045 3207,2044 3342,2043 3477,2042 3612,2041 3747,2039 3882,2038 4017,2037 4017,1977 3882,1978 3747,1979 3612,1981 3477,1982 3342,1983 3207,1984 3073,1985 2938,1986 2803,1988 2668,1990 2533,1992 2398,1995 2263,1998 2129,2001 1994,2006 1859,2010 1724,2016 1589,2022 1454,2029 1320,2037"/>
+                <Baseline points="1320,2077 1454,2069 1589,2062 1724,2056 1859,2050 1994,2046 2129,2041 2263,2038 2398,2035 2533,2032 2668,2030 2803,2028 2938,2026 3073,2025 3207,2024 3342,2023 3477,2022 3612,2021 3747,2019 3882,2018 4017,2017"/>
+                <TextEquiv>
+                    <Unicode>tate Trutenow et castro ibidem exclusis, necnon cum forestariis et in Trutenow et in Hof </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1312,2182 1449,2173 1586,2165 1723,2158 1861,2152 1998,2148 2135,2143 2273,2140 2410,2136 2547,2134 2685,2132 2822,2131 2959,2130 3096,2129 3234,2128 3371,2128 3508,2127 3646,2127 3783,2126 3920,2125 4058,2124 4058,2064 3920,2065 3783,2066 3646,2067 3508,2067 3371,2068 3234,2068 3096,2069 2959,2070 2822,2071 2685,2072 2547,2074 2410,2076 2273,2080 2135,2083 1998,2088 1861,2092 1723,2098 1586,2105 1449,2113 1312,2122"/>
+                <Baseline points="1312,2162 1449,2153 1586,2145 1723,2138 1861,2132 1998,2128 2135,2123 2273,2120 2410,2116 2547,2114 2685,2112 2822,2111 2959,2110 3096,2109 3234,2108 3371,2108 3508,2107 3646,2107 3783,2106 3920,2105 4058,2104"/>
+                <TextEquiv>
+                    <Unicode>spectantibus nomine pignoris obligavit. Ego viceversa ipsi domino regi modo quo supra pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1324,2268 1458,2261 1593,2254 1727,2247 1862,2242 1997,2237 2131,2233 2266,2229 2400,2226 2535,2223 2670,2221 2804,2218 2939,2217 3073,2215 3208,2213 3343,2212 3477,2211 3612,2209 3746,2208 3881,2207 4016,2205 4016,2141 3881,2143 3746,2144 3612,2145 3477,2147 3343,2148 3208,2149 3073,2151 2939,2153 2804,2154 2670,2157 2535,2159 2400,2162 2266,2165 2131,2169 1997,2173 1862,2178 1727,2183 1593,2190 1458,2197 1324,2204"/>
+                <Baseline points="1324,2247 1458,2240 1593,2233 1727,2226 1862,2221 1997,2216 2131,2212 2266,2208 2400,2205 2535,2202 2670,2200 2804,2197 2939,2196 3073,2194 3208,2192 3343,2191 3477,2190 3612,2188 3746,2187 3881,2186 4016,2184"/>
+                <TextEquiv>
+                    <Unicode>mitto, quod quandocumque per ipsum dominum regem, vel ex parte sui, de dictis trecentis marcis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1325,2355 1461,2347 1597,2340 1733,2333 1869,2328 2005,2323 2141,2319 2277,2315 2413,2312 2549,2309 2685,2307 2821,2305 2957,2303 3093,2302 3229,2301 3365,2300 3501,2299 3637,2299 3773,2298 3909,2297 4045,2297 4045,2233 3909,2233 3773,2234 3637,2235 3501,2235 3365,2236 3229,2237 3093,2238 2957,2239 2821,2241 2685,2243 2549,2245 2413,2248 2277,2251 2141,2255 2005,2259 1869,2264 1733,2269 1597,2276 1461,2283 1325,2291"/>
+                <Baseline points="1325,2334 1461,2326 1597,2319 1733,2312 1869,2307 2005,2302 2141,2298 2277,2294 2413,2291 2549,2288 2685,2286 2821,2284 2957,2282 3093,2281 3229,2280 3365,2279 3501,2278 3637,2278 3773,2277 3909,2276 4045,2276"/>
+                <TextEquiv>
+                    <Unicode>grossorum et dampnis predictis michi fuerit satisfactum, sibi vel heredibus seu successoribus suis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} place {offset:1; length:13;}">
+                <Coords points="1315,2458 1447,2447 1580,2437 1713,2429 1846,2421 1979,2414 2112,2407 2244,2402 2377,2398 2510,2394 2643,2391 2776,2389 2909,2387 3042,2385 3174,2384 3307,2384 3440,2383 3573,2383 3706,2383 3839,2383 3972,2384 3972,2318 3839,2317 3706,2317 3573,2317 3440,2317 3307,2318 3174,2318 3042,2319 2909,2321 2776,2323 2643,2325 2510,2328 2377,2332 2244,2336 2112,2341 1979,2348 1846,2355 1713,2363 1580,2371 1447,2381 1315,2392"/>
+                <Baseline points="1315,2436 1447,2425 1580,2415 1713,2407 1846,2399 1979,2392 2112,2385 2244,2380 2377,2376 2510,2372 2643,2369 2776,2367 2909,2365 3042,2363 3174,2362 3307,2362 3440,2361 3573,2361 3706,2361 3839,2361 3972,2362"/>
+                <TextEquiv>
+                    <Unicode>regibus Boemie difficultate, occasione, excusacione et dilacione qualibet proculmotis de dictis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1304,2551 1436,2541 1568,2531 1700,2522 1832,2514 1965,2507 2097,2500 2229,2494 2361,2488 2493,2484 2626,2479 2758,2475 2890,2473 3022,2470 3154,2469 3286,2467 3419,2467 3551,2467 3683,2468 3815,2470 3948,2472 3948,2406 3815,2404 3683,2402 3551,2401 3419,2401 3286,2401 3154,2403 3022,2404 2890,2407 2758,2409 2626,2413 2493,2418 2361,2422 2229,2428 2097,2434 1965,2441 1832,2448 1700,2456 1568,2465 1436,2475 1304,2485"/>
+                <Baseline points="1304,2529 1436,2519 1568,2509 1700,2500 1832,2492 1965,2485 2097,2478 2229,2472 2361,2466 2493,2462 2626,2457 2758,2453 2890,2451 3022,2448 3154,2447 3286,2445 3419,2445 3551,2445 3683,2446 3815,2448 3948,2450"/>
+                <TextEquiv>
+                    <Unicode>pignoribus cedam et eciam condescendam. In cuius rei testimonium presentes litteras sigilli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} place {offset:29; length:5;} date {offset:35; length:48; continued:true;}">
+                <Coords points="1320,2638 1450,2630 1580,2622 1711,2615 1841,2608 1972,2601 2102,2594 2232,2588 2363,2582 2493,2577 2624,2573 2754,2568 2884,2564 3015,2561 3145,2559 3276,2557 3406,2556 3536,2556 3667,2556 3797,2557 3928,2559 3928,2493 3797,2491 3667,2490 3536,2490 3406,2490 3276,2491 3145,2493 3015,2495 2884,2498 2754,2502 2624,2507 2493,2511 2363,2516 2232,2522 2102,2528 1972,2535 1841,2542 1711,2549 1580,2556 1450,2564 1320,2572"/>
+                <Baseline points="1320,2616 1450,2608 1580,2600 1711,2593 1841,2586 1972,2579 2102,2572 2232,2566 2363,2560 2493,2555 2624,2551 2754,2546 2884,2542 3015,2539 3145,2537 3276,2535 3406,2534 3536,2534 3667,2534 3797,2535 3928,2537"/>
+                <TextEquiv>
+                    <Unicode>mei appensione munivi. Datum Prage IIII idus Januarii anno Domini millesimo trecen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} date {offset:0; length:18; continued:true;}">
+                <Coords points="1332,2719 1397,2726 1428,2725 1460,2723 1491,2721 1523,2720 1554,2718 1585,2716 1617,2713 1648,2712 1680,2709 1711,2706 1742,2705 1774,2702 1805,2700 1837,2698 1868,2696 1899,2695 1931,2693 1962,2692 1994,2690 1994,2624 1962,2626 1931,2627 1899,2629 1868,2630 1837,2632 1805,2634 1774,2636 1742,2639 1711,2640 1680,2643 1648,2646 1617,2647 1585,2650 1554,2652 1523,2654 1491,2655 1460,2657 1428,2659 1397,2660 1332,2653"/>
+                <Baseline points="1366,2706 1397,2704 1428,2703 1460,2701 1491,2699 1523,2698 1554,2696 1585,2694 1617,2691 1648,2690 1680,2687 1711,2684 1742,2683 1774,2680 1805,2678 1837,2676 1868,2674 1899,2673 1931,2671 1962,2670 1994,2668"/>
+                <TextEquiv>
+                    <Unicode>tesimo sextodecimo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ego Potho de Turgow ad universorum notitiam tenore presentium cupio pervenire, quod&#xD;
+quia serenissimo et illustri principi domino Johanni, Boemie et Polonie regi ac Lucemburgensi comiti, cum&#xD;
+municionibus meis Grediss et Arnow perpetuo adherere ac servire contra omnem hominem toto&#xD;
+posse meo, vice et nomine prestiti iuramenti promisi et promitto, ipse michi proinde trecentas marcas&#xD;
+grossorum denariorum Pragensium regii pagamenti dare promisit et in eisdem ac dampnis, que cum&#xD;
+quadraginta viris armatis in ipsius serviciis pertulere, michi oppidum suum dictum Hof cum mili¬&#xD;
+tibus et vasallis ac incolis tam ad ipsum oppidum quam ad civitatem Trutenow, ipsa civi¬&#xD;
+tate Trutenow et castro ibidem exclusis, necnon cum forestariis et in Trutenow et in Hof &#xD;
+spectantibus nomine pignoris obligavit. Ego viceversa ipsi domino regi modo quo supra pro¬&#xD;
+mitto, quod quandocumque per ipsum dominum regem, vel ex parte sui, de dictis trecentis marcis&#xD;
+grossorum et dampnis predictis michi fuerit satisfactum, sibi vel heredibus seu successoribus suis&#xD;
+regibus Boemie difficultate, occasione, excusacione et dilacione qualibet proculmotis de dictis&#xD;
+pignoribus cedam et eciam condescendam. In cuius rei testimonium presentes litteras sigilli&#xD;
+mei appensione munivi. Datum Prage IIII idus Januarii anno Domini millesimo trecen¬&#xD;
+tesimo sextodecimo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
