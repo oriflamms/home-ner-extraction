@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-05T14:29:19.379+02:00</Created>
+        <LastChange>2019-12-21T21:44:32.212+01:00</LastChange>
+        <TranskribusMetadata docId="169936" pageId="6426615" pageNr="1" tsid="21353961" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=MLXFOIORJDCQMMYMGSELQESN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RGRNFAJAYPPQNGMXGOWRRHFB" imageId="3818701"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14100527_01424_r.jpg" imageWidth="6502" imageHeight="4261">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617991264" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="569,610 707,2318 4265,2297 4262,553"/>
+            <TextLine id="line_1565718286862_1249" custom="readingOrder {index:0;} person {offset:3; length:27;} place {offset:22; length:8;}">
+                <Coords points="708,658 4083,658 4083,1055 688,1107"/>
+                <TextEquiv>
+                    <Unicode>Ja Milota Krawarski z Tworkowa wyznawam tyemto lystem wssyem, ktoz gyey czysty neb slyssyety budu, ze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} person {offset:50; length:61;}">
+                <Coords points="1003,1181 1152,1180 1302,1180 1451,1179 1601,1178 1751,1176 1900,1175 2050,1173 2199,1171 2349,1169 2499,1167 2648,1164 2798,1162 2947,1160 3097,1158 3247,1156 3396,1154 3546,1152 3695,1150 3845,1148 3995,1147 4043,1004 3845,1090 3695,1092 3546,1094 3396,1096 3247,1098 3097,1100 2947,1102 2798,1104 2648,1106 2499,1109 2349,1111 2199,1113 2050,1115 1900,1117 1751,1118 1601,1120 1451,1121 1302,1122 1152,1122 1003,1123"/>
+                <Baseline points="1003,1162 1152,1161 1302,1161 1451,1160 1601,1159 1751,1157 1900,1156 2050,1154 2199,1152 2349,1150 2499,1148 2648,1145 2798,1143 2947,1141 3097,1139 3247,1137 3396,1135 3546,1133 3695,1131 3845,1129 3995,1128"/>
+                <TextEquiv>
+                    <Unicode>tak, yakoz nayoswyeczenyeyssye knyezye a pan, pan Waczlaw, rzymsky kral, wzdy rozmnozytel rzyssye a czesky kral,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} place {offset:67; length:17;}">
+                <Coords points="998,1271 1141,1271 1285,1270 1429,1269 1573,1268 1717,1267 1860,1265 2004,1264 2148,1262 2292,1260 2436,1258 2579,1255 2723,1253 2867,1250 3011,1247 3155,1245 3298,1242 3442,1239 3586,1236 3730,1234 3874,1231 3874,1171 3730,1174 3586,1176 3442,1179 3298,1182 3155,1185 3011,1187 2867,1190 2723,1193 2579,1195 2436,1198 2292,1200 2148,1202 2004,1204 1860,1205 1717,1207 1573,1208 1429,1209 1285,1210 1141,1211 998,1211"/>
+                <Baseline points="998,1251 1141,1251 1285,1250 1429,1249 1573,1248 1717,1247 1860,1245 2004,1244 2148,1242 2292,1240 2436,1238 2579,1235 2723,1233 2867,1230 3011,1227 3155,1225 3298,1222 3442,1219 3586,1216 3730,1214 3874,1211"/>
+                <TextEquiv>
+                    <Unicode>pan moy milostywy, dal mnye a mym erbuom myesteczko, gyessto slowe Kralowo Myestczye, po smrty panye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} person {offset:0; length:15;} person {offset:40; length:10;}">
+                <Coords points="904,1336 1147,1356 1292,1356 1437,1355 1582,1355 1727,1354 1872,1352 2017,1351 2162,1350 2307,1348 2452,1346 2596,1344 2741,1341 2886,1339 3031,1336 3176,1333 3321,1331 3466,1327 3611,1324 3756,1321 3901,1318 3944,1222 3756,1261 3611,1264 3466,1267 3321,1271 3176,1273 3031,1276 2886,1279 2741,1281 2596,1284 2452,1286 2307,1288 2162,1290 2017,1291 1872,1292 1727,1294 1582,1295 1437,1295 1292,1296 1147,1296 1003,1296"/>
+                <Baseline points="1003,1336 1147,1336 1292,1336 1437,1335 1582,1335 1727,1334 1872,1332 2017,1331 2162,1330 2307,1328 2452,1326 2596,1324 2741,1321 2886,1319 3031,1316 3176,1313 3321,1311 3466,1307 3611,1304 3756,1301 3901,1298"/>
+                <TextEquiv>
+                    <Unicode>Many Draziczske, wdowy po nebozczy panu Chusnykowy, w tyssyczy kopach grossow, yakoz magestat gyeho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} person {offset:68; length:7;}">
+                <Coords points="987,1446 1133,1446 1280,1446 1426,1445 1573,1445 1719,1444 1866,1443 2012,1441 2159,1440 2305,1438 2452,1436 2598,1434 2745,1431 2891,1429 3038,1426 3184,1423 3331,1420 3477,1417 3624,1413 3770,1410 3917,1406 3973,1275 3770,1350 3624,1353 3477,1357 3331,1360 3184,1363 3038,1366 2891,1369 2745,1371 2598,1374 2452,1376 2305,1378 2159,1380 2012,1381 1866,1383 1719,1384 1573,1385 1426,1385 1280,1386 1133,1386 987,1386"/>
+                <Baseline points="987,1426 1133,1426 1280,1426 1426,1425 1573,1425 1719,1424 1866,1423 2012,1421 2159,1420 2305,1418 2452,1416 2598,1414 2745,1411 2891,1409 3038,1406 3184,1403 3331,1400 3477,1397 3624,1393 3770,1390 3917,1386"/>
+                <TextEquiv>
+                    <Unicode>milosty mnye na to dany plnyegye swyedczy. Kdyzby gyeho milost kral Waczlaw, pan moy swrchupsany, raczyl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="993,1533 1138,1534 1283,1534 1428,1534 1573,1534 1718,1533 1863,1532 2008,1531 2153,1530 2298,1528 2444,1526 2589,1524 2734,1522 2879,1519 3024,1516 3169,1514 3314,1511 3459,1508 3604,1504 3749,1501 3895,1498 3895,1438 3749,1441 3604,1444 3459,1448 3314,1451 3169,1454 3024,1456 2879,1459 2734,1462 2589,1464 2444,1466 2298,1468 2153,1470 2008,1471 1863,1472 1718,1473 1573,1474 1428,1474 1283,1474 1138,1474 993,1473"/>
+                <Baseline points="993,1513 1138,1514 1283,1514 1428,1514 1573,1514 1718,1513 1863,1512 2008,1511 2153,1510 2298,1508 2444,1506 2589,1504 2734,1502 2879,1499 3024,1496 3169,1494 3314,1491 3459,1488 3604,1484 3749,1481 3895,1478"/>
+                <TextEquiv>
+                    <Unicode>ode mne nebo od mych erbuow to myesteczko swrchupsane wyplatyty a mnye nebo mym erbuom ssest set kop</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="1003,1626 1150,1626 1297,1625 1444,1624 1591,1623 1738,1622 1885,1620 2032,1619 2179,1617 2326,1616 2473,1614 2620,1612 2767,1609 2914,1607 3061,1604 3208,1601 3355,1599 3502,1595 3649,1592 3796,1588 3943,1585 3943,1525 3796,1528 3649,1532 3502,1535 3355,1539 3208,1541 3061,1544 2914,1547 2767,1549 2620,1552 2473,1554 2326,1556 2179,1557 2032,1559 1885,1560 1738,1562 1591,1563 1444,1564 1297,1565 1150,1566 1003,1566"/>
+                <Baseline points="1003,1606 1150,1606 1297,1605 1444,1604 1591,1603 1738,1602 1885,1600 2032,1599 2179,1597 2326,1596 2473,1594 2620,1592 2767,1589 2914,1587 3061,1584 3208,1581 3355,1579 3502,1575 3649,1572 3796,1568 3943,1565"/>
+                <TextEquiv>
+                    <Unicode>grossow dal, tehdy gyeho milosty mam toho gysteho myesteczka postupity, nebo tomu, komuz gyeho milost kaze,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="1019,1708 1161,1710 1303,1711 1445,1712 1588,1713 1730,1712 1872,1711 2014,1710 2157,1708 2299,1706 2441,1704 2583,1702 2726,1699 2868,1697 3010,1694 3152,1691 3295,1689 3437,1687 3579,1685 3721,1683 3938,1678 3944,1599 3721,1623 3579,1625 3437,1627 3295,1629 3152,1631 3010,1634 2868,1637 2726,1639 2583,1642 2441,1644 2299,1646 2157,1648 2014,1650 1872,1651 1730,1652 1588,1653 1445,1652 1303,1651 1161,1650 941,1625"/>
+                <Baseline points="1008,1694 1150,1696 1292,1697 1434,1698 1577,1699 1719,1698 1861,1697 2003,1696 2146,1694 2288,1692 2430,1690 2572,1688 2715,1685 2857,1683 2999,1680 3141,1677 3284,1675 3426,1673 3568,1671 3710,1669 3922,1666"/>
+                <TextEquiv>
+                    <Unicode>beze wssyeho odpyeranye. A to slybugy uczynyty swu dobru a czystu wyeru beze wssye zle lsty a tento lyst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} person {offset:56; length:8;}">
+                <Coords points="978,1809 1126,1806 1275,1803 1424,1801 1572,1799 1721,1797 1870,1796 2018,1794 2167,1793 2316,1791 2465,1790 2613,1788 2762,1786 2911,1784 3059,1782 3208,1779 3357,1776 3505,1772 3654,1768 3803,1763 3952,1758 3952,1703 3803,1708 3654,1713 3505,1717 3357,1721 3208,1724 3059,1727 2911,1729 2762,1731 2613,1733 2465,1735 2316,1736 2167,1738 2018,1739 1870,1741 1721,1742 1572,1744 1424,1746 1275,1748 1126,1751 978,1754"/>
+                <Baseline points="978,1791 1126,1788 1275,1785 1424,1783 1572,1781 1721,1779 1870,1778 2018,1776 2167,1775 2316,1773 2465,1772 2613,1770 2762,1768 2911,1766 3059,1764 3208,1761 3357,1758 3505,1754 3654,1750 3803,1745 3952,1740"/>
+                <TextEquiv>
+                    <Unicode>ma myety mocz tolyko do zywota drzewe rzyeczeneho krale Waczlawa, pana meho, a nycz dale. Ale po zywotye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="980,1883 1131,1882 1282,1881 1433,1880 1585,1878 1736,1877 1887,1876 2038,1875 2190,1873 2341,1872 2492,1870 2643,1868 2795,1867 2946,1865 3097,1863 3248,1861 3400,1859 3551,1857 3702,1855 3853,1853 4005,1850 4005,1799 3853,1802 3702,1804 3551,1806 3400,1808 3248,1810 3097,1812 2946,1814 2795,1816 2643,1817 2492,1819 2341,1821 2190,1822 2038,1824 1887,1825 1736,1826 1585,1827 1433,1829 1282,1830 1131,1831 980,1832"/>
+                <Baseline points="980,1866 1131,1865 1282,1864 1433,1863 1585,1861 1736,1860 1887,1859 2038,1858 2190,1856 2341,1855 2492,1853 2643,1851 2795,1850 2946,1848 3097,1846 3248,1844 3400,1842 3551,1840 3702,1838 3853,1836 4005,1833"/>
+                <TextEquiv>
+                    <Unicode>gyeho milosty chtyellyby ktery buduczy kral to swrchupsane myesteczko gmyety, ten gye moz ode mne nebo od mych</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="988,1952 1139,1954 1290,1956 1441,1957 1592,1958 1743,1958 1894,1957 2045,1957 2196,1956 2347,1955 2499,1953 2650,1952 2801,1950 2952,1948 3103,1946 3254,1945 3405,1943 3556,1941 3707,1940 3858,1939 4010,1938 4010,1887 3858,1888 3707,1889 3556,1890 3405,1892 3254,1894 3103,1895 2952,1897 2801,1899 2650,1901 2499,1902 2347,1904 2196,1905 2045,1906 1894,1906 1743,1907 1592,1907 1441,1906 1290,1905 1139,1903 988,1901"/>
+                <Baseline points="988,1935 1139,1937 1290,1939 1441,1940 1592,1941 1743,1941 1894,1940 2045,1940 2196,1939 2347,1938 2499,1936 2650,1935 2801,1933 2952,1931 3103,1929 3254,1928 3405,1926 3556,1924 3707,1923 3858,1922 4010,1921"/>
+                <TextEquiv>
+                    <Unicode>erbuow w tyssyczy kopach wyplatyty, yakozto w swrchupsanem magestatu stogy psano. A tomu na swyedomye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} place {offset:82; length:6;} date {offset:89; length:10; continued:true;year:0; day:0; month:0;}">
+                <Coords points="979,2052 1157,2049 1305,2048 1453,2048 1601,2047 1749,2047 1897,2047 2045,2046 2193,2046 2341,2046 2490,2045 2638,2045 2786,2044 2934,2043 3082,2042 3230,2041 3378,2040 3526,2039 3674,2037 3822,2035 3971,2032 3971,1972 3822,1975 3674,1977 3526,1979 3378,1980 3230,1981 3082,1982 2934,1983 2786,1984 2638,1985 2490,1985 2341,1986 2193,1986 2045,1986 1897,1987 1749,1987 1601,1987 1453,1988 1305,1988 1157,1989 979,1992"/>
+                <Baseline points="1009,2030 1157,2029 1305,2028 1453,2028 1601,2027 1749,2027 1897,2027 2045,2026 2193,2026 2341,2026 2490,2025 2638,2025 2786,2024 2934,2023 3082,2022 3230,2021 3378,2020 3526,2019 3674,2017 3822,2015 3971,2012"/>
+                <TextEquiv>
+                    <Unicode>swu sem peczet przywyesyl s swym dobrym wyedomym k tomuto lystu, genz gyest dan v Prazye leta od na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} date {offset:0; length:83; continued:true;year:0; day:0; month:0;}">
+                <Coords points="983,2131 1102,2131 1222,2130 1342,2131 1461,2131 1581,2131 1701,2132 1820,2132 1940,2133 2060,2133 2180,2134 2299,2134 2419,2134 2539,2134 2658,2133 2778,2132 2898,2131 3017,2130 3137,2127 3257,2125 3377,2122 3377,2062 3257,2065 3137,2067 3017,2070 2898,2071 2778,2072 2658,2073 2539,2074 2419,2074 2299,2074 2180,2074 2060,2073 1940,2073 1820,2072 1701,2072 1581,2071 1461,2071 1342,2071 1222,2070 1102,2071 983,2071"/>
+                <Baseline points="983,2111 1102,2111 1222,2110 1342,2111 1461,2111 1581,2111 1701,2112 1820,2112 1940,2113 2060,2113 2180,2114 2299,2114 2419,2114 2539,2114 2658,2113 2778,2112 2898,2111 3017,2110 3137,2107 3257,2105 3377,2102"/>
+                <TextEquiv>
+                    <Unicode>rozenye syna Bozyeho tyssyczyeho cztyrzsteho desateho, ten utery po swatem Urbanu. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Milota Krawarski z Tworkowa wyznawam tyemto lystem wssyem, ktoz gyey czysty neb slyssyety budu, ze
+tak, yakoz nayoswyeczenyeyssye knyezye a pan, pan Waczlaw, rzymsky kral, wzdy rozmnozytel rzyssye a czesky kral,
+pan moy milostywy, dal mnye a mym erbuom myesteczko, gyessto slowe Kralowo Myestczye, po smrty panye
+Many Draziczske, wdowy po nebozczy panu Chusnykowy, w tyssyczy kopach grossow, yakoz magestat gyeho
+milosty mnye na to dany plnyegye swyedczy. Kdyzby gyeho milost kral Waczlaw, pan moy swrchupsany, raczyl
+ode mne nebo od mych erbuow to myesteczko swrchupsane wyplatyty a mnye nebo mym erbuom ssest set kop
+grossow dal, tehdy gyeho milosty mam toho gysteho myesteczka postupity, nebo tomu, komuz gyeho milost kaze,
+beze wssyeho odpyeranye. A to slybugy uczynyty swu dobru a czystu wyeru beze wssye zle lsty a tento lyst
+ma myety mocz tolyko do zywota drzewe rzyeczeneho krale Waczlawa, pana meho, a nycz dale. Ale po zywotye
+gyeho milosty chtyellyby ktery buduczy kral to swrchupsane myesteczko gmyety, ten gye moz ode mne nebo od mych
+erbuow w tyssyczy kopach wyplatyty, yakozto w swrchupsanem magestatu stogy psano. A tomu na swyedomye
+swu sem peczet przywyesyl s swym dobrym wyedomym k tomuto lystu, genz gyest dan v Prazye leta od na¬
+rozenye syna Bozyeho tyssyczyeho cztyrzsteho desateho, ten utery po swatem Urbanu. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

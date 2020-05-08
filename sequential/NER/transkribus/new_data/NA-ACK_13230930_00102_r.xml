@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-31T19:33:13.885+02:00</Created>
+        <LastChange>2019-12-19T10:05:33.796+01:00</LastChange>
+        <TranskribusMetadata docId="190328" pageId="7532609" pageNr="1" tsid="21204268" status="IN_PROGRESS" userId="48350" imgUrl="https://files.transkribus.eu/Get?id=HVHQUSSQGKBKKJGMERFVOYWA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VWLHZSHDMIUKUJVVWXKUNPLS" imageId="4536604"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13230930_00102_r.jpg" imageWidth="8976" imageHeight="5529">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617611111" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1155,576 1366,3661 6492,3661 6492,953"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} person {offset:0; length:66;} place {offset:21; length:6;} place {offset:31; length:7;} place {offset:46; length:14;}">
+                <Coords points="1464,1596 1484,1000 3080,1052 3263,1059 3447,1063 3630,1067 3814,1069 3997,1071 4181,1071 4364,1071 4548,1071 4731,1070 4915,1069 5098,1068 5282,1067 5465,1067 5649,1066 5832,1066 6016,1067 6199,1068 6383,1071 6384,994 6200,991 6019,987 5835,986 5658,968 5474,969 5284,995 5100,996 4943,953 4759,954 4609,979 4425,979 4188,979 4004,979 3815,974 3631,972 3447,977 3263,973 3080,994 2896,987 1188,674"/>
+                <Baseline points="1419,984 1602,993 3080,1033 3263,1040 3447,1044 3630,1048 3814,1050 3997,1052 4181,1052 4364,1052 4548,1052 4731,1051 4915,1050 5098,1049 5282,1048 5465,1048 5649,1047 5832,1047 6016,1048 6199,1049 6383,1052"/>
+                <TextEquiv>
+                    <Unicode>Johannes, Dei gratia Boemie et Polonie rex et Lucemburgensis comes, universis, ad quos presentes pervenerint, imperpetuum. Bene novit maiestas regia presencia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1546,1083 1787,1088 2029,1093 2270,1100 2512,1108 2753,1115 2995,1123 3236,1131 3478,1139 3719,1147 3961,1154 4202,1159 4444,1165 4685,1169 4927,1172 5168,1173 5410,1172 5651,1169 5893,1165 6134,1158 6376,1148 6376,1093 6134,1103 5893,1110 5651,1114 5410,1117 5168,1118 4927,1117 4685,1114 4444,1110 4202,1104 3961,1099 3719,1092 3478,1084 3236,1076 2995,1068 2753,1060 2512,1053 2270,1045 2029,1038 1787,1033 1546,1028"/>
+                <Baseline points="1546,1065 1787,1070 2029,1075 2270,1082 2512,1090 2753,1097 2995,1105 3236,1113 3478,1121 3719,1129 3961,1136 4202,1141 4444,1147 4685,1151 4927,1154 5168,1155 5410,1154 5651,1151 5893,1147 6134,1140 6376,1130"/>
+                <TextEquiv>
+                    <Unicode>queque disponere futuris etiam sic providere negociis, ut tamen dispendiis preterita non commendet, sed gesta retroactis curriculis temporum innovando</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} person {offset:123; length:33; continued:true;} place {offset:134; length:4;}">
+                <Coords points="1486,1183 1730,1184 1975,1187 2220,1191 2465,1195 2710,1201 2955,1207 3200,1214 3445,1220 3690,1227 3935,1233 4179,1240 4424,1246 4669,1251 4914,1255 5159,1258 5404,1260 5649,1260 5894,1259 6139,1257 6384,1252 6384,1191 6139,1196 5894,1198 5649,1199 5404,1199 5159,1197 4914,1194 4669,1190 4424,1185 4179,1179 3935,1172 3690,1166 3445,1159 3200,1153 2955,1146 2710,1140 2465,1134 2220,1130 1975,1126 1730,1123 1486,1122"/>
+                <Baseline points="1486,1163 1730,1164 1975,1167 2220,1171 2465,1175 2710,1181 2955,1187 3200,1194 3445,1200 3690,1207 3935,1213 4179,1220 4424,1226 4669,1231 4914,1235 5159,1238 5404,1240 5649,1240 5894,1239 6139,1237 6384,1232"/>
+                <TextEquiv>
+                    <Unicode>et approbando sua consuevit auctoritate firmare. Sane libertatum et privilegiorum indulta non nulla fidelis nostri dilecti Henrici de Lipa, summi marschalli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} person {offset:0; length:12; continued:true;} place {offset:6; length:6;} person {offset:99; length:45; continued:true;} place {offset:120; length:6;} place {offset:130; length:7;}">
+                <Coords points="1477,1304 1719,1297 1961,1292 2204,1290 2446,1290 2688,1291 2931,1295 3173,1299 3415,1305 3658,1311 3900,1318 4142,1325 4385,1331 4627,1338 4869,1343 5112,1348 5354,1351 5596,1353 5839,1352 6081,1350 6324,1345 6324,1279 6081,1284 5839,1286 5596,1287 5354,1285 5112,1282 4869,1277 4627,1272 4385,1265 4142,1259 3900,1252 3658,1245 3415,1239 3173,1233 2931,1229 2688,1225 2446,1224 2204,1224 1961,1226 1719,1231 1477,1238"/>
+                <Baseline points="1477,1282 1719,1275 1961,1270 2204,1268 2446,1268 2688,1269 2931,1273 3173,1277 3415,1283 3658,1289 3900,1296 4142,1303 4385,1309 4627,1316 4869,1321 5112,1326 5354,1329 5596,1331 5839,1330 6081,1328 6324,1323"/>
+                <TextEquiv>
+                    <Unicode>regni Boemie, nos dedisse recolimus, ex quibus tenor cuiusdam per omnia dinoscitur esse talis: nos Johannes, Dei gratia Boemie et Polonie rex ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} person {offset:0; length:20; continued:true;} place {offset:0; length:14;}">
+                <Coords points="1467,1419 1712,1405 1958,1394 2204,1387 2450,1383 2696,1381 2942,1382 3187,1384 3433,1389 3679,1394 3925,1400 4171,1407 4417,1414 4663,1420 4908,1426 5154,1432 5400,1435 5646,1438 5892,1438 6138,1436 6384,1431 6384,1365 6138,1370 5892,1372 5646,1372 5400,1369 5154,1366 4908,1360 4663,1354 4417,1348 4171,1341 3925,1334 3679,1328 3433,1323 3187,1318 2942,1316 2696,1315 2450,1317 2204,1321 1958,1328 1712,1339 1467,1353"/>
+                <Baseline points="1467,1397 1712,1383 1958,1372 2204,1365 2450,1361 2696,1359 2942,1360 3187,1362 3433,1367 3679,1372 3925,1378 4171,1385 4417,1392 4663,1398 4908,1404 5154,1410 5400,1413 5646,1416 5892,1416 6138,1414 6384,1409"/>
+                <TextEquiv>
+                    <Unicode>Lucemburgensis comes, ad universorum tam presentis etatis hominum, quam future noticiam volumus pervenire, quod nos de maturo et communi principum, baronum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} place {offset:39; length:6;}">
+                <Coords points="1473,1518 1731,1510 1990,1503 2249,1498 2508,1494 2767,1492 3026,1491 3285,1490 3544,1491 3803,1493 4061,1495 4320,1498 4579,1501 4838,1505 5097,1510 5356,1514 5615,1518 5874,1523 6133,1526 6392,1531 6392,1465 6133,1460 5874,1457 5615,1452 5356,1448 5097,1444 4838,1439 4579,1435 4320,1432 4061,1429 3803,1427 3544,1425 3285,1424 3026,1425 2767,1426 2508,1428 2249,1432 1990,1437 1731,1444 1473,1452"/>
+                <Baseline points="1473,1496 1731,1488 1990,1481 2249,1476 2508,1472 2767,1470 3026,1469 3285,1468 3544,1469 3803,1471 4061,1473 4320,1476 4579,1479 4838,1483 5097,1488 5356,1492 5615,1496 5874,1501 6133,1504 6392,1509"/>
+                <TextEquiv>
+                    <Unicode>ac prelatorum et nobilium regni nostri Boemie consilio necnon deliberatione provida et solempni tractatu prehabitis utilitatem et commodum nostrum et heredum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="1475,1620 1718,1615 1962,1610 2206,1605 2449,1602 2693,1599 2937,1597 3180,1595 3424,1594 3668,1593 3912,1593 4155,1594 4399,1595 4643,1596 4886,1599 5130,1601 5374,1604 5617,1607 5861,1611 6105,1615 6349,1620 6349,1554 6105,1549 5861,1545 5617,1541 5374,1538 5130,1535 4886,1533 4643,1530 4399,1529 4155,1528 3912,1527 3668,1527 3424,1528 3180,1529 2937,1531 2693,1533 2449,1536 2206,1539 1962,1544 1718,1549 1475,1554"/>
+                <Baseline points="1475,1598 1718,1593 1962,1588 2206,1583 2449,1580 2693,1577 2937,1575 3180,1573 3424,1572 3668,1571 3912,1571 4155,1572 4399,1573 4643,1574 4886,1577 5130,1579 5374,1582 5617,1585 5861,1589 6105,1593 6349,1598"/>
+                <TextEquiv>
+                    <Unicode>nostrorum ac precipue ipsius regni nostri propter quedam futura, que nobis in ipso regno nostro potuissent et poterant suboriri, dispendia evidencius cognoscentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;} place {offset:77; length:7;} place {offset:96; length:11;} place {offset:132; length:10;}">
+                <Coords points="1463,1713 1700,1712 1938,1711 2175,1710 2413,1708 2650,1707 2888,1705 3125,1703 3363,1701 3600,1700 3838,1698 4075,1697 4313,1696 4550,1695 4788,1695 5025,1696 5263,1697 5500,1698 5738,1701 5975,1704 6213,1708 6213,1636 5975,1632 5738,1629 5500,1626 5263,1625 5025,1624 4788,1623 4550,1623 4313,1624 4075,1625 3838,1626 3600,1628 3363,1629 3125,1631 2888,1633 2650,1635 2413,1636 2175,1638 1938,1639 1700,1640 1463,1641"/>
+                <Baseline points="1463,1689 1700,1688 1938,1687 2175,1686 2413,1684 2650,1683 2888,1681 3125,1679 3363,1677 3600,1676 3838,1674 4075,1673 4313,1672 4550,1671 4788,1671 5025,1672 5263,1673 5500,1674 5738,1677 5975,1680 6213,1684"/>
+                <TextEquiv>
+                    <Unicode>cupientesque condicionem ipsius regni nostri facere meliorem, villam nostram Chunicz cum villis Longa villa et duabus, que dicuntur Menckowitz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="1450,1811 1698,1814 1946,1815 2194,1815 2443,1813 2691,1812 2939,1809 3188,1806 3436,1803 3684,1800 3933,1797 4181,1794 4429,1791 4677,1789 4926,1788 5174,1788 5422,1789 5671,1791 5919,1795 6167,1800 6416,1807 6416,1735 6167,1728 5919,1723 5671,1719 5422,1717 5174,1716 4926,1716 4677,1717 4429,1719 4181,1722 3933,1725 3684,1728 3436,1731 3188,1734 2939,1737 2691,1740 2443,1741 2194,1743 1946,1743 1698,1742 1450,1739"/>
+                <Baseline points="1450,1787 1698,1790 1946,1791 2194,1791 2443,1789 2691,1788 2939,1785 3188,1782 3436,1779 3684,1776 3933,1773 4181,1770 4429,1767 4677,1765 4926,1764 5174,1764 5422,1765 5671,1767 5919,1771 6167,1776 6416,1783"/>
+                <TextEquiv>
+                    <Unicode>dominio, iure, iurisdicione, hominibus, pratis, pascuis, piscacionibus, molendinis, montibus, planis, agris cultis et incultis, rubetis, silvis, aquis aqua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;} place {offset:103; length:6;}">
+                <Coords points="1451,1905 1698,1909 1945,1911 2193,1912 2440,1912 2688,1911 2935,1910 3183,1908 3430,1905 3678,1903 3925,1900 4172,1897 4420,1895 4667,1892 4915,1891 5162,1889 5410,1889 5657,1889 5905,1890 6152,1893 6400,1896 6400,1829 6152,1826 5905,1823 5657,1822 5410,1822 5162,1822 4915,1824 4667,1825 4420,1828 4172,1830 3925,1833 3678,1836 3430,1838 3183,1841 2935,1843 2688,1844 2440,1845 2193,1845 1945,1844 1698,1842 1451,1838"/>
+                <Baseline points="1451,1883 1698,1887 1945,1889 2193,1890 2440,1890 2688,1889 2935,1888 3183,1886 3430,1883 3678,1881 3925,1878 4172,1875 4420,1873 4667,1870 4915,1869 5162,1867 5410,1867 5657,1867 5905,1868 6152,1871 6400,1874"/>
+                <TextEquiv>
+                    <Unicode>rumne decursibus et generaliter cum omnibus illis, cum quibus dive memorie predecessores nostri, reges Boemie illustres, villam ipsam cum villis predictis te¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} person {offset:147; length:16;} place {offset:159; length:4;}">
+                <Coords points="1460,2008 1706,2008 1953,2009 2199,2008 2446,2008 2693,2007 2939,2006 3186,2005 3432,2004 3679,2002 3926,2000 4172,1998 4419,1997 4665,1995 4912,1993 5159,1990 5405,1989 5652,1987 5898,1985 6145,1983 6392,1982 6392,1918 6145,1919 5898,1921 5652,1923 5405,1925 5159,1926 4912,1929 4665,1931 4419,1933 4172,1934 3926,1936 3679,1938 3432,1940 3186,1941 2939,1942 2693,1943 2446,1944 2199,1944 1953,1945 1706,1944 1460,1944"/>
+                <Baseline points="1460,1987 1706,1987 1953,1988 2199,1987 2446,1987 2693,1986 2939,1985 3186,1984 3432,1983 3679,1981 3926,1979 4172,1977 4419,1976 4665,1974 4912,1972 5159,1969 5405,1968 5652,1966 5898,1964 6145,1962 6392,1961"/>
+                <TextEquiv>
+                    <Unicode>nuerunt et nos tenuimus, usque modo additis etiam aliis bonis nostris, super quibus similiter nostras dedimus litteras speciales cum fideli nostro Heinrico de Lipa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} place {offset:16; length:20;} place {offset:46; length:5;} place {offset:53; length:6;} place {offset:63; length:9;}">
+                <Coords points="1439,2119 1686,2122 1933,2124 2180,2125 2428,2125 2675,2125 2922,2124 3169,2122 3417,2120 3664,2118 3911,2115 4158,2111 4406,2108 4653,2104 4900,2101 5147,2097 5395,2094 5642,2090 5889,2087 6136,2084 6384,2082 6384,2010 6136,2012 5889,2015 5642,2018 5395,2022 5147,2025 4900,2029 4653,2032 4406,2036 4158,2039 3911,2043 3664,2046 3417,2048 3169,2050 2922,2052 2675,2053 2428,2053 2180,2053 1933,2052 1686,2050 1439,2047"/>
+                <Baseline points="1439,2095 1686,2098 1933,2100 2180,2101 2428,2101 2675,2101 2922,2100 3169,2098 3417,2096 3664,2094 3911,2091 4158,2087 4406,2084 4653,2080 4900,2077 5147,2073 5395,2070 5642,2066 5889,2063 6136,2060 6384,2058"/>
+                <TextEquiv>
+                    <Unicode>pro civitate et districtu Sytaviensi, Castris Ronow, Oywins et Schombuch, villis, juribus, dominio, pheodalibus, hominibus et eorum pertinenciis uni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="1447,2219 1692,2223 1937,2226 2182,2227 2428,2228 2673,2228 2918,2228 3164,2227 3409,2225 3654,2222 3900,2220 4145,2217 4390,2214 4635,2210 4881,2207 5126,2204 5371,2201 5617,2198 5862,2195 6107,2193 6353,2191 6353,2119 6107,2121 5862,2123 5617,2126 5371,2129 5126,2132 4881,2135 4635,2138 4390,2142 4145,2145 3900,2148 3654,2150 3409,2153 3164,2155 2918,2156 2673,2156 2428,2156 2182,2155 1937,2154 1692,2151 1447,2147"/>
+                <Baseline points="1447,2195 1692,2199 1937,2202 2182,2203 2428,2204 2673,2204 2918,2204 3164,2203 3409,2201 3654,2198 3900,2196 4145,2193 4390,2190 4635,2186 4881,2183 5126,2180 5371,2177 5617,2174 5862,2171 6107,2169 6353,2167"/>
+                <TextEquiv>
+                    <Unicode>versis et generaliter cum eis, cum quibus ipse huiusmodi usque nunc tenuit et possedit, ex certa nostra sciencia nostro, heredum ac successorum nostrorum nomine com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} person {offset:103; length:9;}">
+                <Coords points="1436,2326 1685,2327 1935,2327 2185,2327 2435,2327 2684,2326 2934,2325 3184,2324 3434,2323 3683,2321 3933,2319 4183,2317 4433,2315 4682,2313 4932,2310 5182,2308 5432,2305 5681,2303 5931,2300 6181,2297 6431,2294 6431,2222 6181,2225 5931,2228 5681,2231 5432,2233 5182,2236 4932,2238 4682,2241 4433,2243 4183,2245 3933,2247 3683,2249 3434,2251 3184,2252 2934,2253 2684,2254 2435,2255 2185,2255 1935,2255 1685,2255 1436,2254"/>
+                <Baseline points="1436,2302 1685,2303 1935,2303 2185,2303 2435,2303 2684,2302 2934,2301 3184,2300 3434,2299 3683,2297 3933,2295 4183,2293 4433,2291 4682,2289 4932,2286 5182,2284 5432,2281 5681,2279 5931,2276 6181,2273 6431,2270"/>
+                <TextEquiv>
+                    <Unicode>mutavimus et permutamus et commutando in concambium damus et dedimus, tradidimus et tradimus per ipsum Heinricum et heredes ac successores suos possiden¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} person {offset:65; length:8;}">
+                <Coords points="1428,2438 1674,2438 1920,2438 2167,2438 2413,2437 2660,2435 2906,2433 3152,2431 3399,2429 3645,2426 3892,2423 4138,2421 4384,2418 4631,2415 4877,2412 5124,2410 5370,2407 5616,2405 5863,2404 6109,2403 6356,2402 6356,2330 6109,2331 5863,2332 5616,2333 5370,2335 5124,2338 4877,2340 4631,2343 4384,2346 4138,2349 3892,2351 3645,2354 3399,2357 3152,2359 2906,2361 2660,2363 2413,2365 2167,2366 1920,2366 1674,2366 1428,2366"/>
+                <Baseline points="1428,2414 1674,2414 1920,2414 2167,2414 2413,2413 2660,2411 2906,2409 3152,2407 3399,2405 3645,2402 3892,2399 4138,2397 4384,2394 4631,2391 4877,2388 5124,2386 5370,2383 5616,2381 5863,2380 6109,2379 6356,2378"/>
+                <TextEquiv>
+                    <Unicode>dam iure hereditario perpetuo et tenendam transferentes in ipsum Henricum, heredes ac successores suos omne dominium, omnem proprietatem et omnia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="1406,2551 1654,2551 1902,2549 2150,2547 2398,2544 2646,2541 2894,2537 3142,2534 3390,2530 3638,2527 3887,2523 4135,2520 4383,2517 4631,2515 4879,2514 5127,2513 5375,2513 5623,2513 5871,2515 6119,2518 6368,2522 6368,2450 6119,2446 5871,2443 5623,2441 5375,2441 5127,2441 4879,2442 4631,2443 4383,2445 4135,2448 3887,2451 3638,2455 3390,2458 3142,2462 2894,2465 2646,2469 2398,2472 2150,2475 1902,2477 1654,2479 1406,2479"/>
+                <Baseline points="1406,2527 1654,2527 1902,2525 2150,2523 2398,2520 2646,2517 2894,2513 3142,2510 3390,2506 3638,2503 3887,2499 4135,2496 4383,2493 4631,2491 4879,2490 5127,2489 5375,2489 5623,2489 5871,2491 6119,2494 6368,2498"/>
+                <TextEquiv>
+                    <Unicode>iura, que nobis, heredibus ac successoribus nostris in predicta villa et villis predictis cum eorum pertinenciis universis competunt aut possent competere, aliqualiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;} person {offset:30; length:8;}">
+                <Coords points="1414,2673 1664,2670 1914,2666 2164,2661 2414,2656 2665,2649 2915,2644 3165,2637 3415,2631 3665,2626 3916,2620 4166,2616 4416,2612 4666,2609 4916,2607 5167,2607 5417,2608 5667,2611 5917,2615 6167,2621 6418,2630 6418,2558 6167,2549 5917,2543 5667,2539 5417,2536 5167,2535 4916,2535 4666,2537 4416,2540 4166,2544 3916,2548 3665,2554 3415,2559 3165,2565 2915,2572 2665,2577 2414,2584 2164,2589 1914,2594 1664,2598 1414,2601"/>
+                <Baseline points="1414,2649 1664,2646 1914,2642 2164,2637 2414,2632 2665,2625 2915,2620 3165,2613 3415,2607 3665,2602 3916,2596 4166,2592 4416,2588 4666,2585 4916,2583 5167,2583 5417,2584 5667,2587 5917,2591 6167,2597 6418,2606"/>
+                <TextEquiv>
+                    <Unicode>in futurum taliter, quod ipse Henricus, heredes ac successores sui villam et villas predictas vendere, alienare in totum vel in parte et de ipsis, tamquam de re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="1426,2777 1677,2775 1929,2772 2181,2767 2432,2763 2684,2757 2936,2750 3187,2744 3439,2737 3691,2731 3943,2726 4194,2720 4446,2715 4698,2711 4949,2709 5201,2707 5453,2707 5704,2709 5956,2713 6208,2719 6460,2727 6460,2655 6208,2647 5956,2641 5704,2637 5453,2635 5201,2635 4949,2637 4698,2639 4446,2643 4194,2648 3943,2654 3691,2659 3439,2665 3187,2672 2936,2678 2684,2685 2432,2691 2181,2695 1929,2700 1677,2703 1426,2705"/>
+                <Baseline points="1426,2753 1677,2751 1929,2748 2181,2743 2432,2739 2684,2733 2936,2726 3187,2720 3439,2713 3691,2707 3943,2702 4194,2696 4446,2691 4698,2687 4949,2685 5201,2683 5453,2683 5704,2685 5956,2689 6208,2695 6460,2703"/>
+                <TextEquiv>
+                    <Unicode>sua propria possint disponere pro sue libito voluntatis, renuncciantes expresse et ex certa nostra sciencia nostro, heredum ac successorum nostrorum nomine, in inte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="1414,2891 1666,2889 1919,2887 2171,2883 2424,2877 2676,2871 2929,2865 3181,2858 3434,2850 3686,2844 3939,2837 4191,2831 4444,2825 4696,2821 4949,2818 5201,2817 5454,2817 5706,2820 5959,2824 6211,2831 6464,2841 6464,2769 6211,2759 5959,2752 5706,2748 5454,2745 5201,2745 4949,2746 4696,2749 4444,2753 4191,2759 3939,2765 3686,2772 3434,2778 3181,2786 2929,2793 2676,2799 2424,2805 2171,2811 1919,2815 1666,2817 1414,2819"/>
+                <Baseline points="1414,2867 1666,2865 1919,2863 2171,2859 2424,2853 2676,2847 2929,2841 3181,2834 3434,2826 3686,2820 3939,2813 4191,2807 4444,2801 4696,2797 4949,2794 5201,2793 5454,2793 5706,2796 5959,2800 6211,2807 6464,2817"/>
+                <TextEquiv>
+                    <Unicode>grum restitutioni, de dolo et in factum accioni, decepcioni ultra dimidium iusti precii et omni alio iuris auxilio, quo iuvari possemus ad non tenen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="1398,2999 1642,3000 1887,2999 2132,2997 2377,2993 2622,2988 2866,2982 3111,2976 3356,2969 3601,2961 3846,2954 4090,2947 4335,2941 4580,2935 4825,2931 5070,2927 5314,2926 5559,2925 5804,2927 6049,2932 6294,2938 6294,2866 6049,2860 5804,2855 5559,2853 5314,2854 5070,2855 4825,2859 4580,2863 4335,2869 4090,2875 3846,2882 3601,2889 3356,2897 3111,2904 2866,2910 2622,2916 2377,2921 2132,2925 1887,2927 1642,2928 1398,2927"/>
+                <Baseline points="1398,2975 1642,2976 1887,2975 2132,2973 2377,2969 2622,2964 2866,2958 3111,2952 3356,2945 3601,2937 3846,2930 4090,2923 4335,2917 4580,2911 4825,2907 5070,2903 5314,2902 5559,2901 5804,2903 6049,2908 6294,2914"/>
+                <TextEquiv>
+                    <Unicode>dum, vel non observandum omnia predicta vel aliquod ex eisdem. In cuius rei testimonium presentes litteras fieri et sigillis nostre maiestatis iussimus communiri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;} place {offset:6; length:5;} person {offset:34; length:68;} place {offset:44; length:14;} place {offset:95; length:7;} date {offset:130; length:27; continued:true;}">
+                <Coords points="1390,3131 1642,3131 1894,3127 2146,3122 2398,3117 2650,3109 2902,3100 3154,3092 3406,3083 3658,3073 3911,3064 4163,3056 4415,3048 4667,3042 4919,3037 5171,3034 5423,3032 5675,3033 5927,3037 6179,3043 6432,3053 6432,2981 6179,2971 5927,2965 5675,2961 5423,2960 5171,2962 4919,2965 4667,2970 4415,2976 4163,2984 3911,2992 3658,3001 3406,3011 3154,3020 2902,3028 2650,3037 2398,3045 2146,3050 1894,3055 1642,3059 1390,3059"/>
+                <Baseline points="1390,3107 1642,3107 1894,3103 2146,3098 2398,3093 2650,3085 2902,3076 3154,3068 3406,3059 3658,3049 3911,3040 4163,3032 4415,3024 4667,3018 4919,3013 5171,3010 5423,3008 5675,3009 5927,3013 6179,3019 6432,3029"/>
+                <TextEquiv>
+                    <Unicode>Datum Prage per manus venerabilis Johannis, Wissegradensis ecclesie prepositi, cancelarii regni Boemie, principis nostri dilecti, II kalendas septembris anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;} date {offset:0; length:75; continued:true;}">
+                <Coords points="1388,3230 1635,3239 1883,3243 2130,3243 2378,3241 2625,3236 2873,3229 3120,3219 3368,3209 3615,3198 3863,3186 4110,3174 4358,3164 4605,3154 4853,3145 5100,3139 5348,3134 5595,3133 5843,3135 6090,3142 6338,3151 6338,3079 6090,3070 5843,3063 5595,3061 5348,3062 5100,3067 4853,3073 4605,3082 4358,3092 4110,3102 3863,3114 3615,3126 3368,3137 3120,3147 2873,3157 2625,3164 2378,3169 2130,3171 1883,3171 1635,3167 1388,3158"/>
+                <Baseline points="1388,3206 1635,3215 1883,3219 2130,3219 2378,3217 2625,3212 2873,3205 3120,3195 3368,3185 3615,3174 3863,3162 4110,3150 4358,3140 4605,3130 4853,3121 5100,3115 5348,3110 5595,3109 5843,3111 6090,3118 6338,3127"/>
+                <TextEquiv>
+                    <Unicode>Domini millesimo trecentesimo nonodecimo, regnorum vero nostrorum anno nono. Nos igitur ex nobis innata clemencia favorabiliter eiusdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;} person {offset:0; length:16;} place {offset:12; length:4;}">
+                <Coords points="1398,3341 1651,3343 1904,3343 2157,3341 2410,3337 2663,3332 2916,3326 3169,3320 3422,3312 3675,3305 3928,3297 4181,3290 4434,3283 4687,3276 4940,3271 5193,3266 5446,3263 5699,3261 5952,3262 6205,3264 6458,3269 6458,3199 6205,3194 5952,3192 5699,3191 5446,3193 5193,3196 4940,3201 4687,3206 4434,3213 4181,3220 3928,3227 3675,3235 3422,3242 3169,3250 2916,3256 2663,3262 2410,3267 2157,3271 1904,3273 1651,3273 1398,3271"/>
+                <Baseline points="1398,3318 1651,3320 1904,3320 2157,3318 2410,3314 2663,3309 2916,3303 3169,3297 3422,3289 3675,3282 3928,3274 4181,3267 4434,3260 4687,3253 4940,3248 5193,3243 5446,3240 5699,3238 5952,3239 6205,3241 6458,3246"/>
+                <TextEquiv>
+                    <Unicode>Heinrici de Lipa precibus annuentes prescriptum privilegium cum universis et singulis suis clausulis ac contentis in ipso ratificamus, innovamus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="1400,3437 1651,3438 1903,3438 2155,3437 2406,3435 2658,3432 2910,3429 3161,3424 3413,3419 3665,3414 3917,3409 4168,3404 4420,3399 4672,3394 4923,3390 5175,3386 5427,3383 5678,3380 5930,3379 6182,3378 6434,3379 6434,3309 6182,3308 5930,3309 5678,3310 5427,3313 5175,3316 4923,3320 4672,3324 4420,3329 4168,3334 3917,3339 3665,3344 3413,3349 3161,3354 2910,3359 2658,3362 2406,3365 2155,3367 1903,3368 1651,3368 1400,3367"/>
+                <Baseline points="1400,3414 1651,3415 1903,3415 2155,3414 2406,3412 2658,3409 2910,3406 3161,3401 3413,3396 3665,3391 3917,3386 4168,3381 4420,3376 4672,3371 4923,3367 5175,3363 5427,3360 5678,3357 5930,3356 6182,3355 6434,3356"/>
+                <TextEquiv>
+                    <Unicode>approbamus et ex certa nostra sciencia confirmamus decernendo idem privilegium robur plenum et firmitatem perpetuam obtinere, in quorum evidenciam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;} place {offset:96; length:5;} date {offset:102; length:39; continued:true;}">
+                <Coords points="1366,3538 1622,3540 1878,3541 2134,3541 2391,3540 2647,3539 2903,3536 3160,3534 3416,3530 3672,3527 3929,3523 4185,3518 4441,3514 4697,3510 4954,3506 5210,3501 5466,3498 5723,3494 5979,3491 6235,3489 6492,3487 6492,3415 6235,3417 5979,3419 5723,3422 5466,3426 5210,3429 4954,3434 4697,3438 4441,3442 4185,3446 3929,3451 3672,3455 3416,3458 3160,3462 2903,3464 2647,3467 2391,3468 2134,3469 1878,3469 1622,3468 1366,3466"/>
+                <Baseline points="1366,3514 1622,3516 1878,3517 2134,3517 2391,3516 2647,3515 2903,3512 3160,3510 3416,3506 3672,3503 3929,3499 4185,3494 4441,3490 4697,3486 4954,3482 5210,3477 5466,3474 5723,3470 5979,3467 6235,3465 6492,3463"/>
+                <TextEquiv>
+                    <Unicode>et memoriam futurorum has sibi litteras dedimus sigilli nostri maioris robore communitas. Datum Prage II kalendas octobris anno Domini mille¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;} date {offset:0; length:33; continued:true;}">
+                <Coords points="1376,3634 1448,3638 1520,3641 1592,3645 1665,3646 1737,3649 1809,3651 1881,3652 1954,3653 2026,3654 2098,3654 2170,3655 2243,3656 2315,3656 2387,3656 2459,3657 2532,3657 2604,3658 2676,3659 2748,3659 2821,3661 2821,3589 2748,3587 2676,3587 2604,3586 2532,3585 2459,3585 2387,3584 2315,3584 2243,3584 2170,3583 2098,3582 2026,3582 1954,3581 1881,3580 1809,3579 1737,3577 1665,3574 1592,3573 1520,3569 1448,3566 1376,3562"/>
+                <Baseline points="1376,3610 1448,3614 1520,3617 1592,3621 1665,3622 1737,3625 1809,3627 1881,3628 1954,3629 2026,3630 2098,3630 2170,3631 2243,3632 2315,3632 2387,3632 2459,3633 2532,3633 2604,3634 2676,3635 2748,3635 2821,3637"/>
+                <TextEquiv>
+                    <Unicode>simo trecentesimo vigesimo tercio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Johannes, Dei gratia Boemie et Polonie rex et Lucemburgensis comes, universis, ad quos presentes pervenerint, imperpetuum. Bene novit maiestas regia presencia&#xD;
+queque disponere futuris etiam sic providere negociis, ut tamen dispendiis preterita non commendet, sed gesta retroactis curriculis temporum innovando&#xD;
+et approbando sua consuevit auctoritate firmare. Sane libertatum et privilegiorum indulta non nulla fidelis nostri dilecti Henrici de Lipa, summi marschalli&#xD;
+regni Boemie, nos dedisse recolimus, ex quibus tenor cuiusdam per omnia dinoscitur esse talis: nos Johannes, Dei gratia Boemie et Polonie rex ac&#xD;
+Lucemburgensis comes, ad universorum tam presentis etatis hominum, quam future noticiam volumus pervenire, quod nos de maturo et communi principum, baronum&#xD;
+ac prelatorum et nobilium regni nostri Boemie consilio necnon deliberatione provida et solempni tractatu prehabitis utilitatem et commodum nostrum et heredum&#xD;
+nostrorum ac precipue ipsius regni nostri propter quedam futura, que nobis in ipso regno nostro potuissent et poterant suboriri, dispendia evidencius cognoscentes&#xD;
+cupientesque condicionem ipsius regni nostri facere meliorem, villam nostram Chunicz cum villis Longa villa et duabus, que dicuntur Menckowitz,&#xD;
+dominio, iure, iurisdicione, hominibus, pratis, pascuis, piscacionibus, molendinis, montibus, planis, agris cultis et incultis, rubetis, silvis, aquis aqua&#xD;
+rumne decursibus et generaliter cum omnibus illis, cum quibus dive memorie predecessores nostri, reges Boemie illustres, villam ipsam cum villis predictis te¬&#xD;
+nuerunt et nos tenuimus, usque modo additis etiam aliis bonis nostris, super quibus similiter nostras dedimus litteras speciales cum fideli nostro Heinrico de Lipa,&#xD;
+pro civitate et districtu Sytaviensi, Castris Ronow, Oywins et Schombuch, villis, juribus, dominio, pheodalibus, hominibus et eorum pertinenciis uni¬&#xD;
+versis et generaliter cum eis, cum quibus ipse huiusmodi usque nunc tenuit et possedit, ex certa nostra sciencia nostro, heredum ac successorum nostrorum nomine com¬&#xD;
+mutavimus et permutamus et commutando in concambium damus et dedimus, tradidimus et tradimus per ipsum Heinricum et heredes ac successores suos possiden¬&#xD;
+dam iure hereditario perpetuo et tenendam transferentes in ipsum Henricum, heredes ac successores suos omne dominium, omnem proprietatem et omnia&#xD;
+iura, que nobis, heredibus ac successoribus nostris in predicta villa et villis predictis cum eorum pertinenciis universis competunt aut possent competere, aliqualiter&#xD;
+in futurum taliter, quod ipse Henricus, heredes ac successores sui villam et villas predictas vendere, alienare in totum vel in parte et de ipsis, tamquam de re&#xD;
+sua propria possint disponere pro sue libito voluntatis, renuncciantes expresse et ex certa nostra sciencia nostro, heredum ac successorum nostrorum nomine, in inte¬&#xD;
+grum restitutioni, de dolo et in factum accioni, decepcioni ultra dimidium iusti precii et omni alio iuris auxilio, quo iuvari possemus ad non tenen¬&#xD;
+dum, vel non observandum omnia predicta vel aliquod ex eisdem. In cuius rei testimonium presentes litteras fieri et sigillis nostre maiestatis iussimus communiri.&#xD;
+Datum Prage per manus venerabilis Johannis, Wissegradensis ecclesie prepositi, cancelarii regni Boemie, principis nostri dilecti, II kalendas septembris anno&#xD;
+Domini millesimo trecentesimo nonodecimo, regnorum vero nostrorum anno nono. Nos igitur ex nobis innata clemencia favorabiliter eiusdem&#xD;
+Heinrici de Lipa precibus annuentes prescriptum privilegium cum universis et singulis suis clausulis ac contentis in ipso ratificamus, innovamus,&#xD;
+approbamus et ex certa nostra sciencia confirmamus decernendo idem privilegium robur plenum et firmitatem perpetuam obtinere, in quorum evidenciam&#xD;
+et memoriam futurorum has sibi litteras dedimus sigilli nostri maioris robore communitas. Datum Prage II kalendas octobris anno Domini mille¬&#xD;
+simo trecentesimo vigesimo tercio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

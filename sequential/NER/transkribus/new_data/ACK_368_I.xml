@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">ACK_368_I</title></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><sourceDesc><bibl><publisher>TRP document creator: katerina.zenklova@nacr.cz</publisher></bibl></sourceDesc></fileDesc></teiHeader><facsimile xml:id="facs_1"><surface lrx="6585" lry="4628" ulx="0" uly="0"><graphic height="4628px" url="NA-ACK_13510621_00368_r.jpg" width="6585px"/><zone points="4196,1874 780,1874 780,661 4196,661" rendition="TextRegion" xml:id="facs_1_region_1562577558328_276">
+                <zone points="927,739 4091,739 4091,974 927,974" rendition="Line" xml:id="facs_1_line_1562577564667_279"/>
+                <zone points="916,980 4117,980 4117,1068 916,1068" rendition="Line" xml:id="facs_1_line_1562577568322_282"/>
+                <zone points="932,1068 4122,1068 4122,1142 932,1142" rendition="Line" xml:id="facs_1_line_1562577571991_285"/>
+                <zone points="979,1147 4128,1147 4128,1236 979,1236" rendition="Line" xml:id="facs_1_line_1562577576836_288"/>
+                <zone points="989,1241 4143,1241 4143,1293 989,1293" rendition="Line" xml:id="facs_1_line_1562577581751_291"/>
+                <zone points="1011,1302 4142,1302 4142,1365 1011,1365" rendition="Line" xml:id="facs_1_line_1562577594839_296"/>
+                <zone points="1011,1376 4131,1376 4131,1447 1011,1447" rendition="Line" xml:id="facs_1_line_1562577601045_299"/>
+                <zone points="1011,1447 4123,1447 4123,1526 1011,1526" rendition="Line" xml:id="facs_1_line_1562577605973_302"/>
+                <zone points="1003,1530 4119,1530 4119,1596 1003,1596" rendition="Line" xml:id="facs_1_line_1562577609577_305"/>
+                <zone points="999,1608 4139,1608 4139,1687 999,1687" rendition="Line" xml:id="facs_1_line_1562577613793_308"/>
+                <zone points="1011,1703 3266,1703 3266,1781 1011,1781" rendition="Line" xml:id="facs_1_line_1562577617672_311"/>
+            </zone></surface></facsimile><text><body><pb facs="#facs_1" n="1"/><p facs="#facs_1_region_1562577558328_276">
+            <lb facs="#facs_1_line_1562577564667_279" n="N001"/>Wir <persName><comment>Stephan</comment> von Gotes gnaden phaltzgrafe bei <placeName>Rine</placeName> und hertzoge in <placeName>Beyern</placeName></persName> verjehen und
+            <lb facs="#facs_1_line_1562577568322_282" n="N002"/> tun kunt offenlichen an disem brief allen den, die in sehen oder horen lesen, daz wir dem aller
+            <lb facs="#facs_1_line_1562577571991_285" n="N003"/>durchleuchtgesten fursten und unserm gnedgen herren, hern <persName>Karl romisschen kunge ze allen zeiten merer</persName>
+            <lb facs="#facs_1_line_1562577576836_288" n="N004"/><persName> des reichs und kunge ze <placeName>Beheim</placeName></persName>, seinen erben und nachkomen, kungen ze <placeName>Beheim</placeName>, eweclichen mit
+            <lb facs="#facs_1_line_1562577581751_291" n="N005"/> wolbedachtem mute, mit rechten trewen und on alles gewerd fur uns, unser erben und nachkomen
+            <lb facs="#facs_1_line_1562577594839_296" n="N006"/> globt haben und globen auch mit kraft ditz briefes, daz wir keynen iren man oder undersezzen,
+            <lb facs="#facs_1_line_1562577601045_299" n="N007"/> diener des kungreichs ze <placeName>Beheim</placeName>, ze hofegesinde, man oder ze diener enphahen wollen noch sullen
+            <lb facs="#facs_1_line_1562577605973_302" n="N008"/> in dheinweiz, noch keynen iren man, diener oder undertanen wider sie versprechen, verteidingen, halten
+            <lb facs="#facs_1_line_1562577609577_305" n="N009"/> noch schirmen sullen in dheinweiz. Mit urkunde ditz briefes versigelt mit unserm insigel. Geben
+            <lb facs="#facs_1_line_1562577613793_308" n="N010"/> zu <placeName>Nürenberg</placeName> <date month="0" day="0" year="0" continued="true">nach Kristus geburt dreutzen hundert jar, dar nach in dem ein und funfczigisten</date>
+            <lb facs="#facs_1_line_1562577617672_311" n="N011"/><date month="0" day="0" year="0" continued="true"> jare, des nehsten dinstages nach des heilgen Leichnams tag</date>. </p></body></text></TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-23T16:28:55.639+02:00</Created>
+        <LastChange>2019-12-03T17:28:31.927+01:00</LastChange>
+        <TranskribusMetadata docId="187004" pageId="7447926" pageNr="1" tsid="20300675" status="IN_PROGRESS" userId="48350" imgUrl="https://files.transkribus.eu/Get?id=WDTSFKHZPYUIMUIRJDXFTWPO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDUQLVBIHUXMRDAXDPJSJSEB" imageId="4473050"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13110616_00065_r.jpg" imageWidth="6900" imageHeight="4683">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617517744" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1128,663 1128,1618 4095,1618 4095,663"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:4; length:59;} place {offset:54; length:9;}">
+                <Coords points="1128,737 1266,734 1404,731 1542,729 1680,726 1818,724 1956,721 2094,720 2232,718 2370,717 2508,717 2646,717 2784,717 2922,719 3060,721 3198,724 3336,727 3474,731 3612,737 3750,743 3889,751 3889,697 3750,689 3612,683 3474,677 3336,673 3198,670 3060,667 2922,665 2784,663 2646,663 2508,663 2370,663 2232,664 2094,666 1956,667 1818,670 1680,672 1310,671 1172,673 1266,680 1128,683"/>
+                <Baseline points="1128,719 1266,716 1404,713 1542,711 1680,708 1818,706 1956,703 2094,702 2232,700 2370,699 2508,699 2646,699 2784,699 2922,701 3060,703 3198,706 3336,709 3474,713 3612,719 3750,725 3889,733"/>
+                <TextEquiv>
+                    <Unicode>Nos Petrus judex, scabini atque universitas civitatis Jegerdorf recognoscimus publice confitentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:40; length:39;} place {offset:56; length:7;} place {offset:67; length:7;}">
+                <Coords points="1182,822 1326,820 1470,819 1614,816 1758,814 1902,811 2046,808 2191,806 2335,804 2479,803 2623,802 2767,802 2911,803 3056,805 3200,808 3344,813 3488,820 3632,827 3776,838 3921,850 3921,796 3776,784 3632,773 3488,766 3344,759 3200,754 3056,751 2911,749 2767,748 2623,748 2479,749 2335,750 2191,752 2046,754 1902,757 1758,760 1614,762 1470,765 1326,766 1182,768"/>
+                <Baseline points="1182,804 1326,802 1470,801 1614,798 1758,796 1902,793 2046,790 2191,788 2335,786 2479,785 2623,784 2767,784 2911,785 3056,787 3200,790 3344,795 3488,802 3632,809 3776,820 3921,832"/>
+                <TextEquiv>
+                    <Unicode>excellenti ac magnifico principi domino Johanni inclito Bohemie et Polonie regi, tamquam vero regi ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1144,894 1292,894 1440,893 1589,891 1737,889 1885,887 2034,884 2182,882 2330,879 2479,878 2627,878 2776,878 2924,880 3072,884 3221,889 3369,897 3517,906 3666,918 3814,934 3963,952 3963,904 3814,886 3666,870 3517,858 3369,849 3221,841 3072,836 2924,832 2776,830 2627,830 2479,830 2330,831 2182,834 2034,836 1885,839 1737,841 1589,843 1440,845 1292,846 1144,846"/>
+                <Baseline points="1144,878 1292,878 1440,877 1589,875 1737,873 1885,871 2034,868 2182,866 2330,863 2479,862 2627,862 2776,862 2924,864 3072,868 3221,873 3369,881 3517,890 3666,902 3814,918 3963,936"/>
+                <TextEquiv>
+                    <Unicode>domino nostro, fide data unanimiter homagium prestitisse, necnon de mandato et voluntate ipsius speciali serenissimis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:33; length:8;} person {offset:43; length:8;} person {offset:55; length:52; continued:true;} place {offset:66; length:7;} place {offset:93; length:11;}">
+                <Coords points="1150,960 1290,963 1431,965 1571,966 1712,965 1853,964 1993,962 2134,960 2275,959 2415,957 2556,956 2697,956 2837,957 2978,959 3119,963 3259,969 3400,976 3541,986 3681,998 3822,1013 3963,1031 3963,983 3822,965 3681,950 3541,938 3400,928 3259,921 3119,915 2978,911 2837,909 2697,908 2556,908 2415,909 2275,911 2134,912 1993,914 1853,916 1712,917 1571,918 1431,917 1290,915 1150,912"/>
+                <Baseline points="1150,944 1290,947 1431,949 1571,950 1712,949 1853,948 1993,946 2134,944 2275,943 2415,941 2556,940 2697,940 2837,941 2978,943 3119,947 3259,953 3400,960 3541,970 3681,982 3822,997 3963,1015"/>
+                <TextEquiv>
+                    <Unicode>ac gloriosis principibus dominis Bolezlao, Heinrico et Wlodizlao, Silesie ducibus dominisque Vratislavie et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:0; length:8; continued:true;} place {offset:0; length:8;} place {offset:85; length:17;} place {offset:103; length:8; continued:true;}">
+                <Coords points="1150,1039 1293,1036 1436,1034 1579,1032 1722,1031 1865,1029 2008,1029 2151,1029 2294,1029 2437,1030 2580,1033 2723,1035 2866,1039 3009,1044 3152,1050 3295,1057 3438,1065 3581,1074 3724,1085 3867,1096 4011,1110 4011,1062 3867,1048 3724,1037 3581,1026 3438,1017 3295,1009 3152,1002 3009,996 2866,991 2723,987 2580,985 2437,982 2294,981 2151,981 2008,981 1865,981 1722,983 1579,984 1436,986 1293,988 1150,991"/>
+                <Baseline points="1150,1023 1293,1020 1436,1018 1579,1016 1722,1015 1865,1013 2008,1013 2151,1013 2294,1013 2437,1014 2580,1017 2723,1019 2866,1023 3009,1028 3152,1034 3295,1041 3438,1049 3581,1058 3724,1069 3867,1080 4011,1094"/>
+                <TextEquiv>
+                    <Unicode>Legenicz illustribus, heredibusque ac legitimis ipsorum successoribus, quibus nos et civitatem nostram totamque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} place {offset:0; length:13; continued:true;}">
+                <Coords points="1165,1114 1307,1113 1450,1112 1593,1110 1736,1109 1879,1108 2022,1108 2165,1107 2308,1108 2451,1108 2594,1110 2736,1113 2879,1117 3022,1122 3165,1129 3308,1137 3451,1146 3594,1158 3737,1171 3880,1187 4023,1205 4023,1151 3880,1133 3737,1117 3594,1104 3451,1092 3308,1083 3165,1075 3022,1068 2879,1063 2736,1059 2594,1056 2451,1054 2308,1054 2165,1053 2022,1054 1879,1054 1736,1055 1593,1056 1450,1058 1307,1059 1165,1060"/>
+                <Baseline points="1165,1096 1307,1095 1450,1094 1593,1092 1736,1091 1879,1090 2022,1090 2165,1089 2308,1090 2451,1090 2594,1092 2736,1095 2879,1099 3022,1104 3165,1111 3308,1119 3451,1128 3594,1140 3737,1153 3880,1169 4023,1187"/>
+                <TextEquiv>
+                    <Unicode>terram Opavie pro octo milibus marcarum grossorum regalium denariorum, sexaginta quatuor grossos pro qualibet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1171,1200 1310,1197 1450,1194 1589,1192 1729,1189 1868,1188 2008,1186 2147,1185 2287,1185 2426,1185 2566,1186 2705,1189 2845,1192 2984,1197 3124,1203 3263,1211 3403,1220 3542,1231 3682,1244 3821,1259 3961,1275 3961,1221 3821,1205 3682,1190 3542,1177 3403,1166 3263,1157 3124,1149 2984,1143 2845,1138 2705,1135 2566,1132 2426,1131 2287,1131 2147,1131 2008,1132 1868,1134 1729,1135 1589,1138 1450,1140 1310,1143 1171,1146"/>
+                <Baseline points="1171,1182 1310,1179 1450,1176 1589,1174 1729,1171 1868,1170 2008,1168 2147,1167 2287,1167 2426,1167 2566,1168 2705,1171 2845,1174 2984,1179 3124,1185 3263,1193 3403,1202 3542,1213 3682,1226 3821,1241 3961,1257"/>
+                <TextEquiv>
+                    <Unicode>marca computando, nomine pignoris obligavit, obedientiam et devotionem fidei absque dolo communiter iuravisse,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1164,1282 1303,1274 1443,1269 1582,1265 1722,1261 1862,1259 2001,1257 2141,1257 2281,1258 2420,1260 2560,1263 2700,1267 2839,1272 2979,1278 3119,1285 3258,1293 3398,1302 3538,1312 3677,1323 3817,1334 3957,1347 3957,1296 3817,1283 3677,1272 3538,1261 3398,1251 3258,1242 3119,1234 2979,1227 2839,1221 2700,1216 2560,1212 2420,1209 2281,1207 2141,1206 2001,1206 1862,1208 1722,1210 1582,1214 1443,1218 1303,1223 1164,1231"/>
+                <Baseline points="1164,1265 1303,1257 1443,1252 1582,1248 1722,1244 1862,1242 2001,1240 2141,1240 2281,1241 2420,1243 2560,1246 2700,1250 2839,1255 2979,1261 3119,1268 3258,1276 3398,1285 3538,1295 3677,1306 3817,1317 3957,1330"/>
+                <TextEquiv>
+                    <Unicode>promittentes bona consciencia et fidei puritate, quod ab ipsis et eorum quotlibet nullatenus mala divertemur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1190,1354 1326,1349 1462,1344 1599,1339 1735,1335 1871,1332 2008,1330 2144,1329 2280,1329 2417,1330 2553,1332 2689,1335 2826,1340 2962,1346 3098,1354 3235,1363 3371,1373 3507,1385 3644,1399 3780,1414 3917,1432 3917,1381 3780,1363 3644,1348 3507,1334 3371,1322 3235,1312 3098,1303 2962,1295 2826,1289 2689,1284 2553,1281 2417,1279 2280,1278 2144,1278 2008,1279 1871,1281 1735,1284 1599,1288 1462,1293 1326,1298 1190,1303"/>
+                <Baseline points="1190,1337 1326,1332 1462,1327 1599,1322 1735,1318 1871,1315 2008,1313 2144,1312 2280,1312 2417,1313 2553,1315 2689,1318 2826,1323 2962,1329 3098,1337 3235,1346 3371,1356 3507,1368 3644,1382 3780,1397 3917,1415"/>
+                <TextEquiv>
+                    <Unicode>intencione, sed eis et eorum cuilibet serviemus et obedienter suberimus tam diu fideliter, quousque ipsis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1187,1438 1332,1431 1477,1424 1623,1419 1768,1415 1914,1412 2059,1410 2204,1409 2350,1410 2495,1411 2641,1415 2786,1419 2931,1425 3077,1432 3222,1440 3368,1451 3513,1463 3658,1476 3804,1491 3949,1507 4095,1525 4095,1471 3949,1453 3804,1437 3658,1422 3513,1409 3368,1397 3222,1386 3077,1378 2931,1371 2786,1365 2641,1361 2495,1357 2350,1356 2204,1355 2059,1356 1914,1358 1768,1361 1623,1365 1477,1370 1332,1377 1187,1384"/>
+                <Baseline points="1187,1420 1332,1413 1477,1406 1623,1401 1768,1397 1914,1394 2059,1392 2204,1391 2350,1392 2495,1393 2641,1397 2786,1401 2931,1407 3077,1414 3222,1422 3368,1433 3513,1445 3658,1458 3804,1473 3949,1489 4095,1507"/>
+                <TextEquiv>
+                    <Unicode>dicta octo marcarum milia de certo illorum, qui ad hoc ex utraque parte deputati sunt, sciencia ex integro persoluantur. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} date {offset:88; length:13; continued:true;year:0; day:0; month:0;} place {offset:94; length:7;}">
+                <Coords points="1182,1534 1322,1523 1462,1513 1603,1506 1743,1500 1884,1495 2024,1492 2165,1490 2305,1490 2446,1491 2586,1494 2726,1497 2867,1503 3007,1509 3148,1517 3288,1526 3429,1536 3569,1547 3710,1559 3850,1572 3991,1587 3991,1533 3850,1518 3710,1505 3569,1493 3429,1482 3288,1472 3148,1463 3007,1455 2867,1449 2726,1443 2586,1440 2446,1437 2305,1436 2165,1436 2024,1438 1884,1441 1743,1446 1603,1452 1462,1459 1322,1469 1182,1480"/>
+                <Baseline points="1182,1516 1322,1505 1462,1495 1603,1488 1743,1482 1884,1477 2024,1474 2165,1472 2305,1472 2446,1473 2586,1476 2726,1479 2867,1485 3007,1491 3148,1499 3288,1508 3429,1518 3569,1529 3710,1541 3850,1554 3991,1569"/>
+                <TextEquiv>
+                    <Unicode>In cuius rei testimonium presentes fieri et sigillo civitatis nostri fecimus communiri. Datum Oppavie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} date {offset:0; length:57; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1178,1618 1277,1612 1376,1605 1475,1599 1574,1593 1673,1589 1772,1584 1871,1581 1970,1578 2069,1576 2168,1574 2267,1573 2366,1573 2465,1573 2564,1575 2663,1577 2762,1580 2861,1584 2960,1589 3059,1595 3159,1602 3159,1548 3059,1541 2960,1535 2861,1530 2762,1526 2663,1523 2564,1521 2465,1519 2366,1519 2267,1519 2168,1520 2069,1522 1970,1524 1871,1527 1772,1530 1673,1535 1574,1539 1475,1545 1376,1551 1277,1558 1178,1564"/>
+                <Baseline points="1178,1600 1277,1594 1376,1587 1475,1581 1574,1575 1673,1571 1772,1566 1871,1563 1970,1560 2069,1558 2168,1556 2267,1555 2366,1555 2465,1555 2564,1557 2663,1559 2762,1562 2861,1566 2960,1571 3059,1577 3159,1584"/>
+                <TextEquiv>
+                    <Unicode>anno Domini millesimo CCC undecimo XVI kalendas Julii et.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nos Petrus judex, scabini atque universitas civitatis Jegerdorf recognoscimus publice confitentes&#xD;
+excellenti ac magnifico principi domino Johanni inclito Bohemie et Polonie regi, tamquam vero regi ac&#xD;
+domino nostro, fide data unanimiter homagium prestitisse, necnon de mandato et voluntate ipsius speciali serenissimis&#xD;
+ac gloriosis principibus dominis Bolezlao, Heinrico et Wlodizlao, Silesie ducibus dominisque Vratislavie et&#xD;
+Legenicz illustribus, heredibusque ac legitimis ipsorum successoribus, quibus nos et civitatem nostram totamque&#xD;
+terram Opavie pro octo milibus marcarum grossorum regalium denariorum, sexaginta quatuor grossos pro qualibet &#xD;
+marca computando, nomine pignoris obligavit, obedientiam et devotionem fidei absque dolo communiter iuravisse,&#xD;
+promittentes bona consciencia et fidei puritate, quod ab ipsis et eorum quotlibet nullatenus mala divertemur&#xD;
+intencione, sed eis et eorum cuilibet serviemus et obedienter suberimus tam diu fideliter, quousque ipsis&#xD;
+dicta octo marcarum milia de certo illorum, qui ad hoc ex utraque parte deputati sunt, sciencia ex integro persoluantur. &#xD;
+In cuius rei testimonium presentes fieri et sigillo civitatis nostri fecimus communiri. Datum Oppavie&#xD;
+anno Domini millesimo CCC undecimo XVI kalendas Julii et.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

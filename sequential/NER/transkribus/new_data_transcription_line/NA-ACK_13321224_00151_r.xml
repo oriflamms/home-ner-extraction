@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-04T10:07:26.661+02:00</Created>
+        <LastChange>2020-02-27T15:05:02.654+00:00</LastChange>
+        <TranskribusMetadata docId="205525" pageId="8846871" pageNr="1" tsid="20061041" status="IN_PROGRESS" userId="48350" imgUrl="https://files.transkribus.eu/Get?id=SBFLEARCECCLWEWLCGXMCQOZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFBJIOKXIDRMQCDPZWNNEUZD" imageId="5715635"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13321224_00151_r.jpg" imageWidth="3000" imageHeight="2007">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617856495" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="613,640 613,1154 1875,1141 1886,638"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;} person {offset:4; length:20;} place {offset:15; length:9;}">
+                <Coords points="629,715 689,715 750,716 810,715 871,715 932,714 992,713 1053,712 1113,711 1174,710 1235,708 1295,707 1356,705 1416,704 1477,702 1538,700 1598,698 1659,697 1719,695 1780,694 1841,692 1839,648 1782,654 1719,654 1660,657 1597,654 1538,667 1477,669 1416,671 1356,672 1295,674 1236,666 1174,666 1113,678 1051,669 991,671 933,672 872,666 810,682 749,660 690,660 628,659"/>
+                <Baseline points="629,704 689,704 750,705 810,704 871,704 932,703 992,702 1053,701 1113,700 1174,699 1235,697 1295,696 1356,694 1416,693 1477,691 1538,689 1598,687 1659,686 1719,684 1780,683 1841,681"/>
+                <TextEquiv>
+                    <Unicode>mit der Gotfrich, zu Merhern, und gevme prziwotaram gravenire, quod absione¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;} person {offset:85; length:16; continued:true;} place {offset:94; length:6;}">
+                <Coords points="635,767 696,767 758,767 819,766 881,766 943,765 1004,764 1066,763 1128,761 1189,760 1251,758 1313,757 1374,755 1436,753 1498,751 1559,749 1621,748 1683,746 1744,744 1806,742 1868,740 1868,709 1806,711 1744,713 1683,715 1621,717 1559,718 1498,720 1436,722 1374,724 1313,726 1251,727 1189,729 1128,730 1066,732 1004,733 943,734 881,735 819,735 758,736 696,736 635,736"/>
+                <Baseline points="635,757 696,757 758,757 819,756 881,756 943,755 1004,754 1066,753 1128,751 1189,750 1251,748 1313,747 1374,745 1436,743 1498,741 1559,739 1621,738 1683,736 1744,734 1806,732 1868,730"/>
+                <TextEquiv>
+                    <Unicode>intendens superimus in hoc condicionem status mei meliorari. me domino meo domino Johanni, Boemie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;} person {offset:0; length:39; continued:true;} place {offset:3; length:7;} place {offset:19; length:13;}">
+                <Coords points="630,810 691,811 752,811 813,811 874,811 936,810 997,810 1058,809 1119,808 1180,806 1242,805 1303,803 1364,802 1425,800 1486,798 1548,795 1609,793 1670,791 1731,789 1792,787 1854,784 1854,754 1792,757 1731,759 1670,761 1609,763 1548,765 1486,768 1425,770 1364,772 1303,773 1242,775 1180,776 1119,778 1058,779 997,780 936,780 874,781 813,781 752,781 691,781 630,780"/>
+                <Baseline points="630,800 691,801 752,801 813,801 874,801 936,800 997,800 1058,799 1119,798 1180,796 1242,795 1303,793 1364,792 1425,790 1486,788 1548,785 1609,783 1670,781 1731,779 1792,777 1854,774"/>
+                <TextEquiv>
+                    <Unicode>Polonie regi ac Lucemburgensis comiti, plus soluto, astringere et ligare bona et villas¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;} place {offset:28; length:11;} place {offset:41; length:10;} place {offset:53; length:8;} place {offset:65; length:11;}">
+                <Coords points="637,853 697,853 757,853 818,853 878,853 939,852 999,851 1060,850 1120,849 1181,848 1241,847 1301,845 1362,844 1422,842 1483,840 1543,838 1604,836 1664,834 1725,831 1785,829 1846,826 1846,796 1785,799 1725,801 1664,804 1604,806 1543,808 1483,810 1422,812 1362,814 1301,815 1241,817 1181,818 1120,819 1060,820 999,821 939,822 878,823 818,823 757,823 697,823 637,823"/>
+                <Baseline points="637,843 697,843 757,843 818,843 878,843 939,842 999,841 1060,840 1120,839 1181,838 1241,837 1301,835 1362,834 1422,832 1483,830 1543,828 1604,826 1664,824 1725,821 1785,819 1846,816"/>
+                <TextEquiv>
+                    <Unicode>iteras subscriptos videlic fumfschunden, nechramcz prziesan et wyetkleticz, cum eorum pertine¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="648,899 707,900 767,900 826,899 886,899 945,898 1005,898 1064,896 1124,895 1183,894 1243,892 1302,891 1362,888 1421,887 1481,885 1540,883 1600,881 1659,878 1719,876 1778,874 1838,872 1838,842 1778,844 1719,846 1659,848 1600,851 1540,853 1481,855 1421,857 1362,858 1302,861 1243,862 1183,864 1124,865 1064,866 1005,868 945,868 886,869 826,869 767,870 707,870 648,869"/>
+                <Baseline points="648,889 707,890 767,890 826,889 886,889 945,888 1005,888 1064,886 1124,885 1183,884 1243,882 1302,881 1362,878 1421,877 1481,875 1540,873 1600,871 1659,868 1719,866 1778,864 1838,862"/>
+                <TextEquiv>
+                    <Unicode>iis ab ipso et suis heredibus in feodum et iure feodi pro me et meis heredibus recipio et assimo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="640,948 700,948 760,948 821,947 881,947 942,946 1002,945 1062,944 1123,943 1183,941 1244,940 1304,938 1364,936 1425,933 1485,931 1546,929 1606,926 1666,923 1727,920 1787,917 1848,913 1848,883 1787,887 1727,890 1666,893 1606,896 1546,899 1485,901 1425,903 1364,906 1304,908 1244,910 1183,911 1123,913 1062,914 1002,915 942,916 881,917 821,917 760,918 700,918 640,918"/>
+                <Baseline points="640,938 700,938 760,938 821,937 881,937 942,936 1002,935 1062,934 1123,933 1183,931 1244,930 1304,928 1364,926 1425,923 1485,921 1546,919 1606,916 1666,913 1727,910 1787,907 1848,903"/>
+                <TextEquiv>
+                    <Unicode>ta quod ipsis regisdem bonis debita servicia semper tenear exhibere haiis, quas sigillo inco und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;} person {offset:48; length:16; continued:true;} person {offset:68; length:28; continued:true;} place {offset:90; length:6;}">
+                <Coords points="640,997 700,996 761,995 822,994 883,993 944,992 1005,992 1066,991 1127,990 1188,989 1249,988 1309,986 1370,985 1431,983 1492,980 1553,978 1614,974 1675,970 1736,967 1797,962 1858,956 1858,925 1797,931 1736,936 1675,939 1614,943 1553,947 1492,949 1431,952 1370,954 1309,955 1249,957 1188,958 1127,959 1066,960 1005,961 944,961 883,962 822,963 761,964 700,965 640,966"/>
+                <Baseline points="640,987 700,986 761,985 822,984 883,983 944,982 1005,982 1066,981 1127,980 1188,979 1249,978 1309,976 1370,975 1431,973 1492,970 1553,968 1614,964 1675,960 1736,957 1797,952 1858,946"/>
+                <TextEquiv>
+                    <Unicode>tin sigilliis nobilium virorum amicorum meorum taliter videlic et Sbincipis fratribus de Waldek¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:7;} person {offset:0; length:7; continued:true;} person {offset:59; length:7;} person {offset:70; length:6;}">
+                <Coords points="636,1044 695,1043 755,1042 815,1042 875,1041 934,1040 994,1039 1054,1039 1114,1038 1173,1037 1233,1036 1293,1034 1353,1033 1412,1031 1472,1029 1532,1026 1592,1023 1651,1020 1711,1016 1771,1012 1831,1007 1831,974 1771,979 1711,983 1651,987 1592,990 1532,993 1472,996 1412,998 1353,1000 1293,1001 1233,1003 1173,1004 1114,1005 1054,1006 994,1006 934,1007 875,1008 815,1009 755,1009 695,1010 636,1011"/>
+                <Baseline points="636,1033 695,1032 755,1031 815,1031 875,1030 934,1029 994,1028 1054,1028 1114,1027 1173,1026 1233,1025 1293,1023 1353,1022 1412,1020 1472,1018 1532,1015 1592,1012 1651,1009 1711,1005 1771,1001 1831,996"/>
+                <TextEquiv>
+                    <Unicode>ipsorum sigillari procuravi testimo litterarum et nos under et obmto fratris predicti, ad regitatum¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:8;} person {offset:8; length:23;} place {offset:22; length:9;}">
+                <Coords points="632,1095 694,1092 756,1090 818,1089 880,1087 942,1086 1004,1085 1067,1085 1129,1084 1191,1083 1253,1083 1315,1081 1377,1080 1439,1078 1502,1076 1564,1073 1626,1069 1688,1065 1750,1060 1812,1054 1875,1046 1875,1013 1812,1021 1750,1027 1688,1032 1626,1036 1564,1040 1502,1043 1439,1045 1377,1047 1315,1048 1253,1050 1191,1050 1129,1051 1067,1052 1004,1052 942,1053 880,1054 818,1056 756,1057 694,1059 632,1062"/>
+                <Baseline points="632,1084 694,1081 756,1079 818,1078 880,1076 942,1075 1004,1074 1067,1074 1129,1073 1191,1072 1253,1072 1315,1070 1377,1069 1439,1067 1502,1065 1564,1062 1626,1058 1688,1054 1750,1049 1812,1043 1875,1035"/>
+                <TextEquiv>
+                    <Unicode>fati friczccionis et egenantlich, auunculi nostri sigilla nostra presentibus duximus apponenta. Datum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:9;} place {offset:0; length:8;} date {offset:9; length:59;year:0; day:0; month:0;}">
+                <Coords points="632,1141 677,1141 722,1140 768,1140 813,1139 859,1139 904,1138 949,1138 995,1137 1040,1136 1086,1136 1131,1135 1176,1134 1222,1133 1267,1131 1313,1130 1358,1129 1403,1127 1449,1125 1494,1123 1540,1121 1540,1088 1494,1090 1449,1092 1403,1094 1358,1096 1313,1097 1267,1098 1222,1100 1176,1101 1131,1102 1086,1103 1040,1103 995,1104 949,1105 904,1105 859,1106 813,1106 768,1107 722,1107 677,1108 632,1108"/>
+                <Baseline points="632,1130 677,1130 722,1129 768,1129 813,1128 859,1128 904,1127 949,1127 995,1126 1040,1125 1086,1125 1131,1124 1176,1123 1222,1122 1267,1120 1313,1119 1358,1118 1403,1116 1449,1114 1494,1112 1540,1110"/>
+                <TextEquiv>
+                    <Unicode>pansius in vigik nativitatis expssi anno Domini Mo cetera XI¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mit der Gotfrich, zu Merhern, und gevme prziwotaram gravenire, quod absione¬
+intendens superimus in hoc condicionem status mei meliorari. me domino meo domino Johanni, Boemie
+Polonie regi ac Lucemburgensis comiti, plus soluto, astringere et ligare bona et villas¬
+iteras subscriptos videlic fumfschunden, nechramcz prziesan et wyetkleticz, cum eorum pertine¬
+iis ab ipso et suis heredibus in feodum et iure feodi pro me et meis heredibus recipio et assimo¬
+ta quod ipsis regisdem bonis debita servicia semper tenear exhibere haiis, quas sigillo inco und
+tin sigilliis nobilium virorum amicorum meorum taliter videlic et Sbincipis fratribus de Waldek¬
+ipsorum sigillari procuravi testimo litterarum et nos under et obmto fratris predicti, ad regitatum¬
+fati friczccionis et egenantlich, auunculi nostri sigilla nostra presentibus duximus apponenta. Datum
+pansius in vigik nativitatis expssi anno Domini Mo cetera XI¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-08T11:14:15.711+02:00</Created>
+        <LastChange>2020-02-27T15:04:42.792+00:00</LastChange>
+        <TranskribusMetadata docId="180179" pageId="7034438" pageNr="1" tsid="18051761" status="IN_PROGRESS" userId="40502" imgUrl="https://files.transkribus.eu/Get?id=UPNWIJWNIFXFTAWLUJZZCHNC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TOWHIBQIQDIJSJLONHNEOLGT" imageId="4356616"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13510621_00368_r.jpg" imageWidth="6585" imageHeight="4628">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618103492" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1562577558328_276"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1562577558328_276" custom="readingOrder {index:0;}">
+            <Coords points="4196,1874 780,1874 780,661 4196,661"/>
+            <TextLine id="line_1562577564667_279" custom="readingOrder {index:0;} person {offset:4; length:68;} comment {offset:4; length:7;comment:Stephan,\u0020phaltzgrafe\u0020bei\u0020Rine\u0020und\u0020hertzoge\u0020in\u0020Beyern;} place {offset:45; length:4;} place {offset:66; length:6;}">
+                <Coords points="927,739 4091,739 4091,974 927,974"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577568322_282" custom="readingOrder {index:1;}">
+                <Coords points="916,980 4117,980 4117,1068 916,1068"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577571991_285" custom="readingOrder {index:2;} person {offset:58; length:43; continued:true;}">
+                <Coords points="932,1068 4122,1068 4122,1142 932,1142"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577576836_288" custom="readingOrder {index:3;} person {offset:0; length:31; continued:true;} place {offset:25; length:6;} place {offset:71; length:6;}">
+                <Coords points="979,1147 4128,1147 4128,1236 979,1236"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577581751_291" custom="readingOrder {index:4;}">
+                <Coords points="989,1241 4143,1241 4143,1293 989,1293"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577594839_296" custom="readingOrder {index:5;}">
+                <Coords points="1011,1302 4142,1302 4142,1365 1011,1365"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577601045_299" custom="readingOrder {index:6;} place {offset:26; length:6;}">
+                <Coords points="1011,1376 4131,1376 4131,1447 1011,1447"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577605973_302" custom="readingOrder {index:7;}">
+                <Coords points="1011,1447 4123,1447 4123,1526 1011,1526"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577609577_305" custom="readingOrder {index:8;}">
+                <Coords points="1003,1530 4119,1530 4119,1596 1003,1596"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577613793_308" custom="readingOrder {index:9;} place {offset:4; length:9;} date {offset:14; length:79; continued:true;year:0; day:0; month:0;}">
+                <Coords points="999,1608 4139,1608 4139,1687 999,1687"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1562577617672_311" custom="readingOrder {index:10;} date {offset:0; length:59; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1011,1703 3266,1703 3266,1781 1011,1781"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-04-10T16:40:56.939+02:00</Created>
+        <LastChange>2020-02-27T15:01:23.639+00:00</LastChange>
+        <TranskribusMetadata docId="146408" pageId="5442350" pageNr="1" tsid="21347917" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=CKLGESRRRQLRKNWFVOOLQZFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CXNZEISZLZKALHVTNPJIHPUI" imageId="3221874"/>
+    </Metadata>
+    <Page imageFilename="NA-AZK-Plasy_14291222_705_r.jpg" imageWidth="6614" imageHeight="4666">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617930753" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1113,1120 1119,2139 4760,2172 4754,1153"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:29;} place {offset:26; length:6;}">
+                <Coords points="1116,1747 1246,1737 1344,1296 1781,1318 1954,1323 2127,1329 2300,1334 2473,1339 2646,1344 2819,1347 2992,1350 3165,1352 3338,1353 3511,1353 3684,1352 3857,1349 4030,1345 4203,1339 4376,1332 4549,1323 4722,1312 4722,1239 4561,1223 4388,1232 4205,1238 4032,1244 3857,1276 3688,1235 3515,1236 3330,1192 3157,1191 2999,1262 2826,1259 2646,1271 2527,1153 2232,1135 2059,1130 1962,1221 1789,1216 1608,1238 1381,1154 1153,1073"/>
+                <Baseline points="1262,1276 1435,1282 1608,1287 1781,1294 1954,1299 2127,1305 2300,1310 2473,1315 2646,1320 2819,1323 2992,1326 3165,1328 3338,1329 3511,1329 3684,1328 3857,1325 4030,1321 4203,1315 4376,1308 4549,1299 4722,1288"/>
+                <TextEquiv>
+                    <Unicode>ywerzeczeneho trzetyechten trewen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:86; length:34; continued:true;}">
+                <Coords points="1328,1377 1498,1387 1668,1395 1838,1403 2009,1410 2179,1417 2349,1423 2520,1428 2690,1432 2860,1435 3031,1437 3201,1439 3371,1439 3541,1438 3712,1437 3882,1434 4052,1430 4223,1425 4393,1419 4563,1411 4734,1402 4734,1329 4563,1338 4393,1346 4223,1352 4052,1357 3882,1361 3712,1364 3541,1365 3371,1366 3201,1366 3031,1364 2860,1362 2690,1359 2520,1355 2349,1350 2179,1344 2009,1337 1838,1330 1668,1322 1498,1314 1328,1304"/>
+                <Baseline points="1328,1353 1498,1363 1668,1371 1838,1379 2009,1386 2179,1393 2349,1399 2520,1404 2690,1408 2860,1411 3031,1413 3201,1415 3371,1415 3541,1414 3712,1413 3882,1410 4052,1406 4223,1401 4393,1395 4563,1387 4734,1378"/>
+                <TextEquiv>
+                    <Unicode>a nebo cztucze slissieti budu, ze ten gisti list, kterezto gmame od kralowi milosti, od krale Zigmunda, uhersskeho, czeske¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:18; continued:true;} person {offset:25; length:17;} place {offset:34; length:8;} person {offset:45; length:14;} place {offset:53; length:6;}">
+                <Coords points="1314,1464 1482,1472 1651,1480 1820,1487 1989,1495 2158,1501 2327,1507 2496,1512 2665,1517 2834,1521 3003,1524 3171,1525 3340,1526 3509,1526 3678,1524 3847,1521 4016,1518 4185,1512 4354,1505 4523,1496 4692,1486 4692,1423 4523,1433 4354,1442 4185,1449 4016,1455 3847,1458 3678,1461 3509,1463 3340,1463 3171,1462 3003,1461 2834,1458 2665,1454 2496,1449 2327,1444 2158,1438 1989,1432 1820,1424 1651,1417 1482,1409 1314,1401"/>
+                <Baseline points="1314,1443 1482,1451 1651,1459 1820,1466 1989,1474 2158,1480 2327,1486 2496,1491 2665,1496 2834,1500 3003,1503 3171,1504 3340,1505 3509,1505 3678,1503 3847,1500 4016,1497 4185,1491 4354,1484 4523,1475 4692,1465"/>
+                <TextEquiv>
+                    <Unicode>ho et ce krale ya a spalek z Slatynee, aby don z Dubnian gessto swiedczii na wssim set kop grossuow na knyeze opatha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} place {offset:0; length:9;}">
+                <Coords points="1308,1561 1477,1568 1647,1575 1816,1582 1986,1589 2155,1594 2325,1600 2494,1605 2664,1609 2833,1612 3003,1615 3172,1616 3342,1617 3511,1616 3681,1614 3850,1611 4020,1606 4189,1599 4359,1592 4528,1582 4698,1571 4698,1508 4528,1519 4359,1529 4189,1536 4020,1543 3850,1548 3681,1551 3511,1553 3342,1554 3172,1553 3003,1552 2833,1549 2664,1546 2494,1542 2325,1537 2155,1531 1986,1526 1816,1519 1647,1512 1477,1505 1308,1498"/>
+                <Baseline points="1308,1540 1477,1547 1647,1554 1816,1561 1986,1568 2155,1573 2325,1579 2494,1584 2664,1588 2833,1591 3003,1594 3172,1595 3342,1596 3511,1595 3681,1593 3850,1590 4020,1585 4189,1578 4359,1571 4528,1561 4698,1550"/>
+                <TextEquiv>
+                    <Unicode>plaskeho clastera y na to na wsseczko zbozie, tehoz clastera ze ya swo y diel na tom listu propustiem a to swu dobru wuoli a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1282,1654 1450,1661 1619,1667 1788,1673 1957,1679 2126,1684 2295,1689 2464,1693 2633,1696 2802,1699 2971,1701 3139,1702 3308,1702 3477,1701 3646,1698 3815,1695 3984,1689 4153,1683 4322,1674 4491,1665 4660,1653 4660,1580 4491,1592 4322,1601 4153,1610 3984,1616 3815,1622 3646,1625 3477,1628 3308,1629 3139,1629 2971,1628 2802,1626 2633,1623 2464,1620 2295,1616 2126,1611 1957,1606 1788,1600 1619,1594 1450,1588 1282,1581"/>
+                <Baseline points="1282,1630 1450,1637 1619,1643 1788,1649 1957,1655 2126,1660 2295,1665 2464,1669 2633,1672 2802,1675 2971,1677 3139,1678 3308,1678 3477,1677 3646,1674 3815,1671 3984,1665 4153,1659 4322,1650 4491,1641 4660,1629"/>
+                <TextEquiv>
+                    <Unicode>za tot gsem nycz newzal a dale k tomu wissie, gmenowanemu listu nemam y zadneho prawo, a nyz chczi gmieti nebt my</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1293,1742 1464,1746 1635,1751 1807,1756 1978,1760 2150,1765 2321,1769 2493,1773 2664,1776 2836,1778 3007,1780 3178,1781 3350,1781 3521,1781 3693,1779 3864,1775 4036,1771 4207,1765 4379,1758 4550,1749 4722,1738 4722,1672 4550,1683 4379,1692 4207,1699 4036,1705 3864,1709 3693,1713 3521,1715 3350,1715 3178,1715 3007,1714 2836,1712 2664,1710 2493,1707 2321,1703 2150,1699 1978,1694 1807,1690 1635,1685 1464,1680 1293,1676"/>
+                <Baseline points="1293,1720 1464,1724 1635,1729 1807,1734 1978,1738 2150,1743 2321,1747 2493,1751 2664,1754 2836,1756 3007,1758 3178,1759 3350,1759 3521,1759 3693,1757 3864,1753 4036,1749 4207,1743 4379,1736 4550,1727 4722,1716"/>
+                <TextEquiv>
+                    <Unicode>gest kniez opat a ten geho conwent nadepsany dost uczinil za ten muoy diel czoz gsem na tom listu gmiel. A take propu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} place {offset:29; length:11;} place {offset:75; length:10;}">
+                <Coords points="1275,1842 1487,1843 1656,1846 1824,1848 1993,1852 2161,1855 2330,1858 2498,1861 2667,1864 2835,1866 3004,1868 3173,1870 3341,1871 3510,1871 3678,1869 3847,1867 4015,1864 4184,1859 4352,1853 4521,1845 4690,1836 4690,1772 4521,1781 4352,1789 4184,1795 4015,1800 3847,1803 3678,1805 3510,1807 3341,1807 3173,1806 3004,1804 2835,1802 2667,1800 2498,1797 2330,1794 2161,1791 1993,1788 1824,1784 1656,1782 1487,1779 1275,1778"/>
+                <Baseline points="1319,1821 1487,1822 1656,1825 1824,1827 1993,1831 2161,1834 2330,1837 2498,1840 2667,1843 2835,1845 3004,1847 3173,1849 3341,1850 3510,1850 3678,1848 3847,1846 4015,1843 4184,1838 4352,1832 4521,1824 4690,1815"/>
+                <TextEquiv>
+                    <Unicode>s tiem lest swuoy, diel lessu Mladiczkeho a trzetmu ribnyka dielu sweho w stransskeho A toho na potwrzenie peczet su na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} person {offset:81; length:7;} person {offset:91; length:29; continued:true;}">
+                <Coords points="1289,1932 1462,1935 1635,1938 1809,1940 1982,1943 2156,1945 2329,1948 2503,1950 2676,1952 2850,1954 3023,1955 3196,1956 3370,1956 3543,1956 3717,1956 3890,1954 4064,1952 4237,1949 4411,1946 4584,1942 4758,1937 4758,1873 4584,1878 4411,1882 4237,1885 4064,1888 3890,1890 3717,1892 3543,1892 3370,1892 3196,1892 3023,1891 2850,1890 2676,1888 2503,1886 2329,1884 2156,1881 1982,1879 1809,1876 1635,1874 1462,1871 1289,1868"/>
+                <Baseline points="1289,1911 1462,1914 1635,1917 1809,1919 1982,1922 2156,1924 2329,1927 2503,1929 2676,1931 2850,1933 3023,1934 3196,1935 3370,1935 3543,1935 3717,1935 3890,1933 4064,1931 4237,1928 4411,1925 4584,1921 4758,1916"/>
+                <TextEquiv>
+                    <Unicode>przied giem k tomuto listu prziwiessil, a podle mne na swiedomie urozene panosse haranch a otyk sinowee mogi od ter, adz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} place {offset:0; length:6;} person {offset:0; length:6; continued:true;} date {offset:73; length:58; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1271,2021 1459,2023 1631,2025 1803,2028 1976,2030 2148,2033 2320,2035 2492,2038 2665,2040 2837,2042 3009,2044 3181,2045 3354,2046 3526,2047 3698,2047 3870,2046 4043,2045 4215,2043 4387,2040 4559,2036 4732,2032 4732,1968 4559,1972 4387,1976 4215,1979 4043,1981 3870,1982 3698,1983 3526,1983 3354,1982 3181,1981 3009,1980 2837,1978 2665,1976 2492,1974 2320,1971 2148,1969 1976,1966 1803,1964 1631,1961 1459,1959 1271,1957"/>
+                <Baseline points="1287,2000 1459,2002 1631,2004 1803,2007 1976,2009 2148,2012 2320,2014 2492,2017 2665,2019 2837,2021 3009,2023 3181,2024 3354,2025 3526,2026 3698,2026 3870,2025 4043,2024 4215,2022 4387,2019 4559,2015 4732,2011"/>
+                <TextEquiv>
+                    <Unicode>Marzm peczeti swe zwlasstie gsu take k tomuto lystu prziwiessili, genz dan gest leta od narozenie sina Bozieho tissiczieho cztr¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} date {offset:0; length:79; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1282,2118 1426,2121 1550,2121 1674,2122 1799,2124 1923,2125 2047,2126 2171,2128 2296,2129 2420,2130 2544,2131 2668,2133 2793,2134 2917,2135 3041,2135 3165,2136 3290,2137 3414,2137 3538,2137 3662,2137 3787,2136 3787,2069 3662,2070 3538,2070 3414,2070 3290,2070 3165,2069 3041,2068 2917,2068 2793,2067 2668,2066 2544,2064 2420,2063 2296,2062 2171,2061 2047,2059 1923,2058 1799,2057 1674,2055 1550,2054 1426,2054 1282,2051"/>
+                <Baseline points="1302,2098 1426,2099 1550,2099 1674,2100 1799,2102 1923,2103 2047,2104 2171,2106 2296,2107 2420,2108 2544,2109 2668,2111 2793,2112 2917,2113 3041,2113 3165,2114 3290,2115 3414,2115 3538,2115 3662,2115 3787,2114"/>
+                <TextEquiv>
+                    <Unicode>ssteho a dwudczateho dewateho leta prwny cztwrtek przied narozeni sina Bozieho y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ywerzeczeneho trzetyechten trewen
+a nebo cztucze slissieti budu, ze ten gisti list, kterezto gmame od kralowi milosti, od krale Zigmunda, uhersskeho, czeske¬
+ho et ce krale ya a spalek z Slatynee, aby don z Dubnian gessto swiedczii na wssim set kop grossuow na knyeze opatha¬
+plaskeho clastera y na to na wsseczko zbozie, tehoz clastera ze ya swo y diel na tom listu propustiem a to swu dobru wuoli a
+za tot gsem nycz newzal a dale k tomu wissie, gmenowanemu listu nemam y zadneho prawo, a nyz chczi gmieti nebt my
+gest kniez opat a ten geho conwent nadepsany dost uczinil za ten muoy diel czoz gsem na tom listu gmiel. A take propu¬
+s tiem lest swuoy, diel lessu Mladiczkeho a trzetmu ribnyka dielu sweho w stransskeho A toho na potwrzenie peczet su na¬
+przied giem k tomuto listu prziwiessil, a podle mne na swiedomie urozene panosse haranch a otyk sinowee mogi od ter, adz¬
+Marzm peczeti swe zwlasstie gsu take k tomuto lystu prziwiessili, genz dan gest leta od narozenie sina Bozieho tissiczieho cztr¬
+ssteho a dwudczateho dewateho leta prwny cztwrtek przied narozeni sina Bozieho y</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-11T08:20:09.110+02:00</Created>
+        <LastChange>2019-11-18T13:51:35.741+01:00</LastChange>
+        <TranskribusMetadata docId="181075" pageId="7257027" pageNr="1" tsid="19513289" status="IN_PROGRESS" userId="38723" imgUrl="https://files.transkribus.eu/Get?id=VUFOJDTDMIYSPYXKMEUUGIYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ACDTJCLJDGDOHQRNSSFPURYM" imageId="4373121"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13481114_00318_r.jpg" imageWidth="10077" imageHeight="7129">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618088630" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="905,418 941,3271 6474,3259 6498,424"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} place {offset:65; length:12;}">
+                <Coords points="1075,701 1323,690 1572,680 1820,672 2069,664 2317,657 2566,652 2814,648 3063,644 3311,642 3560,641 3809,641 4057,641 4306,642 4554,644 4803,647 5051,650 5300,654 5548,658 5797,664 6046,669 6046,620 5797,615 5548,609 5300,605 5051,601 4803,598 4554,595 4306,593 4057,592 3809,592 3560,592 3311,593 3063,595 2814,599 2566,603 2317,608 2069,615 1820,623 1572,631 1323,641 1075,652"/>
+                <Baseline points="1075,685 1323,674 1572,664 1820,656 2069,648 2317,641 2566,636 2814,632 3063,628 3311,626 3560,625 3809,625 4057,625 4306,626 4554,628 4803,631 5051,634 5300,638 5548,642 5797,648 6046,653"/>
+                <TextEquiv>
+                    <Unicode>Wir burgermeistir, der rate und di burger gemainlich der stat ze Frankensteyn viehen und tun kunt offenlich mit disem briefe allen den, di in sehen, horen odir lesen, das der hochgeborne fürste, unsir herre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} person {offset:8; length:22;} place {offset:19; length:11;} person {offset:54; length:20;} place {offset:67; length:7;} place {offset:118; length:12;} place {offset:164; length:7;}">
+                <Coords points="1089,768 1350,757 1611,748 1872,739 2133,732 2394,727 2655,722 2916,718 3177,716 3438,714 3699,713 3960,713 4221,714 4482,716 4743,718 5004,720 5265,723 5526,727 5787,731 6048,735 6048,686 5787,682 5526,678 5265,674 5004,671 4743,669 4482,667 4221,665 3960,664 3699,664 3438,665 3177,667 2916,669 2655,673 2394,678 2133,683 1872,690 1611,699 1350,708 1089,719"/>
+                <Baseline points="1089,752 1350,741 1611,732 1872,723 2133,716 2394,711 2655,706 2916,702 3177,700 3438,698 3699,697 3960,697 4221,698 4482,700 4743,702 5004,704 5265,707 5526,711 5787,715 6048,719"/>
+                <TextEquiv>
+                    <Unicode>herczog Niclos von Münstirberg, dem edlen manne, hern Heinrich von Hügwicz und seinen erben, unsir vorgenante stat ze Frankensteyn mit dem wicbilde, dem clostir ze Camencz, mannen, manscheften und allir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} person {offset:160; length:35; continued:true;}">
+                <Coords points="1073,839 1321,829 1569,820 1817,813 2065,806 2314,801 2562,796 2810,793 3058,790 3306,788 3555,787 3803,787 4051,788 4299,789 4547,791 4796,793 5044,796 5292,799 5540,803 5788,807 6037,811 6037,760 5788,756 5540,752 5292,748 5044,745 4796,742 4547,740 4299,738 4051,737 3803,736 3555,736 3306,737 3058,739 2810,742 2562,745 2314,750 2065,755 1817,762 1569,769 1321,778 1073,788"/>
+                <Baseline points="1073,822 1321,812 1569,803 1817,796 2065,789 2314,784 2562,779 2810,776 3058,773 3306,771 3555,770 3803,770 4051,771 4299,772 4547,774 4796,776 5044,779 5292,782 5540,786 5788,790 6037,794"/>
+                <TextEquiv>
+                    <Unicode>zugehörunge nichtes auszenemen recht und redlich virsaczt hat, als in seinem brief, der do noch geschriben stet volkomenlich begriffen ist, in sülchem lwte wir herczog Niclaus von Gots gnaden eyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} person {offset:0; length:39; continued:true;} place {offset:11; length:7;} place {offset:28; length:11;}">
+                <Coords points="1090,914 1336,904 1583,894 1830,886 2077,880 2324,874 2570,870 2817,866 3064,864 3311,862 3558,861 3804,861 4051,862 4298,863 4545,864 4792,866 5038,869 5285,871 5532,874 5779,877 6026,879 6026,828 5779,826 5532,823 5285,820 5038,818 4792,815 4545,813 4298,812 4051,811 3804,810 3558,810 3311,811 3064,813 2817,815 2570,819 2324,823 2077,829 1830,835 1583,843 1336,853 1090,863"/>
+                <Baseline points="1090,897 1336,887 1583,877 1830,869 2077,863 2324,857 2570,853 2817,849 3064,847 3311,845 3558,844 3804,844 4051,845 4298,846 4545,847 4792,849 5038,852 5285,854 5532,857 5779,860 6026,862"/>
+                <TextEquiv>
+                    <Unicode>fürste von Slezien, here ze Münstirberg, tun kunt allen, di disen brief ansehen, das wir uns mit guten willen und mit bedochtem mute und mit rate unsir getrewen manne, und ouch unsir burger </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} place {offset:3; length:11;} person {offset:30; length:20;} place {offset:43; length:7;}">
+                <Coords points="1099,988 1344,978 1589,969 1834,961 2080,955 2325,949 2570,944 2816,941 3061,938 3306,937 3552,936 3797,936 4042,936 4287,937 4533,939 4778,941 5023,944 5269,946 5514,949 5759,953 6005,956 6005,902 5759,899 5514,895 5269,892 5023,890 4778,887 4533,885 4287,883 4042,882 3797,882 3552,882 3306,883 3061,884 2816,887 2570,890 2325,895 2080,901 1834,907 1589,915 1344,924 1099,934"/>
+                <Baseline points="1099,970 1344,960 1589,951 1834,943 2080,937 2325,931 2570,926 2816,923 3061,920 3306,919 3552,918 3797,918 4042,918 4287,919 4533,921 4778,923 5023,926 5269,928 5514,931 5759,935 6005,938"/>
+                <TextEquiv>
+                    <Unicode>ze Munstirberg haben mit hern Heinrich von Hugwicz, unserm liben und getrewn, fruntlich und lieplich berichtet und entscheyden, umb alle sache und umb allen bruch, der czwischen uns beidir seit ist </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="1111,1056 1418,1043 1660,1035 1901,1029 2143,1023 2385,1019 2626,1015 2868,1012 3109,1010 3351,1009 3593,1008 3834,1008 4076,1009 4317,1010 4559,1012 4801,1014 5042,1017 5284,1020 5525,1023 5767,1027 6009,1031 6009,979 5767,975 5525,971 5284,968 5042,965 4801,962 4559,960 4317,958 4076,957 3834,956 3593,956 3351,957 3109,958 2868,960 2626,963 2385,967 2143,971 1901,977 1660,983 1418,991 1098,986"/>
+                <Baseline points="1086,1041 1418,1026 1660,1018 1901,1012 2143,1006 2385,1002 2626,998 2868,995 3109,993 3351,992 3593,991 3834,991 4076,992 4317,993 4559,995 4801,997 5042,1000 5284,1003 5525,1006 5767,1010 6009,1014"/>
+                <TextEquiv>
+                    <Unicode>gewest, und mit namen umb alle schult, di wir im sein schuldig gewest, beide von unsir vatir wegen und ouch von unsir wegen welherlei, di sei von gewertem gelde, von pferden, von schaden, von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;} person {offset:128; length:8;}">
+                <Coords points="1111,1139 1440,1111 1680,1104 1919,1098 2159,1093 2399,1089 2638,1086 2878,1083 3117,1081 3357,1080 3597,1080 3836,1080 4076,1081 4315,1082 4555,1084 4795,1086 5034,1089 5274,1092 5513,1096 5753,1100 5993,1104 5993,1052 5753,1048 5513,1044 5274,1040 5034,1037 4795,1034 4555,1032 4315,1030 4076,1029 3836,1028 3597,1028 3357,1028 3117,1029 2878,1031 2638,1034 2399,1037 2159,1041 1919,1046 1680,1052 1440,1059 1104,1056"/>
+                <Baseline points="1074,1120 1440,1094 1680,1087 1919,1081 2159,1076 2399,1072 2638,1069 2878,1066 3117,1064 3357,1063 3597,1063 3836,1063 4076,1064 4315,1065 4555,1067 4795,1069 5034,1072 5274,1075 5513,1079 5753,1083 5993,1087"/>
+                <TextEquiv>
+                    <Unicode>versaczung, pfanclosunge, wi sy her komen, sei dorumb er uns mecher han gemaint bis an disen hwtigen tag. Also das wir im, hern Heinrich und allen erben han versaczt, unsir stat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;} place {offset:0; length:12;} place {offset:78; length:7;}">
+                <Coords points="1112,1205 1394,1189 1636,1179 1877,1171 2119,1165 2360,1160 2602,1156 2843,1153 3085,1151 3326,1150 3568,1150 3809,1151 4051,1152 4292,1154 4534,1156 4775,1158 5017,1161 5258,1164 5500,1166 5741,1169 5983,1171 5983,1125 5741,1123 5500,1120 5258,1118 5017,1115 4775,1112 4534,1110 4292,1108 4051,1106 3809,1105 3568,1104 3326,1104 3085,1105 2843,1107 2602,1110 2360,1114 2119,1119 1877,1125 1636,1133 1394,1143 1103,1137"/>
+                <Baseline points="1124,1202 1365,1192 1607,1182 1848,1174 2090,1168 2331,1163 2573,1159 2814,1156 3056,1154 3297,1153 3539,1153 3780,1154 4022,1155 4263,1157 4505,1159 4746,1161 4988,1164 5229,1167 5471,1169 5712,1172 5954,1174"/>
+                <TextEquiv>
+                    <Unicode>Frankensteyn mit wem wicbilde und alle, di man di dor in gehoren, das clostir Camencz mit allem dem gute, das dorczu gehoret, und im selben wicbilde gelegen ist, und das hofegerichte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;} place {offset:103; length:12;}">
+                <Coords points="1093,1274 1496,1258 1735,1248 1974,1241 2213,1234 2452,1230 2691,1226 2931,1225 3170,1224 3409,1224 3648,1225 3887,1227 4126,1229 4365,1232 4605,1235 4844,1237 5083,1240 5322,1243 5561,1245 5800,1246 6040,1247 6040,1195 5800,1194 5561,1193 5322,1191 5083,1188 4844,1185 4605,1183 4365,1180 4126,1177 3887,1175 3648,1173 3409,1172 3170,1172 2931,1173 2691,1174 2452,1178 2213,1182 1974,1189 1735,1196 1496,1206 1098,1203"/>
+                <Baseline points="1098,1272 1496,1241 1735,1231 1974,1224 2213,1217 2452,1213 2691,1209 2931,1208 3170,1207 3409,1207 3648,1208 3887,1210 4126,1212 4365,1215 4605,1218 4844,1220 5083,1223 5322,1226 5561,1228 5800,1229 6040,1230"/>
+                <TextEquiv>
+                    <Unicode>do selbis mit allir herschaft, mit allem rechte und mit namen, mit allem den nuczcze, der von der stat Frankensteyn und dem wicbilde bekomen mag, als wirs gehabt haben, slechclichen nicht aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="1151,1359 1410,1341 1670,1327 1930,1316 2190,1307 2450,1302 2710,1298 2970,1296 3230,1296 3490,1298 3750,1300 4010,1303 4270,1307 4530,1311 4790,1315 5050,1319 5310,1321 5570,1323 5830,1323 6090,1322 6090,1271 5830,1272 5570,1272 5310,1270 5050,1268 4790,1264 4530,1260 4270,1256 4010,1252 3750,1249 3490,1247 3230,1245 2970,1245 2710,1247 2450,1251 2190,1256 1930,1265 1670,1276 1410,1290 1151,1308"/>
+                <Baseline points="1151,1342 1410,1324 1670,1310 1930,1299 2190,1290 2450,1285 2710,1281 2970,1279 3230,1279 3490,1281 3750,1283 4010,1286 4270,1290 4530,1294 4790,1298 5050,1302 5310,1304 5570,1306 5830,1306 6090,1305"/>
+                <TextEquiv>
+                    <Unicode>zenemen vor tüsunt marg polanischir zal pragischer pfennyge von unsir Vrowen tag, würczewei der nehist kümpt ubir czwei gancze iar, und geloben dorczu zegebin sechczig marg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;} person {offset:15; length:8;}">
+                <Coords points="1153,1440 1398,1422 1643,1407 1888,1395 2133,1386 2378,1380 2623,1375 2868,1373 3113,1372 3358,1373 3603,1375 3848,1377 4093,1380 4338,1383 4583,1386 4828,1389 5073,1391 5318,1392 5563,1392 5808,1390 6053,1387 6053,1336 5808,1339 5563,1341 5318,1341 5073,1340 4828,1338 4583,1335 4338,1332 4093,1329 3848,1326 3603,1324 3358,1322 3113,1321 2868,1322 2623,1324 2378,1329 2133,1335 1888,1344 1643,1356 1398,1371 1153,1389"/>
+                <Baseline points="1153,1423 1398,1405 1643,1390 1888,1378 2133,1369 2378,1363 2623,1358 2868,1356 3113,1355 3358,1356 3603,1358 3848,1360 4093,1363 4338,1366 4583,1369 4828,1372 5073,1374 5318,1375 5563,1375 5808,1373 6053,1370"/>
+                <TextEquiv>
+                    <Unicode>grosschen hern Heinrich und seinen kinden, das si stat und das wicbilde gehalden mügen, di selben sechczig marg sullen si uf schaden gewynnen uf den fierden pfennyng, also das ir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;} person {offset:118; length:8;}">
+                <Coords points="1169,1518 1410,1499 1652,1483 1893,1471 2135,1461 2376,1454 2618,1449 2859,1447 3101,1446 3342,1446 3584,1448 3825,1450 4067,1454 4308,1457 4550,1461 4791,1464 5033,1466 5274,1468 5516,1469 5757,1469 5999,1466 5999,1412 5757,1415 5516,1415 5274,1414 5033,1412 4791,1410 4550,1407 4308,1403 4067,1400 3825,1396 3584,1394 3342,1392 3101,1392 2859,1393 2618,1395 2376,1400 2135,1407 1893,1417 1652,1429 1410,1445 1169,1464"/>
+                <Baseline points="1169,1500 1410,1481 1652,1465 1893,1453 2135,1443 2376,1436 2618,1431 2859,1429 3101,1428 3342,1428 3584,1430 3825,1432 4067,1436 4308,1439 4550,1443 4791,1446 5033,1448 5274,1450 5516,1451 5757,1451 5999,1448"/>
+                <TextEquiv>
+                    <Unicode>achtzig werden, di sullen sy uf das selbe pfant slon zu dem houbtgute, wer abir das wir in der zeit der satzunge hern Heinrich und seinen kinden icht geldis gebin vil odir wenyng, odir ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="1170,1599 1412,1581 1655,1565 1898,1553 2141,1543 2383,1536 2626,1531 2869,1528 3112,1526 3354,1525 3597,1526 3840,1528 4083,1530 4325,1533 4568,1536 4811,1539 5054,1542 5296,1544 5539,1546 5782,1546 6025,1546 6025,1489 5782,1489 5539,1489 5296,1487 5054,1485 4811,1482 4568,1479 4325,1476 4083,1473 3840,1471 3597,1469 3354,1468 3112,1469 2869,1471 2626,1474 2383,1479 2141,1486 1898,1496 1655,1508 1412,1524 1170,1542"/>
+                <Baseline points="1170,1580 1412,1562 1655,1546 1898,1534 2141,1524 2383,1517 2626,1512 2869,1509 3112,1507 3354,1506 3597,1507 3840,1509 4083,1511 4325,1514 4568,1517 4811,1520 5054,1523 5296,1525 5539,1527 5782,1527 6025,1527"/>
+                <TextEquiv>
+                    <Unicode>in ron anevellen eynis gutes, das do ledig wurde icht geviele, ob si es vorkouften odir selbir wolden behalden, für also vil geldes, als das gut wert wer odir ob in von totslegen, di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="1190,1676 1433,1658 1676,1643 1920,1631 2163,1622 2407,1615 2650,1610 2894,1607 3137,1605 3381,1605 3624,1606 3867,1607 4111,1610 4354,1612 4598,1615 4841,1617 5085,1619 5328,1621 5572,1621 5815,1620 6059,1618 6059,1561 5815,1563 5572,1564 5328,1564 5085,1562 4841,1560 4598,1558 4354,1555 4111,1553 3867,1550 3624,1549 3381,1548 3137,1548 2894,1550 2650,1553 2407,1558 2163,1565 1920,1574 1676,1586 1433,1601 1190,1619"/>
+                <Baseline points="1190,1657 1433,1639 1676,1624 1920,1612 2163,1603 2407,1596 2650,1591 2894,1588 3137,1586 3381,1586 3624,1587 3867,1588 4111,1591 4354,1593 4598,1596 4841,1598 5085,1600 5328,1602 5572,1602 5815,1601 6059,1599"/>
+                <TextEquiv>
+                    <Unicode>er und seine kint selbir richten welden, icht gevile wen si dem lantrichter czehen marg on eyn let dovon gegebin, das sullen si uns zeniale obslon, wer ouch ab wir in dem ersten </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;} place {offset:14; length:12;}">
+                <Coords points="1202,1751 1447,1734 1693,1719 1938,1708 2184,1699 2429,1692 2675,1687 2920,1684 3166,1682 3411,1682 3657,1683 3903,1685 4148,1687 4394,1689 4639,1692 4885,1694 5130,1696 5376,1697 5621,1698 5867,1697 6113,1695 6113,1638 5867,1640 5621,1641 5376,1640 5130,1639 4885,1637 4639,1635 4394,1632 4148,1630 3903,1628 3657,1626 3411,1625 3166,1625 2920,1627 2675,1630 2429,1635 2184,1642 1938,1651 1693,1662 1447,1677 1202,1694"/>
+                <Baseline points="1202,1732 1447,1715 1693,1700 1938,1689 2184,1680 2429,1673 2675,1668 2920,1665 3166,1663 3411,1663 3657,1664 3903,1666 4148,1668 4394,1670 4639,1673 4885,1675 5130,1677 5376,1678 5621,1679 5867,1678 6113,1676"/>
+                <TextEquiv>
+                    <Unicode>iar, di stat  Frankensteyn mit dem witbilde nicht enlösten, so sullen si, her Heinrich und seine kint das vorgenanten gelt tüsunt marg und achtzig marg, on als vil ob in des icht gevile, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="1208,1828 1431,1812 1655,1798 1878,1786 2102,1777 2326,1770 2549,1765 2773,1761 2997,1758 3220,1757 3444,1757 3668,1758 3891,1759 4115,1761 4339,1763 4562,1765 4786,1767 5010,1768 5233,1769 5457,1769 5681,1768 5681,1716 5457,1717 5233,1717 5010,1716 4786,1715 4562,1713 4339,1711 4115,1709 3891,1707 3668,1706 3444,1705 3220,1705 2997,1706 2773,1709 2549,1713 2326,1718 2102,1725 1878,1734 1655,1746 1431,1760 1208,1776"/>
+                <Baseline points="1208,1811 1431,1795 1655,1781 1878,1769 2102,1760 2326,1753 2549,1748 2773,1744 2997,1741 3220,1740 3444,1740 3668,1741 3891,1742 4115,1744 4339,1746 4562,1748 4786,1750 5010,1751 5233,1752 5457,1752 6068,1762"/>
+                <TextEquiv>
+                    <Unicode>als hi vorgeschrebn stet gewynnen uf schaden, uf den fierden pfennyng, und sullen abir beyd schaden und houpt gut und ouch achczig </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;} place {offset:82; length:12;}">
+                <Coords points="1198,1900 1440,1884 1683,1871 1926,1861 2169,1852 2411,1845 2654,1840 2897,1836 3140,1833 3382,1832 3625,1832 3868,1832 4111,1833 4353,1835 4596,1837 4839,1840 5082,1842 5324,1844 5567,1846 5810,1848 6053,1849 6053,1797 5810,1796 5567,1794 5324,1792 5082,1790 4839,1788 4596,1785 4353,1783 4111,1781 3868,1780 3625,1780 3382,1780 3140,1781 2897,1784 2654,1788 2411,1793 2169,1800 1926,1809 1683,1819 1440,1832 1198,1848"/>
+                <Baseline points="1198,1883 1440,1867 1683,1854 1926,1844 2169,1835 2411,1828 2654,1823 2897,1819 3140,1816 3382,1815 3625,1815 3868,1815 4111,1816 4353,1818 4596,1820 4839,1823 5082,1825 5324,1827 5567,1829 5810,1831 6053,1832"/>
+                <TextEquiv>
+                    <Unicode>in dem andirn jare, uf das vorgenanten pfant slon, wer ouch ab wir di selben stat Frankensteyn mit dem wicbilde in dem andirn iare nicht inlosten, so sol der vorgenante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:17;} person {offset:0; length:8;}">
+                <Coords points="1257,1970 1496,1958 1735,1947 1975,1938 2214,1931 2454,1925 2693,1920 2932,1916 3172,1913 3411,1911 3651,1910 3890,1910 4129,1911 4369,1912 4608,1913 4848,1915 5087,1917 5326,1919 5566,1921 5805,1923 6045,1925 6045,1871 5805,1869 5566,1867 5326,1865 5087,1863 4848,1861 4608,1859 4369,1858 4129,1857 3890,1856 3651,1856 3411,1857 3172,1859 2932,1862 2693,1866 2454,1871 2214,1877 1975,1884 1735,1893 1496,1904 1257,1916"/>
+                <Baseline points="1220,1962 1496,1940 1735,1929 1975,1920 2214,1913 2454,1907 2693,1902 2932,1898 3172,1895 3411,1893 3651,1892 3890,1892 4129,1893 4369,1894 4608,1895 4848,1897 5087,1899 5326,1901 5566,1903 5805,1905 6045,1907"/>
+                <TextEquiv>
+                    <Unicode>Heinrich und seine kint, di stat mit dem wicbilde vorkoufen odir vorsetzen umb di tusunt marg und umb allen schaden, der doruf get als dovor geschriben stet, und ouch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+                <Coords points="1239,2061 1476,2045 1714,2032 1951,2021 2189,2011 2426,2004 2664,1997 2901,1993 3139,1990 3376,1988 3614,1987 3851,1987 4089,1988 4326,1989 4564,1991 4801,1993 5039,1995 5276,1998 5514,2000 5751,2001 5989,2003 5989,1948 5751,1946 5514,1945 5276,1943 5039,1940 4801,1938 4564,1936 4326,1934 4089,1933 3851,1932 3614,1932 3376,1933 3139,1935 2901,1938 2664,1942 2426,1949 2189,1956 1951,1966 1714,1977 1476,1990 1239,2006"/>
+                <Baseline points="1239,2043 1476,2027 1714,2014 1951,2003 2189,1993 2426,1986 2664,1979 2901,1975 3139,1972 3376,1970 3614,1969 3851,1969 4089,1970 4326,1971 4564,1973 4801,1975 5039,1977 5276,1980 5514,1982 5751,1983 5989,1985"/>
+                <TextEquiv>
+                    <Unicode>umb czwir achtzig marg, di von dem kost gelde zwei iar dorczu geslagen seint, wo odir weme si mugen, do alleyne, di man des witbildes nicht von genidirt werden, doch </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;} person {offset:32; length:8;}">
+                <Coords points="1225,2141 1462,2126 1700,2113 1938,2101 2176,2092 2414,2084 2652,2078 2889,2073 3127,2070 3365,2068 3603,2066 3841,2066 4079,2066 4317,2067 4554,2069 4792,2070 5030,2072 5268,2074 5506,2076 5744,2078 5982,2080 5982,2025 5744,2023 5506,2021 5268,2019 5030,2017 4792,2015 4554,2014 4317,2012 4079,2011 3841,2011 3603,2011 3365,2013 3127,2015 2889,2018 2652,2023 2414,2029 2176,2037 1938,2046 1700,2058 1462,2071 1225,2086"/>
+                <Baseline points="1225,2123 1462,2108 1700,2095 1938,2083 2176,2074 2414,2066 2652,2060 2889,2055 3127,2052 3365,2050 3603,2048 3841,2048 4079,2048 4317,2049 4554,2051 4792,2052 5030,2054 5268,2056 5506,2058 5744,2060 5982,2062"/>
+                <TextEquiv>
+                    <Unicode>in sulchen undirscheid, das her Heinrich und seine kint, wenn di stat mit dem wicbilde vorkouft wirt, ir gelt tusunt marg und zwir achtzig marg, und ouch den schaden, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:20;} person {offset:131; length:14;}">
+                <Coords points="1235,2221 1475,2209 1715,2197 1955,2187 2195,2178 2435,2170 2675,2165 2915,2160 3155,2155 3395,2153 3635,2150 3875,2149 4115,2148 4355,2149 4595,2149 4835,2150 5075,2152 5315,2154 5555,2156 5795,2159 6036,2161 6036,2106 5795,2104 5555,2101 5315,2099 5075,2097 4835,2095 4595,2094 4355,2094 4115,2093 3875,2094 3635,2095 3395,2098 3155,2100 2915,2105 2675,2110 2435,2115 2195,2123 1955,2132 1715,2142 1475,2154 1235,2166"/>
+                <Baseline points="1235,2203 1475,2191 1715,2179 1955,2169 2195,2160 2435,2152 2675,2147 2915,2142 3155,2137 3395,2135 3635,2132 3875,2131 4115,2130 4355,2131 4595,2131 4835,2132 5075,2134 5315,2136 5555,2138 5795,2141 6036,2143"/>
+                <TextEquiv>
+                    <Unicode>der uf di tusunt marg gegangen ist, dovon nemen sullen, und was deme ubirig ist, das sal uns werden und gevallen, ouch geloben wir herczog Niclos vorgenant on arge list </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:21;} person {offset:72; length:8;}">
+                <Coords points="1241,2307 1481,2292 1721,2279 1962,2267 2202,2256 2443,2248 2683,2242 2924,2235 3164,2231 3405,2228 3645,2226 3885,2225 4126,2225 4366,2225 4607,2226 4847,2228 5088,2230 5328,2233 5569,2235 5809,2238 6050,2241 6050,2186 5809,2183 5569,2180 5328,2178 5088,2175 4847,2173 4607,2171 4366,2170 4126,2170 3885,2170 3645,2171 3405,2173 3164,2176 2924,2180 2683,2187 2443,2193 2202,2201 1962,2212 1721,2224 1481,2237 1241,2252"/>
+                <Baseline points="1241,2289 1481,2274 1721,2261 1962,2249 2202,2238 2443,2230 2683,2224 2924,2217 3164,2213 3405,2210 3645,2208 3885,2207 4126,2207 4366,2207 4607,2208 4847,2210 5088,2212 5328,2215 5569,2217 5809,2220 6050,2223"/>
+                <TextEquiv>
+                    <Unicode>das, wir den odir di, den di vorgenanten stat mit dem wicbilde von hern Heinrich und seinen kinden vorkouft wirt odir versaczt nicht hindinr sullen mit keynir an </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:22;} place {offset:20; length:11;}">
+                <Coords points="1221,2415 1519,2378 1757,2364 1995,2352 2233,2342 2471,2333 2708,2326 2946,2319 3184,2314 3422,2311 3660,2308 3897,2306 4135,2305 4373,2305 4611,2306 4849,2307 5086,2309 5324,2311 5562,2314 5800,2317 6038,2320 6038,2263 5800,2260 5562,2257 5324,2254 5086,2252 4849,2250 4611,2249 4373,2248 4135,2248 3897,2249 3660,2251 3422,2254 3184,2257 2946,2262 2708,2269 2471,2276 2233,2285 1995,2295 1757,2307 1520,2297 1221,2312"/>
+                <Baseline points="1241,2386 1519,2359 1757,2345 1995,2333 2233,2323 2471,2314 2708,2307 2946,2300 3184,2295 3422,2292 3660,2289 3897,2287 4135,2286 4373,2286 4611,2287 4849,2288 5086,2290 5324,2292 5562,2295 5800,2298 6038,2301"/>
+                <TextEquiv>
+                    <Unicode>sproche. Gegeben zu Munstirberg an santh Marien Magdalenen obund, noch Gotes geburth tusunt iar, drewhundert iar in den sechs und fierczigstem iar. undir unsirm </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:23;} place {offset:121; length:12;} person {offset:143; length:20;} place {offset:156; length:7;}">
+                <Coords points="1234,2485 1529,2464 1765,2452 2001,2441 2237,2432 2473,2423 2709,2415 2945,2408 3181,2402 3417,2397 3653,2392 3889,2389 4125,2386 4361,2385 4597,2384 4833,2384 5069,2385 5305,2386 5541,2389 5777,2392 6013,2396 6013,2345 5777,2341 5541,2338 5305,2335 5069,2334 4833,2333 4597,2333 4361,2334 4125,2335 3889,2338 3653,2341 3417,2346 3181,2351 2945,2357 2709,2364 2473,2372 2237,2381 2001,2390 1765,2401 1529,2413 1243,2418"/>
+                <Baseline points="1238,2484 1529,2447 1765,2435 2001,2424 2237,2415 2473,2406 2709,2398 2945,2391 3181,2385 3417,2380 3653,2375 3889,2372 4125,2369 4361,2368 4597,2367 4833,2367 5069,2368 5305,2369 5541,2372 5777,2375 6013,2379"/>
+                <TextEquiv>
+                    <Unicode>grossen ingesigl. dornoch bekennen wir vorgenanten burgermeister. der rat und burger, gemainlich der vorgenanten stat ze Frankensteyn, das her Heinrich von Hugwicz der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:24;} place {offset:48; length:7;}">
+                <Coords points="1240,2557 1541,2544 1776,2532 2011,2520 2246,2510 2481,2501 2715,2493 2950,2486 3185,2480 3420,2474 3655,2470 3889,2466 4124,2463 4359,2461 4594,2460 4829,2459 5063,2459 5298,2459 5533,2459 5768,2461 6003,2462 6003,2411 5768,2410 5533,2408 5298,2408 5063,2408 4829,2408 4594,2409 4359,2410 4124,2412 3889,2415 3655,2419 3420,2423 3185,2429 2950,2435 2715,2442 2481,2450 2246,2459 2011,2469 1776,2481 1541,2493 1240,2499"/>
+                <Baseline points="1244,2568 1541,2527 1776,2515 2011,2503 2246,2493 2481,2484 2715,2476 2950,2469 3185,2463 3420,2457 3655,2453 3889,2449 4124,2446 4359,2444 4594,2443 4829,2442 5063,2442 5298,2442 5533,2442 5768,2444 6003,2445"/>
+                <TextEquiv>
+                    <Unicode>vorgenante, beid mon manschefte, das clostir ze Camencz uns und unsir stat mit allir zugehörung, dem allirdurchleuchtigsten fürsten und unsirm gnedigen herren hern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:25;} person {offset:0; length:75;} place {offset:69; length:6;} place {offset:112; length:6;}">
+                <Coords points="1231,2647 1539,2620 1773,2609 2007,2599 2241,2590 2475,2582 2709,2576 2943,2569 3177,2565 3411,2560 3646,2556 3880,2553 4114,2550 4348,2548 4582,2546 4816,2544 5050,2542 5284,2541 5518,2539 5752,2537 5987,2536 5987,2482 5752,2483 5518,2485 5284,2487 5050,2488 4816,2490 4582,2492 4348,2494 4114,2496 3880,2499 3646,2502 3411,2506 3177,2511 2943,2515 2709,2522 2475,2528 2241,2536 2007,2545 1773,2555 1539,2566 1234,2566"/>
+                <Baseline points="1305,2615 1539,2602 1773,2591 2007,2581 2241,2572 2475,2564 2709,2558 2943,2551 3177,2547 3411,2542 3646,2538 3880,2535 4114,2532 4348,2530 4582,2528 4816,2526 5050,2524 5284,2523 5518,2521 5752,2519 5987,2518"/>
+                <TextEquiv>
+                    <Unicode>Karl, Römischen künge, ze allen zeiten merer des reichs und kunge ze Beheim, sein erben und nochkomen kungen ze Beheim ze rechtem pfande versaczt hat in allir der weis als </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:26;}">
+                <Coords points="1245,2723 1483,2709 1721,2698 1959,2688 2197,2678 2436,2670 2674,2662 2912,2656 3150,2650 3388,2645 3627,2641 3865,2638 4103,2634 4341,2631 4579,2629 4818,2627 5056,2625 5294,2622 5532,2620 5770,2618 6009,2615 6009,2558 5770,2561 5532,2563 5294,2565 5056,2568 4818,2570 4579,2572 4341,2574 4103,2577 3865,2581 3627,2584 3388,2588 3150,2593 2912,2599 2674,2605 2436,2613 2197,2621 1959,2631 1721,2641 1483,2652 1245,2666"/>
+                <Baseline points="1245,2704 1483,2690 1721,2679 1959,2669 2197,2659 2436,2651 2674,2643 2912,2637 3150,2631 3388,2626 3627,2622 3865,2619 4103,2615 4341,2612 4579,2610 4818,2608 5056,2606 5294,2603 5532,2601 5770,2599 6009,2596"/>
+                <TextEquiv>
+                    <Unicode>in dem vorgenanten brief geschriben stet, dorumb geloben wir vorgenanter burgermeistir und der rat von worte, wizzen und willen der gemeine der vorgenanten unsir stat ze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:27;} place {offset:0; length:12;} place {offset:119; length:6;} place {offset:164; length:2; continued:true;}">
+                <Coords points="1250,2803 1487,2789 1724,2777 1961,2767 2199,2757 2436,2748 2673,2741 2910,2735 3148,2729 3385,2724 3622,2720 3859,2717 4097,2713 4334,2710 4571,2708 4808,2705 5046,2703 5283,2700 5520,2698 5757,2695 5995,2691 5995,2634 5757,2638 5520,2641 5283,2643 5046,2646 4808,2648 4571,2651 4334,2653 4097,2656 3859,2660 3622,2663 3385,2667 3148,2672 2910,2678 2673,2684 2436,2691 2199,2700 1961,2710 1724,2720 1487,2732 1250,2746"/>
+                <Baseline points="1250,2784 1487,2770 1724,2758 1961,2748 2199,2738 2436,2729 2673,2722 2910,2716 3148,2710 3385,2705 3622,2701 3859,2698 4097,2694 4334,2691 4571,2689 4808,2686 5046,2684 5283,2681 5520,2679 5757,2676 5995,2672"/>
+                <TextEquiv>
+                    <Unicode>Frankenstein mit guten trewin on alle argelist, das wir dem vorgenanten unserm herren dem römischen künge und kunge ze Beheim, seinen erben und nochkomen kungen ze Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:28;} place {offset:0; length:4; continued:true;}">
+                <Coords points="1269,2878 1505,2866 1742,2856 1979,2846 2216,2836 2453,2828 2690,2822 2927,2815 3164,2810 3401,2805 3638,2800 3874,2797 4111,2793 4348,2790 4585,2788 4822,2786 5059,2784 5296,2782 5533,2780 5770,2779 6007,2777 6007,2720 5770,2722 5533,2723 5296,2725 5059,2727 4822,2729 4585,2731 4348,2733 4111,2736 3874,2740 3638,2743 3401,2748 3164,2753 2927,2758 2690,2765 2453,2771 2216,2779 1979,2789 1742,2799 1505,2809 1269,2821"/>
+                <Baseline points="1269,2859 1505,2847 1742,2837 1979,2827 2216,2817 2453,2809 2690,2803 2927,2796 3164,2791 3401,2786 3638,2781 3874,2778 4111,2774 4348,2771 4585,2769 4822,2767 5059,2765 5296,2763 5533,2761 5770,2760 6007,2758"/>
+                <TextEquiv>
+                    <Unicode>heim, getrew, gewer, gehorsam, undirtenyk und wartende welIen sein, ze eynem rechten pfande in allir der weis als in den vorgenanten briefen geschriben und begriffen ist, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:29;} person {offset:68; length:21;} place {offset:82; length:7;}">
+                <Coords points="1260,2956 1496,2945 1732,2935 1968,2925 2204,2916 2440,2909 2676,2902 2912,2896 3148,2890 3384,2886 3621,2882 3857,2878 4093,2875 4329,2872 4565,2870 4801,2868 5037,2866 5273,2865 5509,2864 5745,2863 5982,2862 5982,2805 5745,2806 5509,2807 5273,2808 5037,2809 4801,2811 4565,2813 4329,2815 4093,2818 3857,2821 3621,2825 3384,2829 3148,2833 2912,2839 2676,2845 2440,2852 2204,2859 1968,2868 1732,2878 1496,2888 1260,2899"/>
+                <Baseline points="1260,2937 1496,2926 1732,2916 1968,2906 2204,2897 2440,2890 2676,2883 2912,2877 3148,2871 3384,2867 3621,2863 3857,2859 4093,2856 4329,2853 4565,2851 4801,2849 5037,2847 5273,2846 5509,2845 5745,2844 5982,2843"/>
+                <TextEquiv>
+                    <Unicode>von worte zu worte nichtes auszenemen, als wir des vorgenanten hern Heinrichs von Hugwicz pfant gewesin sein, noch des briefs lüte und des ze urkünd und ze </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:30;} place {offset:86; length:7;} date {offset:94; length:70; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1263,3029 1547,3019 1778,3009 2010,3000 2241,2992 2473,2985 2704,2979 2936,2974 3167,2970 3399,2967 3630,2964 3861,2961 4093,2959 4324,2956 4556,2954 4787,2952 5019,2950 5250,2947 5482,2944 5713,2940 5945,2935 5945,2880 5713,2885 5482,2889 5250,2892 5019,2895 4787,2897 4556,2899 4324,2901 4093,2904 3861,2906 3630,2909 3399,2912 3167,2915 2936,2919 2704,2924 2473,2930 2241,2937 2010,2945 1778,2954 1547,2964 1269,2974"/>
+                <Baseline points="1316,3013 1547,3001 1778,2991 2010,2982 2241,2974 2473,2967 2704,2961 2936,2956 3167,2952 3399,2949 3630,2946 3861,2943 4093,2941 4324,2938 4556,2936 4787,2934 5019,2932 5250,2929 5482,2926 5713,2922 5945,2917"/>
+                <TextEquiv>
+                    <Unicode>gedechtnuzz geben wir disen brief, versigilt mit unsir stat insigil, der geben ist ze Breslow noch Cristus geburth drewczen hundert und acht und fierczig iar an dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:31;} date {offset:0; length:41; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1290,3103 1350,3101 1410,3099 1470,3097 1531,3095 1591,3092 1651,3089 1711,3087 1772,3085 1832,3082 1892,3080 1952,3078 2013,3076 2073,3073 2133,3072 2193,3070 2254,3069 2314,3068 2374,3067 2434,3067 2495,3067 2495,3012 2434,3012 2374,3012 2314,3013 2254,3014 2193,3015 2133,3017 2073,3018 2013,3021 1952,3023 1892,3025 1832,3027 1772,3030 1711,3032 1651,3034 1591,3037 1531,3040 1470,3042 1410,3044 1350,3046 1290,3048"/>
+                <Baseline points="1290,3085 1350,3083 1410,3081 1470,3079 1531,3077 1591,3074 1651,3071 1711,3069 1772,3067 1832,3064 1892,3062 1952,3060 2013,3058 2073,3055 2133,3054 2193,3052 2254,3051 2314,3050 2374,3049 2434,3049 2495,3049"/>
+                <TextEquiv>
+                    <Unicode> nehisten freitage noch santh Mertins tag.  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir burgermeistir, der rate und di burger gemainlich der stat ze Frankensteyn viehen und tun kunt offenlich mit disem briefe allen den, di in sehen, horen odir lesen, das der hochgeborne fürste, unsir herre,&#xD;
+herczog Niclos von Münstirberg, dem edlen manne, hern Heinrich von Hügwicz und seinen erben, unsir vorgenante stat ze Frankensteyn mit dem wicbilde, dem clostir ze Camencz, mannen, manscheften und allir &#xD;
+zugehörunge nichtes auszenemen recht und redlich virsaczt hat, als in seinem brief, der do noch geschriben stet volkomenlich begriffen ist, in sülchem lwte wir herczog Niclaus von Gots gnaden eyn&#xD;
+fürste von Slezien, here ze Münstirberg, tun kunt allen, di disen brief ansehen, das wir uns mit guten willen und mit bedochtem mute und mit rate unsir getrewen manne, und ouch unsir burger &#xD;
+ze Munstirberg haben mit hern Heinrich von Hugwicz, unserm liben und getrewn, fruntlich und lieplich berichtet und entscheyden, umb alle sache und umb allen bruch, der czwischen uns beidir seit ist &#xD;
+gewest, und mit namen umb alle schult, di wir im sein schuldig gewest, beide von unsir vatir wegen und ouch von unsir wegen welherlei, di sei von gewertem gelde, von pferden, von schaden, von&#xD;
+versaczung, pfanclosunge, wi sy her komen, sei dorumb er uns mecher han gemaint bis an disen hwtigen tag. Also das wir im, hern Heinrich und allen erben han versaczt, unsir stat&#xD;
+Frankensteyn mit wem wicbilde und alle, di man di dor in gehoren, das clostir Camencz mit allem dem gute, das dorczu gehoret, und im selben wicbilde gelegen ist, und das hofegerichte,&#xD;
+do selbis mit allir herschaft, mit allem rechte und mit namen, mit allem den nuczcze, der von der stat Frankensteyn und dem wicbilde bekomen mag, als wirs gehabt haben, slechclichen nicht aus¬&#xD;
+zenemen vor tüsunt marg polanischir zal pragischer pfennyge von unsir Vrowen tag, würczewei der nehist kümpt ubir czwei gancze iar, und geloben dorczu zegebin sechczig marg&#xD;
+grosschen hern Heinrich und seinen kinden, das si stat und das wicbilde gehalden mügen, di selben sechczig marg sullen si uf schaden gewynnen uf den fierden pfennyng, also das ir &#xD;
+achtzig werden, di sullen sy uf das selbe pfant slon zu dem houbtgute, wer abir das wir in der zeit der satzunge hern Heinrich und seinen kinden icht geldis gebin vil odir wenyng, odir ab&#xD;
+in ron anevellen eynis gutes, das do ledig wurde icht geviele, ob si es vorkouften odir selbir wolden behalden, für also vil geldes, als das gut wert wer odir ob in von totslegen, di&#xD;
+er und seine kint selbir richten welden, icht gevile wen si dem lantrichter czehen marg on eyn let dovon gegebin, das sullen si uns zeniale obslon, wer ouch ab wir in dem ersten &#xD;
+iar, di stat  Frankensteyn mit dem witbilde nicht enlösten, so sullen si, her Heinrich und seine kint das vorgenanten gelt tüsunt marg und achtzig marg, on als vil ob in des icht gevile, &#xD;
+als hi vorgeschrebn stet gewynnen uf schaden, uf den fierden pfennyng, und sullen abir beyd schaden und houpt gut und ouch achczig &#xD;
+in dem andirn jare, uf das vorgenanten pfant slon, wer ouch ab wir di selben stat Frankensteyn mit dem wicbilde in dem andirn iare nicht inlosten, so sol der vorgenante&#xD;
+Heinrich und seine kint, di stat mit dem wicbilde vorkoufen odir vorsetzen umb di tusunt marg und umb allen schaden, der doruf get als dovor geschriben stet, und ouch&#xD;
+umb czwir achtzig marg, di von dem kost gelde zwei iar dorczu geslagen seint, wo odir weme si mugen, do alleyne, di man des witbildes nicht von genidirt werden, doch &#xD;
+in sulchen undirscheid, das her Heinrich und seine kint, wenn di stat mit dem wicbilde vorkouft wirt, ir gelt tusunt marg und zwir achtzig marg, und ouch den schaden, &#xD;
+der uf di tusunt marg gegangen ist, dovon nemen sullen, und was deme ubirig ist, das sal uns werden und gevallen, ouch geloben wir herczog Niclos vorgenant on arge list &#xD;
+das, wir den odir di, den di vorgenanten stat mit dem wicbilde von hern Heinrich und seinen kinden vorkouft wirt odir versaczt nicht hindinr sullen mit keynir an &#xD;
+sproche. Gegeben zu Munstirberg an santh Marien Magdalenen obund, noch Gotes geburth tusunt iar, drewhundert iar in den sechs und fierczigstem iar. undir unsirm &#xD;
+grossen ingesigl. dornoch bekennen wir vorgenanten burgermeister. der rat und burger, gemainlich der vorgenanten stat ze Frankensteyn, das her Heinrich von Hugwicz der&#xD;
+vorgenante, beid mon manschefte, das clostir ze Camencz uns und unsir stat mit allir zugehörung, dem allirdurchleuchtigsten fürsten und unsirm gnedigen herren hern&#xD;
+Karl, Römischen künge, ze allen zeiten merer des reichs und kunge ze Beheim, sein erben und nochkomen kungen ze Beheim ze rechtem pfande versaczt hat in allir der weis als &#xD;
+in dem vorgenanten brief geschriben stet, dorumb geloben wir vorgenanter burgermeistir und der rat von worte, wizzen und willen der gemeine der vorgenanten unsir stat ze&#xD;
+Frankenstein mit guten trewin on alle argelist, das wir dem vorgenanten unserm herren dem römischen künge und kunge ze Beheim, seinen erben und nochkomen kungen ze Be¬&#xD;
+heim, getrew, gewer, gehorsam, undirtenyk und wartende welIen sein, ze eynem rechten pfande in allir der weis als in den vorgenanten briefen geschriben und begriffen ist, und&#xD;
+von worte zu worte nichtes auszenemen, als wir des vorgenanten hern Heinrichs von Hugwicz pfant gewesin sein, noch des briefs lüte und des ze urkünd und ze &#xD;
+gedechtnuzz geben wir disen brief, versigilt mit unsir stat insigil, der geben ist ze Breslow noch Cristus geburth drewczen hundert und acht und fierczig iar an dem&#xD;
+ nehisten freitage noch santh Mertins tag.  </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

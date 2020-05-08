@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-05T14:42:43.064+02:00</Created>
+        <LastChange>2019-12-21T22:20:52.412+01:00</LastChange>
+        <TranskribusMetadata docId="169954" pageId="6426679" pageNr="1" tsid="21354264" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=VQNLKARTWVIJAQUAZGZQNQUU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QLUAKBEJNDGSXJNJBIXLJXOY" imageId="3818753"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14240708_01506_r.jpg" imageWidth="6577" imageHeight="4622">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618074081" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="428,543 423,2261 4085,2199 4064,543"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} person {offset:3; length:18;} place {offset:9; length:12;}">
+                <Coords points="454,1358 700,1353 689,919 1186,891 1344,887 1503,883 1661,879 1820,875 1978,871 2137,867 2295,863 2453,859 2612,855 2770,851 2929,849 3087,846 3246,844 3404,843 3563,842 3721,842 3880,843 3870,684 3729,694 3573,684 3406,705 3259,673 3087,705 2930,694 2773,715 2632,700 2481,715 2309,710 2141,726 1990,726 1833,720 1682,720 1499,720 1363,720 1154,726 898,726 898,553 438,548"/>
+                <Baseline points="711,876 869,874 1027,871 1186,868 1344,864 1503,860 1661,856 1820,852 1978,848 2137,844 2295,840 2453,836 2612,832 2770,828 2929,826 3087,823 3246,821 3404,820 3563,819 3721,819 3880,820"/>
+                <TextEquiv>
+                    <Unicode>Ja Jan z Lichtemburga wiznawam tiemto listem obecznye prziede wssiemy, ktoz giei uzrzie czisti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} person {offset:53; length:46; continued:true;}">
+                <Coords points="674,1003 866,996 1030,996 1194,996 1358,994 1522,992 1686,990 1850,987 2014,984 2178,981 2342,977 2505,973 2669,970 2833,966 2997,962 3161,958 3325,955 3489,951 3653,948 3817,946 3981,943 3981,873 3817,876 3653,878 3489,881 3325,885 3161,888 2997,892 2833,896 2669,900 2505,903 2342,907 2178,911 2014,914 1850,917 1686,920 1522,922 1358,924 1194,926 1030,926 866,926 674,919"/>
+                <Baseline points="703,972 866,973 1030,973 1194,973 1358,971 1522,969 1686,967 1850,964 2014,961 2178,958 2342,954 2505,950 2669,947 2833,943 2997,939 3161,935 3325,932 3489,928 3653,925 3817,923 3981,920"/>
+                <TextEquiv>
+                    <Unicode>a neb cztucze uslissie, zet my nayjassneissie knieze Sigmund, rziemski kral, powssie czassi rozmno¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} person {offset:0; length:44; continued:true;}">
+                <Coords points="692,1094 853,1093 1015,1093 1176,1092 1338,1090 1499,1089 1661,1087 1822,1085 1984,1082 2145,1080 2307,1077 2468,1074 2630,1070 2791,1067 2953,1063 3114,1059 3276,1055 3437,1051 3599,1046 3760,1041 3922,1036 3922,963 3760,968 3599,973 3437,978 3276,982 3114,986 2953,990 2791,994 2630,997 2468,1001 2307,1004 2145,1007 1984,1009 1822,1012 1661,1014 1499,1016 1338,1017 1176,1019 1015,1020 853,1020 692,1021"/>
+                <Baseline points="692,1070 853,1069 1015,1069 1176,1068 1338,1066 1499,1065 1661,1063 1822,1061 1984,1058 2145,1056 2307,1053 2468,1050 2630,1046 2791,1043 2953,1039 3114,1035 3276,1031 3437,1027 3599,1022 3760,1017 3922,1012"/>
+                <TextEquiv>
+                    <Unicode>zitel rissie, czeski, uherski et cetera kral a pan moy milostiwi dal a zaplatil tissiecz kop grossiew czeskich, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="694,1191 887,1189 1049,1187 1211,1185 1374,1182 1536,1180 1698,1177 1860,1174 2023,1171 2185,1168 2347,1164 2509,1161 2672,1158 2834,1154 2996,1150 3158,1146 3321,1142 3483,1138 3645,1134 3807,1130 3970,1125 3970,1058 3807,1063 3645,1067 3483,1071 3321,1075 3158,1079 2996,1083 2834,1087 2672,1091 2509,1094 2347,1097 2185,1101 2023,1104 1860,1107 1698,1110 1536,1113 1374,1115 1211,1118 1049,1120 877,1102 689,1107"/>
+                <Baseline points="725,1169 887,1167 1049,1165 1211,1163 1374,1160 1536,1158 1698,1155 1860,1152 2023,1149 2185,1146 2347,1142 2509,1139 2672,1136 2834,1132 2996,1128 3158,1124 3321,1120 3483,1116 3645,1112 3807,1108 3970,1103"/>
+                <TextEquiv>
+                    <Unicode>kterichzto my geho milosti dluzen bil, na nyez list gieho milosti gmam a tiech tissiecze kop grossiew ya </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="709,1280 876,1279 1043,1278 1210,1276 1378,1274 1545,1271 1712,1268 1880,1265 2047,1261 2214,1257 2382,1253 2549,1249 2716,1245 2884,1241 3051,1236 3218,1232 3386,1229 3553,1225 3720,1221 3888,1219 3888,1156 3720,1158 3553,1162 3386,1166 3218,1169 3051,1173 2884,1178 2716,1182 2549,1186 2382,1190 2214,1194 2047,1198 1880,1202 1712,1205 1545,1208 1378,1211 1210,1213 1043,1215 876,1216 709,1217"/>
+                <Baseline points="709,1259 876,1258 1043,1257 1210,1255 1378,1253 1545,1250 1712,1247 1880,1244 2047,1240 2214,1236 2382,1232 2549,1228 2716,1224 2884,1220 3051,1215 3218,1211 3386,1208 3553,1204 3720,1200 3888,1198"/>
+                <TextEquiv>
+                    <Unicode>y mogi erbowe gieho milost qwitugi a prazdna propusscziem a slibugi gieho milosti y s swymy erbi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="727,1371 888,1368 1050,1365 1212,1363 1374,1360 1536,1358 1698,1356 1859,1353 2021,1351 2183,1349 2345,1347 2507,1345 2669,1342 2831,1339 2992,1335 3154,1332 3316,1328 3478,1322 3640,1317 3802,1311 3964,1305 3964,1242 3802,1248 3640,1254 3478,1259 3316,1265 3154,1269 2992,1272 2831,1276 2669,1279 2507,1282 2345,1284 2183,1286 2021,1288 1859,1290 1698,1293 1536,1295 1374,1297 1212,1300 1050,1302 888,1305 727,1308"/>
+                <Baseline points="727,1350 888,1347 1050,1344 1212,1342 1374,1339 1536,1337 1698,1335 1859,1332 2021,1330 2183,1328 2345,1326 2507,1324 2669,1321 2831,1318 2992,1314 3154,1311 3316,1307 3478,1301 3640,1296 3802,1290 3964,1284"/>
+                <TextEquiv>
+                    <Unicode>onye wiecze nenapomynati any narziekati nynie a nawieki. A ten list, kteriz na ti tissiecz kop od geho milosti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="731,1463 892,1460 1054,1457 1215,1455 1377,1452 1538,1449 1700,1447 1861,1444 2023,1442 2184,1439 2346,1436 2507,1433 2669,1430 2830,1426 2992,1423 3153,1419 3315,1415 3476,1410 3638,1406 3799,1401 3961,1395 3961,1331 3799,1337 3638,1342 3476,1346 3315,1351 3153,1355 2992,1359 2830,1362 2669,1366 2507,1369 2346,1372 2184,1375 2023,1378 1861,1380 1700,1383 1538,1385 1377,1388 1215,1391 1054,1393 892,1396 731,1399"/>
+                <Baseline points="731,1442 892,1439 1054,1436 1215,1434 1377,1431 1538,1428 1700,1426 1861,1423 2023,1421 2184,1418 2346,1415 2507,1412 2669,1409 2830,1405 2992,1402 3153,1398 3315,1394 3476,1389 3638,1385 3799,1380 3961,1374"/>
+                <TextEquiv>
+                    <Unicode>ginam slibugi a mam geho milosti giei zassie wratiti do swateho Waczlawa nynye nayprw prziessczie. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;} person {offset:6; length:22;} place {offset:16; length:12;} person {offset:30; length:17;} place {offset:38; length:9;} person {offset:49; length:22;} place {offset:57; length:14;} person {offset:73; length:16;} place {offset:79; length:10;}">
+                <Coords points="735,1563 894,1559 1053,1556 1212,1553 1371,1550 1531,1547 1690,1544 1849,1541 2008,1539 2167,1536 2327,1532 2486,1529 2645,1525 2804,1522 2963,1517 3123,1513 3282,1507 3441,1501 3600,1494 3759,1488 3919,1479 3919,1410 3759,1419 3600,1425 3441,1432 3282,1438 3123,1444 2963,1448 2804,1453 2645,1456 2486,1460 2327,1463 2167,1467 2008,1470 1849,1472 1690,1475 1531,1478 1371,1481 1212,1484 1053,1487 894,1490 735,1494"/>
+                <Baseline points="735,1540 894,1536 1053,1533 1212,1530 1371,1527 1531,1524 1690,1521 1849,1518 2008,1516 2167,1513 2327,1509 2486,1506 2645,1502 2804,1499 2963,1494 3123,1490 3282,1484 3441,1478 3600,1471 3759,1465 3919,1456"/>
+                <TextEquiv>
+                    <Unicode>A my, Janotha z Czastolowicz, Hinek z Abrspachu, Hinek z Czerwenei Hori, Jan z Chotiemicz, slibugeme </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;} person {offset:18; length:19;} place {offset:25; length:12;}">
+                <Coords points="713,1656 877,1653 1042,1650 1207,1647 1371,1644 1536,1641 1701,1637 1865,1633 2030,1630 2195,1625 2360,1621 2524,1617 2689,1612 2854,1607 3018,1602 3183,1596 3348,1591 3512,1584 3677,1577 3842,1570 4007,1563 4007,1494 3842,1501 3677,1508 3512,1515 3348,1522 3183,1527 3018,1533 2854,1538 2689,1543 2524,1548 2360,1552 2195,1556 2030,1561 1865,1564 1701,1568 1536,1572 1371,1575 1207,1578 1042,1581 877,1584 713,1587"/>
+                <Baseline points="713,1633 877,1630 1042,1627 1207,1624 1371,1621 1536,1618 1701,1614 1865,1610 2030,1607 2195,1602 2360,1598 2524,1594 2689,1589 2854,1584 3018,1579 3183,1573 3348,1568 3512,1561 3677,1554 3842,1547 4007,1540"/>
+                <TextEquiv>
+                    <Unicode>za urozeneho pana Jana z Lichtemburga kralewe milosti, panu nassiemu milostiwemu, za ten list, kterizt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;} person {offset:16; length:3;}">
+                <Coords points="720,1750 924,1751 1080,1747 1236,1743 1392,1739 1548,1735 1703,1731 1859,1727 2015,1723 2171,1718 2327,1714 2482,1709 2638,1705 2794,1699 2950,1693 3106,1688 3261,1681 3417,1675 3573,1668 3729,1660 3885,1652 3885,1583 3729,1591 3573,1599 3417,1606 3261,1612 3106,1619 2950,1624 2794,1630 2638,1636 2482,1640 2327,1645 2171,1649 2015,1654 1859,1658 1703,1662 1548,1666 1392,1670 1236,1674 1080,1678 924,1682 715,1676"/>
+                <Baseline points="769,1733 924,1728 1080,1724 1236,1720 1392,1716 1548,1712 1703,1708 1859,1704 2015,1700 2171,1695 2327,1691 2482,1686 2638,1682 2794,1676 2950,1670 3106,1665 3261,1658 3417,1652 3573,1645 3729,1637 3885,1629"/>
+                <TextEquiv>
+                    <Unicode>swrchupsani pan Jan od geho milosti na tissiecz kop gma, zet gma umorzen biti nynie a nawieky </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="741,1859 932,1846 1090,1842 1247,1837 1405,1832 1563,1828 1720,1823 1878,1818 2035,1814 2193,1809 2351,1804 2508,1800 2666,1794 2823,1789 2981,1783 3139,1778 3296,1771 3454,1765 3611,1758 3769,1750 3927,1742 3927,1673 3769,1681 3611,1689 3454,1696 3296,1702 3139,1709 2981,1714 2823,1720 2666,1725 2508,1731 2351,1735 2193,1740 2035,1745 1878,1749 1720,1754 1563,1759 1405,1763 1247,1768 1090,1773 932,1777 741,1786"/>
+                <Baseline points="775,1829 932,1823 1090,1819 1247,1814 1405,1809 1563,1805 1720,1800 1878,1795 2035,1791 2193,1786 2351,1781 2508,1777 2666,1771 2823,1766 2981,1760 3139,1755 3296,1748 3454,1742 3611,1735 3769,1727 3927,1719"/>
+                <TextEquiv>
+                    <Unicode>a geho milost do swateho Waczlawa gma zassie wraczen biti. A tomu na potwrzenie a pro lepssie gistost </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="736,1948 956,1946 1116,1937 1276,1928 1436,1922 1596,1915 1755,1908 1915,1903 2075,1898 2235,1893 2395,1887 2554,1883 2714,1878 2874,1873 3034,1867 3194,1861 3353,1855 3513,1849 3673,1842 3833,1833 3993,1825 3993,1752 3833,1760 3673,1769 3513,1776 3353,1782 3194,1788 3034,1794 2874,1800 2714,1805 2554,1810 2395,1814 2235,1820 2075,1825 1915,1830 1755,1835 1596,1842 1436,1849 1276,1855 1116,1864 956,1873 736,1864"/>
+                <Baseline points="797,1931 956,1922 1116,1913 1276,1904 1436,1898 1596,1891 1755,1884 1915,1879 2075,1874 2235,1869 2395,1863 2554,1859 2714,1854 2874,1849 3034,1843 3194,1837 3353,1831 3513,1825 3673,1818 3833,1809 3993,1801"/>
+                <TextEquiv>
+                    <Unicode>swe gsme petczeti s nassim dobrym wiedomym wedle panye Janowi petczeti k tomuto listu prziwiessili. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;} place {offset:23; length:7;} date {offset:31; length:62; continued:true;year:0; day:0; month:0;}">
+                <Coords points="787,2054 945,2040 1103,2028 1261,2018 1420,2009 1578,2001 1736,1994 1895,1988 2053,1983 2211,1978 2370,1974 2528,1970 2686,1966 2844,1962 3003,1958 3161,1953 3319,1948 3478,1942 3636,1935 3794,1928 3953,1918 3953,1852 3794,1862 3636,1869 3478,1876 3319,1882 3161,1887 3003,1892 2844,1896 2686,1900 2528,1904 2370,1908 2211,1912 2053,1917 1895,1922 1736,1928 1578,1935 1420,1943 1261,1952 1103,1962 945,1974 787,1988"/>
+                <Baseline points="787,2032 945,2018 1103,2006 1261,1996 1420,1987 1578,1979 1736,1972 1895,1966 2053,1961 2211,1956 2370,1952 2528,1948 2686,1944 2844,1940 3003,1936 3161,1931 3319,1926 3478,1920 3636,1913 3794,1906 3953,1896"/>
+                <TextEquiv>
+                    <Unicode>Genz gest dan a psan w Budynie tu sobotu po swatem Procopie, letha od narozenie syna Bozieho </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;} date {offset:0; length:47; continued:true;year:0; day:0; month:0;}">
+                <Coords points="762,2162 838,2157 863,2155 889,2153 914,2151 939,2148 965,2146 990,2144 1016,2142 1041,2140 1066,2138 1092,2135 1117,2133 1142,2131 1168,2129 1193,2127 2261,2068 2272,1979 1567,1990 1300,2011 1180,2021 1117,2060 1092,2062 1066,2065 1041,2067 1016,2069 990,2071 965,2073 939,2075 914,2078 889,2080 863,2082 835,2042 752,2063"/>
+                <Baseline points="813,2135 838,2133 863,2131 889,2129 914,2127 939,2124 965,2122 990,2120 1016,2118 1041,2116 1066,2114 1092,2111 1117,2109 1142,2107 1168,2105 1193,2103 2241,2058"/>
+                <TextEquiv>
+                    <Unicode>tissieczieho cztrzsteho cztwrteho a dwadczateho. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Jan z Lichtemburga wiznawam tiemto listem obecznye prziede wssiemy, ktoz giei uzrzie czisti 
+a neb cztucze uslissie, zet my nayjassneissie knieze Sigmund, rziemski kral, powssie czassi rozmno¬
+zitel rissie, czeski, uherski et cetera kral a pan moy milostiwi dal a zaplatil tissiecz kop grossiew czeskich, 
+kterichzto my geho milosti dluzen bil, na nyez list gieho milosti gmam a tiech tissiecze kop grossiew ya 
+y mogi erbowe gieho milost qwitugi a prazdna propusscziem a slibugi gieho milosti y s swymy erbi 
+onye wiecze nenapomynati any narziekati nynie a nawieki. A ten list, kteriz na ti tissiecz kop od geho milosti 
+ginam slibugi a mam geho milosti giei zassie wratiti do swateho Waczlawa nynye nayprw prziessczie. 
+A my, Janotha z Czastolowicz, Hinek z Abrspachu, Hinek z Czerwenei Hori, Jan z Chotiemicz, slibugeme 
+za urozeneho pana Jana z Lichtemburga kralewe milosti, panu nassiemu milostiwemu, za ten list, kterizt 
+swrchupsani pan Jan od geho milosti na tissiecz kop gma, zet gma umorzen biti nynie a nawieky 
+a geho milost do swateho Waczlawa gma zassie wraczen biti. A tomu na potwrzenie a pro lepssie gistost 
+swe gsme petczeti s nassim dobrym wiedomym wedle panye Janowi petczeti k tomuto listu prziwiessili. 
+Genz gest dan a psan w Budynie tu sobotu po swatem Procopie, letha od narozenie syna Bozieho 
+tissieczieho cztrzsteho cztwrteho a dwadczateho. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

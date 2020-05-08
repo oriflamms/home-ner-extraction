@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-23T08:31:21.908+02:00</Created>
+        <LastChange>2019-11-15T14:00:34.542+01:00</LastChange>
+        <TranskribusMetadata docId="186786" pageId="7439987" pageNr="1" tsid="19405197" status="IN_PROGRESS" userId="38723" imgUrl="https://files.transkribus.eu/Get?id=FCBFERUAOVHIWHXODNQQYHLR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUXFZIAGNUQLJSRCLCILYDGA" imageId="4468395"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13500826_00351_r.jpg" imageWidth="7875" imageHeight="5725">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618006765" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="793,482 793,2186 5739,2171 5719,447"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} place {offset:101; length:4;}">
+                <Coords points="841,843 1130,831 1241,780 2035,776 2148,775 2261,775 2374,774 2487,774 2600,774 2713,774 2826,774 2939,774 3052,774 3165,775 3278,775 3391,775 3504,776 3617,776 3730,776 3843,776 5481,756 5485,645 3912,645 3805,649 3674,645 3587,649 3464,641 3306,641 3206,641 3115,641 2992,637 2846,621 2719,629 2604,661 2513,657 2394,657 2283,657 2160,661 2030,653 1467,653 1455,542 841,546"/>
+                <Baseline points="1027,792 1809,759 1922,758 2035,756 2148,755 2261,755 2374,754 2487,754 2600,754 2713,754 2826,754 2939,754 3052,754 3165,755 3278,755 3391,755 3504,756 3617,756 3730,756 3843,756 5445,772"/>
+                <TextEquiv>
+                    <Unicode>Wir purgermeister, der rat, die schepffen, die hantwerkmeister und die purger gemeinlich der stat zu Eger veriehen und </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1143,857 2791,865 2887,865 2983,866 3080,865 3176,865 3272,864 3368,863 3465,863 3561,862 3657,861 3753,861 3850,860 3946,860 4042,860 4138,860 4235,861 4331,863 4427,864 4523,867 5506,873 5522,781 4538,781 4427,809 4331,808 4235,806 4138,805 4042,805 3946,805 3850,805 3753,806 3657,806 3561,807 3465,808 3368,808 3272,809 3176,810 3080,810 2983,811 2887,810 2791,810 1123,781"/>
+                <Baseline points="1134,855 2791,847 2887,847 2983,848 3080,847 3176,847 3272,846 3368,845 3465,845 3561,844 3657,843 3753,843 3850,842 3946,842 4042,842 4138,842 4235,843 4331,845 4427,846 4523,849 5501,863"/>
+                <TextEquiv>
+                    <Unicode>tunt kunt offenlich mit disem brif allen den, die in sehen oder horen lesen, wan der allerdurchleuchtigst furste, unser genediger </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:2;} person {offset:7; length:73;} place {offset:75; length:5;}">
+                <Coords points="1047,961 2658,946 2741,947 2824,948 2907,949 2990,950 3073,950 3156,950 3239,950 3322,950 3406,949 3489,949 3572,948 3655,947 3738,947 3821,946 3904,945 3987,945 4070,944 4153,943 5510,969 5534,861 4153,886 4070,887 3987,888 3904,888 3821,889 3738,890 3655,890 3572,891 3489,892 3406,892 3322,893 3239,893 3156,893 3073,893 2990,893 2907,892 2824,891 2741,890 2658,889 1031,841"/>
+                <Baseline points="1047,941 2658,927 2741,928 2824,929 2907,930 2990,931 3073,931 3156,931 3239,931 3322,931 3406,930 3489,930 3572,929 3655,928 3738,928 3821,927 3904,926 3987,926 4070,925 4153,924 5514,953"/>
+                <TextEquiv>
+                    <Unicode>herre, Romischer kunig Karel, zu allen ziten merer des reichs und kunig zu Behem, uns geboten hat und zu uns dar umb </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;} person {offset:15; length:17;} place {offset:26; length:6;} person {offset:122; length:6; continued:true;}">
+                <Coords points="1071,1021 2756,1033 2854,1031 2953,1030 3051,1029 3149,1027 3248,1027 3346,1026 3444,1026 3543,1026 3641,1026 3739,1026 3838,1027 3936,1027 4034,1028 4133,1029 4231,1030 4329,1030 4428,1031 4526,1032 5534,1049 5542,957 4526,975 4428,974 4329,973 4231,973 4133,972 4034,971 3936,970 3838,970 3739,969 3641,969 3543,969 3444,969 3346,969 3248,970 3149,970 3051,972 2953,973 2854,974 2756,976 1051,945"/>
+                <Baseline points="1039,1009 2756,1014 2854,1012 2953,1011 3051,1010 3149,1008 3248,1008 3346,1007 3444,1007 3543,1007 3641,1007 3739,1007 3838,1008 3936,1008 4034,1009 4133,1010 4231,1011 4329,1011 4428,1012 4526,1013 5518,1033"/>
+                <TextEquiv>
+                    <Unicode>den edeln hern Russen von Lutitz gesant hat, daz wir sinem erstgebornem sun, dem hochgeborn fursten, unserm herren herren Wentz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;} person {offset:0; length:5; continued:true;}">
+                <Coords points="1031,1089 2758,1112 2833,1113 2908,1113 2983,1113 3058,1112 3133,1112 3208,1111 3283,1110 3358,1110 3433,1109 3507,1109 3582,1108 3657,1108 3732,1108 3807,1108 3882,1108 3957,1108 4032,1109 4107,1111 5502,1113 5494,1045 4107,1053 4032,1051 3957,1050 3882,1050 3807,1050 3732,1050 3657,1050 3582,1050 3507,1051 3433,1051 3358,1052 3283,1052 3208,1053 3133,1054 3058,1054 2983,1055 2908,1055 2833,1055 2758,1054 1027,1013"/>
+                <Baseline points="1035,1093 2758,1093 2833,1094 2908,1094 2983,1094 3058,1093 3133,1093 3208,1092 3283,1091 3358,1091 3433,1090 3507,1090 3582,1089 3657,1089 3732,1089 3807,1089 3882,1089 3957,1089 4032,1090 4107,1092 5490,1109"/>
+                <TextEquiv>
+                    <Unicode>lawen hulden, geloben und sweren scholden, daz selb unsers herren gebote, haben wir mit getrewer gehorsam angesehen, als wir allzit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:5;}">
+                <Coords points="1047,1181 2968,1195 3073,1196 3178,1196 3283,1196 3388,1196 3492,1196 3597,1196 3702,1196 3807,1196 3912,1196 4016,1196 4121,1197 4226,1197 4331,1198 4436,1199 4540,1200 4645,1201 4750,1203 4855,1205 5530,1205 5518,1133 4855,1147 4750,1145 4645,1143 4540,1142 4436,1141 4331,1140 4226,1139 4121,1139 4016,1138 3912,1138 3807,1138 3702,1138 3597,1138 3492,1138 3388,1138 3283,1138 3178,1138 3073,1138 2968,1137 1039,1109"/>
+                <Baseline points="1067,1181 2921,1197 3073,1177 3178,1177 3283,1177 3388,1177 3492,1177 3597,1177 3702,1177 3807,1177 3912,1177 4016,1177 4121,1178 4226,1178 4331,1179 4436,1180 4540,1181 4645,1182 4750,1184 4855,1186 5494,1205"/>
+                <TextEquiv>
+                    <Unicode>nach sinem willen und gebote tun wellen getrewlich und unverdrozzenlich, nach aller unserr macht und da von haben wir fur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:6;}">
+                <Coords points="1043,1261 2831,1278 2958,1278 3085,1278 3212,1278 3339,1278 3465,1278 3592,1278 3719,1278 3846,1278 3973,1279 4099,1279 4226,1280 4353,1280 4480,1281 4607,1282 4733,1283 4860,1285 4987,1287 5114,1288 5526,1285 5526,1221 5114,1230 4987,1229 4860,1227 4733,1225 4607,1224 4480,1223 4353,1222 4226,1222 4099,1221 3973,1221 3846,1220 3719,1220 3592,1220 3465,1220 3339,1220 3212,1220 3085,1220 2958,1220 2831,1220 1031,1193"/>
+                <Baseline points="1051,1265 2805,1281 2958,1259 3085,1259 3212,1259 3339,1259 3465,1259 3592,1259 3719,1259 3846,1259 3973,1260 4099,1260 4226,1261 4353,1261 4480,1262 4607,1263 4733,1264 4860,1266 4987,1268 5114,1269 5530,1285"/>
+                <TextEquiv>
+                    <Unicode>uns, unser erben und nachkomen mit wolbedachtem mut, mit gantzem rat, mit rechter wizzen und mit guten willen zu einem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:7;} place {offset:61; length:5;} person {offset:124; length:6; continued:true;}">
+                <Coords points="1035,1357 3850,1362 3923,1362 3996,1363 4068,1363 4141,1364 4214,1365 4286,1365 4359,1366 4432,1366 4505,1367 4577,1368 4650,1368 4723,1369 4795,1370 4868,1371 4941,1373 5013,1374 5086,1376 5159,1377 5566,1393 5574,1305 5159,1317 5086,1316 5013,1314 4941,1313 4868,1311 4795,1310 4723,1309 4650,1308 4577,1308 4505,1307 4432,1306 4359,1306 4286,1305 4214,1305 4141,1304 4068,1303 3996,1303 3923,1302 3850,1302 1035,1273"/>
+                <Baseline points="1039,1345 3801,1361 3923,1342 3996,1343 4068,1343 4141,1344 4214,1345 4286,1345 4359,1346 4432,1346 4505,1347 4577,1348 4650,1348 4723,1349 4795,1350 4868,1351 4941,1353 5013,1354 5086,1356 5159,1357 5542,1385"/>
+                <TextEquiv>
+                    <Unicode>rehten pfande, als wir von dem heiligen Romischen reich gein Behem versetzt sein, und als wir dem obgenanten unserm herren, kunig </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:8;} person {offset:0; length:6; continued:true;} person {offset:126; length:6; continued:true;}">
+                <Coords points="1059,1429 3345,1451 3423,1450 3501,1450 3579,1449 3657,1448 3735,1448 3814,1448 3892,1448 3970,1448 4048,1448 4126,1448 4204,1448 4282,1449 4361,1450 4439,1451 4517,1452 4595,1453 4673,1455 4751,1456 5554,1485 5542,1393 4751,1396 4673,1395 4595,1393 4517,1392 4439,1391 4361,1390 4282,1389 4204,1388 4126,1388 4048,1388 3970,1388 3892,1388 3814,1388 3735,1388 3657,1388 3579,1389 3501,1390 3423,1390 3349,1381 1051,1357"/>
+                <Baseline points="1055,1425 3317,1433 3423,1430 3501,1430 3579,1429 3657,1428 3735,1428 3814,1428 3892,1428 3970,1428 4048,1428 4126,1428 4204,1428 4282,1429 4361,1430 4439,1431 4517,1432 4595,1433 4673,1435 4751,1436 5522,1461"/>
+                <TextEquiv>
+                    <Unicode>Kareln, unser brif dar uber vormals geben haben, des selben unsers herren, erstgebornem sun, unserm vorbenanten herren herren Wentz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:9;} person {offset:0; length:5; continued:true;}">
+                <Coords points="1067,1505 3229,1529 3459,1528 3535,1528 3611,1528 3687,1528 3763,1528 3839,1529 3915,1529 3991,1530 4067,1532 4143,1532 4219,1534 4295,1535 4371,1536 4447,1537 4523,1539 4599,1540 4675,1542 4751,1544 5506,1545 5502,1473 4751,1487 4675,1485 4599,1483 4523,1482 4447,1480 4371,1479 4295,1478 4219,1477 4143,1475 4067,1475 3991,1473 3915,1472 3839,1472 3763,1471 3687,1471 3611,1471 3535,1471 3459,1471 3383,1471 1059,1433"/>
+                <Baseline points="1059,1505 2596,1533 3459,1509 3535,1509 3611,1509 3687,1509 3763,1509 3839,1510 3915,1510 3991,1511 4067,1513 4143,1513 4219,1515 4295,1516 4371,1517 4447,1518 4523,1520 4599,1521 4675,1523 4751,1525 5474,1545"/>
+                <TextEquiv>
+                    <Unicode>lawen gehuldet, gelobt und gesworn hulden, geloben und sweren mit der bescheidenheit, ob sins vorgenanten vater unsers </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:10;} person {offset:14; length:6;} person {offset:88; length:10;}">
+                <Coords points="1055,1585 3109,1625 4221,1618 4246,1619 4271,1619 4296,1619 4321,1619 4346,1620 4371,1620 4396,1620 4421,1621 4446,1622 4471,1622 4496,1622 4521,1623 4546,1624 5514,1629 5534,1553 4546,1567 4521,1566 4496,1565 4471,1565 4446,1565 4421,1564 4396,1563 4371,1563 4346,1563 4321,1562 4296,1562 4271,1562 4246,1562 4217,1541 4013,1533 1063,1513"/>
+                <Baseline points="1027,1585 3269,1609 3953,1613 4246,1600 4271,1600 4296,1600 4321,1600 4346,1601 4371,1601 4396,1601 4421,1602 4446,1603 4471,1603 4496,1603 4521,1604 4546,1605 5514,1625"/>
+                <TextEquiv>
+                    <Unicode>herren herren KareIs niht wer des Got niht welle dem selben unserm jungen herren herren Wentzlawen, und die weil er zu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:11;}">
+                <Coords points="1075,1697 4292,1696 4317,1698 4342,1699 4367,1700 4392,1702 4417,1703 4442,1704 4467,1705 4492,1706 4517,1707 4542,1708 4567,1708 4592,1708 4617,1709 4642,1709 4667,1709 4692,1709 5522,1729 5514,1641 4726,1625 4667,1652 4642,1652 4617,1652 4592,1651 4567,1651 4542,1651 4517,1650 4492,1649 4467,1648 4442,1647 4417,1646 4392,1645 4367,1643 4342,1642 4270,1629 1083,1601 1079,1657"/>
+                <Baseline points="1039,1689 3445,1701 4246,1697 4342,1680 4367,1681 4392,1683 4417,1684 4442,1685 4467,1686 4492,1687 4517,1688 4542,1689 4567,1689 4592,1689 4617,1690 4642,1690 4667,1690 4692,1690 5494,1709"/>
+                <TextEquiv>
+                    <Unicode>sinen jaren der vernunft niht komen ist, sinem furmunde und pfleger an siner stat oder ob sein niht wer, sinem eldsten </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:12;}">
+                <Coords points="1059,1769 2867,1780 2960,1778 3053,1777 3146,1776 3239,1775 3331,1774 3424,1774 3517,1774 3610,1775 3703,1775 3795,1776 3888,1778 3981,1779 4074,1781 4167,1782 4259,1784 4352,1786 4445,1788 4538,1790 5530,1813 5538,1733 4538,1732 4445,1730 4352,1728 4259,1726 4167,1724 4074,1723 3981,1721 3888,1720 3795,1718 3703,1717 3610,1717 3517,1716 3424,1716 3331,1716 3239,1717 3146,1718 3045,1705 2960,1720 2867,1722 1051,1685"/>
+                <Baseline points="1067,1761 2867,1761 2960,1759 3053,1758 3146,1757 3239,1756 3331,1755 3424,1755 3517,1755 3610,1756 3703,1756 3795,1757 3888,1759 3981,1760 4074,1762 4167,1763 4259,1765 4352,1767 4445,1769 4538,1771 5522,1801"/>
+                <TextEquiv>
+                    <Unicode>bruder, dar nach mit guten trewen on geverde, getrewe, gehorsam und untertenich zu sein, als unserm rehten herren zu aller zit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:13;} person {offset:78; length:6;}">
+                <Coords points="1059,1865 2780,1865 2832,1865 2885,1864 2937,1864 2990,1863 3042,1863 3094,1863 3147,1862 3199,1862 3252,1861 3304,1861 3356,1860 3409,1860 3461,1860 3514,1859 3566,1859 3618,1859 3671,1859 3723,1859 5558,1901 5570,1805 3723,1801 3671,1801 3618,1801 3566,1801 3514,1801 3461,1802 3409,1802 3356,1802 3304,1803 3252,1803 3199,1804 3147,1804 3094,1805 3042,1805 2990,1805 2937,1806 2885,1806 2832,1807 2777,1777 1047,1773"/>
+                <Baseline points="1055,1857 2780,1846 2832,1846 2885,1845 2937,1845 2990,1844 3042,1844 3094,1844 3147,1843 3199,1843 3252,1842 3304,1842 3356,1841 3409,1841 3461,1841 3514,1840 3566,1840 3618,1840 3671,1840 3723,1840 5542,1885"/>
+                <TextEquiv>
+                    <Unicode>in der vorbeschriben weis, als wir uns gein, unserm oftgenanten herren herren Kareln mit hulden, aiden, gelubden und brifen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:14;} place {offset:114; length:4;} date {offset:120; length:3; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1063,1934 2793,1943 2873,1943 2954,1944 3034,1944 3115,1944 3195,1943 3275,1943 3356,1943 3436,1942 3517,1942 3597,1942 3677,1942 3758,1942 3838,1942 3919,1942 3999,1943 4079,1944 4160,1945 4240,1946 5570,1974 5586,1889 4240,1886 4160,1885 4079,1884 3999,1883 3919,1882 3838,1882 3758,1882 3677,1882 3597,1882 3517,1882 3436,1882 3356,1883 3275,1883 3195,1883 3115,1884 3034,1884 2954,1884 2873,1883 2793,1883 1063,1837"/>
+                <Baseline points="1055,1921 2793,1923 2873,1923 2954,1924 3034,1924 3115,1924 3195,1923 3275,1923 3356,1923 3436,1922 3517,1922 3597,1922 3677,1922 3758,1922 3838,1922 3919,1922 3999,1923 4079,1924 4160,1925 4240,1926 5558,1978"/>
+                <TextEquiv>
+                    <Unicode>emals verbunden und verstrickt haben. Mit urkunde ditzs brifs, versigelt mit unser stat insigel, der geben ist zu Eger, do </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:15;} date {offset:0; length:107; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1043,2006 2655,2023 2724,2025 2794,2026 2863,2027 2933,2028 3002,2029 3072,2029 3141,2030 3211,2030 3280,2030 3349,2030 3419,2030 3488,2030 3558,2030 3627,2029 3697,2029 3766,2028 3836,2028 3905,2028 5554,2058 5554,1982 3905,1968 3836,1968 3766,1968 3697,1969 3627,1969 3558,1970 3488,1970 3419,1970 3349,1970 3280,1970 3211,1970 3141,1970 3072,1969 3002,1969 2933,1968 2863,1967 2794,1966 2724,1965 2655,1963 1099,1925"/>
+                <Baseline points="1043,2010 2655,2003 2724,2005 2794,2006 2863,2007 2933,2008 3002,2009 3072,2009 3141,2010 3211,2010 3280,2010 3349,2010 3419,2010 3488,2010 3558,2010 3627,2009 3697,2009 3766,2008 3836,2008 3905,2008 5546,2054"/>
+                <TextEquiv>
+                    <Unicode>man zalt von Cristus geburte dreuczehenhundert jar dar nach in dem funfczigstem jar des nehsten donerstags </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:16;} date {offset:0; length:51; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1067,2094 2799,2111 2825,2112 2850,2112 2876,2113 2901,2113 2927,2113 2953,2113 2978,2114 3004,2115 3029,2116 3055,2117 3080,2120 3106,2123 3132,2126 3149,2042 3106,2063 3080,2060 3055,2057 3029,2056 3004,2055 2978,2054 2953,2053 2927,2053 2901,2053 2876,2053 2850,2052 2825,2052 2793,2026 1043,1994"/>
+                <Baseline points="1043,2106 2799,2091 2825,2092 2850,2092 2876,2093 2901,2093 2927,2093 2953,2093 2978,2094 3004,2095 3029,2096 3055,2097 3080,2100 3106,2103 3132,2106"/>
+                <TextEquiv>
+                    <Unicode>nach send Bartholomeus, des heiligen zwelfboten tag. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir purgermeister, der rat, die schepffen, die hantwerkmeister und die purger gemeinlich der stat zu Eger veriehen und &#xD;
+tunt kunt offenlich mit disem brif allen den, die in sehen oder horen lesen, wan der allerdurchleuchtigst furste, unser genediger &#xD;
+herre, Romischer kunig Karel, zu allen ziten merer des reichs und kunig zu Behem, uns geboten hat und zu uns dar umb &#xD;
+den edeln hern Russen von Lutitz gesant hat, daz wir sinem erstgebornem sun, dem hochgeborn fursten, unserm herren herren Wentz¬&#xD;
+lawen hulden, geloben und sweren scholden, daz selb unsers herren gebote, haben wir mit getrewer gehorsam angesehen, als wir allzit &#xD;
+nach sinem willen und gebote tun wellen getrewlich und unverdrozzenlich, nach aller unserr macht und da von haben wir fur &#xD;
+uns, unser erben und nachkomen mit wolbedachtem mut, mit gantzem rat, mit rechter wizzen und mit guten willen zu einem &#xD;
+rehten pfande, als wir von dem heiligen Romischen reich gein Behem versetzt sein, und als wir dem obgenanten unserm herren, kunig &#xD;
+Kareln, unser brif dar uber vormals geben haben, des selben unsers herren, erstgebornem sun, unserm vorbenanten herren herren Wentz¬&#xD;
+lawen gehuldet, gelobt und gesworn hulden, geloben und sweren mit der bescheidenheit, ob sins vorgenanten vater unsers &#xD;
+herren herren KareIs niht wer des Got niht welle dem selben unserm jungen herren herren Wentzlawen, und die weil er zu &#xD;
+sinen jaren der vernunft niht komen ist, sinem furmunde und pfleger an siner stat oder ob sein niht wer, sinem eldsten &#xD;
+bruder, dar nach mit guten trewen on geverde, getrewe, gehorsam und untertenich zu sein, als unserm rehten herren zu aller zit &#xD;
+in der vorbeschriben weis, als wir uns gein, unserm oftgenanten herren herren Kareln mit hulden, aiden, gelubden und brifen &#xD;
+emals verbunden und verstrickt haben. Mit urkunde ditzs brifs, versigelt mit unser stat insigel, der geben ist zu Eger, do &#xD;
+man zalt von Cristus geburte dreuczehenhundert jar dar nach in dem funfczigstem jar des nehsten donerstags &#xD;
+nach send Bartholomeus, des heiligen zwelfboten tag. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

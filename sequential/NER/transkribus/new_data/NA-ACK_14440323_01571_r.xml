@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-12T11:03:18.557+02:00</Created>
+        <LastChange>2019-11-24T17:39:59.809+01:00</LastChange>
+        <TranskribusMetadata docId="209353" pageId="8952641" pageNr="1" tsid="19798236" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=LXPUNXMRCUFCVNRGJJUPWRNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHXTPGSMVTZKNGKLXLIJHDMD" imageId="5793236"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14440323_01571_r.jpg" imageWidth="6577" imageHeight="4622">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618473591" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="684,673 700,2507 4194,2512 4194,689"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:29;} place {offset:23; length:9;}">
+                <Coords points="736,1692 1065,1677 1096,1259 1475,1234 1624,1232 1773,1231 1922,1230 2071,1230 2220,1230 2369,1230 2518,1231 2667,1231 2816,1233 2965,1234 3114,1236 3263,1238 3412,1240 3561,1242 3710,1244 3859,1246 4009,1249 4009,1195 3859,1192 3710,1190 3561,1188 3412,1186 3263,1184 3114,1182 2965,1180 2816,1179 2667,1177 2518,1177 2369,1176 2220,1176 2071,1176 1922,1176 1773,1177 1624,1178 1475,1180 1478,684 1243,684 741,689"/>
+                <Baseline points="1018,1228 1167,1225 1316,1222 1465,1221 1614,1219 1763,1218 1912,1217 2061,1217 2210,1217 2359,1217 2508,1218 2657,1218 2806,1220 2955,1221 3104,1223 3253,1225 3402,1227 3551,1229 3700,1231 3849,1233 3999,1236"/>
+                <TextEquiv>
+                    <Unicode>Ja Hanussek Fferidan z Przietoky wyznawam tiemto listem obecznie przedewssemi, ktoz gey czisti nebo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:90; length:9; continued:true;}">
+                <Coords points="1090,1316 1231,1315 1373,1314 1515,1313 1656,1312 1798,1312 1940,1311 2081,1311 2223,1311 2365,1311 2507,1311 2648,1312 2790,1312 2932,1312 3073,1313 3215,1314 3357,1314 3498,1315 3640,1316 3782,1317 3924,1318 3924,1266 3782,1265 3640,1264 3498,1263 3357,1262 3215,1262 3073,1261 2932,1260 2790,1260 2648,1260 2507,1259 2365,1259 2223,1259 2081,1259 1940,1259 1798,1260 1656,1260 1515,1261 1373,1262 1231,1263 1090,1264"/>
+                <Baseline points="1090,1299 1231,1298 1373,1297 1515,1296 1656,1295 1798,1295 1940,1294 2081,1294 2223,1294 2365,1294 2507,1294 2648,1295 2790,1295 2932,1295 3073,1296 3215,1297 3357,1297 3498,1298 3640,1299 3782,1300 3924,1301"/>
+                <TextEquiv>
+                    <Unicode>cztucz slysseti budu, tak iakoz sem udielal list s peczetmi wisutymi urozenych panow pana Hincze z </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:11; continued:true;} place {offset:0; length:11;} person {offset:18; length:18;} place {offset:28; length:8;} person {offset:43; length:13;} place {offset:50; length:6;} person {offset:79; length:17; continued:true;} place {offset:91; length:5; continued:true;}">
+                <Coords points="1071,1391 1216,1389 1362,1387 1507,1386 1653,1384 1799,1384 1944,1383 2090,1383 2235,1383 2381,1383 2527,1384 2672,1384 2818,1385 2963,1386 3109,1386 3255,1387 3400,1387 3546,1388 3691,1388 3837,1389 3983,1389 3983,1337 3837,1337 3691,1336 3546,1336 3400,1335 3255,1335 3109,1334 2963,1334 2818,1333 2672,1332 2527,1332 2381,1331 2235,1331 2090,1331 1944,1331 1799,1332 1653,1332 1507,1334 1362,1335 1216,1337 1071,1339"/>
+                <Baseline points="1071,1374 1216,1372 1362,1370 1507,1369 1653,1367 1799,1367 1944,1366 2090,1366 2235,1366 2381,1366 2527,1367 2672,1367 2818,1368 2963,1369 3109,1369 3255,1370 3400,1370 3546,1371 3691,1371 3837,1372 3983,1372"/>
+                <TextEquiv>
+                    <Unicode>Pirgssteyna, pana Girzika z Cunstatu, pana Jana z Suticz a slowutnych panossii Miculasse z Such¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:0; length:4; continued:true;} place {offset:0; length:4; continued:true;} person {offset:7; length:15;} place {offset:15; length:7;}">
+                <Coords points="1093,1463 1236,1462 1379,1462 1522,1461 1665,1461 1808,1461 1951,1461 2095,1461 2238,1461 2381,1461 2524,1461 2667,1462 2810,1462 2953,1462 3097,1463 3240,1463 3383,1463 3526,1464 3669,1464 3812,1465 3956,1465 3956,1411 3812,1411 3669,1410 3526,1410 3383,1409 3240,1409 3097,1409 2953,1408 2810,1408 2667,1408 2524,1407 2381,1407 2238,1407 2095,1407 1951,1407 1808,1407 1665,1407 1522,1407 1379,1408 1236,1408 1093,1409"/>
+                <Baseline points="1093,1445 1236,1444 1379,1444 1522,1443 1665,1443 1808,1443 1951,1443 2095,1443 2238,1443 2381,1443 2524,1443 2667,1444 2810,1444 2953,1444 3097,1445 3240,1445 3383,1445 3526,1446 3669,1446 3812,1447 3956,1447"/>
+                <TextEquiv>
+                    <Unicode>dola a Bazka z Nebowid wedle me peczeti, kterizto list swiedczii, na potwrzenie listow udielanych na </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:33; length:21;} place {offset:43; length:11;} person {offset:56; length:16;} place {offset:68; length:4;} person {offset:74; length:16;} place {offset:86; length:4;} person {offset:92; length:3; continued:true;}">
+                <Coords points="1081,1525 1253,1531 1395,1532 1537,1532 1679,1533 1821,1533 1963,1534 2105,1534 2247,1535 2389,1535 2531,1536 2673,1536 2815,1536 2957,1537 3099,1537 3241,1537 3383,1538 3525,1538 3667,1538 3809,1539 3951,1539 3951,1487 3809,1487 3667,1486 3525,1486 3383,1486 3241,1485 3099,1485 2957,1485 2815,1484 2673,1484 2531,1484 2389,1483 2247,1483 2105,1482 1963,1482 1821,1481 1679,1481 1537,1480 1395,1480 1253,1479 1081,1467"/>
+                <Baseline points="1111,1514 1253,1514 1395,1515 1537,1515 1679,1516 1821,1516 1963,1517 2105,1517 2247,1518 2389,1518 2531,1519 2673,1519 2815,1519 2957,1520 3099,1520 3241,1520 3383,1521 3525,1521 3667,1521 3809,1522 3951,1522"/>
+                <TextEquiv>
+                    <Unicode>diediny ode mne prodane opatrnym Wankowi z Czihelnicze, Michkowi od Hory, Zdenkowi od Hory, Mi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} person {offset:0; length:18; continued:true;} place {offset:9; length:9;} person {offset:20; length:18;} place {offset:31; length:7;} person {offset:40; length:23;} place {offset:53; length:10;}">
+                <Coords points="1091,1598 1256,1606 1399,1606 1542,1606 1684,1606 1827,1606 1970,1606 2112,1607 2255,1608 2398,1608 2541,1609 2683,1610 2826,1610 2969,1611 3111,1611 3254,1611 3397,1611 3539,1611 3682,1611 3825,1610 3968,1609 3968,1557 3825,1558 3682,1559 3539,1559 3397,1559 3254,1559 3111,1559 2969,1559 2826,1558 2683,1558 2541,1557 2398,1556 2255,1556 2112,1555 1970,1554 1827,1554 1684,1554 1542,1554 1399,1554 1256,1554 1086,1546"/>
+                <Baseline points="1114,1590 1256,1589 1399,1589 1542,1589 1684,1589 1827,1589 1970,1589 2112,1590 2255,1591 2398,1591 2541,1592 2683,1593 2826,1593 2969,1594 3111,1594 3254,1594 3397,1594 3539,1594 3682,1594 3825,1593 3968,1592"/>
+                <TextEquiv>
+                    <Unicode>kssowi z Przietoky, Wankowi od Holubow, Waczlawowi s Holczmarku, gimzto sem gie od prodal od die¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} place {offset:25; length:10;}">
+                <Coords points="1097,1676 1240,1678 1383,1678 1526,1679 1669,1680 1812,1681 1955,1682 2098,1683 2241,1684 2384,1684 2528,1685 2671,1686 2814,1686 2957,1687 3100,1687 3243,1688 3386,1688 3529,1688 3672,1689 3815,1689 3959,1690 3959,1636 3815,1635 3672,1635 3529,1634 3386,1634 3243,1634 3100,1633 2957,1633 2814,1632 2671,1632 2528,1631 2384,1630 2241,1630 2098,1629 1955,1628 1812,1627 1669,1626 1526,1625 1383,1624 1240,1624 1097,1622"/>
+                <Baseline points="1097,1658 1240,1660 1383,1660 1526,1661 1669,1662 1812,1663 1955,1664 2098,1665 2241,1666 2384,1666 2528,1667 2671,1668 2814,1668 2957,1669 3100,1669 3243,1670 3386,1670 3529,1670 3672,1671 3815,1671 3959,1672"/>
+                <TextEquiv>
+                    <Unicode>din dwora meho, tudiez w Przietocze, a to pod urok w prawo purkretnie, iakoz kazdy z nich nato list ma </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1099,1752 1241,1753 1384,1753 1526,1754 1669,1755 1812,1755 1954,1756 2097,1757 2239,1758 2382,1759 2525,1760 2667,1761 2810,1762 2952,1763 3095,1764 3238,1765 3380,1766 3523,1766 3665,1767 3808,1767 3951,1767 3951,1713 3808,1713 3665,1713 3523,1712 3380,1712 3238,1711 3095,1710 2952,1709 2810,1708 2667,1707 2525,1706 2382,1705 2239,1704 2097,1703 1954,1702 1812,1701 1669,1701 1526,1700 1384,1699 1241,1699 1099,1698"/>
+                <Baseline points="1099,1734 1241,1735 1384,1735 1526,1736 1669,1737 1812,1737 1954,1738 2097,1739 2239,1740 2382,1741 2525,1742 2667,1743 2810,1744 2952,1745 3095,1746 3238,1747 3380,1748 3523,1748 3665,1749 3808,1749 3951,1749"/>
+                <TextEquiv>
+                    <Unicode>zwlasstnii udielany s peczetmi dobrich lidii wedle me, zze sem w tom listu swrchugmenowanem potwrzu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} person {offset:8; length:6;}">
+                <Coords points="1096,1834 1240,1832 1384,1831 1528,1830 1672,1829 1816,1829 1960,1829 2104,1830 2248,1830 2392,1831 2536,1832 2680,1833 2824,1833 2968,1834 3112,1835 3256,1836 3400,1837 3544,1838 3688,1838 3832,1838 3976,1838 3976,1786 3832,1786 3688,1786 3544,1786 3400,1785 3256,1784 3112,1783 2968,1782 2824,1781 2680,1781 2536,1780 2392,1779 2248,1778 2104,1778 1960,1777 1816,1777 1672,1777 1528,1778 1384,1779 1240,1780 1096,1782"/>
+                <Baseline points="1096,1817 1240,1815 1384,1814 1528,1813 1672,1812 1816,1812 1960,1812 2104,1813 2248,1813 2392,1814 2536,1815 2680,1816 2824,1816 2968,1817 3112,1818 3256,1819 3400,1820 3544,1821 3688,1821 3832,1821 3976,1821"/>
+                <TextEquiv>
+                    <Unicode>gicziem Zdenka gmenowal take s urokem, a prodaw gemu k swobodstwii, protoz gei z toho napsanie tiemto </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1105,1905 1247,1904 1389,1903 1531,1903 1673,1903 1816,1903 1958,1903 2100,1903 2242,1904 2384,1904 2527,1905 2669,1906 2811,1907 2953,1908 3095,1909 3238,1910 3380,1911 3522,1913 3664,1914 3806,1915 3949,1916 3949,1864 3806,1863 3664,1862 3522,1861 3380,1859 3238,1858 3095,1857 2953,1856 2811,1855 2669,1854 2527,1853 2384,1852 2242,1852 2100,1851 1958,1851 1816,1851 1673,1851 1531,1851 1389,1851 1247,1852 1105,1853"/>
+                <Baseline points="1105,1888 1247,1887 1389,1886 1531,1886 1673,1886 1816,1886 1958,1886 2100,1886 2242,1887 2384,1887 2527,1888 2669,1889 2811,1890 2953,1891 3095,1892 3238,1893 3380,1894 3522,1896 3664,1897 3806,1898 3949,1899"/>
+                <TextEquiv>
+                    <Unicode>listem quittugi a mocznie prazna propusstiem, tak aby on tiem napsanim wniczemz honien nebyl, ani </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1099,1976 1241,1976 1384,1976 1527,1976 1670,1976 1813,1976 1955,1976 2098,1977 2241,1977 2384,1978 2527,1978 2669,1979 2812,1979 2955,1980 3098,1981 3241,1982 3383,1983 3526,1985 3669,1986 3812,1987 3955,1989 3955,1937 3812,1935 3669,1934 3526,1933 3383,1931 3241,1930 3098,1929 2955,1928 2812,1927 2669,1927 2527,1926 2384,1926 2241,1925 2098,1925 1955,1924 1813,1924 1670,1924 1527,1924 1384,1924 1241,1924 1099,1924"/>
+                <Baseline points="1099,1959 1241,1959 1384,1959 1527,1959 1670,1959 1813,1959 1955,1959 2098,1960 2241,1960 2384,1961 2527,1961 2669,1962 2812,1962 2955,1963 3098,1964 3241,1965 3383,1966 3526,1968 3669,1969 3812,1970 3955,1972"/>
+                <TextEquiv>
+                    <Unicode>mnie czo winowat platiti byl kromie toho, czoz sie gedne cztwrti dotycze, nanyz ma zwlasstii zapis, s kte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1089,2047 1232,2048 1375,2048 1518,2049 1662,2049 1805,2050 1948,2050 2091,2051 2235,2051 2378,2052 2521,2053 2664,2054 2808,2055 2951,2056 3094,2058 3237,2059 3381,2061 3524,2063 3667,2066 3810,2069 3954,2072 3954,2020 3810,2017 3667,2014 3524,2011 3381,2009 3237,2007 3094,2006 2951,2004 2808,2003 2664,2002 2521,2001 2378,2000 2235,1999 2091,1999 1948,1998 1805,1998 1662,1997 1518,1997 1375,1996 1232,1996 1089,1995"/>
+                <Baseline points="1089,2030 1232,2031 1375,2031 1518,2032 1662,2032 1805,2033 1948,2033 2091,2034 2235,2034 2378,2035 2521,2036 2664,2037 2808,2038 2951,2039 3094,2041 3237,2042 3381,2044 3524,2046 3667,2049 3810,2052 3954,2055"/>
+                <TextEquiv>
+                    <Unicode>rez mi platiti ma ssest a puol kopy grossuow uroka rocznieho, to gest przikazdem urocze osmnadczte grossuow, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1095,2127 1240,2125 1385,2125 1531,2124 1676,2123 1821,2123 1967,2123 2112,2123 2257,2124 2403,2125 2548,2126 2693,2127 2839,2128 2984,2130 3129,2131 3275,2133 3420,2135 3565,2136 3711,2139 3856,2141 4002,2143 4002,2089 3856,2087 3711,2085 3565,2082 3420,2081 3275,2079 3129,2077 2984,2076 2839,2074 2693,2073 2548,2072 2403,2071 2257,2070 2112,2069 1967,2069 1821,2069 1676,2069 1531,2070 1385,2071 1240,2071 1095,2073"/>
+                <Baseline points="1095,2109 1240,2107 1385,2107 1531,2106 1676,2105 1821,2105 1967,2105 2112,2105 2257,2106 2403,2107 2548,2108 2693,2109 2839,2110 2984,2112 3129,2113 3275,2115 3420,2117 3565,2118 3711,2121 3856,2123 4002,2125"/>
+                <TextEquiv>
+                    <Unicode>iakoz ten list swiedczii nato udielany. A toho na swiedomie swu sem wlastni peczet dobrowolnie prziwie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} person {offset:76; length:17;} place {offset:84; length:9;} person {offset:95; length:9; continued:true;}">
+                <Coords points="1111,2199 1254,2198 1398,2198 1541,2198 1685,2198 1829,2198 1972,2199 2116,2199 2259,2200 2403,2201 2547,2202 2690,2204 2834,2205 2977,2207 3121,2208 3265,2210 3408,2211 3552,2213 3695,2214 3839,2215 3983,2217 3983,2163 3839,2161 3695,2160 3552,2159 3408,2157 3265,2156 3121,2154 2977,2153 2834,2151 2690,2150 2547,2148 2403,2147 2259,2146 2116,2145 1972,2145 1829,2144 1685,2144 1541,2144 1398,2144 1254,2144 1111,2145"/>
+                <Baseline points="1111,2181 1254,2180 1398,2180 1541,2180 1685,2180 1829,2180 1972,2181 2116,2181 2259,2182 2403,2183 2547,2184 2690,2186 2834,2187 2977,2189 3121,2190 3265,2192 3408,2193 3552,2195 3695,2196 3839,2197 3983,2199"/>
+                <TextEquiv>
+                    <Unicode>sil k tomuto listu. A pro lepssii gistotu prziprosilsem slowutnych panossii Petra z Miekowicz, Pertolta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} person {offset:0; length:9; continued:true;} place {offset:2; length:7;} person {offset:12; length:22;} place {offset:26; length:8;}">
+                <Coords points="1103,2278 1245,2274 1387,2271 1529,2269 1672,2268 1814,2267 1956,2267 2098,2268 2241,2269 2383,2270 2525,2272 2667,2273 2810,2275 2952,2277 3094,2279 3236,2281 3379,2283 3521,2284 3663,2285 3805,2285 3948,2285 3948,2234 3805,2234 3663,2234 3521,2233 3379,2232 3236,2230 3094,2228 2952,2226 2810,2224 2667,2222 2525,2221 2383,2219 2241,2218 2098,2217 1956,2216 1814,2216 1672,2217 1529,2218 1387,2220 1245,2223 1103,2227"/>
+                <Baseline points="1103,2261 1245,2257 1387,2254 1529,2252 1672,2251 1814,2250 1956,2250 2098,2251 2241,2252 2383,2253 2525,2255 2667,2256 2810,2258 2952,2260 3094,2262 3236,2264 3379,2266 3521,2267 3663,2268 3805,2268 3948,2268"/>
+                <TextEquiv>
+                    <Unicode>z Mezneho a Jana Konika z Dluhewsy, aby take wedle mne a k me prosbie na swiedomie swe peczeti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} date {offset:42; length:60; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1099,2346 1241,2344 1384,2342 1527,2341 1670,2341 1813,2341 1955,2341 2098,2342 2241,2343 2384,2345 2527,2347 2669,2348 2812,2350 2955,2352 3098,2354 3241,2357 3383,2359 3526,2361 3669,2363 3812,2365 3955,2366 3955,2315 3812,2314 3669,2312 3526,2310 3383,2308 3241,2306 3098,2303 2955,2301 2812,2299 2669,2297 2527,2296 2384,2294 2241,2292 2098,2291 1955,2290 1813,2290 1670,2290 1527,2290 1384,2291 1241,2293 1099,2295"/>
+                <Baseline points="1099,2329 1241,2327 1384,2325 1527,2324 1670,2324 1813,2324 1955,2324 2098,2325 2241,2326 2384,2328 2527,2330 2669,2331 2812,2333 2955,2335 3098,2337 3241,2340 3383,2342 3526,2344 3669,2346 3812,2348 3955,2349"/>
+                <TextEquiv>
+                    <Unicode>prziwiesili k tomuto listu, genz gest dan letha od narozenie syna Bozieho tisiczieho cztyrzsteho czty¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} date {offset:0; length:65; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1107,2418 1209,2416 1311,2415 1413,2414 1515,2413 1617,2413 1719,2413 1822,2413 1924,2413 2026,2414 2128,2415 2230,2416 2332,2417 2434,2418 2537,2420 2639,2421 2741,2423 2843,2425 2945,2426 3047,2428 3150,2430 3150,2378 3047,2376 2945,2374 2843,2373 2741,2371 2639,2369 2537,2368 2434,2366 2332,2365 2230,2364 2128,2363 2026,2362 1924,2361 1822,2361 1719,2361 1617,2361 1515,2361 1413,2362 1311,2363 1209,2364 1107,2366"/>
+                <Baseline points="1107,2401 1209,2399 1311,2398 1413,2397 1515,2396 1617,2396 1719,2396 1822,2396 1924,2396 2026,2397 2128,2398 2230,2399 2332,2400 2434,2401 2537,2403 2639,2404 2741,2406 2843,2408 2945,2409 3047,2411 3150,2413"/>
+                <TextEquiv>
+                    <Unicode>rzidczateho a cztwrteho w pondieli przed matky Bozie zwiestowanim. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Hanussek Fferidan z Przietoky wyznawam tiemto listem obecznie przedewssemi, ktoz gey czisti nebo &#xD;
+cztucz slysseti budu, tak iakoz sem udielal list s peczetmi wisutymi urozenych panow pana Hincze z &#xD;
+Pirgssteyna, pana Girzika z Cunstatu, pana Jana z Suticz a slowutnych panossii Miculasse z Such¬&#xD;
+dola a Bazka z Nebowid wedle me peczeti, kterizto list swiedczii, na potwrzenie listow udielanych na &#xD;
+diediny ode mne prodane opatrnym Wankowi z Czihelnicze, Michkowi od Hory, Zdenkowi od Hory, Mi¬&#xD;
+kssowi z Przietoky, Wankowi od Holubow, Waczlawowi s Holczmarku, gimzto sem gie od prodal od die¬&#xD;
+din dwora meho, tudiez w Przietocze, a to pod urok w prawo purkretnie, iakoz kazdy z nich nato list ma &#xD;
+zwlasstnii udielany s peczetmi dobrich lidii wedle me, zze sem w tom listu swrchugmenowanem potwrzu¬&#xD;
+gicziem Zdenka gmenowal take s urokem, a prodaw gemu k swobodstwii, protoz gei z toho napsanie tiemto &#xD;
+listem quittugi a mocznie prazna propusstiem, tak aby on tiem napsanim wniczemz honien nebyl, ani &#xD;
+mnie czo winowat platiti byl kromie toho, czoz sie gedne cztwrti dotycze, nanyz ma zwlasstii zapis, s kte¬&#xD;
+rez mi platiti ma ssest a puol kopy grossuow uroka rocznieho, to gest przikazdem urocze osmnadczte grossuow, &#xD;
+iakoz ten list swiedczii nato udielany. A toho na swiedomie swu sem wlastni peczet dobrowolnie prziwie¬&#xD;
+sil k tomuto listu. A pro lepssii gistotu prziprosilsem slowutnych panossii Petra z Miekowicz, Pertolta &#xD;
+z Mezneho a Jana Konika z Dluhewsy, aby take wedle mne a k me prosbie na swiedomie swe peczeti &#xD;
+prziwiesili k tomuto listu, genz gest dan letha od narozenie syna Bozieho tisiczieho cztyrzsteho czty¬&#xD;
+rzidczateho a cztwrteho w pondieli przed matky Bozie zwiestowanim. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

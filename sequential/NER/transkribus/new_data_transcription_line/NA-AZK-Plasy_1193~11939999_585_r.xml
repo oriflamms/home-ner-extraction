@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-08-29T11:30:25.104+02:00</Created>
+        <LastChange>2020-02-27T15:05:00.757+00:00</LastChange>
+        <TranskribusMetadata docId="202279" pageId="8454907" pageNr="1" tsid="19869846" status="IN_PROGRESS" userId="48350" imgUrl="https://files.transkribus.eu/Get?id=CHLAXLYRYWJEMCNOJLKEUQRA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XAQTLYZVYFUUARMCDWHAPNSG" imageId="5351319"/>
+    </Metadata>
+    <Page imageFilename="NA-AZK-Plasy_1193~11939999_585_r.jpg" imageWidth="3000" imageHeight="2115">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579617809059" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="214,188 214,1009 2338,1009 2338,188"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:71; length:8;} person {offset:81; length:9;} place {offset:119; length:5;}">
+                <Coords points="223,256 328,254 433,253 539,252 644,252 749,252 855,253 960,254 1065,255 1171,256 1276,258 1381,260 1487,262 1592,264 1697,266 1803,269 1908,271 2013,273 2119,276 2224,278 2330,280 2330,216 2224,214 2119,212 2013,209 1908,207 1803,205 1697,202 1592,200 1487,198 1381,196 1276,194 1171,192 1065,191 960,190 855,189 749,188 644,188 539,188 433,189 328,190 223,192"/>
+                <Baseline points="223,235 328,233 433,232 539,231 644,231 749,231 855,232 960,233 1065,234 1171,235 1276,237 1381,239 1487,241 1592,243 1697,245 1803,248 1908,250 2013,252 2119,255 2224,257 2330,259"/>
+                <TextEquiv>
+                    <Unicode>Notum sit omnis et fidelibus tam presentibus quam futuris, quod Ditricus, Dirsizlai filiis predium suum nomine Loman cum suis attinentiis consmare in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} place {offset:53; length:4;} person {offset:134; length:4; continued:true;}">
+                <Coords points="224,343 328,343 432,343 537,344 641,345 746,346 850,347 955,348 1059,349 1164,351 1268,352 1372,354 1477,356 1581,358 1686,360 1790,362 1895,364 1999,366 2104,368 2208,371 2313,374 2313,310 2208,307 2104,304 1999,302 1895,300 1790,298 1686,296 1581,294 1477,292 1372,290 1268,288 1164,287 1059,285 955,284 850,283 746,282 641,281 537,280 432,279 328,279 224,279"/>
+                <Baseline points="224,322 328,322 432,322 537,323 641,324 746,325 850,326 955,327 1059,328 1164,330 1268,331 1372,333 1477,335 1581,337 1686,339 1790,341 1895,343 1999,345 2104,347 2208,350 2313,353"/>
+                <TextEquiv>
+                    <Unicode>periculo mortis positus, nobis expi pauperibus in Plaz, pro remedio anime sue parentumque suorum contuleritur, aliquanto vel compe Sir¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:6; continued:true;} person {offset:10; length:6;}">
+                <Coords points="220,436 325,437 431,437 536,437 642,438 748,439 853,440 959,441 1065,442 1170,443 1276,445 1382,446 1487,448 1593,449 1699,451 1804,453 1910,455 2016,457 2121,459 2227,461 2333,464 2333,400 2227,397 2121,395 2016,393 1910,391 1804,389 1699,387 1593,385 1487,384 1382,382 1276,381 1170,379 1065,378 959,377 853,376 748,375 642,374 536,373 431,373 325,373 220,372"/>
+                <Baseline points="220,415 325,416 431,416 536,416 642,417 748,418 853,419 959,420 1065,421 1170,422 1276,424 1382,425 1487,427 1593,428 1699,430 1804,432 1910,434 2016,436 2121,438 2227,440 2333,443"/>
+                <TextEquiv>
+                    <Unicode>sizlao et Kuzone hoc impedientibus et veridicis relatoribus quasi crede nolentibus, cande eorum iuramento et nostria inter nos convencione¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} place {offset:48; length:8;} person {offset:124; length:11; continued:true;}">
+                <Coords points="214,524 319,525 425,526 530,528 636,529 741,530 847,532 952,533 1058,535 1163,536 1269,538 1374,540 1480,541 1585,543 1691,544 1796,546 1902,547 2007,549 2113,550 2218,551 2324,552 2324,488 2218,487 2113,486 2007,485 1902,483 1796,482 1691,480 1585,479 1480,477 1374,476 1269,474 1163,472 1058,471 952,469 847,468 741,466 636,465 530,464 425,462 319,461 214,460"/>
+                <Baseline points="214,503 319,504 425,505 530,507 636,508 741,509 847,511 952,512 1058,514 1163,515 1269,517 1374,519 1480,520 1585,522 1691,523 1796,525 1902,526 2007,528 2113,529 2218,530 2324,531"/>
+                <TextEquiv>
+                    <Unicode>facta viginti duarum marcarum et predio nostro thischde cum suis appendiciis addico, quasi concambium fecimus coram domino duce premu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:0; length:6; continued:true;} person {offset:10; length:32;} place {offset:10; length:8;} person {offset:89; length:7;}">
+                <Coords points="224,607 329,608 435,609 541,610 646,612 752,613 858,615 963,617 1069,619 1175,621 1281,622 1386,625 1492,627 1598,629 1703,630 1809,632 1915,634 2020,636 2126,637 2232,639 2338,640 2338,576 2232,575 2126,573 2020,572 1915,570 1809,568 1703,566 1598,565 1492,563 1386,561 1281,558 1175,557 1069,555 963,553 858,551 752,549 646,548 541,546 435,545 329,544 224,543"/>
+                <Baseline points="224,586 329,587 435,588 541,589 646,591 752,592 858,594 963,596 1069,598 1175,600 1281,601 1386,604 1492,606 1598,608 1703,609 1809,611 1915,613 2020,615 2126,616 2232,618 2338,619"/>
+                <TextEquiv>
+                    <Unicode>helone et Pragensis episo domino Henrico et ceteris primatibus terre et filiis ipsius dirici, consentientibus ob debitam dilectionem patris Cut¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} person {offset:104; length:3;} person {offset:109; length:6;} person {offset:117; length:9;}">
+                <Coords points="227,707 332,706 437,705 542,705 648,705 753,705 858,706 964,706 1069,708 1174,709 1280,711 1385,712 1490,714 1595,717 1701,719 1806,722 1911,725 2017,728 2122,731 2227,735 2333,738 2333,677 2227,674 2122,670 2017,667 1911,664 1806,661 1701,658 1595,656 1490,653 1385,651 1280,650 1174,648 1069,647 964,645 858,645 753,644 648,644 542,644 437,644 332,645 227,646"/>
+                <Baseline points="227,687 332,686 437,685 542,685 648,685 753,685 858,686 964,686 1069,688 1174,689 1280,691 1385,692 1490,694 1595,697 1701,699 1806,702 1911,705 2017,708 2122,711 2227,715 2333,718"/>
+                <TextEquiv>
+                    <Unicode>hec rata et inconvulsa in posterum permaneant, placuit hiis testibus confirmari, quorum nomina sunt hec, Ruz, Dirich, Dirsizlau,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:0; length:7;} person {offset:9; length:5;} person {offset:22; length:9;} person {offset:33; length:6;} person {offset:47; length:8;} person {offset:57; length:14;} place {offset:64; length:7;} person {offset:73; length:3;} person {offset:84; length:7;} person {offset:93; length:3;} person {offset:98; length:5;} person {offset:105; length:3;} person {offset:110; length:8;}">
+                <Coords points="228,795 333,797 439,798 544,800 650,801 755,802 861,804 966,805 1072,806 1177,807 1283,808 1388,809 1494,810 1599,811 1705,813 1810,814 1916,816 2021,817 2127,819 2232,821 2338,823 2338,760 2232,758 2127,756 2021,754 1916,753 1810,751 1705,750 1599,748 1494,747 1388,746 1283,745 1177,744 1072,743 966,742 861,741 755,739 650,738 544,737 439,735 333,734 228,732"/>
+                <Baseline points="228,774 333,776 439,777 544,779 650,780 755,781 861,783 966,784 1072,785 1177,786 1283,787 1388,788 1494,789 1599,790 1705,792 1810,793 1916,795 2021,796 2127,798 2232,800 2338,802"/>
+                <TextEquiv>
+                    <Unicode>protiwa. Ulricus filius, Zlauwathe. Herman filius Wilhelmi, lan de na tuniz, ben fratur, Budiwoi, Ota, Wisec, Ota, Buguzlau,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} person {offset:0; length:5;} person {offset:7; length:6;} person {offset:15; length:5;} person {offset:22; length:4;} person {offset:28; length:5;}">
+                <Coords points="230,881 334,883 439,885 544,887 649,889 754,891 858,893 963,894 1068,896 1173,897 1278,899 1382,900 1487,901 1592,903 1697,904 1802,905 1906,906 2011,908 2116,909 2221,911 2326,912 2326,849 2221,848 2116,846 2011,845 1906,843 1802,842 1697,841 1592,840 1487,838 1382,837 1278,836 1173,834 1068,833 963,831 858,830 754,828 649,826 544,824 439,822 334,820 230,818"/>
+                <Baseline points="230,860 334,862 439,864 544,866 649,868 754,870 858,872 963,873 1068,875 1173,876 1278,878 1382,879 1487,880 1592,882 1697,883 1802,884 1906,885 2011,887 2116,888 2221,890 2326,891"/>
+                <TextEquiv>
+                    <Unicode>worta, Otewec, Ugolt. Zuda, pocius. Si quam in futurum eccleastica seclarisue persona sub factum irritum facere temptaverit, vinculo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} date {offset:55; length:60;year:0; day:0; month:0;}">
+                <Coords points="232,980 334,983 436,985 538,986 640,988 742,989 844,991 946,992 1048,993 1150,994 1252,995 1354,996 1456,997 1558,998 1660,999 1762,1000 1864,1002 1966,1003 2068,1005 2170,1007 2273,1009 2273,945 2170,943 2068,941 1966,939 1864,938 1762,936 1660,935 1558,934 1456,933 1354,932 1252,931 1150,930 1048,929 946,928 844,927 742,925 640,924 538,922 436,921 334,919 232,916"/>
+                <Baseline points="232,959 334,962 436,964 538,965 640,967 742,968 844,970 946,971 1048,972 1150,973 1252,974 1354,975 1456,976 1558,977 1660,978 1762,979 1864,981 1966,982 2068,984 2170,986 2273,988"/>
+                <TextEquiv>
+                    <Unicode>anathematis se innodatum noverit, facta sunt autem hec anno Dominice incarnationis MoCoXCoVIo, indictione undecima¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Notum sit omnis et fidelibus tam presentibus quam futuris, quod Ditricus, Dirsizlai filiis predium suum nomine Loman cum suis attinentiis consmare in
+periculo mortis positus, nobis expi pauperibus in Plaz, pro remedio anime sue parentumque suorum contuleritur, aliquanto vel compe Sir¬
+sizlao et Kuzone hoc impedientibus et veridicis relatoribus quasi crede nolentibus, cande eorum iuramento et nostria inter nos convencione¬
+facta viginti duarum marcarum et predio nostro thischde cum suis appendiciis addico, quasi concambium fecimus coram domino duce premu¬
+helone et Pragensis episo domino Henrico et ceteris primatibus terre et filiis ipsius dirici, consentientibus ob debitam dilectionem patris Cut¬
+hec rata et inconvulsa in posterum permaneant, placuit hiis testibus confirmari, quorum nomina sunt hec, Ruz, Dirich, Dirsizlau,
+protiwa. Ulricus filius, Zlauwathe. Herman filius Wilhelmi, lan de na tuniz, ben fratur, Budiwoi, Ota, Wisec, Ota, Buguzlau,
+worta, Otewec, Ugolt. Zuda, pocius. Si quam in futurum eccleastica seclarisue persona sub factum irritum facere temptaverit, vinculo¬
+anathematis se innodatum noverit, facta sunt autem hec anno Dominice incarnationis MoCoXCoVIo, indictione undecima¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

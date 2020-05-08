@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.1
+TRP</Creator>
+        <Created>2019-08-09T12:35:12.201+02:00</Created>
+        <LastChange>2019-12-02T21:54:28.571+01:00</LastChange>
+        <TranskribusMetadata docId="193614" pageId="7641532" pageNr="1" tsid="20188335" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=BZVUPADZPNIEYLNCJIWZYSAM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OOECMBIRFLDCDFCUWBXSBHLS" imageId="4625765"/>
+    </Metadata>
+    <Page imageFilename="NA-AZK-Zderaz_14000910_1823_r.jpg" imageWidth="3000" imageHeight="1973">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618342928" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="307,338 331,1170 2028,1163 2004,331"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:34;} place {offset:29; length:8;}">
+                <Coords points="348,544 381,542 402,447 618,452 697,452 775,451 854,451 933,451 1012,450 1090,450 1169,450 1248,450 1327,451 1405,452 1484,453 1563,454 1642,457 1720,459 1799,463 1878,467 1990,473 1996,416 1884,410 1801,407 1722,403 1642,427 1562,399 1502,389 1423,388 1340,391 1261,390 1169,420 1090,420 1012,420 916,404 867,399 788,399 736,384 619,414 541,384 412,380 306,382"/>
+                <Baseline points="395,445 462,444 539,442 618,442 697,442 775,441 854,441 933,441 1012,440 1090,440 1169,440 1248,440 1327,441 1405,442 1484,443 1563,444 1642,447 1720,449 1799,453 1878,457 1957,462"/>
+                <TextEquiv>
+                    <Unicode>Ja Martin, rzeczeni Rotleb z Kolodieg, wiznawam tyemto listem wssem, ktoz gey czisti nebo slissyeti bu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:73; length:29; continued:true;}">
+                <Coords points="406,495 483,495 561,495 639,495 717,495 795,495 872,495 950,496 1028,496 1106,496 1184,497 1261,497 1339,498 1417,499 1495,500 1573,502 1650,503 1728,505 1806,506 1884,508 1995,509 1995,479 1884,478 1806,476 1728,475 1650,473 1573,472 1495,470 1417,469 1339,468 1261,467 1184,467 1106,466 1028,466 950,466 872,465 795,465 717,465 639,465 561,465 483,465 392,452"/>
+                <Baseline points="406,487 483,485 561,485 639,485 717,485 795,485 872,485 950,486 1028,486 1106,486 1184,487 1261,487 1339,488 1417,489 1495,490 1573,492 1650,493 1728,495 1806,496 1884,498 1951,504"/>
+                <TextEquiv>
+                    <Unicode>du, ze o ti pastwiny, o kterez sem sye bil wstrczil aprzy miel s kniezem Walentinem probosstem claste¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:39; continued:true;} place {offset:70; length:26; continued:true;}">
+                <Coords points="407,533 485,534 563,534 642,535 720,536 799,536 877,537 955,537 1034,538 1112,539 1191,539 1269,540 1347,541 1426,542 1504,543 1583,544 1661,545 1739,547 1818,548 1896,550 1975,552 1975,522 1896,520 1818,518 1739,517 1661,515 1583,514 1504,513 1426,512 1347,511 1269,510 1191,509 1112,509 1034,508 955,507 877,507 799,506 720,506 642,505 563,504 485,504 407,503"/>
+                <Baseline points="407,523 485,524 563,524 642,525 720,526 799,526 877,527 955,527 1034,528 1112,529 1191,529 1269,530 1347,531 1426,532 1504,533 1583,534 1661,535 1739,537 1818,538 1896,540 1975,542"/>
+                <TextEquiv>
+                    <Unicode>ra sderaskeho na nowem miestie v Prazie, gmenowitie gessto lezie mezy hagem, gessto slussye k U¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} place {offset:0; length:5; continued:true;} place {offset:13; length:20;}">
+                <Coords points="403,572 480,572 558,573 635,573 713,574 790,575 868,576 945,577 1023,579 1100,580 1178,581 1256,583 1333,585 1411,586 1488,588 1566,590 1643,591 1721,593 1798,595 1876,597 1990,595 1990,565 1876,567 1798,565 1721,563 1643,561 1566,560 1488,558 1411,556 1333,555 1256,553 1178,551 1100,550 1023,549 945,547 868,546 790,545 713,544 635,543 558,543 480,542 403,542"/>
+                <Baseline points="403,562 480,562 558,563 635,563 713,564 790,565 868,566 945,567 1023,569 1100,570 1178,571 1256,573 1333,575 1411,576 1488,578 1566,580 1643,581 1721,583 1798,585 1876,587 1962,591"/>
+                <TextEquiv>
+                    <Unicode>gezdu a mezy hagem slawieticzskim po polich ugezdskich, na kterezto pastwyny ya y mogy lyde zho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:48; length:38;} place {offset:59; length:9;} person {offset:89; length:5; continued:true;}">
+                <Coords points="405,613 494,612 572,612 651,612 729,613 808,614 886,615 964,617 1043,618 1121,620 1200,622 1278,624 1356,626 1435,628 1513,631 1592,633 1670,636 1748,638 1827,640 1905,642 1984,645 1984,615 1905,612 1827,610 1748,608 1670,606 1592,603 1513,601 1435,598 1356,596 1278,594 1200,592 1121,590 1043,588 964,587 886,585 808,584 729,583 651,582 572,582 494,582 404,574"/>
+                <Baseline points="409,603 494,602 572,602 651,602 729,603 808,604 886,605 964,607 1043,608 1121,610 1200,612 1278,614 1356,616 1435,618 1513,621 1592,623 1670,626 1748,628 1827,630 1905,632 1984,635"/>
+                <TextEquiv>
+                    <Unicode>ly tahly su, sye o to sem urozenymy muzy a pany Dywissem z Talmberka purkraby prazskim a Hanz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} person {offset:0; length:18; continued:true;} place {offset:14; length:4;} person {offset:21; length:38;} place {offset:33; length:8;}">
+                <Coords points="414,654 493,652 572,652 651,652 730,652 809,653 888,654 967,655 1046,657 1125,659 1204,661 1283,663 1362,666 1441,668 1520,671 1599,674 1678,676 1757,679 1836,682 1915,684 1994,687 1994,657 1915,654 1836,652 1757,649 1678,646 1599,644 1520,641 1441,638 1362,636 1283,633 1204,631 1125,629 1046,627 967,625 888,624 809,623 730,622 651,622 572,622 493,622 414,624"/>
+                <Baseline points="414,644 493,642 572,642 651,642 730,642 809,643 888,644 967,645 1046,647 1125,649 1204,651 1283,653 1362,656 1441,658 1520,661 1599,664 1678,666 1757,669 1836,672 1915,674 1994,677"/>
+                <TextEquiv>
+                    <Unicode>lem Kokotem z Dube a Przibikem z Wisoczan, mocznymy ubrmany, mezy namy widanymy prziesuzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="418,688 496,689 574,691 653,693 731,694 809,695 888,697 966,698 1044,700 1123,701 1201,703 1279,705 1358,706 1436,709 1514,711 1593,713 1671,716 1749,719 1828,723 1906,726 2008,732 2008,702 1906,696 1828,693 1749,689 1671,686 1593,683 1514,681 1436,679 1358,676 1279,675 1201,673 1123,671 1044,670 966,668 888,667 809,665 731,664 653,663 574,661 496,659 418,658"/>
+                <Baseline points="418,678 496,679 574,681 653,683 731,684 809,685 888,687 966,688 1044,690 1123,691 1201,693 1279,695 1358,696 1436,699 1514,701 1593,703 1671,706 1749,709 1828,713 1906,716 1957,720"/>
+                <TextEquiv>
+                    <Unicode>swu dobru woly a podwolenym tak, ze su mezy nimi a gym, kniezem probosstem a geho klassterem podo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="422,721 499,726 576,730 654,734 731,737 809,739 886,742 964,744 1041,746 1119,747 1196,749 1273,751 1351,752 1428,754 1506,756 1583,759 1661,761 1738,764 1816,768 1893,772 1971,777 1971,747 1893,742 1816,738 1738,734 1661,731 1583,729 1506,726 1428,724 1351,722 1273,721 1196,719 1119,717 1041,716 964,714 886,712 809,709 731,707 654,704 576,700 499,696 422,691"/>
+                <Baseline points="422,711 499,716 576,720 654,724 731,727 809,729 886,732 964,734 1041,736 1119,737 1196,739 1273,741 1351,742 1428,744 1506,746 1583,749 1661,751 1738,754 1816,758 1893,762 1971,767"/>
+                <TextEquiv>
+                    <Unicode>brem swyedomy y po listech nalezly y przessedyly, ze ya any mogy erbowe ... buduczy any ty mogy lyde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} place {offset:2; length:4;}">
+                <Coords points="414,764 492,768 570,772 648,775 726,778 805,781 883,783 961,786 1039,789 1117,791 1196,793 1274,795 1352,798 1430,800 1508,803 1587,805 1665,808 1743,811 1821,814 1899,818 1978,822 1978,792 1899,788 1821,784 1743,781 1665,778 1587,775 1508,773 1430,770 1352,768 1274,765 1196,763 1117,761 1039,759 961,756 883,753 805,751 726,748 648,745 570,742 492,738 414,734"/>
+                <Baseline points="414,754 492,758 570,762 648,765 726,768 805,771 883,773 961,776 1039,779 1117,781 1196,783 1274,785 1352,788 1430,790 1508,793 1587,795 1665,798 1743,801 1821,804 1899,808 1978,812"/>
+                <TextEquiv>
+                    <Unicode>z Holy, nemamy zadneho prawa k tyem pastwynam na polich ugiezdskich, dale mymo ten prziekop, gessto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} place {offset:79; length:6;}">
+                <Coords points="420,803 497,808 574,813 652,817 729,821 807,824 884,828 962,831 1039,833 1117,836 1194,839 1271,841 1349,844 1426,846 1504,849 1581,851 1659,855 1736,858 1814,861 1891,865 2001,867 2001,837 1891,835 1814,831 1736,828 1659,825 1581,821 1504,819 1426,816 1349,814 1271,811 1194,809 1117,806 1039,803 962,801 884,798 807,794 729,791 652,787 574,783 497,778 420,773"/>
+                <Baseline points="420,793 497,798 574,803 652,807 729,811 807,814 884,818 962,821 1039,823 1117,826 1194,829 1271,831 1349,834 1426,836 1504,839 1581,841 1659,845 1736,848 1814,851 1891,855 1969,859"/>
+                <TextEquiv>
+                    <Unicode>gest ryt mezy poly holskimy augezdskymy, mezy tyema hagyema, take ze ty lide z Ugesda oty pastwyny ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} place {offset:60; length:4;}">
+                <Coords points="416,846 493,850 570,854 647,857 724,861 801,865 878,868 956,872 1033,876 1110,879 1187,883 1264,886 1341,889 1418,892 1496,896 1573,899 1650,902 1727,905 1804,908 1881,911 1959,914 1959,884 1881,881 1804,878 1727,875 1650,872 1573,869 1496,866 1418,862 1341,859 1264,856 1187,853 1110,849 1033,846 956,842 878,838 801,835 724,831 647,827 570,824 493,820 416,816"/>
+                <Baseline points="416,836 493,840 570,844 647,847 724,851 801,855 878,858 956,862 1033,866 1110,869 1187,873 1264,876 1341,879 1418,882 1496,886 1573,889 1650,892 1727,895 1804,898 1881,901 1959,904"/>
+                <TextEquiv>
+                    <Unicode>gy prziede mnu y przied mymy buduczymy y przed mymy lidmy z Holy wiecznie prazdny byty, tak ze ty lide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} place {offset:2; length:7;}">
+                <Coords points="422,891 499,894 576,897 653,900 730,903 808,906 885,910 962,913 1039,917 1116,920 1194,924 1271,928 1348,931 1425,935 1502,938 1580,942 1657,945 1734,949 1811,952 1888,956 1966,959 1966,929 1888,926 1811,922 1734,919 1657,915 1580,912 1502,908 1425,905 1348,901 1271,898 1194,894 1116,890 1039,887 962,883 885,880 808,876 730,873 653,870 576,867 499,864 422,861"/>
+                <Baseline points="422,881 499,884 576,887 653,890 730,893 808,896 885,900 962,903 1039,907 1116,910 1194,914 1271,918 1348,921 1425,925 1502,928 1580,932 1657,935 1734,939 1811,942 1888,946 1966,949"/>
+                <TextEquiv>
+                    <Unicode>z Ugiezda budu moczy na tiech pastwinach oraty y syeti k swemu uzitku a na tom gym ya any mogy buduczi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="422,935 500,937 579,940 657,943 736,946 814,949 893,952 971,956 1050,960 1128,964 1207,967 1285,972 1364,975 1442,979 1521,984 1599,988 1678,992 1756,995 1835,999 1913,1003 2013,1007 2021,965 1921,961 1835,969 1756,965 1678,962 1599,958 1521,954 1442,949 1364,945 1285,942 1207,937 1128,934 1050,930 971,926 893,922 814,919 736,916 657,913 579,910 500,907 422,905"/>
+                <Baseline points="422,925 500,927 579,930 657,933 736,936 814,939 893,942 971,946 1050,950 1128,954 1207,957 1285,962 1364,965 1442,969 1521,974 1599,978 1678,982 1756,985 1835,989 1913,993 1992,997"/>
+                <TextEquiv>
+                    <Unicode>nemamy gym nikakz prziekazieti. A ten sem nalez y prziesuzeny dobrowolnie przigal y przygymam y pod¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="424,979 502,982 581,985 659,988 738,991 816,994 895,997 973,1001 1052,1004 1130,1008 1209,1011 1288,1016 1366,1020 1445,1024 1523,1028 1602,1032 1680,1037 1759,1041 1837,1046 1916,1051 2019,1054 2023,1017 1920,1014 1837,1016 1759,1011 1680,1007 1602,1002 1523,998 1445,994 1366,990 1288,986 1209,981 1130,978 1052,974 973,971 895,967 816,964 738,961 659,958 581,955 502,952 424,949"/>
+                <Baseline points="424,969 502,972 581,975 659,978 738,981 816,984 895,987 973,991 1052,994 1130,998 1209,1001 1288,1006 1366,1010 1445,1014 1523,1018 1602,1022 1680,1027 1759,1031 1837,1036 1916,1041 1995,1046"/>
+                <TextEquiv>
+                    <Unicode>wolugy sye y swe buduczie, ze o ty pastwy neymam wiecznie prawem any skutkem staty, ocz na tom nale¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="421,1030 498,1030 575,1031 653,1032 730,1034 808,1036 885,1038 962,1041 1040,1045 1117,1048 1195,1051 1272,1055 1349,1059 1427,1064 1504,1068 1582,1073 1659,1077 1736,1082 1814,1087 1891,1092 1969,1096 1969,1066 1891,1062 1814,1057 1736,1052 1659,1047 1582,1043 1504,1038 1427,1034 1349,1029 1272,1025 1195,1021 1117,1018 1040,1015 962,1011 885,1008 808,1006 730,1004 653,1002 575,1001 498,1000 421,1000"/>
+                <Baseline points="421,1020 498,1020 575,1021 653,1022 730,1024 808,1026 885,1028 962,1031 1040,1035 1117,1038 1195,1041 1272,1045 1349,1049 1427,1054 1504,1058 1582,1063 1659,1067 1736,1072 1814,1077 1891,1082 1969,1086"/>
+                <TextEquiv>
+                    <Unicode>zu a prziesuzeny dosty myety. A nato s dobru pamieti swu peczet, a k mey prosbye peczeti drziewepsanich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} date {offset:79; length:19; continued:true;year:0; day:0; month:0;}">
+                <Coords points="408,1075 486,1076 565,1077 643,1078 722,1080 800,1081 879,1083 957,1085 1036,1087 1114,1090 1193,1093 1272,1096 1350,1100 1429,1105 1507,1110 1586,1115 1664,1123 1743,1130 1821,1137 1900,1146 1979,1156 1979,1126 1900,1116 1821,1107 1743,1100 1664,1093 1586,1085 1507,1080 1429,1075 1350,1070 1272,1066 1193,1063 1114,1060 1036,1057 957,1055 879,1053 800,1051 722,1050 643,1048 565,1047 486,1046 408,1045"/>
+                <Baseline points="408,1065 486,1066 565,1067 643,1068 722,1070 800,1071 879,1073 957,1075 1036,1077 1114,1080 1193,1083 1272,1086 1350,1090 1429,1095 1507,1100 1586,1105 1664,1113 1743,1120 1821,1127 1900,1136 1979,1146"/>
+                <TextEquiv>
+                    <Unicode>panuow ubrmanow a smluwczy, na swiedomie k tomuto listu su prziwiesseny. A ten dan leta ot Bozieho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} date {offset:0; length:70; continued:true;year:0; day:0; month:0;} missing {offset:65; length:5;}">
+                <Coords points="418,1114 482,1116 546,1118 610,1120 674,1122 738,1124 802,1126 866,1128 930,1130 994,1133 1059,1135 1123,1137 1187,1140 1251,1143 1315,1145 1379,1148 1443,1151 1507,1154 1571,1158 1635,1161 1700,1164 1700,1134 1635,1131 1571,1128 1507,1124 1443,1121 1379,1118 1315,1115 1251,1113 1187,1110 1123,1107 1059,1105 994,1103 930,1100 866,1098 802,1096 738,1094 674,1092 610,1090 546,1088 482,1086 418,1084"/>
+                <Baseline points="418,1104 482,1106 546,1108 610,1110 674,1112 738,1114 802,1116 866,1118 930,1120 994,1123 1059,1125 1123,1127 1187,1130 1251,1133 1315,1135 1379,1138 1443,1141 1507,1144 1571,1148 1635,1151 1700,1154"/>
+                <TextEquiv>
+                    <Unicode>narozenye tyssicz cztirsteho, ten patek po sswietye kralewnye po (...).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ja Martin, rzeczeni Rotleb z Kolodieg, wiznawam tyemto listem wssem, ktoz gey czisti nebo slissyeti bu¬&#xD;
+du, ze o ti pastwiny, o kterez sem sye bil wstrczil aprzy miel s kniezem Walentinem probosstem claste¬&#xD;
+ra sderaskeho na nowem miestie v Prazie, gmenowitie gessto lezie mezy hagem, gessto slussye k U¬&#xD;
+gezdu a mezy hagem slawieticzskim po polich ugezdskich, na kterezto pastwyny ya y mogy lyde zho¬&#xD;
+ly tahly su, sye o to sem urozenymy muzy a pany Dywissem z Talmberka purkraby prazskim a Hanz¬&#xD;
+lem Kokotem z Dube a Przibikem z Wisoczan, mocznymy ubrmany, mezy namy widanymy prziesuzen&#xD;
+swu dobru woly a podwolenym tak, ze su mezy nimi a gym, kniezem probosstem a geho klassterem podo¬&#xD;
+brem swyedomy y po listech nalezly y przessedyly, ze ya any mogy erbowe ... buduczy any ty mogy lyde&#xD;
+z Holy, nemamy zadneho prawa k tyem pastwynam na polich ugiezdskich, dale mymo ten prziekop, gessto&#xD;
+gest ryt mezy poly holskimy augezdskymy, mezy tyema hagyema, take ze ty lide z Ugesda oty pastwyny ma¬&#xD;
+gy prziede mnu y przied mymy buduczymy y przed mymy lidmy z Holy wiecznie prazdny byty, tak ze ty lide&#xD;
+z Ugiezda budu moczy na tiech pastwinach oraty y syeti k swemu uzitku a na tom gym ya any mogy buduczi&#xD;
+nemamy gym nikakz prziekazieti. A ten sem nalez y prziesuzeny dobrowolnie przigal y przygymam y pod¬&#xD;
+wolugy sye y swe buduczie, ze o ty pastwy neymam wiecznie prawem any skutkem staty, ocz na tom nale¬&#xD;
+zu a prziesuzeny dosty myety. A nato s dobru pamieti swu peczet, a k mey prosbye peczeti drziewepsanich&#xD;
+panuow ubrmanow a smluwczy, na swiedomie k tomuto listu su prziwiesseny. A ten dan leta ot Bozieho&#xD;
+narozenye tyssicz cztirsteho, ten patek po sswietye kralewnye po (...).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

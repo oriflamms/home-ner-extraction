@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-22T14:22:08.698+02:00</Created>
+        <LastChange>2019-11-15T15:16:04.287+01:00</LastChange>
+        <TranskribusMetadata docId="186458" pageId="7435875" pageNr="1" tsid="19411652" status="IN_PROGRESS" userId="38723" imgUrl="https://files.transkribus.eu/Get?id=DZHURQQNMZTHUOCYTAVOLZQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLAQJMDGMUSBPIMRPDAFPDGA" imageId="4465662"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13490607_00331_r.jpg" imageWidth="6562" imageHeight="4610">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618055645" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="393,753 389,2120 4857,2116 4846,746"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} person {offset:4; length:29;} place {offset:23; length:10;}">
+                <Coords points="432,1341 619,1339 631,1073 1042,1084 1170,1086 1298,1088 1425,1089 1553,1090 1681,1089 1809,1089 1937,1088 2064,1087 2192,1086 2320,1085 2448,1084 2576,1083 2703,1082 2831,1081 2959,1081 3087,1081 4653,1097 4665,916 3094,916 2977,924 2855,924 2714,924 2577,924 2436,928 2315,920 2205,920 2123,916 2010,913 1892,920 1720,920 1579,916 1438,920 1313,924 1179,924 1046,924 655,932 659,775 413,769"/>
+                <Baseline points="581,1075 786,1055 914,1059 1042,1062 1170,1064 1298,1066 1425,1067 1553,1068 1681,1067 1809,1067 1937,1066 2064,1065 2192,1064 2320,1063 2448,1062 2576,1061 2703,1060 2831,1059 2959,1059 3087,1059 4650,1055"/>
+                <TextEquiv>
+                    <Unicode>lch Reynhart, herre zu Westerburg, bekennen offenlich mit disem brief und tun kunt allen den, die in sehent, horent oder </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;} person {offset:76; length:32; continued:true;}">
+                <Coords points="627,1167 797,1162 927,1164 1057,1167 1186,1169 1316,1170 1446,1172 1575,1173 1705,1174 1835,1175 1965,1175 2094,1175 2224,1175 2354,1174 2483,1174 2613,1172 2743,1171 2872,1169 3002,1167 3132,1164 4719,1163 4684,1073 3132,1101 3002,1104 2872,1106 2743,1108 2613,1109 2483,1111 2354,1111 2224,1112 2094,1112 1965,1112 1835,1112 1705,1111 1575,1110 1446,1109 1316,1107 1186,1106 1057,1104 927,1101 797,1099 627,1093"/>
+                <Baseline points="619,1151 797,1141 927,1143 1057,1146 1186,1148 1316,1149 1446,1151 1575,1152 1705,1153 1835,1154 1965,1154 2094,1154 2224,1154 2354,1153 2483,1153 2613,1151 2743,1150 2872,1148 3002,1146 3132,1143 4704,1159"/>
+                <TextEquiv>
+                    <Unicode>lesent, wann mir der allerdurchluchtigst furste und mein gnediger herre her KarI, Romischer kunig und kunig </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;} person {offset:0; length:9; continued:true;} place {offset:3; length:6;}">
+                <Coords points="608,1269 881,1250 996,1251 1111,1252 1226,1254 1342,1255 1457,1256 1572,1257 1687,1257 1802,1258 1918,1258 2033,1259 2148,1259 2263,1259 2378,1259 2494,1259 2609,1259 2724,1259 2839,1259 2954,1258 4712,1257 4708,1179 2945,1155 2820,1155 2699,1151 2585,1151 2476,1151 2366,1155 2248,1151 2148,1196 2033,1196 1918,1195 1802,1195 1687,1194 1572,1194 1457,1193 1342,1192 1226,1191 1111,1189 996,1188 890,1171 612,1163"/>
+                <Baseline points="623,1249 881,1229 996,1230 1111,1231 1226,1233 1342,1234 1457,1235 1572,1236 1687,1236 1802,1237 1918,1237 2033,1238 2148,1238 2263,1238 2378,1238 2494,1238 2609,1238 2724,1238 2839,1238 3012,1257 4700,1249"/>
+                <TextEquiv>
+                    <Unicode>zu Beheim, die gnad getan hat, daz er mir meine lehen, diu ich von dem reich ze recht haben sol gnedichlich ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;} place {offset:49; length:3;}">
+                <Coords points="647,1353 758,1351 869,1350 980,1350 1092,1349 1203,1349 1314,1349 1426,1349 1537,1349 1648,1349 1760,1349 1871,1349 1982,1349 2093,1349 2205,1349 2316,1348 2427,1347 2539,1346 2650,1344 2761,1343 4704,1355 4708,1249 2761,1277 2650,1278 2539,1280 2427,1281 2316,1282 2205,1283 2093,1283 1982,1283 1871,1283 1760,1283 1648,1283 1537,1283 1426,1283 1314,1283 1203,1283 1092,1283 980,1284 869,1284 758,1285 647,1287"/>
+                <Baseline points="647,1331 758,1329 869,1328 980,1328 1092,1327 1203,1327 1314,1327 1426,1327 1537,1327 1648,1327 1760,1327 1871,1327 1982,1327 2093,1327 2205,1327 2316,1326 2427,1325 2539,1324 2650,1322 2816,1339 4676,1347"/>
+                <TextEquiv>
+                    <Unicode>lihen hat, und mir dar zu uf seinem zolle uf dem Ryn von iedem fuder weins zwen grozze turnos, wo oder </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;} place {offset:76; length:4;}">
+                <Coords points="608,1445 786,1440 892,1438 998,1436 1104,1436 1210,1436 1316,1437 1422,1438 1528,1439 1634,1441 1741,1442 1847,1444 1953,1445 2059,1446 2165,1447 2271,1447 2377,1446 2483,1445 2589,1442 2695,1439 4766,1453 4762,1355 2695,1375 2589,1378 2483,1381 2377,1382 2271,1383 2165,1383 2059,1382 1953,1381 1847,1380 1741,1378 1634,1377 1528,1375 1422,1374 1316,1373 1210,1372 1104,1372 998,1372 892,1374 786,1376 611,1363"/>
+                <Baseline points="680,1422 786,1419 892,1417 998,1415 1104,1415 1210,1415 1316,1416 1422,1417 1528,1418 1634,1420 1741,1421 1847,1423 1953,1424 2059,1425 2165,1426 2271,1426 2377,1425 2483,1424 2589,1421 2695,1418 4743,1441"/>
+                <TextEquiv>
+                    <Unicode>wie ich die erwerben mag von fursten, herren und friunden, die zolle uf dem Reyn haben uzgenumen, der burger </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;} place {offset:4; length:4;}">
+                <Coords points="619,1531 755,1541 858,1538 960,1535 1063,1534 1166,1533 1268,1533 1371,1534 1474,1535 1576,1537 1679,1538 1782,1539 1884,1541 1987,1542 2090,1543 2192,1543 2295,1543 2398,1541 2500,1539 2603,1535 4778,1539 4755,1449 2603,1466 2500,1470 2398,1472 2295,1474 2192,1474 2090,1474 1987,1473 1884,1472 1782,1470 1679,1469 1576,1468 1474,1466 1371,1465 1268,1464 1166,1464 1063,1465 960,1466 858,1469 755,1472 600,1457"/>
+                <Baseline points="611,1543 798,1534 901,1531 1003,1528 1106,1527 1209,1526 1311,1526 1414,1527 1517,1528 1619,1530 1722,1531 1825,1532 1927,1534 2030,1535 2133,1536 2235,1536 2338,1536 2441,1534 2543,1532 2646,1528 4770,1540"/>
+                <TextEquiv>
+                    <Unicode>von Coln, die dar inn nicht sullen begriffen, sein gegeben und verschriben hat, dar umb han ich im gehuldet, ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="611,1625 835,1627 1035,1628 1235,1629 1435,1630 1635,1630 1835,1631 2035,1631 2235,1632 2435,1632 2635,1633 2834,1633 3034,1634 3234,1634 3434,1635 3634,1637 3834,1638 4034,1640 4234,1642 4434,1645 4634,1647 4634,1578 4434,1576 4234,1573 4034,1571 3834,1569 3634,1568 3434,1566 3234,1565 3034,1565 2834,1564 2635,1564 2435,1563 2235,1563 2035,1562 1835,1562 1635,1561 1435,1561 1235,1560 1035,1559 835,1558 608,1555"/>
+                <Baseline points="636,1603 835,1604 1035,1605 1235,1606 1435,1607 1635,1607 1835,1608 2035,1608 2235,1609 2435,1609 2635,1610 2834,1610 3034,1611 3234,1611 3434,1612 3634,1614 3834,1615 4034,1617 4234,1619 4434,1622 4634,1624"/>
+                <TextEquiv>
+                    <Unicode>lubt und gesworn, daz ich im getrewe gehorsam und undertenig sein wil und sol, als einem Romischen kunge und </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="614,1721 817,1722 1021,1723 1225,1724 1429,1725 1633,1725 1837,1725 2040,1725 2244,1725 2448,1724 2652,1724 2856,1724 3060,1725 3264,1725 3467,1726 3671,1727 3875,1729 4079,1731 4283,1734 4487,1737 4691,1741 4691,1675 4487,1671 4283,1668 4079,1665 3875,1663 3671,1661 3467,1660 3264,1659 3060,1659 2856,1658 2652,1658 2448,1658 2244,1659 2040,1659 1837,1659 1633,1659 1429,1659 1225,1658 1021,1657 817,1656 614,1655"/>
+                <Baseline points="614,1699 817,1700 1021,1701 1225,1702 1429,1703 1633,1703 1837,1703 2040,1703 2244,1703 2448,1702 2652,1702 2856,1702 3060,1703 3264,1703 3467,1704 3671,1705 3875,1707 4079,1709 4283,1712 4487,1715 4691,1719"/>
+                <TextEquiv>
+                    <Unicode>meinem rechten herren und im geholfen sein sol, wider aller menichlich, die weil er lebt an allez geverde und gelobe </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="608,1805 1535,1809 1698,1812 1861,1815 2025,1817 2188,1818 2351,1818 2514,1818 2678,1817 2841,1816 3004,1815 3167,1814 3331,1813 3494,1813 3657,1813 3820,1814 3984,1816 4147,1818 4310,1823 4473,1828 4637,1835 4637,1772 4473,1765 4310,1760 4147,1755 3984,1753 3820,1751 3657,1750 3494,1750 3331,1750 3167,1751 3004,1752 2841,1753 2678,1754 2514,1755 2351,1755 2188,1755 2025,1754 1861,1752 1698,1749 1535,1746 580,1719"/>
+                <Baseline points="604,1798 1500,1802 1696,1802 1853,1813 2033,1809 2174,1821 2351,1797 2514,1797 2678,1796 2841,1795 3004,1794 3167,1793 3331,1792 3494,1792 3657,1792 3820,1793 3984,1795 4147,1797 4310,1802 4473,1807 4637,1814"/>
+                <TextEquiv>
+                    <Unicode>im auch getriwlich ze helfen und dinen mit fumfczig man, mit helm uf sein kost in dutschen landen, nicht in daz </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;} place {offset:0; length:6;}">
+                <Coords points="592,1919 2911,1913 2999,1913 3086,1913 3174,1914 3261,1914 3349,1914 3436,1915 3524,1915 3611,1915 3699,1916 3786,1916 3874,1917 3961,1917 4049,1918 4136,1918 4224,1919 4311,1919 4399,1920 4486,1921 4574,1921 4574,1852 4486,1852 4399,1851 4311,1850 4224,1850 4136,1849 4049,1849 3961,1848 3874,1848 3786,1847 3699,1847 3611,1846 3524,1846 3436,1846 3349,1845 3261,1845 3174,1845 3086,1844 2999,1844 2911,1844 611,1802"/>
+                <Baseline points="576,1899 2911,1890 2999,1890 3086,1890 3174,1891 3261,1891 3349,1891 3436,1892 3524,1892 3611,1892 3699,1893 3786,1893 3874,1894 3961,1894 4049,1895 4136,1895 4224,1896 4311,1896 4399,1897 4486,1898 4574,1898"/>
+                <TextEquiv>
+                    <Unicode>Gepyrg noch uber walt, wenn er mich dez ermont. Dar uber zu urkund gib ich disen brief, versigelt mit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:10;} place {offset:33; length:5;} date {offset:40; length:64; continued:true;year:0; day:0; month:0;}">
+                <Coords points="626,2009 831,2009 1037,2010 1242,2010 1448,2010 1653,2011 1859,2011 2064,2011 2270,2011 2475,2011 2681,2011 2887,2011 3092,2012 3298,2012 3503,2013 3709,2014 3914,2015 4120,2016 4325,2018 4531,2020 4737,2023 4737,1954 4531,1951 4325,1949 4120,1947 3914,1946 3709,1945 3503,1944 3298,1943 3092,1943 2887,1942 2681,1942 2475,1942 2270,1942 2064,1942 1859,1942 1653,1942 1448,1941 1242,1941 1037,1941 831,1940 626,1940"/>
+                <Baseline points="626,1986 831,1986 1037,1987 1242,1987 1448,1987 1653,1988 1859,1988 2064,1988 2270,1988 2475,1988 2681,1988 2887,1988 3092,1989 3298,1989 3503,1990 3709,1991 3914,1992 4120,1993 4325,1995 4531,1997 4737,2000"/>
+                <TextEquiv>
+                    <Unicode>meinem insigel, der geben ist zu Mentz, nach Crists geburt dreuezehen hundert und neun und vierezig jar </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:11;} date {offset:0; length:40; continued:true;year:0; day:0; month:0;}">
+                <Coords points="621,2109 695,2109 769,2109 843,2109 918,2110 992,2110 1066,2111 1141,2111 1215,2112 1289,2112 1364,2113 1438,2114 1512,2115 1586,2116 1661,2117 1735,2119 1809,2121 1884,2123 1958,2125 2032,2128 2311,2127 2307,2052 2053,2033 1959,2048 1892,2040 1806,2044 1735,2050 1661,2048 1586,2047 1512,2046 1438,2045 1364,2044 1289,2043 1215,2043 1141,2042 1066,2042 992,2041 918,2041 843,2040 769,2040 695,2040 621,2040"/>
+                <Baseline points="621,2086 695,2086 769,2086 843,2086 918,2087 992,2087 1066,2088 1141,2088 1215,2089 1289,2089 1364,2090 1438,2091 1512,2092 1586,2093 1661,2094 1735,2096 1809,2098 1884,2100 1958,2102 2032,2105 2295,2119"/>
+                <TextEquiv>
+                    <Unicode>an dem suntag der heiligen drivalticheit. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lch Reynhart, herre zu Westerburg, bekennen offenlich mit disem brief und tun kunt allen den, die in sehent, horent oder &#xD;
+lesent, wann mir der allerdurchluchtigst furste und mein gnediger herre her KarI, Romischer kunig und kunig &#xD;
+zu Beheim, die gnad getan hat, daz er mir meine lehen, diu ich von dem reich ze recht haben sol gnedichlich ver¬&#xD;
+lihen hat, und mir dar zu uf seinem zolle uf dem Ryn von iedem fuder weins zwen grozze turnos, wo oder &#xD;
+wie ich die erwerben mag von fursten, herren und friunden, die zolle uf dem Reyn haben uzgenumen, der burger &#xD;
+von Coln, die dar inn nicht sullen begriffen, sein gegeben und verschriben hat, dar umb han ich im gehuldet, ge¬&#xD;
+lubt und gesworn, daz ich im getrewe gehorsam und undertenig sein wil und sol, als einem Romischen kunge und &#xD;
+meinem rechten herren und im geholfen sein sol, wider aller menichlich, die weil er lebt an allez geverde und gelobe &#xD;
+im auch getriwlich ze helfen und dinen mit fumfczig man, mit helm uf sein kost in dutschen landen, nicht in daz &#xD;
+Gepyrg noch uber walt, wenn er mich dez ermont. Dar uber zu urkund gib ich disen brief, versigelt mit &#xD;
+meinem insigel, der geben ist zu Mentz, nach Crists geburt dreuezehen hundert und neun und vierezig jar &#xD;
+an dem suntag der heiligen drivalticheit. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-05T15:42:27.149+02:00</Created>
+        <LastChange>2019-11-30T00:19:58.581+01:00</LastChange>
+        <TranskribusMetadata docId="191842" pageId="7589563" pageNr="1" tsid="20084269" status="IN_PROGRESS" userId="36526" imgUrl="https://files.transkribus.eu/Get?id=DIDXOLOMPEGVEBMWSTJOABIM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AHRREMIMPCCUCRVFXTWREENU" imageId="4587256"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_14361118_01545_r.jpg" imageWidth="3000" imageHeight="1648">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618538519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="417,111 370,1176 1947,1182 1941,193"/>
+            <TextLine id="r3l5" custom="readingOrder {index:0;} date {offset:0; length:106;} place {offset:109; length:5;}">
+                <Coords points="439,292 518,292 591,292 664,292 737,291 810,291 883,290 956,289 1029,287 1102,286 1175,285 1247,283 1320,282 1393,281 1466,280 1539,279 1612,278 1685,277 1758,277 1831,276 1904,276 1902,240 1834,239 1759,242 1689,239 1614,244 1540,244 1468,244 1399,246 1322,246 1251,246 1177,247 1106,248 1029,250 957,251 884,248 814,252 744,246 676,247 659,242 636,127 450,124"/>
+                <Baseline points="432,284 504,284 577,284 650,284 723,283 796,283 869,282 942,281 1015,279 1088,278 1161,277 1233,275 1306,274 1379,273 1452,272 1525,271 1598,270 1671,269 1744,269 1817,268 1890,268"/>
+                <TextEquiv>
+                    <Unicode>Leta od narozenie syna Bozieho tysyczieho cztyrzsteho trzydczateho ssesteho w nedieli przed swatu Alzbietu w Praze stala</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:1;} place {offset:18; length:5;} person {offset:24; length:51;} person {offset:99; length:18; continued:true;} place {offset:108; length:9; continued:true;}">
+                <Coords points="489,327 569,327 639,326 710,326 780,325 851,324 921,323 991,322 1062,321 1132,320 1203,318 1273,317 1343,316 1414,315 1484,313 1555,312 1625,311 1695,311 1766,310 1836,310 1907,309 1907,279 1836,280 1766,280 1695,281 1625,281 1555,282 1484,283 1414,285 1343,286 1273,287 1203,288 1132,290 1062,291 991,292 921,293 851,294 780,295 710,296 639,296 569,297 490,296"/>
+                <Baseline points="490,319 569,317 639,316 710,316 780,315 851,314 921,313 991,312 1062,311 1132,310 1203,308 1273,307 1343,306 1414,305 1484,303 1555,302 1625,301 1695,301 1766,300 1836,300 1907,299"/>
+                <TextEquiv>
+                    <Unicode>sie gest umluwa o Colin welebnym kniezetem panem Oldrzychem hrabii Czilskym a urozenymi pany panem Alssem z Sternber¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:2;} person {offset:0; length:2; continued:true;} place {offset:0; length:2; continued:true;} person {offset:10; length:22;} place {offset:21; length:11;} person {offset:53; length:9;} person {offset:83; length:21;} place {offset:93; length:11;} person {offset:112; length:9; continued:true;}">
+                <Coords points="495,358 569,359 644,360 719,360 793,359 868,359 943,358 1017,356 1092,355 1167,354 1241,352 1316,350 1391,349 1465,348 1540,346 1615,345 1689,344 1764,344 1839,344 1914,344 1914,314 1839,314 1764,314 1689,314 1615,315 1540,316 1465,318 1391,319 1316,320 1241,322 1167,324 1092,325 1017,326 943,328 868,329 793,329 719,330 644,330 569,329 495,328"/>
+                <Baseline points="495,348 569,349 644,350 719,350 793,349 868,349 943,348 1017,346 1092,345 1167,344 1241,342 1316,340 1391,339 1465,338 1540,336 1615,335 1689,334 1764,334 1839,334 1914,334"/>
+                <TextEquiv>
+                    <Unicode>ka, panem Heinczem z Pirkssteina, hoffmistrem, panem Cassparem, canczlerzem, panem Hasskem z Waldssteina, panem Arnosstem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:3;} person {offset:0; length:11; continued:true;} place {offset:2; length:9;} person {offset:19; length:21;} place {offset:31; length:9;} person {offset:43; length:16;} place {offset:51; length:8;} person {offset:79; length:34; continued:true;}">
+                <Coords points="486,392 570,392 640,393 710,393 780,392 850,392 920,391 989,390 1059,389 1129,388 1199,387 1269,385 1339,384 1409,383 1478,382 1548,381 1618,380 1688,379 1758,379 1828,378 1898,379 1898,349 1828,348 1758,349 1688,349 1618,350 1548,351 1478,352 1409,353 1339,354 1269,355 1199,357 1129,358 1059,359 989,360 920,361 850,362 780,362 710,363 640,363 570,362 488,361"/>
+                <Baseline points="491,388 582,381 653,383 723,383 793,382 863,382 933,381 1002,380 1072,379 1142,378 1212,377 1282,375 1352,374 1422,373 1491,372 1561,371 1631,370 1701,369 1771,369 1841,368 1911,369"/>
+                <TextEquiv>
+                    <Unicode>z Wlassymie, panem Przybikem z Clenoweho a Janem z Cunwaldu, podkomorzym, mezy nayneprzemozenieyssiem knyezetem a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:4;} person {offset:0; length:121; continued:true;}">
+                <Coords points="492,425 576,426 646,427 716,427 787,427 857,427 927,426 998,425 1068,424 1138,423 1209,422 1279,420 1349,419 1419,418 1490,417 1560,417 1630,416 1701,416 1771,416 1841,417 1912,418 1912,388 1841,387 1771,386 1701,386 1630,386 1560,387 1490,387 1419,388 1349,389 1279,390 1209,392 1138,393 1068,394 998,395 927,396 857,397 787,397 716,397 646,397 576,396 492,393"/>
+                <Baseline points="495,420 575,418 645,419 715,419 786,419 856,419 926,418 997,417 1067,416 1137,415 1208,414 1278,412 1348,411 1418,410 1489,409 1559,409 1629,408 1700,408 1770,408 1840,409 1911,410"/>
+                <TextEquiv>
+                    <Unicode>panem panem Sigmundem z Bozie milosti Rzymskym cziesarzem, wzdy rozmnozitelem rzysse a Uherskym, Czeskym et cetera kralem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:5;} person {offset:28; length:23;} place {offset:41; length:10;} person {offset:99; length:11;}">
+                <Coords points="490,462 547,460 588,459 630,458 671,458 712,457 754,457 795,457 836,457 878,457 919,457 960,457 1002,457 1043,457 1084,457 1126,456 1167,456 1208,456 1250,455 1291,454 1908,443 1910,417 1291,424 1250,425 1208,426 1167,426 1126,426 1084,427 1043,427 1002,427 960,427 919,427 878,427 836,427 795,427 754,427 712,427 671,428 630,428 588,429 547,430 493,432"/>
+                <Baseline points="506,452 547,450 588,449 630,448 671,448 712,447 754,447 795,447 836,447 878,447 919,447 960,447 1002,447 1043,447 1084,447 1126,446 1167,446 1208,446 1250,445 1291,444 1913,447"/>
+                <TextEquiv>
+                    <Unicode>s gedne a pocztiwym kniezem Bedrzychem z Straznicze z strany druhe. Nayprwe aby geho milost kniezy Bedrzychowi na</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:6;} place {offset:0; length:7;} place {offset:76; length:9;} place {offset:87; length:9;} place {offset:98; length:8;} place {offset:108; length:7;} place {offset:117; length:9; continued:true;}">
+                <Coords points="499,492 569,492 640,492 710,491 781,491 851,490 922,489 992,488 1063,487 1133,486 1204,485 1274,484 1345,484 1415,483 1486,482 1556,482 1627,482 1697,482 1768,482 1838,483 1909,484 1909,454 1838,453 1768,452 1697,452 1627,452 1556,452 1486,452 1415,453 1345,454 1274,454 1204,455 1133,456 1063,457 992,458 922,459 851,460 781,461 710,461 640,462 569,462 499,462"/>
+                <Baseline points="499,482 569,482 640,482 710,481 781,481 851,480 922,479 992,478 1063,477 1133,476 1204,475 1274,474 1345,474 1415,473 1486,472 1556,472 1627,472 1697,472 1768,472 1838,473 1909,474"/>
+                <TextEquiv>
+                    <Unicode>Colinie a czoz k tomu przyslussie y na weskach tuto gmenowanych, to gest na Milotinye, Solopisky, Brzezany, Nowawes, Radowesi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:7;} place {offset:0; length:3; continued:true;} place {offset:7; length:12;} place {offset:39; length:5;} place {offset:61; length:6;} place {offset:75; length:16;} place {offset:99; length:5;} place {offset:106; length:9;} place {offset:117; length:11;}">
+                <Coords points="495,524 570,525 639,525 709,524 778,524 847,523 917,522 986,521 1055,520 1125,520 1194,519 1263,518 1333,517 1402,516 1471,515 1541,515 1610,515 1679,515 1749,515 1818,515 1888,516 1888,486 1818,485 1749,485 1679,485 1610,485 1541,485 1471,485 1402,486 1333,487 1263,488 1194,489 1125,490 1055,490 986,491 917,492 847,493 778,494 709,494 639,495 570,495 495,494"/>
+                <Baseline points="501,515 570,515 639,515 709,514 778,514 847,513 917,512 986,511 1055,510 1125,510 1194,509 1263,508 1333,507 1402,506 1471,505 1541,505 1610,505 1679,505 1749,505 1818,505 1888,506"/>
+                <TextEquiv>
+                    <Unicode>cze, w Zybohlawiech geden czlowiek, we Kbele geden czlowiek, Liczko dwuor, Gestrzebie Lhota dwuor, Saani, Mastnicze, Malenowicze,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:8;} place {offset:0; length:11;} place {offset:15; length:10;} place {offset:43; length:16;} place {offset:61; length:8;} place {offset:71; length:11;} place {offset:84; length:9;} place {offset:95; length:7;} place {offset:108; length:14;} place {offset:124; length:3; continued:true;}">
+                <Coords points="494,555 572,557 643,557 714,556 786,556 857,555 928,554 999,554 1071,553 1142,552 1213,551 1284,550 1356,549 1427,548 1498,547 1569,546 1641,546 1712,546 1783,545 1854,545 1926,546 1926,516 1854,515 1783,515 1712,516 1641,516 1569,516 1498,517 1427,518 1356,519 1284,520 1213,521 1142,522 1071,523 999,524 928,524 857,525 786,526 714,526 643,527 572,527 495,528"/>
+                <Baseline points="501,547 572,547 643,547 714,546 786,546 857,545 928,544 999,544 1071,543 1142,542 1213,541 1284,540 1356,539 1427,538 1498,537 1569,536 1641,536 1712,536 1783,535 1854,535 1926,536"/>
+                <TextEquiv>
+                    <Unicode>Hradissczko, w Nebowidech trzy kopy platu, Swate Katherzyny, Zaborzie, Libodrzicze, Chotuchow, Owczary, wes Swateho Jacuba, Ow¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:9;} place {offset:0; length:5; continued:true;} place {offset:45; length:17;} place {offset:101; length:8;}">
+                <Coords points="496,588 575,590 647,589 719,589 790,588 862,588 934,587 1005,586 1077,586 1149,585 1221,584 1292,583 1364,582 1436,581 1507,581 1579,580 1651,579 1722,579 1794,579 1866,578 1941,576 1942,548 1866,548 1794,549 1722,549 1651,549 1579,550 1507,551 1436,551 1364,552 1292,553 1221,554 1149,555 1077,556 1005,556 934,557 862,558 790,558 719,559 647,559 575,560 493,562"/>
+                <Baseline points="509,580 580,580 652,579 724,579 795,578 867,578 939,577 1010,576 1082,576 1154,575 1226,574 1297,573 1369,572 1441,571 1512,571 1584,570 1656,569 1727,569 1799,569 1871,568 1949,574"/>
+                <TextEquiv>
+                    <Unicode>czary dwuor a czoz k tomu dworu przyslussie, Swateho Mikulasse s rybnikem, mlyny wdolepsanee, mlyn w Hrobiech, dwa mlyny u miesta u</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:10;} place {offset:14; length:11;}">
+                <Coords points="493,624 571,624 642,624 714,624 785,623 857,622 928,622 999,621 1071,620 1142,619 1214,618 1285,617 1356,616 1428,615 1499,614 1571,614 1642,613 1713,612 1785,611 1856,611 1928,611 1928,581 1856,581 1785,581 1713,582 1642,583 1571,584 1499,584 1428,585 1356,586 1285,587 1214,588 1142,589 1071,590 999,591 928,592 857,592 785,593 714,594 642,594 571,594 494,594"/>
+                <Baseline points="500,614 571,614 642,614 714,614 785,613 857,612 928,612 999,611 1071,610 1142,609 1214,608 1285,607 1356,606 1428,605 1499,604 1571,604 1642,603 1713,602 1785,601 1856,601 1928,601"/>
+                <TextEquiv>
+                    <Unicode>sameho, wesku Trziedworzy, sewssym czoz k tiem wsem przyslussie, zapsal trzy tisycze kop grossuow, aby geho milosti tiem lepe mohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:11;}">
+                <Coords points="493,654 572,655 643,655 714,654 785,654 856,654 927,654 998,653 1069,653 1140,652 1211,652 1282,651 1353,651 1424,650 1495,650 1566,649 1637,648 1708,648 1779,647 1850,646 1921,645 1921,615 1850,616 1779,617 1708,618 1637,618 1566,619 1495,620 1424,620 1353,621 1282,621 1211,622 1140,622 1069,623 998,623 927,624 856,624 785,624 714,624 643,625 572,625 494,626"/>
+                <Baseline points="501,645 572,645 643,645 714,644 785,644 856,644 927,644 998,643 1069,643 1140,642 1211,642 1282,641 1353,641 1424,640 1495,640 1566,639 1637,638 1708,638 1779,637 1850,636 1921,635"/>
+                <TextEquiv>
+                    <Unicode>sluziti ageho milost ma obmysliti, aby tiem lepe geho milosti mohl sluziti,  a kdyzby geho milost neb buduczy geho kral Czesky chtiel gemu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:12;}">
+                <Coords points="490,685 566,689 638,688 709,687 781,687 852,686 924,686 995,686 1067,685 1138,685 1210,684 1281,684 1353,683 1424,683 1496,682 1567,682 1639,681 1710,680 1782,680 1853,679 1930,678 1930,649 1853,649 1782,650 1710,650 1639,651 1567,652 1496,652 1424,653 1353,653 1281,654 1210,654 1138,655 1067,655 995,656 924,656 852,656 781,657 709,657 638,658 566,659 490,661"/>
+                <Baseline points="495,679 566,679 638,678 709,677 781,677 852,676 924,676 995,676 1067,675 1138,675 1210,674 1281,674 1353,673 1424,673 1496,672 1567,672 1639,671 1710,670 1782,670 1853,669 1925,668"/>
+                <TextEquiv>
+                    <Unicode>dati trzy tisycze kop grossuow neb geho buduczym a dal gim rok naprzed wiedieti, anebo zeby ge przewedl na gine sbozie s gich woly, teh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:13;} place {offset:57; length:6;}">
+                <Coords points="497,720 567,720 638,719 709,719 780,718 851,718 922,718 993,718 1064,717 1135,717 1206,717 1276,717 1347,717 1418,716 1489,716 1560,716 1631,716 1702,715 1773,715 1844,715 1915,714 1915,684 1844,685 1773,685 1702,685 1631,686 1560,686 1489,686 1418,686 1347,687 1276,687 1206,687 1135,687 1064,687 993,688 922,688 851,688 780,688 709,689 638,689 567,690 497,690"/>
+                <Baseline points="497,710 567,710 638,709 709,709 780,708 851,708 922,708 993,708 1064,707 1135,707 1206,707 1276,707 1347,707 1418,706 1489,706 1560,706 1631,706 1702,705 1773,705 1844,705 1915,704"/>
+                <TextEquiv>
+                    <Unicode>dy magii geho milosti neb geho buduczym postupiti miesta Colina bez zmatku a take gich moczy odtud netysknuti, leczby ge splatil, a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:14;} person {offset:27; length:8;} place {offset:78; length:6;}">
+                <Coords points="492,750 549,752 598,752 647,752 696,752 745,752 794,752 843,752 892,752 941,752 990,752 1039,751 1088,751 1137,751 1186,751 1235,751 1284,751 1333,752 1382,752 1431,753 1480,753 1480,723 1431,723 1382,722 1333,722 1284,721 1235,721 1186,721 1137,721 1088,721 1039,721 990,722 941,722 892,722 843,722 794,722 745,722 696,722 647,722 598,722 549,722 492,722"/>
+                <Baseline points="500,741 549,742 598,742 647,742 696,742 745,742 794,742 843,742 892,742 941,742 990,742 1039,741 1088,741 1137,741 1186,741 1235,741 1284,741 1333,742 1382,742 1431,743 1480,743"/>
+                <TextEquiv>
+                    <Unicode>take geho milosti ma knyez Bedrzych wssechny haldy ginee propustiti, kterez k Colinu drzzy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:15;} person {offset:11; length:8;}">
+                <Coords points="401,787 569,784 640,784 711,784 783,785 854,785 925,785 997,785 1068,785 1139,785 1211,785 1282,784 1353,784 1424,784 1496,784 1567,784 1638,784 1710,783 1781,783 1852,783 1924,783 1924,753 1852,753 1781,753 1710,753 1638,754 1567,754 1496,754 1424,754 1353,754 1282,754 1211,755 1139,755 1068,755 997,755 925,755 854,755 783,755 711,754 640,754 569,754 401,729"/>
+                <Baseline points="408,784 575,781 646,781 717,781 789,782 860,782 931,782 1003,782 1074,782 1145,782 1217,782 1288,781 1359,781 1430,781 1502,781 1573,781 1644,781 1716,780 1787,780 1858,780 1930,780"/>
+                <TextEquiv>
+                    <Unicode>Item knyez Bedrzych nema moczy na zadneho swewolnie sahati, ale gestli zeby k tomu miel kteru winu, aby toho prawem a rzadem hlediel, a cziesarzowa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:16;}">
+                <Coords points="492,815 562,815 633,816 704,816 775,816 846,816 917,817 988,817 1059,817 1130,817 1201,817 1271,817 1342,817 1413,817 1484,817 1555,817 1626,816 1697,816 1768,815 1839,815 1920,816 1919,785 1839,785 1768,785 1697,786 1626,786 1555,787 1484,787 1413,787 1342,787 1271,787 1201,787 1130,787 1059,787 988,787 917,787 846,786 775,786 704,786 633,786 562,785 492,785"/>
+                <Baseline points="492,805 562,805 633,806 704,806 775,806 846,806 917,807 988,807 1059,807 1130,807 1201,807 1271,807 1342,807 1413,807 1484,807 1555,807 1626,806 1697,806 1768,805 1839,805 1910,804"/>
+                <TextEquiv>
+                    <Unicode>milost nema geho dati zadnemu moczy tysknuti mimo tyto umluwy, ale ktozby gey chtiel mimo nye tisknuti, ma gemu geho milost iakozto geho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:17;}">
+                <Coords points="503,847 528,848 553,848 578,848 603,848 629,847 654,847 679,846 704,846 730,845 755,845 780,845 805,845 831,845 831,815 805,815 780,815 755,815 730,815 704,816 679,816 654,817 629,817 603,818 578,818 553,818 528,818 503,817"/>
+                <Baseline points="503,837 528,838 553,838 578,838 603,838 629,837 654,837 679,836 704,836 730,835 755,835 780,835 805,835 831,835"/>
+                <TextEquiv>
+                    <Unicode>pan pomoczen byti a geho braniti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:18;} place {offset:7; length:9;} person {offset:39; length:5;} person {offset:92; length:11;} person {offset:134; length:6;}">
+                <Coords points="463,881 575,878 649,876 722,875 796,874 870,873 943,872 1017,871 1091,870 1164,870 1238,869 1311,868 1385,867 1459,867 1532,866 1606,865 1680,864 1753,862 1827,861 1901,859 1901,829 1827,831 1753,832 1680,834 1606,835 1532,836 1459,837 1385,837 1311,838 1238,839 1164,840 1091,840 1017,841 943,842 870,843 796,844 722,845 649,846 575,848 462,847"/>
+                <Baseline points="478,871 575,868 649,866 722,865 796,864 870,863 943,862 1017,861 1091,860 1164,860 1238,859 1311,858 1385,857 1459,857 1532,856 1606,855 1680,854 1753,852 1827,851 1901,849"/>
+                <TextEquiv>
+                    <Unicode>Item o Libenicze umluweno gest, aby ge Hynek w tey mierze drzal, jakoz nynie drzzy, a iakoz Smirzyczsky k tomu sie tahne, o to mata s Hynkem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:19;}">
+                <Coords points="504,909 578,908 653,908 728,907 802,907 877,906 952,906 1026,905 1101,904 1176,904 1250,903 1325,902 1400,901 1474,900 1549,899 1624,899 1698,897 1773,896 1848,895 1923,894 1923,864 1848,865 1773,866 1698,867 1624,869 1549,869 1474,870 1400,871 1325,872 1250,873 1176,874 1101,874 1026,875 952,876 877,876 802,877 728,877 653,878 578,878 504,879"/>
+                <Baseline points="504,899 578,898 653,898 728,897 802,897 877,896 952,896 1026,895 1101,894 1176,894 1250,893 1325,892 1400,891 1474,890 1549,889 1624,889 1698,887 1773,886 1848,885 1923,884"/>
+                <TextEquiv>
+                    <Unicode>przed cziesarzowu milosti nebo geho radu byti a kazdy z nych okazati swe prawo. Pakliby nikteryz prawa nemyel a na cziesarzowu milost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:20;} person {offset:43; length:7;}">
+                <Coords points="498,943 554,942 610,941 666,941 722,940 779,940 835,940 891,939 947,939 1003,939 1060,939 1116,939 1172,939 1228,939 1284,938 1341,938 1397,938 1453,938 1509,937 1565,937 1622,936 1622,906 1565,907 1509,907 1453,908 1397,908 1341,908 1284,908 1228,909 1172,909 1116,909 1060,909 1003,909 947,909 891,909 835,910 779,910 722,910 666,911 610,911 554,912 498,913"/>
+                <Baseline points="498,933 554,932 610,931 666,931 722,930 779,930 835,930 891,929 947,929 1003,929 1060,929 1116,929 1172,929 1228,929 1284,928 1341,928 1397,928 1453,928 1509,927 1565,927 1622,926"/>
+                <TextEquiv>
+                    <Unicode>to przysslo, tehdy czoz z toho geho milost Hynkowi uczyny, z toho ma geho milosti diekowati iakozto panu swemu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:21;} person {offset:20; length:10;} place {offset:64; length:6;} place {offset:73; length:7;} person {offset:117; length:8;}">
+                <Coords points="447,969 567,971 638,971 709,972 780,973 850,973 921,973 992,973 1063,973 1133,973 1204,973 1275,973 1346,972 1416,972 1487,971 1558,970 1629,969 1699,969 1770,967 1841,966 1912,965 1912,935 1841,936 1770,937 1699,939 1629,939 1558,940 1487,941 1416,942 1346,942 1275,943 1204,943 1133,943 1063,943 992,943 921,943 850,943 780,943 709,942 638,941 567,941 448,935"/>
+                <Baseline points="497,960 567,961 638,961 709,962 780,963 850,963 921,963 992,963 1063,963 1133,963 1204,963 1275,963 1346,962 1416,962 1487,961 1558,960 1629,959 1699,959 1770,957 1841,956 1912,955"/>
+                <TextEquiv>
+                    <Unicode>Item geho milost ma Zacharzowi zapsati staru winiczy, dwuor pod Cankem a Puczery wes, pakliby w tey mierze nez knyez Bedrzych</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:22;} person {offset:38; length:7;}">
+                <Coords points="500,1003 547,1004 594,1005 641,1006 688,1007 735,1007 782,1008 829,1008 876,1008 923,1008 970,1007 1017,1007 1064,1007 1111,1007 1158,1006 1205,1006 1252,1006 1299,1006 1346,1007 1393,1007 1441,1008 1441,978 1393,977 1346,977 1299,976 1252,976 1205,976 1158,976 1111,977 1064,977 1017,977 970,977 923,978 876,978 829,978 782,978 735,977 688,977 641,976 594,975 547,974 500,973"/>
+                <Baseline points="500,993 547,994 594,995 641,996 688,997 735,997 782,998 829,998 876,998 923,998 970,997 1017,997 1064,997 1111,997 1158,996 1205,996 1252,996 1299,996 1346,997 1393,997 1441,998"/>
+                <TextEquiv>
+                    <Unicode>zasie przygede czo sobie gineho optal Zacharz k tomu podobneho, ale to aby mu bylo zapsano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:23;} person {offset:21; length:9;} person {offset:41; length:8;} person {offset:66; length:7;}">
+                <Coords points="417,1041 570,1037 640,1038 710,1039 780,1040 850,1041 920,1042 989,1042 1059,1042 1129,1043 1199,1043 1269,1043 1339,1043 1409,1043 1478,1042 1548,1042 1618,1042 1688,1041 1758,1041 1828,1040 1898,1040 1898,1010 1828,1010 1758,1011 1688,1011 1618,1012 1548,1012 1478,1012 1409,1013 1339,1013 1269,1013 1199,1013 1129,1013 1059,1012 989,1012 920,1012 850,1011 780,1010 710,1009 640,1008 570,1007 417,998"/>
+                <Baseline points="501,1026 570,1027 640,1028 710,1029 780,1030 850,1031 920,1032 989,1032 1059,1032 1129,1033 1199,1033 1269,1033 1339,1033 1409,1033 1478,1032 1548,1032 1618,1032 1688,1031 1758,1031 1828,1030 1898,1030"/>
+                <TextEquiv>
+                    <Unicode>Item gest umluweno o Kerzskeho, ze knyez Bedrzych slybil gest, ze Kerzsky ma k cziesarzowie milosti przygeti ageho milost zapana przy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:24;} person {offset:103; length:8;}">
+                <Coords points="495,1069 566,1070 637,1071 708,1072 779,1073 851,1074 922,1074 993,1075 1064,1075 1135,1075 1207,1075 1278,1075 1349,1075 1420,1074 1491,1074 1563,1074 1634,1073 1705,1073 1776,1072 1847,1071 1932,1069 1930,1044 1847,1041 1776,1042 1705,1043 1634,1043 1563,1044 1491,1044 1420,1044 1349,1045 1278,1045 1207,1045 1135,1045 1064,1045 993,1045 922,1044 851,1044 779,1043 708,1042 637,1041 566,1040 495,1039"/>
+                <Baseline points="495,1059 566,1060 637,1061 708,1062 779,1063 851,1064 922,1064 993,1065 1064,1065 1135,1065 1207,1065 1278,1065 1349,1065 1420,1064 1491,1064 1563,1064 1634,1063 1705,1063 1776,1062 1847,1061 1919,1060"/>
+                <TextEquiv>
+                    <Unicode>gieti jako ginii zemanee, a czozby geho milosti sskody uczinil, gessto sie geho dielu dotkne, to kniez Bedrzych ma nawratiti kdyz sie nayprw</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:25;}">
+                <Coords points="501,1101 571,1102 642,1103 712,1103 783,1104 853,1105 924,1105 994,1106 1065,1106 1135,1106 1206,1106 1277,1106 1347,1106 1418,1106 1488,1106 1559,1105 1629,1105 1700,1104 1770,1104 1841,1103 1912,1102 1912,1072 1841,1073 1770,1074 1700,1074 1629,1075 1559,1075 1488,1076 1418,1076 1347,1076 1277,1076 1206,1076 1135,1076 1065,1076 994,1076 924,1075 853,1075 783,1074 712,1073 642,1073 571,1072 501,1071"/>
+                <Baseline points="501,1091 571,1092 642,1093 712,1093 783,1094 853,1095 924,1095 994,1096 1065,1096 1135,1096 1206,1096 1277,1096 1347,1096 1418,1096 1488,1096 1559,1095 1629,1095 1700,1094 1770,1094 1841,1093 1912,1092"/>
+                <TextEquiv>
+                    <Unicode>zasie wraty a nato ma gemu od twrze odtrzeno byti a cziesarzowa milost ma gemu swoy hnyew odpustiti. A wssech na swiedomye um¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:26;}">
+                <Coords points="497,1130 569,1132 641,1133 713,1134 785,1135 858,1136 930,1137 1002,1138 1074,1138 1146,1138 1219,1138 1291,1138 1363,1138 1435,1138 1507,1137 1580,1137 1652,1136 1724,1135 1796,1133 1868,1132 1941,1130 1941,1100 1868,1102 1796,1103 1724,1105 1652,1106 1580,1107 1507,1107 1435,1108 1363,1108 1291,1108 1219,1108 1146,1108 1074,1108 1002,1108 930,1107 858,1106 785,1105 713,1104 641,1103 569,1102 497,1100"/>
+                <Baseline points="497,1120 569,1122 641,1123 713,1124 785,1125 858,1126 930,1127 1002,1128 1074,1128 1146,1128 1219,1128 1291,1128 1363,1128 1435,1128 1507,1127 1580,1127 1652,1126 1724,1125 1796,1123 1868,1122 1941,1120"/>
+                <TextEquiv>
+                    <Unicode>luw a wieczii swrchupsanych my smluwcze nahorzegmenowanii nasse peczeti wlastnie dalisme przywiesiti k tomuto listu, genz gest dan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:27;} place {offset:2; length:5;}">
+                <Coords points="499,1167 524,1167 549,1167 574,1167 599,1167 624,1167 649,1167 674,1167 699,1167 725,1168 750,1168 775,1168 800,1169 825,1169 850,1170 875,1170 900,1171 925,1172 951,1173 951,1143 925,1142 900,1141 875,1140 850,1140 825,1139 800,1139 775,1138 750,1138 725,1138 699,1137 674,1137 649,1137 624,1137 599,1137 574,1137 549,1137 524,1137 499,1137"/>
+                <Baseline points="499,1157 524,1157 549,1157 574,1157 599,1157 624,1157 649,1157 674,1157 699,1157 725,1158 750,1158 775,1158 800,1159 825,1159 850,1160 875,1160 900,1161 925,1162 951,1163"/>
+                <TextEquiv>
+                    <Unicode>v Praze leta a dne iakoz sie swrchupisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Leta od narozenie syna Bozieho tysyczieho cztyrzsteho trzydczateho ssesteho w nedieli przed swatu Alzbietu w Praze stala&#xD;
+sie gest umluwa o Colin welebnym kniezetem panem Oldrzychem hrabii Czilskym a urozenymi pany panem Alssem z Sternber¬&#xD;
+ka, panem Heinczem z Pirkssteina, hoffmistrem, panem Cassparem, canczlerzem, panem Hasskem z Waldssteina, panem Arnosstem&#xD;
+z Wlassymie, panem Przybikem z Clenoweho a Janem z Cunwaldu, podkomorzym, mezy nayneprzemozenieyssiem knyezetem a&#xD;
+panem panem Sigmundem z Bozie milosti Rzymskym cziesarzem, wzdy rozmnozitelem rzysse a Uherskym, Czeskym et cetera kralem&#xD;
+s gedne a pocztiwym kniezem Bedrzychem z Straznicze z strany druhe. Nayprwe aby geho milost kniezy Bedrzychowi na&#xD;
+Colinie a czoz k tomu przyslussie y na weskach tuto gmenowanych, to gest na Milotinye, Solopisky, Brzezany, Nowawes, Radowesi¬&#xD;
+cze, w Zybohlawiech geden czlowiek, we Kbele geden czlowiek, Liczko dwuor, Gestrzebie Lhota dwuor, Saani, Mastnicze, Malenowicze,&#xD;
+Hradissczko, w Nebowidech trzy kopy platu, Swate Katherzyny, Zaborzie, Libodrzicze, Chotuchow, Owczary, wes Swateho Jacuba, Ow¬&#xD;
+czary dwuor a czoz k tomu dworu przyslussie, Swateho Mikulasse s rybnikem, mlyny wdolepsanee, mlyn w Hrobiech, dwa mlyny u miesta u&#xD;
+sameho, wesku Trziedworzy, sewssym czoz k tiem wsem przyslussie, zapsal trzy tisycze kop grossuow, aby geho milosti tiem lepe mohl&#xD;
+sluziti ageho milost ma obmysliti, aby tiem lepe geho milosti mohl sluziti,  a kdyzby geho milost neb buduczy geho kral Czesky chtiel gemu&#xD;
+dati trzy tisycze kop grossuow neb geho buduczym a dal gim rok naprzed wiedieti, anebo zeby ge przewedl na gine sbozie s gich woly, teh¬&#xD;
+dy magii geho milosti neb geho buduczym postupiti miesta Colina bez zmatku a take gich moczy odtud netysknuti, leczby ge splatil, a &#xD;
+take geho milosti ma knyez Bedrzych wssechny haldy ginee propustiti, kterez k Colinu drzzy.&#xD;
+Item knyez Bedrzych nema moczy na zadneho swewolnie sahati, ale gestli zeby k tomu miel kteru winu, aby toho prawem a rzadem hlediel, a cziesarzowa&#xD;
+milost nema geho dati zadnemu moczy tysknuti mimo tyto umluwy, ale ktozby gey chtiel mimo nye tisknuti, ma gemu geho milost iakozto geho&#xD;
+pan pomoczen byti a geho braniti.&#xD;
+Item o Libenicze umluweno gest, aby ge Hynek w tey mierze drzal, jakoz nynie drzzy, a iakoz Smirzyczsky k tomu sie tahne, o to mata s Hynkem&#xD;
+przed cziesarzowu milosti nebo geho radu byti a kazdy z nych okazati swe prawo. Pakliby nikteryz prawa nemyel a na cziesarzowu milost&#xD;
+to przysslo, tehdy czoz z toho geho milost Hynkowi uczyny, z toho ma geho milosti diekowati iakozto panu swemu.&#xD;
+Item geho milost ma Zacharzowi zapsati staru winiczy, dwuor pod Cankem a Puczery wes, pakliby w tey mierze nez knyez Bedrzych&#xD;
+zasie przygede czo sobie gineho optal Zacharz k tomu podobneho, ale to aby mu bylo zapsano.&#xD;
+Item gest umluweno o Kerzskeho, ze knyez Bedrzych slybil gest, ze Kerzsky ma k cziesarzowie milosti przygeti ageho milost zapana przy¬&#xD;
+gieti jako ginii zemanee, a czozby geho milosti sskody uczinil, gessto sie geho dielu dotkne, to kniez Bedrzych ma nawratiti kdyz sie nayprw&#xD;
+zasie wraty a nato ma gemu od twrze odtrzeno byti a cziesarzowa milost ma gemu swoy hnyew odpustiti. A wssech na swiedomye um¬&#xD;
+luw a wieczii swrchupsanych my smluwcze nahorzegmenowanii nasse peczeti wlastnie dalisme przywiesiti k tomuto listu, genz gest dan&#xD;
+v Praze leta a dne iakoz sie swrchupisse</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

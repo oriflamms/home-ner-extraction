@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-08-01T11:51:41.478+02:00</Created>
+        <LastChange>2019-11-12T16:20:03.181+01:00</LastChange>
+        <TranskribusMetadata docId="190538" pageId="7537649" pageNr="1" tsid="19273337" status="IN_PROGRESS" userId="38723" imgUrl="https://files.transkribus.eu/Get?id=XPQSCROQWJBXPNCTSSDOIHRJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DGNYHFPTBMTHHSQNKPZPCTQK" imageId="4541601"/>
+    </Metadata>
+    <Page imageFilename="NA-ACK_13571108_00622_r.jpg" imageWidth="7446" imageHeight="4597">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1579618374245" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1135,1200 1141,2850 5275,2868 5275,1206"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} person {offset:4; length:24;} place {offset:18; length:10;} place {offset:140; length:7; continued:true;}">
+                <Coords points="1145,2045 1465,2045 1469,1487 2021,1471 2203,1471 2386,1471 2569,1471 2751,1471 2934,1472 3117,1472 3300,1473 3482,1474 3665,1475 3848,1477 4030,1479 4213,1481 4396,1484 4578,1487 4761,1491 4944,1495 5127,1500 5133,1389 4969,1392 4762,1389 4618,1389 4398,1376 4218,1382 4049,1371 3869,1371 3700,1366 3488,1361 3291,1361 3121,1367 2961,1367 2771,1361 2550,1367 2383,1364 2200,1364 1742,1371 1489,1371 1479,1197 1135,1194"/>
+                <Baseline points="1473,1451 1655,1451 1838,1451 2021,1451 2203,1451 2386,1451 2569,1451 2751,1451 2934,1452 3117,1452 3300,1453 3482,1454 3665,1455 3848,1457 4030,1459 4213,1461 4396,1464 4578,1467 4761,1471 4944,1475 5127,1480"/>
+                <TextEquiv>
+                    <Unicode>Ich Fryderich von Byberstein bekennen und tun kunt offenlich mit diesem brief allen den, die yn sehen odir horen lesen, wann ich die festen Landes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} place {offset:0; length:5; continued:true;} place {offset:29; length:7;} place {offset:63; length:5;} place {offset:107; length:6;}">
+                <Coords points="1462,1553 1646,1553 1830,1552 2015,1552 2199,1552 2384,1552 2568,1552 2752,1553 2937,1554 3121,1556 3306,1557 3490,1559 3674,1561 3859,1563 4043,1565 4228,1568 4412,1571 4596,1573 4781,1576 4965,1580 5150,1583 5150,1523 4965,1520 4781,1516 4596,1513 4412,1511 4228,1508 4043,1505 3859,1503 3674,1501 3490,1499 3306,1497 3121,1496 2937,1494 2752,1493 2568,1492 2384,1492 2199,1492 2015,1492 1830,1492 1646,1493 1462,1493"/>
+                <Baseline points="1462,1533 1646,1533 1830,1532 2015,1532 2199,1532 2384,1532 2568,1532 2752,1533 2937,1534 3121,1536 3306,1537 3490,1539 3674,1541 3859,1543 4043,1545 4228,1548 4412,1551 4596,1553 4781,1556 4965,1560 5150,1563"/>
+                <TextEquiv>
+                    <Unicode>crone und waz darzu gehoret, Duchras und waz dorzu gehoret und Saraw und waz dorzu gehoret, und waz ich zu Glogaw in dem lande han, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} place {offset:36; length:6;}">
+                <Coords points="1473,1635 1654,1635 1836,1635 2018,1635 2200,1635 2382,1636 2564,1637 2746,1639 2928,1640 3110,1642 3292,1644 3473,1646 3655,1648 3837,1651 4019,1653 4201,1655 4383,1657 4565,1660 4747,1662 4929,1664 5111,1666 5111,1606 4929,1604 4747,1602 4565,1600 4383,1597 4201,1595 4019,1593 3837,1591 3655,1588 3473,1586 3292,1584 3110,1582 2928,1580 2746,1579 2564,1577 2382,1576 2200,1575 2018,1575 1836,1575 1654,1575 1473,1575"/>
+                <Baseline points="1473,1615 1654,1615 1836,1615 2018,1615 2200,1615 2382,1616 2564,1617 2746,1619 2928,1620 3110,1622 3292,1624 3473,1626 3655,1628 3837,1631 4019,1633 4201,1635 4383,1637 4565,1640 4747,1642 4929,1644 5111,1646"/>
+                <TextEquiv>
+                    <Unicode>sunder alsvil als dem herczogen von Glogaw ist verpfant, solange er daz ynne hart von dem allirdurchluchtigistem fursten, meinem genedigen herren </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} person {offset:5; length:43;} place {offset:42; length:6;} place {offset:92; length:6;}">
+                <Coords points="1485,1720 1666,1720 1848,1720 2030,1720 2212,1721 2394,1721 2576,1722 2758,1722 2940,1723 3122,1724 3304,1725 3485,1726 3667,1728 3849,1729 4031,1731 4213,1732 4395,1734 4577,1736 4759,1738 4941,1740 5123,1742 5123,1688 4941,1686 4759,1684 4577,1682 4395,1680 4213,1678 4031,1677 3849,1675 3667,1674 3485,1672 3304,1671 3122,1670 2940,1669 2758,1668 2576,1668 2394,1667 2212,1667 2030,1666 1848,1666 1666,1666 1485,1666"/>
+                <Baseline points="1485,1702 1666,1702 1848,1702 2030,1702 2212,1703 2394,1703 2576,1704 2758,1704 2940,1705 3122,1706 3304,1707 3485,1708 3667,1710 3849,1711 4031,1713 4213,1714 4395,1716 4577,1718 4759,1720 4941,1722 5123,1724"/>
+                <TextEquiv>
+                    <Unicode>hern Karl, Romischem keiser und kunige zu Beheim, als von des kungreichs und der cronen von Beheim wegen zu rechtem lehen han und dar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} place {offset:3; length:9;} place {offset:17; length:10;} place {offset:68; length:6;} place {offset:127; length:6;}">
+                <Coords points="1443,1804 1627,1802 1812,1800 1996,1799 2181,1799 2366,1799 2550,1799 2735,1800 2920,1801 3104,1802 3289,1804 3474,1805 3658,1807 3843,1808 4028,1809 4212,1811 4397,1811 4582,1812 4766,1812 4951,1811 5136,1810 5136,1756 4951,1757 4766,1758 4582,1758 4397,1757 4212,1757 4028,1755 3843,1754 3658,1753 3474,1751 3289,1750 3104,1748 2920,1747 2735,1746 2550,1745 2366,1745 2181,1745 1996,1745 1812,1746 1627,1748 1443,1750"/>
+                <Baseline points="1443,1786 1627,1784 1812,1782 1996,1781 2181,1781 2366,1781 2550,1781 2735,1782 2920,1783 3104,1784 3289,1786 3474,1787 3658,1789 3843,1790 4028,1791 4212,1793 4397,1793 4582,1794 4766,1794 4951,1793 5136,1792"/>
+                <TextEquiv>
+                    <Unicode>zu Frydelant und Hamerstein mein frei erbe sein als andir herren zu Beheim, yr frei erbe han und doch gehoren zu der cronen zu Beheim do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="1499,1879 1678,1877 1858,1876 2038,1875 2218,1875 2398,1875 2578,1875 2758,1875 2938,1876 3118,1877 3298,1878 3477,1880 3657,1881 3837,1883 4017,1884 4197,1886 4377,1888 4557,1889 4737,1891 4917,1893 5097,1895 5097,1841 4917,1839 4737,1837 4557,1835 4377,1834 4197,1832 4017,1830 3837,1829 3657,1827 3477,1826 3298,1824 3118,1823 2938,1822 2758,1821 2578,1821 2398,1821 2218,1821 2038,1821 1858,1822 1678,1823 1499,1825"/>
+                <Baseline points="1499,1861 1678,1859 1858,1858 2038,1857 2218,1857 2398,1857 2578,1857 2758,1857 2938,1858 3118,1859 3298,1860 3477,1862 3657,1863 3837,1865 4017,1866 4197,1868 4377,1870 4557,1871 4737,1873 4917,1875 5097,1877"/>
+                <TextEquiv>
+                    <Unicode>von globen ich in guten truwen vor mich, meine erben und nachkomen, dem vorgenanten mynem herren, seinen erben und nachkomen kunige </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="1489,1956 1669,1955 1849,1955 2029,1954 2209,1955 2389,1955 2569,1956 2749,1956 2929,1957 3109,1959 3289,1960 3469,1961 3649,1962 3829,1964 4009,1965 4189,1966 4369,1968 4549,1969 4729,1969 4909,1970 5089,1970 5089,1915 4909,1915 4729,1914 4549,1914 4369,1913 4189,1911 4009,1910 3829,1909 3649,1907 3469,1906 3289,1905 3109,1904 2929,1902 2749,1901 2569,1901 2389,1900 2209,1900 2029,1899 1849,1900 1669,1900 1489,1901"/>
+                <Baseline points="1489,1938 1669,1937 1849,1937 2029,1936 2209,1937 2389,1937 2569,1938 2749,1938 2929,1939 3109,1941 3289,1942 3469,1943 3649,1944 3829,1946 4009,1947 4189,1948 4369,1950 4549,1951 4729,1951 4909,1952 5089,1952"/>
+                <TextEquiv>
+                    <Unicode>zu Beheim, und der cronen desselben kunigreichs, daz ich noch meine erben und nachkomen uns mit den vorgenanten festen lant leute und gut </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="1493,2044 1674,2044 1855,2044 2037,2044 2218,2044 2399,2045 2581,2045 2762,2045 2943,2046 3125,2047 3306,2048 3487,2048 3669,2049 3850,2050 4031,2052 4213,2053 4394,2054 4575,2055 4757,2057 4938,2058 5120,2060 5120,1997 4938,1995 4757,1994 4575,1992 4394,1991 4213,1990 4031,1989 3850,1987 3669,1986 3487,1985 3306,1985 3125,1984 2943,1983 2762,1982 2581,1982 2399,1982 2218,1981 2037,1981 1855,1981 1674,1981 1493,1981"/>
+                <Baseline points="1493,2023 1674,2023 1855,2023 2037,2023 2218,2023 2399,2024 2581,2024 2762,2024 2943,2025 3125,2026 3306,2027 3487,2027 3669,2028 3850,2029 4031,2031 4213,2032 4394,2033 4575,2034 4757,2036 4938,2037 5120,2039"/>
+                <TextEquiv>
+                    <Unicode>nummer in deheinen zeiten sollen noch enwollen von yn gescheiden, dann wir sollen und wollen yn getruwelich wiedir allirmenlich niemand auz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="1503,2127 1684,2127 1865,2128 2047,2128 2228,2128 2410,2128 2591,2129 2773,2129 2954,2130 3136,2130 3317,2130 3498,2131 3680,2132 3861,2132 4043,2133 4224,2133 4406,2134 4587,2135 4769,2136 4950,2137 5132,2137 5132,2070 4950,2070 4769,2069 4587,2068 4406,2067 4224,2066 4043,2066 3861,2065 3680,2065 3498,2064 3317,2063 3136,2063 2954,2063 2773,2062 2591,2062 2410,2061 2228,2061 2047,2061 1865,2061 1684,2060 1503,2060"/>
+                <Baseline points="1503,2105 1684,2105 1865,2106 2047,2106 2228,2106 2410,2106 2591,2107 2773,2107 2954,2108 3136,2108 3317,2108 3498,2109 3680,2110 3861,2110 4043,2111 4224,2111 4406,2112 4587,2113 4769,2114 4950,2115 5132,2115"/>
+                <TextEquiv>
+                    <Unicode>genomen, dienen, helfen und warten mit unsir selbes libe und mit den vorgenanten festen lant leute und gut, die wir han odir vorbaz gewinnen, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="1513,2212 1694,2211 1876,2211 2057,2211 2239,2210 2421,2210 2602,2210 2784,2210 2965,2210 3147,2211 3329,2211 3510,2212 3692,2212 3873,2213 4055,2214 4237,2214 4418,2215 4600,2216 4781,2217 4963,2219 5145,2220 5145,2153 4963,2152 4781,2150 4600,2149 4418,2148 4237,2147 4055,2147 3873,2146 3692,2145 3510,2145 3329,2144 3147,2144 2965,2143 2784,2143 2602,2143 2421,2143 2239,2143 2057,2144 1876,2144 1694,2144 1513,2145"/>
+                <Baseline points="1513,2190 1694,2189 1876,2189 2057,2189 2239,2188 2421,2188 2602,2188 2784,2188 2965,2188 3147,2189 3329,2189 3510,2190 3692,2190 3873,2191 4055,2192 4237,2192 4418,2193 4600,2194 4781,2195 4963,2197 5145,2198"/>
+                <TextEquiv>
+                    <Unicode>sundir allirlei argelist und geverde. Des zu urtkund und ewiger stedekeit han ich und mit mir zu meiner fleiziger bete der erwirdige in Got </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;} person {offset:21; length:29;} place {offset:44; length:6;} person {offset:83; length:18;} place {offset:92; length:9;} person {offset:110; length:29; continued:true;} place {offset:125; length:5;}">
+                <Coords points="1501,2291 1681,2291 1861,2291 2041,2291 2222,2291 2402,2291 2582,2291 2763,2291 2943,2291 3123,2291 3304,2291 3484,2291 3664,2291 3844,2292 4025,2292 4205,2292 4385,2292 4566,2292 4746,2293 4926,2293 5107,2293 5107,2232 4926,2232 4746,2232 4566,2231 4385,2231 4205,2231 4025,2231 3844,2231 3664,2230 3484,2230 3304,2230 3123,2230 2943,2230 2763,2230 2582,2230 2402,2230 2222,2230 2041,2230 1861,2230 1681,2230 1501,2230"/>
+                <Baseline points="1501,2271 1681,2271 1861,2271 2041,2271 2222,2271 2402,2271 2582,2271 2763,2271 2943,2271 3123,2271 3304,2271 3484,2271 3664,2271 3844,2272 4025,2272 4205,2272 4385,2272 4566,2272 4746,2273 4926,2273 5107,2273"/>
+                <TextEquiv>
+                    <Unicode>vatter und herre her Thietrich, bisschof zu Mynden, und die hochgeborn fursten her Bolko zu Falkmberg und her Conrad von der Olsne, hertzo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;} person {offset:0; length:3; continued:true;} person {offset:23; length:21;} place {offset:35; length:9;} person {offset:50; length:19;} place {offset:60; length:9;} person {offset:78; length:21;}">
+                <Coords points="1523,2376 1702,2376 1882,2376 2061,2376 2241,2376 2420,2376 2600,2375 2779,2375 2959,2375 3138,2374 3318,2374 3498,2374 3677,2374 3857,2374 4036,2374 4216,2374 4395,2375 4575,2376 4754,2377 4934,2378 5114,2380 5114,2319 4934,2317 4754,2316 4575,2315 4395,2314 4216,2313 4036,2313 3857,2313 3677,2313 3498,2313 3318,2313 3138,2313 2959,2314 2779,2314 2600,2314 2420,2315 2241,2315 2061,2315 1882,2315 1702,2315 1523,2315"/>
+                <Baseline points="1523,2356 1702,2356 1882,2356 2061,2356 2241,2356 2420,2356 2600,2355 2779,2355 2959,2355 3138,2354 3318,2354 3498,2354 3677,2354 3857,2354 4036,2354 4216,2354 4395,2355 4575,2356 4754,2357 4934,2358 5114,2360"/>
+                <TextEquiv>
+                    <Unicode>gen, und die edlen her Sbincke von Hasenburg, her Haske von Swereticz und her Henrich Cziegilheimer, mann unsirs herren und der cronen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;} place {offset:3; length:6;} person {offset:88; length:28;} place {offset:110; length:6;} person {offset:118; length:18;} place {offset:127; length:9;} person {offset:138; length:11; continued:true;}">
+                <Coords points="1506,2460 1686,2460 1866,2460 2047,2460 2227,2460 2408,2460 2588,2460 2769,2461 2949,2461 3130,2461 3310,2462 3490,2462 3671,2463 3851,2463 4032,2463 4212,2463 4393,2464 4573,2464 4754,2464 4934,2464 5115,2464 5115,2403 4934,2403 4754,2403 4573,2403 4393,2403 4212,2402 4032,2402 3851,2402 3671,2402 3490,2401 3310,2401 3130,2400 2949,2400 2769,2400 2588,2399 2408,2399 2227,2399 2047,2399 1866,2399 1686,2399 1506,2399"/>
+                <Baseline points="1506,2440 1686,2440 1866,2440 2047,2440 2227,2440 2408,2440 2588,2440 2769,2441 2949,2441 3130,2441 3310,2442 3490,2442 3671,2443 3851,2443 4032,2443 4212,2443 4393,2444 4573,2444 4754,2444 4934,2444 5115,2444"/>
+                <TextEquiv>
+                    <Unicode>zu Beheim vorgenanten unsir insiegele an diesen brieff gehangen, des wir die obgenanten Thietrich bisschof zu Mynden, Bolke zu Falkmberg, Conrad von </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;} person {offset:0; length:19; continued:true;} place {offset:4; length:5;} person {offset:21; length:20;} place {offset:32; length:9;} person {offset:43; length:19;} place {offset:53; length:9;} person {offset:67; length:19;} place {offset:75; length:11;}">
+                <Coords points="1515,2546 1694,2546 1874,2546 2053,2547 2233,2547 2412,2547 2592,2548 2771,2548 2951,2548 3130,2548 3310,2548 3490,2548 3669,2548 3849,2549 4028,2549 4208,2549 4387,2549 4567,2549 4746,2550 4926,2550 5106,2550 5106,2493 4926,2493 4746,2493 4567,2492 4387,2492 4208,2492 4028,2492 3849,2492 3669,2491 3490,2491 3310,2491 3130,2491 2951,2491 2771,2491 2592,2491 2412,2490 2233,2490 2053,2490 1874,2489 1694,2489 1515,2489"/>
+                <Baseline points="1515,2527 1694,2527 1874,2527 2053,2528 2233,2528 2412,2528 2592,2529 2771,2529 2951,2529 3130,2529 3310,2529 3490,2529 3669,2529 3849,2530 4028,2530 4208,2530 4387,2530 4567,2530 4746,2531 4926,2531 5106,2531"/>
+                <TextEquiv>
+                    <Unicode>der Olsne hertzogen, Sbinke von Hasenburg, Hasko von Swereticz und Henrich Cziegilheim uns erkenne und haben durch fleizige </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} person {offset:20; length:26;} place {offset:36; length:10;}">
+                <Coords points="1513,2626 1692,2625 1871,2624 2051,2624 2230,2623 2409,2623 2589,2624 2768,2624 2947,2624 3127,2625 3306,2626 3485,2626 3665,2627 3844,2627 4023,2628 4203,2628 4382,2628 4561,2629 4741,2628 4920,2628 5100,2627 5100,2570 4920,2571 4741,2571 4561,2572 4382,2571 4203,2571 4023,2571 3844,2570 3665,2570 3485,2569 3306,2569 3127,2568 2947,2567 2768,2567 2589,2567 2409,2566 2230,2566 2051,2567 1871,2567 1692,2568 1513,2569"/>
+                <Baseline points="1513,2607 1692,2606 1871,2605 2051,2605 2230,2604 2409,2604 2589,2605 2768,2605 2947,2605 3127,2606 3306,2607 3485,2607 3665,2608 3844,2608 4023,2609 4203,2609 4382,2609 4561,2610 4741,2609 4920,2609 5100,2608"/>
+                <TextEquiv>
+                    <Unicode>bete des edlen hern Frydereichs von Bebirstein vorgenanten vor sich, seine erben und nachkomen. Zu urkund allir dieser vorgeschriben sachen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;} date {offset:55; length:76; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1532,2712 1711,2714 1891,2715 2071,2716 2251,2717 2431,2717 2611,2717 2791,2717 2971,2717 3151,2717 3331,2716 3510,2716 3690,2715 3870,2715 4050,2714 4230,2714 4410,2713 4590,2713 4770,2713 4950,2714 5130,2714 5130,2648 4950,2648 4770,2647 4590,2647 4410,2647 4230,2648 4050,2648 3870,2649 3690,2649 3510,2650 3331,2650 3151,2651 2971,2651 2791,2651 2611,2651 2431,2651 2251,2651 2071,2650 1891,2649 1711,2648 1532,2646"/>
+                <Baseline points="1532,2690 1711,2692 1891,2693 2071,2694 2251,2695 2431,2695 2611,2695 2791,2695 2971,2695 3151,2695 3331,2694 3510,2694 3690,2693 3870,2693 4050,2692 4230,2692 4410,2691 4590,2691 4770,2691 4950,2692 5130,2692"/>
+                <TextEquiv>
+                    <Unicode>unsir insiegele mit ym an diesem brief gehangen. Geben nach Cristus geburt drutzenhundirt jar dornach in dem syben und funftzgistem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;} date {offset:0; length:53; continued:true;year:0; day:0; month:0;}">
+                <Coords points="1505,2808 1576,2807 1647,2806 1719,2806 1790,2806 1861,2806 1933,2806 2004,2806 2075,2807 2147,2807 2218,2808 2289,2808 2361,2808 2432,2808 2503,2809 2575,2809 2646,2808 2717,2808 2789,2807 2860,2806 2932,2805 2932,2738 2860,2739 2789,2740 2717,2741 2646,2741 2575,2742 2503,2742 2432,2741 2361,2741 2289,2741 2218,2741 2147,2740 2075,2740 2004,2739 1933,2739 1861,2739 1790,2739 1719,2739 1647,2739 1576,2740 1505,2741"/>
+                <Baseline points="1505,2786 1576,2785 1647,2784 1719,2784 1790,2784 1861,2784 1933,2784 2004,2784 2075,2785 2147,2785 2218,2786 2289,2786 2361,2786 2432,2786 2503,2787 2575,2787 2646,2786 2717,2786 2789,2785 2860,2784 2932,2783"/>
+                <TextEquiv>
+                    <Unicode>jar an der nechsten mitwochen nach allir heiligen tag.  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ich Fryderich von Byberstein bekennen und tun kunt offenlich mit diesem brief allen den, die yn sehen odir horen lesen, wann ich die festen Landes¬&#xD;
+crone und waz darzu gehoret, Duchras und waz dorzu gehoret und Saraw und waz dorzu gehoret, und waz ich zu Glogaw in dem lande han, &#xD;
+sunder alsvil als dem herczogen von Glogaw ist verpfant, solange er daz ynne hart von dem allirdurchluchtigistem fursten, meinem genedigen herren &#xD;
+hern Karl, Romischem keiser und kunige zu Beheim, als von des kungreichs und der cronen von Beheim wegen zu rechtem lehen han und dar¬&#xD;
+zu Frydelant und Hamerstein mein frei erbe sein als andir herren zu Beheim, yr frei erbe han und doch gehoren zu der cronen zu Beheim do¬&#xD;
+von globen ich in guten truwen vor mich, meine erben und nachkomen, dem vorgenanten mynem herren, seinen erben und nachkomen kunige &#xD;
+zu Beheim, und der cronen desselben kunigreichs, daz ich noch meine erben und nachkomen uns mit den vorgenanten festen lant leute und gut &#xD;
+nummer in deheinen zeiten sollen noch enwollen von yn gescheiden, dann wir sollen und wollen yn getruwelich wiedir allirmenlich niemand auz¬&#xD;
+genomen, dienen, helfen und warten mit unsir selbes libe und mit den vorgenanten festen lant leute und gut, die wir han odir vorbaz gewinnen, &#xD;
+sundir allirlei argelist und geverde. Des zu urtkund und ewiger stedekeit han ich und mit mir zu meiner fleiziger bete der erwirdige in Got &#xD;
+vatter und herre her Thietrich, bisschof zu Mynden, und die hochgeborn fursten her Bolko zu Falkmberg und her Conrad von der Olsne, hertzo-&#xD;
+gen, und die edlen her Sbincke von Hasenburg, her Haske von Swereticz und her Henrich Cziegilheimer, mann unsirs herren und der cronen &#xD;
+zu Beheim vorgenanten unsir insiegele an diesen brieff gehangen, des wir die obgenanten Thietrich bisschof zu Mynden, Bolke zu Falkmberg, Conrad von &#xD;
+der Olsne hertzogen, Sbinke von Hasenburg, Hasko von Swereticz und Henrich Cziegilheim uns erkenne und haben durch fleizige &#xD;
+bete des edlen hern Frydereichs von Bebirstein vorgenanten vor sich, seine erben und nachkomen. Zu urkund allir dieser vorgeschriben sachen&#xD;
+unsir insiegele mit ym an diesem brief gehangen. Geben nach Cristus geburt drutzenhundirt jar dornach in dem syben und funftzgistem&#xD;
+jar an der nechsten mitwochen nach allir heiligen tag.  </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
