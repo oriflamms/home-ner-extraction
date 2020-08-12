@@ -37,6 +37,8 @@ textline_pattern = re.compile(TEXTLINE_PATTERN)
 textequiv_pattern = re.compile(TEXTEQUIV_PATTERN)
 named_entities_pattern = re.compile(NAMED_ENTITIES_PATTERN)
 
+#TODO: add comments / function description
+
 def get_ne_type(typ, per=PER, loc=LOC, dat=DAT):
     if typ == per:
         return "PER"
@@ -47,10 +49,16 @@ def get_ne_type(typ, per=PER, loc=LOC, dat=DAT):
     else:
         return
 
-def count_by_type(root_folder, split_lines=True):
+def count_by_type(root_folder, split_lines=True, nested=True):
+    exceeding_lengths = []
+    exceeding_tokens = []
+
+    #Init metadata df
+    meta_df = pd.DataFrame(np.zeros((3,3)), columns=LANGUAGES, index=["images", "lines", "words"], dtype=int)
+
     #Init counter df
-    index_df = pd.MultiIndex.from_product([NE_TYPES, ["all", "nested"]], names=['type', 'nest'])
-    counter_df = pd.DataFrame(np.zeros((6,3)), columns=LANGUAGES, index=index_df, dtype=int)
+    index_df = pd.MultiIndex.from_product([NE_TYPES, ["all", "nested", "exceed"]], names=['type', 'nest'])
+    counter_df = pd.DataFrame(np.zeros((9,3)), columns=LANGUAGES, index=index_df, dtype=int)
     counter_df = counter_df.sort_index(level=['type', 'nest'])
     
     #Init stats df
@@ -71,6 +79,7 @@ def count_by_type(root_folder, split_lines=True):
                     for child in tree:
                         if not page_pattern.search(child.tag):
                             continue
+                        meta_df.loc["images", lang] += 1
                         for el in child:
                             if not textregion_pattern.search(el.tag):
                                 continue
@@ -78,14 +87,21 @@ def count_by_type(root_folder, split_lines=True):
                             for line in el:
                                 if not textline_pattern.search(line.tag):
                                     continue
+                                meta_df.loc["lines", lang] += 1
                                 last_parent_stop = 0
                                 #find the child with a text equiv tag
+                                text = None
                                 for info in line:
                                     if textequiv_pattern.search(info.tag):
                                         text = info[0].text
+                                if text is None:
+                                    continue
+                                meta_df.loc["words", lang] += len(text.split(" "))
                                 nelist = line.attrib["custom"]
                                 entities = named_entities_pattern.findall(nelist)
                                 
+                                #sort entities on offset and length
+                                entities.sort(key=lambda x : (int(x[1]), -int(x[2])))
                                 for typ, offset, length, cont in entities:
                                     ne_type = get_ne_type(typ)
                                     if ne_type is None:
@@ -97,13 +113,25 @@ def count_by_type(root_folder, split_lines=True):
                                     if (not split_lines) and (cont != '') and continued:
                                         continue
                                     continued = (cont != '')
+
                                     #get nested entities
-                                    if offset < last_parent_stop:
-                                        counter_df.loc[(ne_type, "nested"), lang] += 1
+                                    if offset < last_parent_stop:       
+                                        if nested:
+                                            #taking `nested` into account in the statistics
+                                            counter_df.loc[(ne_type, "nested"), lang] += 1
+                                            stats_df.loc[(ne_type, "avg_char"), lang] += length
+                                            counter_df.loc[(ne_type, "all"), lang] += 1
+                                        #count overflowing nested entities
+                                        if end > last_parent_stop:
+                                            counter_df.loc[(ne_type, "exceed"), lang] += 1
+                                            exceeding_lengths.append(end-last_parent_stop)
+                                            exceeding_tokens.append(text[last_parent_stop:end])
+
                                     else:
                                         last_parent_stop = end
-                                    counter_df.loc[(ne_type, "all"), lang] += 1
-                                    stats_df.loc[(ne_type, "avg_char"), lang] += length
+                                        stats_df.loc[(ne_type, "avg_char"), lang] += length
+                                        counter_df.loc[(ne_type, "all"), lang] += 1
+                                        
                                     
                                     #Count # of tokens 
                                     len_tokens = len(text[offset:end].split(" "))
@@ -114,22 +142,29 @@ def count_by_type(root_folder, split_lines=True):
     stats_df.loc[(slice(None), slice("avg_char")),:] = (stats_df.loc[(slice(None), slice("avg_char")),:].groupby("type")[LANGUAGES].first() / counts).values
     stats_df.loc[(slice(None), slice("avg_tokens", "avg_tokens")),:] = (stats_df.loc[(slice(None), slice("avg_tokens", "avg_tokens")),:].groupby("type")[LANGUAGES].first() / counts).values
     
-                                    
-    return counter_df, stats_df, counts
+    logger.info("""{} nested entities overflow their parents' length. \n Overflowing parts have an average size of {:.2} chars. 
+                    Overflowing characters are the following ones: \n""".format(len(exceeding_lengths), np.array(exceeding_lengths).mean(), str(exceeding_tokens)))             
+    return counter_df, stats_df, meta_df, counts
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Compute basic statistics on HOME charters dataset.')
     parser.add_argument('root_folder', type=str, help='path/to/data/root/folder')
-    parser.add_argument('--ignore_continue', '-i', action='store_true', default=False,
+    parser.add_argument('--ignore_continue', '-c', action='store_true', default=False,
                         help='If true, tags split between 2 lines are counted twice.')
+    parser.add_argument('--ignore_nested', '-n', action='store_true', default=False,
+                        help='If true, entities within other entities are ignored to compute sztatistics.')
 
     args = parser.parse_args()
     home_folder = args.root_folder
     split_lines = args.ignore_continue
+    ignore_nested = args.ignore_nested
 
     logger.info("Ignoring `continued` : {}".format(split_lines))
+    logger.info("Ignoring `nested` : {}".format(ignore_nested))
 
-    counter_df, stats_df, counts = count_by_type(home_folder, split_lines)
+    counter_df, stats_df, meta_df, counts = count_by_type(home_folder, split_lines, not ignore_nested)
+    print("***************METADATA***********************************")
+    print(meta_df.to_markdown())
     print("***************COUNTER***********************************")
     print(counter_df.to_markdown())
     print("***************LENGTH STATISTICS*************************")
