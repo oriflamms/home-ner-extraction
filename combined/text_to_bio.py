@@ -131,7 +131,7 @@ def get_words_units(filename) :
                 # If not tag
                 else :
                     type = current_labels[-1]
-                    full_tag = f"B-{type}" if begin else f"I-{type}"
+                    full_tag = type if type == "O" else f"B-{type}" if begin else f"I-{type}"
                     line_words.append((word, full_tag))
                     begin = False
 
